@@ -1,0 +1,203 @@
+{
+  "1": {
+    "Name": "1",
+    "StepName": "loot_1",
+    "StartDelayMS": 10000,
+    "StartCondition": "none",
+    "CompleteCondition": "loot",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_1",
+    "StartSound": "Tut_speech",
+    "CustomData": 3
+  },
+  "2": {
+    "Name": "2",
+    "StepName": "loot_2",
+    "StartDelayMS": 0,
+    "StartCondition": "none",
+    "CompleteCondition": "loot",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_2",
+    "StartSound": "Tut_speech",
+    "CustomData": 0
+  },
+  "3": {
+    "Name": "3",
+    "StartDelayMS": 500,
+    "EndDelayMS": 2500,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_GOOD_JOB_1",
+    "StartSound": "Tutorial_circle"
+  },
+  "4": {
+    "Name": "4",
+    "StartDelayMS": 500,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "StartSound": "Pve_wave_01",
+    "SpawnCharacter": "TutorialDummy",
+    "SpawnLocationX": 1400,
+    "SpawnLocationY": 3200,
+    "CustomData": 1
+  },
+  "5": {
+    "Name": "5",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy",
+    "SpawnLocationX": 2200,
+    "SpawnLocationY": 3200,
+    "CustomData": 1
+  },
+  "6": {
+    "Name": "6",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy",
+    "SpawnLocationX": 3000,
+    "SpawnLocationY": 3200,
+    "CustomData": 1
+  },
+  "7": {
+    "Name": "7",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy",
+    "SpawnLocationX": 3800,
+    "SpawnLocationY": 3200,
+    "CustomData": 1
+  },
+  "8": {
+    "Name": "8",
+    "StepName": "manual_shoot",
+    "StartDelayMS": 1000,
+    "StartCondition": "none",
+    "CompleteCondition": "kill_everything",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_3",
+    "StartSound": "Tut_speech",
+    "ShowShootStick": true
+  },
+  "9": {
+    "Name": "9",
+    "StartDelayMS": 500,
+    "EndDelayMS": 6000,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_GOOD_JOB_2",
+    "StartSound": "Tutorial_circle"
+  },
+  "10": {
+    "Name": "10",
+    "StartDelayMS": 500,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "StartSound": "Pve_wave_01",
+    "SpawnCharacter": "TutorialDummy2",
+    "SpawnLocationX": 1400,
+    "SpawnLocationY": 4500,
+    "CustomData": 1
+  },
+  "11": {
+    "Name": "11",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy2",
+    "SpawnLocationX": 1900,
+    "SpawnLocationY": 3100,
+    "CustomData": 1
+  },
+  "12": {
+    "Name": "12",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy2",
+    "SpawnLocationX": 3000,
+    "SpawnLocationY": 2900,
+    "CustomData": 1
+  },
+  "13": {
+    "Name": "13",
+    "StartDelayMS": 300,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpawnCharacter": "TutorialDummy2",
+    "SpawnLocationX": 3800,
+    "SpawnLocationY": 4000,
+    "CustomData": 1
+  },
+  "14": {
+    "Name": "14",
+    "StepName": "auto_shoot",
+    "StartDelayMS": 1000,
+    "StartCondition": "none",
+    "CompleteCondition": "kill_everything",
+    "ShouldUseAutoShoot": true,
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_5",
+    "StartSound": "Tut_speech"
+  },
+  "15": {
+    "Name": "15",
+    "StartDelayMS": 500,
+    "EndDelayMS": 6000,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_GOOD_JOB_3",
+    "StartSound": "Tutorial_circle"
+  },
+  "16": {
+    "Name": "16",
+    "StartDelayMS": 500,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "StartSound": "Pve_wave_01",
+    "SpawnCharacter": "TutorialDummy3",
+    "SpawnLocationX": 2600,
+    "SpawnLocationY": 1600,
+    "CustomData": 1
+  },
+  "17": {
+    "Name": "17",
+    "StepName": "use_ulti",
+    "StartDelayMS": 1000,
+    "StartCondition": "none",
+    "CompleteCondition": "use_ulti",
+    "UseUltiX": 2600,
+    "UseUltiY": 1200,
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_6",
+    "StartSound": "Tut_speech",
+    "ShowUlti": true
+  },
+  "18": {
+    "Name": "18",
+    "StepName": "click_to_end",
+    "StartDelayMS": 1500,
+    "ForceSpeechBubbleCloseMS": 4000,
+    "StartCondition": "none",
+    "CompleteCondition": "none",
+    "SpeechBubbleCharacterSWF": "sc/ui.sc",
+    "SpeechBubbleCharacterMovieClip": "tutorial_character_top",
+    "SpeechBubbleTIDs": "TID_TUTORIAL_9",
+    "StartSound": "Tutorial_circle",
+    "BlockingSpeechBubble": true
+  }
+}

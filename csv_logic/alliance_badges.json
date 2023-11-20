@@ -1,0 +1,302 @@
+{
+  "clan_badge_01_01": {
+    "Name": "clan_badge_01_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_01"
+  },
+  "clan_badge_01_02": {
+    "Name": "clan_badge_01_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_02"
+  },
+  "clan_badge_01_03": {
+    "Name": "clan_badge_01_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_03"
+  },
+  "clan_badge_01_04": {
+    "Name": "clan_badge_01_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_04"
+  },
+  "clan_badge_02_01": {
+    "Name": "clan_badge_02_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_01"
+  },
+  "clan_badge_02_02": {
+    "Name": "clan_badge_02_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_02"
+  },
+  "clan_badge_02_03": {
+    "Name": "clan_badge_02_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_03"
+  },
+  "clan_badge_02_04": {
+    "Name": "clan_badge_02_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_04"
+  },
+  "clan_badge_03_01": {
+    "Name": "clan_badge_03_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_01"
+  },
+  "clan_badge_03_02": {
+    "Name": "clan_badge_03_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_02"
+  },
+  "clan_badge_03_03": {
+    "Name": "clan_badge_03_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_03"
+  },
+  "clan_badge_03_04": {
+    "Name": "clan_badge_03_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_04"
+  },
+  "clan_badge_04_01": {
+    "Name": "clan_badge_04_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_01"
+  },
+  "clan_badge_04_02": {
+    "Name": "clan_badge_04_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_02"
+  },
+  "clan_badge_04_03": {
+    "Name": "clan_badge_04_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_03"
+  },
+  "clan_badge_04_04": {
+    "Name": "clan_badge_04_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_04"
+  },
+  "clan_badge_05_01": {
+    "Name": "clan_badge_05_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_01"
+  },
+  "clan_badge_05_02": {
+    "Name": "clan_badge_05_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_02"
+  },
+  "clan_badge_05_03": {
+    "Name": "clan_badge_05_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_03"
+  },
+  "clan_badge_05_04": {
+    "Name": "clan_badge_05_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_04"
+  },
+  "clan_badge_01_05": {
+    "Name": "clan_badge_01_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_05"
+  },
+  "clan_badge_01_06": {
+    "Name": "clan_badge_01_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_06"
+  },
+  "clan_badge_02_05": {
+    "Name": "clan_badge_02_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_05"
+  },
+  "clan_badge_02_06": {
+    "Name": "clan_badge_02_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_06"
+  },
+  "clan_badge_03_05": {
+    "Name": "clan_badge_03_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_05"
+  },
+  "clan_badge_03_06": {
+    "Name": "clan_badge_03_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_06"
+  },
+  "clan_badge_04_05": {
+    "Name": "clan_badge_04_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_05"
+  },
+  "clan_badge_04_06": {
+    "Name": "clan_badge_04_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_06"
+  },
+  "clan_badge_05_05": {
+    "Name": "clan_badge_05_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_05"
+  },
+  "clan_badge_05_06": {
+    "Name": "clan_badge_05_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_06"
+  },
+  "clan_badge_01_07": {
+    "Name": "clan_badge_01_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_07"
+  },
+  "clan_badge_01_08": {
+    "Name": "clan_badge_01_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_08"
+  },
+  "clan_badge_01_09": {
+    "Name": "clan_badge_01_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_09"
+  },
+  "clan_badge_01_10": {
+    "Name": "clan_badge_01_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_01_10"
+  },
+  "clan_badge_02_07": {
+    "Name": "clan_badge_02_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_07"
+  },
+  "clan_badge_02_08": {
+    "Name": "clan_badge_02_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_08"
+  },
+  "clan_badge_02_09": {
+    "Name": "clan_badge_02_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_09"
+  },
+  "clan_badge_02_10": {
+    "Name": "clan_badge_02_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_02_10"
+  },
+  "clan_badge_03_07": {
+    "Name": "clan_badge_03_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_07"
+  },
+  "clan_badge_03_08": {
+    "Name": "clan_badge_03_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_08"
+  },
+  "clan_badge_03_09": {
+    "Name": "clan_badge_03_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_09"
+  },
+  "clan_badge_03_10": {
+    "Name": "clan_badge_03_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_03_10"
+  },
+  "clan_badge_04_07": {
+    "Name": "clan_badge_04_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_07"
+  },
+  "clan_badge_04_08": {
+    "Name": "clan_badge_04_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_08"
+  },
+  "clan_badge_04_09": {
+    "Name": "clan_badge_04_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_09"
+  },
+  "clan_badge_04_10": {
+    "Name": "clan_badge_04_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_04_10"
+  },
+  "clan_badge_05_07": {
+    "Name": "clan_badge_05_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_07"
+  },
+  "clan_badge_05_08": {
+    "Name": "clan_badge_05_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_08"
+  },
+  "clan_badge_05_09": {
+    "Name": "clan_badge_05_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_09"
+  },
+  "clan_badge_05_10": {
+    "Name": "clan_badge_05_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_05_10"
+  },
+  "clan_badge_06_01": {
+    "Name": "clan_badge_06_01",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_01"
+  },
+  "clan_badge_06_02": {
+    "Name": "clan_badge_06_02",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_02"
+  },
+  "clan_badge_06_03": {
+    "Name": "clan_badge_06_03",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_03"
+  },
+  "clan_badge_06_04": {
+    "Name": "clan_badge_06_04",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_04"
+  },
+  "clan_badge_06_05": {
+    "Name": "clan_badge_06_05",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_05"
+  },
+  "clan_badge_06_06": {
+    "Name": "clan_badge_06_06",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_06"
+  },
+  "clan_badge_06_07": {
+    "Name": "clan_badge_06_07",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_07"
+  },
+  "clan_badge_06_08": {
+    "Name": "clan_badge_06_08",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_08"
+  },
+  "clan_badge_06_09": {
+    "Name": "clan_badge_06_09",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_09"
+  },
+  "clan_badge_06_10": {
+    "Name": "clan_badge_06_10",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "clan_badge_06_10"
+  }
+}

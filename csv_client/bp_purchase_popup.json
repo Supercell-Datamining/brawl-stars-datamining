@@ -1,0 +1,103 @@
+{
+  "season8": {
+    "Name": "season8",
+    "Season": 7,
+    "HeroArea1": "ShotgunGirlPrincess",
+    "HeroArea2": "KnightDefault",
+    "HeroArea3": "KnightNinja",
+    "FrameName": "8"
+  },
+  "season9": {
+    "Name": "season9",
+    "Season": 8,
+    "HeroArea1": "BullDudeTerminator",
+    "HeroArea2": "DuplicatorDefault",
+    "HeroArea3": "DuplicatorChola",
+    "FrameName": "9"
+  },
+  "season10": {
+    "Name": "season10",
+    "Season": 9,
+    "HeroArea1": "RosaBP",
+    "HeroArea2": "KickerDudeDefault",
+    "HeroArea3": "KickerDudeFurious",
+    "FrameName": "10"
+  },
+  "season11": {
+    "Name": "season11",
+    "Season": 10,
+    "HeroArea1": "TrickshotDudeFirefly",
+    "HeroArea2": "FleaDefault",
+    "HeroArea3": "FleaSpaceCactus",
+    "FrameName": "11"
+  },
+  "season12": {
+    "Name": "season12",
+    "Season": 11,
+    "HeroArea1": "WhirlwindBiker",
+    "HeroArea2": "JetpackGirlDefault",
+    "HeroArea3": "JetpackGirlValkyrie",
+    "FrameName": "12"
+  },
+  "season13": {
+    "Name": "season13",
+    "Season": 12,
+    "HeroArea1": "GunslingerPaintball",
+    "HeroArea2": "SilencerDefault",
+    "HeroArea3": "SilencerPharaoh",
+    "FrameName": "13"
+  },
+  "season14": {
+    "Name": "season14",
+    "Season": 13,
+    "HeroArea1": "DeadMariachiOutlaw",
+    "HeroArea2": "WeaponThrowerDefault",
+    "HeroArea3": "WeaponThrowerEmperor",
+    "FrameName": "14"
+  },
+  "season15": {
+    "Name": "season15",
+    "Season": 14,
+    "HeroArea1": "ArtilleryDudeZombie",
+    "HeroArea2": "ShieldTankDefault",
+    "HeroArea3": "ShieldTankChainsaw",
+    "FrameName": "15"
+  },
+  "season16": {
+    "Name": "season16",
+    "Season": 15,
+    "HeroArea1": "ShamanGummybear",
+    "HeroArea2": "BeamerDefault",
+    "HeroArea3": "BeamerLavaQueen",
+    "FrameName": "16"
+  },
+  "season17": {
+    "Name": "season17",
+    "Season": 16,
+    "HeroArea1": "LuchadorButler",
+    "HeroArea2": "SplitterDefault",
+    "HeroArea3": "SplitterCultist",
+    "FrameName": "17"
+  },
+  "season18": {
+    "Name": "season18",
+    "Season": 17,
+    "HeroArea2": "MaisieDefault",
+    "HeroArea3": "MaisieSnake",
+    "FrameName": "18"
+  },
+  "season19": {
+    "Name": "season19",
+    "Season": 18,
+    "HeroArea2": "DuelistDefault",
+    "HeroArea3": "DuelistBrain",
+    "FrameName": "19"
+  },
+  "season20": {
+    "Name": "season20",
+    "Season": 19,
+    "HeroArea2": "CookerDefault",
+    "HeroArea3": "CookerDeepsea",
+    "FrameName": "20"
+  }
+}

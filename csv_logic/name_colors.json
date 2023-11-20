@@ -1,0 +1,74 @@
+{
+  "default": {
+    "Name": "default",
+    "ColorCode": "0xffffffff",
+    "Gradient": "DefaultName",
+    "SortOrder": 0
+  },
+  "1": {
+    "Name": "1",
+    "ColorCode": "0xff4ddba2",
+    "Gradient": "Name1",
+    "SortOrder": 2
+  },
+  "2": {
+    "Name": "2",
+    "ColorCode": "0xffffce89",
+    "Gradient": "Name2",
+    "SortOrder": 7
+  },
+  "3": {
+    "Name": "3",
+    "ColorCode": "0xfff9c908",
+    "Gradient": "Name3",
+    "SortOrder": 6
+  },
+  "4": {
+    "Name": "4",
+    "ColorCode": "0xffff9727",
+    "Gradient": "Name4",
+    "SortOrder": 3
+  },
+  "5": {
+    "Name": "5",
+    "ColorCode": "0xfff9775d",
+    "Gradient": "Name5",
+    "SortOrder": 4
+  },
+  "6": {
+    "Name": "6",
+    "ColorCode": "0xfff05637",
+    "Gradient": "Name6",
+    "SortOrder": 5
+  },
+  "7": {
+    "Name": "7",
+    "ColorCode": "0xffff8afb",
+    "Gradient": "Name7",
+    "SortOrder": 10
+  },
+  "8": {
+    "Name": "8",
+    "ColorCode": "0xffa2e3fe",
+    "Gradient": "Name8",
+    "SortOrder": 1
+  },
+  "9": {
+    "Name": "9",
+    "ColorCode": "0xff1ba5f5",
+    "Gradient": "Name9",
+    "SortOrder": 9
+  },
+  "10": {
+    "Name": "10",
+    "ColorCode": "0xffcb5aff",
+    "Gradient": "Name10",
+    "SortOrder": 11
+  },
+  "11": {
+    "Name": "11",
+    "ColorCode": "0xffa8e132",
+    "Gradient": "Name11",
+    "SortOrder": 8
+  }
+}

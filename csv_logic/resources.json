@@ -1,0 +1,140 @@
+{
+  "Diamonds": {
+    "Name": "Diamonds",
+    "TID": "TID_DIAMONDS",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_gem",
+    "PremiumCurrency": "TRUE",
+    "TextGreen": 255,
+    "TextBlue": 92
+  },
+  "Gold": {
+    "Name": "Gold",
+    "TID": "TID_TOKENS",
+    "IconSWF": "sc/ui.sc",
+    "CollectEffect": "Collect Gold",
+    "IconExportName": "genicon_coin",
+    "TextRed": 192,
+    "TextBlue": 192
+  },
+  "owcAny": {
+    "Name": "owcAny",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_owcAny"
+  },
+  "owcRareOrBetter": {
+    "Name": "owcRareOrBetter",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_owcRareOrBetter"
+  },
+  "owcEpicOrBetter": {
+    "Name": "owcEpicOrBetter",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_owcEpicOrBetter"
+  },
+  "Dust": {
+    "Name": "Dust",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_dust"
+  },
+  "Upgradium": {
+    "Name": "Upgradium",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "Bolts": {
+    "Name": "Bolts",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "HeroLvlUpMaterial": {
+    "Name": "HeroLvlUpMaterial",
+    "TID": "TID_HERO_LVL_UP_MATERIAL",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "FirstWins": {
+    "Name": "FirstWins",
+    "TID": "TID_FIRST_WINS",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "LegendaryTrophies": {
+    "Name": "LegendaryTrophies",
+    "TID": "TID_LEGENDARY_TROPHIES",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "GearTokensDamage": {
+    "Name": "GearTokensDamage",
+    "IconSWF": "sc/ui.sc"
+  },
+  "GearScrap": {
+    "Name": "GearScrap",
+    "IconSWF": "sc/ui.sc"
+  },
+  "ClubCoins": {
+    "Name": "ClubCoins",
+    "TID": "TID_CLUB_COINS",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "genicon_upgradium"
+  },
+  "GearTokensHeal": {
+    "Name": "GearTokensHeal",
+    "IconSWF": "sc/ui.sc"
+  },
+  "GearTokensResistance": {
+    "Name": "GearTokensResistance",
+    "IconSWF": "sc/ui.sc"
+  },
+  "GearTokensShield": {
+    "Name": "GearTokensShield",
+    "IconSWF": "sc/ui.sc"
+  },
+  "GearTokensSpeed": {
+    "Name": "GearTokensSpeed",
+    "IconSWF": "sc/ui.sc"
+  },
+  "SpraySlot": {
+    "Name": "SpraySlot",
+    "TID": "TID_REWARD_SPRAY_SLOT",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "reward_icon_sprays"
+  },
+  "RecruitTokens": {
+    "Name": "RecruitTokens",
+    "TID": "TID_RECRUIT_TOKEN",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_resource_recruit_token"
+  },
+  "ChromaticTokens": {
+    "Name": "ChromaticTokens",
+    "TID": "TID_CHROMATIC_TOKEN",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_resource_chromatic_coin",
+    "Cap": 5000,
+    "AllowedToOverflowCapOnce": "TRUE"
+  },
+  "Fame": {
+    "Name": "Fame",
+    "TID": "TID_FAME",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_resource_fame"
+  },
+  "PowerPoints": {
+    "Name": "PowerPoints",
+    "TID": "TID_RESOURCE_POWER_POINTS",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_resource_powerpoints",
+    "Cap": 4000,
+    "AllowedToOverflowCapOnce": "TRUE"
+  },
+  "Bling": {
+    "Name": "Bling",
+    "TID": "TID_BLING",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_resource_cosmetic_coins",
+    "Cap": 7000,
+    "AllowedToOverflowCapOnce": "TRUE"
+  }
+}

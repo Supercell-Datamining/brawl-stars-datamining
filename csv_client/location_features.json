@@ -1,0 +1,429 @@
+{
+  "RoboCheer1": {
+    "Name": "RoboCheer1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "bot1_frame_1;bot1_frame_2",
+    "FrameDelay": 180
+  },
+  "RoboCheer2": {
+    "Name": "RoboCheer2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "melee_bot_frame_1;melee_bot_frame_2",
+    "FrameDelay": 200
+  },
+  "RoboCheer3": {
+    "Name": "RoboCheer3",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "fast_bot_frame_1;fast_bot_frame_2",
+    "FrameDelay": 230
+  },
+  "RoboCheer4": {
+    "Name": "RoboCheer4",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "bot2_frame_1;bot2_frame_2",
+    "FrameDelay": 220
+  },
+  "RoboCheer5": {
+    "Name": "RoboCheer5",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "fast_bot2_frame_2;fast_bot2_frame_1",
+    "FrameDelay": 245
+  },
+  "BlueFlag1": {
+    "Name": "BlueFlag1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "flag_blue_1_frame_1;flag_blue_1_frame_2;flag_blue_1_frame_3",
+    "FrameDelay": 350
+  },
+  "BlueFlag2": {
+    "Name": "BlueFlag2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "flag_blue_2_frame_1;flag_blue_2_frame_2;flag_blue_2_frame_3",
+    "FrameDelay": 340
+  },
+  "RedFlag1": {
+    "Name": "RedFlag1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "flag_red_1_frame_1;flag_red_1_frame_2;flag_red_1_frame_3",
+    "FrameDelay": 340
+  },
+  "RedFlag2": {
+    "Name": "RedFlag2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "flag_red_2_frame_1;flag_red_2_frame_2;flag_red_2_frame_3",
+    "FrameDelay": 350
+  },
+  "Torch1": {
+    "Name": "Torch1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch1_frame_1;torch1_frame_2",
+    "FrameDelay": 300
+  },
+  "Torch2": {
+    "Name": "Torch2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch2_frame_2;torch2_frame_1",
+    "FrameDelay": 300
+  },
+  "Torch3": {
+    "Name": "Torch3",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch3_frame_2;torch3_frame_1",
+    "FrameDelay": 300
+  },
+  "Torch4": {
+    "Name": "Torch4",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch4_frame_1;torch4_frame_2",
+    "FrameDelay": 300
+  },
+  "Torch5": {
+    "Name": "Torch5",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch5_frame_1;torch5_frame_2",
+    "FrameDelay": 300
+  },
+  "Torch6": {
+    "Name": "Torch6",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch6_frame_2;torch6_frame_1",
+    "FrameDelay": 300
+  },
+  "TorchTop1": {
+    "Name": "TorchTop1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch_top_left_frame_1;torch_top_left_frame_2",
+    "FrameDelay": 300
+  },
+  "TorchTop2": {
+    "Name": "TorchTop2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "torch_top_right_frame_2;torch_top_right_frame_1",
+    "FrameDelay": 290
+  },
+  "BlueBanner1": {
+    "Name": "BlueBanner1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_blue_1_frame_1;banner_blue_1_frame_2;banner_blue_1_frame_3",
+    "FrameDelay": 500
+  },
+  "BlueBanner2": {
+    "Name": "BlueBanner2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_blue_2_frame_1;banner_blue_2_frame_2;banner_blue_2_frame_3",
+    "FrameDelay": 450
+  },
+  "BlueBanner3": {
+    "Name": "BlueBanner3",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_blue_3_frame_1;banner_blue_3_frame_2;banner_blue_3_frame_3",
+    "FrameDelay": 500
+  },
+  "RedBanner1": {
+    "Name": "RedBanner1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_red_1_frame_1;banner_red_1_frame_2;banner_red_1_frame_3",
+    "FrameDelay": 450
+  },
+  "RedBanner2": {
+    "Name": "RedBanner2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_red_2_frame_1;banner_red_2_frame_2;banner_red_2_frame_3",
+    "FrameDelay": 500
+  },
+  "RedBanner3": {
+    "Name": "RedBanner3",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "banner_red_3_frame_1;banner_red_3_frame_2;banner_red_3_frame_3",
+    "FrameDelay": 450
+  },
+  "BazaarSandyOn": {
+    "Name": "BazaarSandyOn",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Bazaar",
+    "MeshNames": "sandy_mattress_on;sandy_bubble_on;sandy_on",
+    "Character": "Sandstorm"
+  },
+  "BazaarSandyOff": {
+    "Name": "BazaarSandyOff",
+    "Mode": "HideIfNoCharacter",
+    "LocationTheme": "Bazaar",
+    "MeshNames": "sandy_mattress_off",
+    "Character": "Sandstorm"
+  },
+  "BazaarTaraOn": {
+    "Name": "BazaarTaraOn",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Bazaar",
+    "MeshNames": "tara_door_on",
+    "Character": "BlackHole"
+  },
+  "BazaarTaraOff": {
+    "Name": "BazaarTaraOff",
+    "Mode": "HideIfNoCharacter",
+    "LocationTheme": "Bazaar",
+    "MeshNames": "tara_door_off",
+    "Character": "BlackHole"
+  },
+  "BazaarGeneOn": {
+    "Name": "BazaarGeneOn",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Bazaar",
+    "MeshNames": "gene_on",
+    "Character": "HookDude"
+  },
+  "GiftShopColette": {
+    "Name": "GiftShopColette",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "GiftShop",
+    "MeshNames": "colette_not_in_play",
+    "Character": "Percenter"
+  },
+  "SnowtelGale": {
+    "Name": "SnowtelGale",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Snowtel",
+    "MeshNames": "gale_left;gale_right",
+    "Character": "Blower"
+  },
+  "SnowtelLou": {
+    "Name": "SnowtelLou",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Snowtel",
+    "MeshNames": "lou_left;lou_right",
+    "Character": "IceDude"
+  },
+  "SnowtelGaleXmas": {
+    "Name": "SnowtelGaleXmas",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "SnowtelXmas",
+    "MeshNames": "gale_left;gale_right",
+    "Character": "Blower"
+  },
+  "SnowtelLouXmas": {
+    "Name": "SnowtelLouXmas",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "SnowtelXmas",
+    "MeshNames": "lou_left;lou_right",
+    "Character": "IceDude"
+  },
+  "MinicitySurge": {
+    "Name": "MinicitySurge",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Minicity",
+    "MeshNames": "surge_notinplay",
+    "Character": "PowerLeveler"
+  },
+  "ScrapyardJessie": {
+    "Name": "ScrapyardJessie",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Scrapyard",
+    "MeshNames": "jessie_lights",
+    "Character": "Mechanic"
+  },
+  "ScrapyardPam": {
+    "Name": "ScrapyardPam",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Scrapyard",
+    "MeshNames": "pam",
+    "Character": "MinigunDude"
+  },
+  "ScrapyardPam2": {
+    "Name": "ScrapyardPam2",
+    "Mode": "HideIfCharacterPre",
+    "LocationTheme": "Scrapyard",
+    "MeshNames": "pam_Z",
+    "Character": "MinigunDude"
+  },
+  "ScrapyardNani": {
+    "Name": "ScrapyardNani",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Scrapyard",
+    "MeshNames": "nani",
+    "Character": "Controller"
+  },
+  "StarrForceRuffs": {
+    "Name": "StarrForceRuffs",
+    "Mode": "HideIfCharacterPre",
+    "LocationTheme": "StarrForce",
+    "MeshNames": "ruffs_",
+    "Character": "Ruffs"
+  },
+  "ActionShowBelle": {
+    "Name": "ActionShowBelle",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "ActionShow",
+    "MeshNames": "belle_stuff",
+    "Character": "ElectroSniper"
+  },
+  "WaterParkBuzz": {
+    "Name": "WaterParkBuzz",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "WaterPark",
+    "MeshNames": "buzz",
+    "Character": "RopeDude"
+  },
+  "BrawlywoodCrow": {
+    "Name": "BrawlywoodCrow",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Brawlywood",
+    "MeshNames": "crow_stuff",
+    "Character": "Crow"
+  },
+  "BrawlywoodBuzz": {
+    "Name": "BrawlywoodBuzz",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Brawlywood",
+    "MeshNames": "buzz_stuff",
+    "Character": "RopeDude"
+  },
+  "BrawlywoodLola": {
+    "Name": "BrawlywoodLola",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Brawlywood",
+    "MeshNames": "lolla_stuff",
+    "Character": "Duplicator"
+  },
+  "BrawlywoodGale": {
+    "Name": "BrawlywoodGale",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Brawlywood",
+    "MeshNames": "gale_stuff",
+    "Character": "Blower"
+  },
+  "StuntShowBonnie": {
+    "Name": "StuntShowBonnie",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShow",
+    "MeshNames": "bonnie_body;bonnie_head_lookat",
+    "Character": "CannonGirl"
+  },
+  "StuntShowJanet": {
+    "Name": "StuntShowJanet",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShow",
+    "MeshNames": "janet;janet_jet",
+    "Character": "JetpackGirl"
+  },
+  "StuntShowStu": {
+    "Name": "StuntShowStu",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShow",
+    "MeshNames": "stu_body;stu_wheel;stu_cape",
+    "Character": "Roller"
+  },
+  "StuntShowBonnieBB": {
+    "Name": "StuntShowBonnieBB",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShowBB",
+    "MeshNames": "bonnie_body;bonnie_head_lookat",
+    "Character": "CannonGirl"
+  },
+  "StuntShowJanetBB": {
+    "Name": "StuntShowJanetBB",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShowBB",
+    "MeshNames": "janet;janet_jet",
+    "Character": "JetpackGirl"
+  },
+  "StuntShowStuBB": {
+    "Name": "StuntShowStuBB",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "StuntShowBB",
+    "MeshNames": "stu_body;stu_wheel;stu_cape",
+    "Character": "Roller"
+  },
+  "CandyHideMandy": {
+    "Name": "CandyHideMandy",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "CandyStand",
+    "MeshNames": "mandy_body;mandy_head_lookat",
+    "Character": "Beamer"
+  },
+  "CandyHideJester": {
+    "Name": "CandyHideJester",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "CandyStand",
+    "MeshNames": "chester_head",
+    "Character": "Jester"
+  },
+  "HubJessie": {
+    "Name": "HubJessie",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "jessie_stuff",
+    "Character": "Mechanic"
+  },
+  "HubPiper": {
+    "Name": "HubPiper",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "piper_stuff",
+    "Character": "Sniper"
+  },
+  "HubChester": {
+    "Name": "HubChester",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "chester_stuff",
+    "Character": "Jester"
+  },
+  "HubBrock": {
+    "Name": "HubBrock",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "brock_stuff",
+    "Character": "RocketGirl"
+  },
+  "HubByron": {
+    "Name": "HubByron",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "byron_stuff",
+    "Character": "SnakeOil"
+  },
+  "HubFang": {
+    "Name": "HubFang",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "fang_stuff",
+    "Character": "KickerDude"
+  },
+  "HubEmz": {
+    "Name": "HubEmz",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "emz_stuff",
+    "Character": "Mummy"
+  },
+  "HubRT": {
+    "Name": "HubRT",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "Hub",
+    "MeshNames": "rt_head",
+    "Character": "Splitter"
+  }
+}

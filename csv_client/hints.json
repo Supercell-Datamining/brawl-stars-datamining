@@ -1,0 +1,404 @@
+{
+  "1": {
+    "Name": "1",
+    "TID": "TID_HINT_0",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "2": {
+    "Name": "2",
+    "TID": "TID_HINT_1",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "3": {
+    "Name": "3",
+    "TID": "TID_HINT_2",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "4": {
+    "Name": "4",
+    "TID": "TID_HINT_3",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "5": {
+    "Name": "5",
+    "TID": "TID_HINT_4",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "6": {
+    "Name": "6",
+    "TID": "TID_HINT_5",
+    "Disabled": true,
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "7": {
+    "Name": "7",
+    "TID": "TID_HINT_6",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "8": {
+    "Name": "8",
+    "TID": "TID_HINT_7",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "9": {
+    "Name": "9",
+    "TID": "TID_HINT_8",
+    "Disabled": true,
+    "MinXPLevel": 999,
+    "MaxXPLevel": 999
+  },
+  "10": {
+    "Name": "10",
+    "TID": "TID_HINT_9",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "11": {
+    "Name": "11",
+    "TID": "TID_HINT_10",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "12": {
+    "Name": "12",
+    "TID": "TID_HINT_11",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "13": {
+    "Name": "13",
+    "TID": "TID_HINT_12",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "14": {
+    "Name": "14",
+    "TID": "TID_HINT_13",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "15": {
+    "Name": "15",
+    "TID": "TID_HINT_14",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "16": {
+    "Name": "16",
+    "TID": "TID_HINT_15",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "17": {
+    "Name": "17",
+    "TID": "TID_HINT_16",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "18": {
+    "Name": "18",
+    "TID": "TID_HINT_17",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 100
+  },
+  "19": {
+    "Name": "19",
+    "TID": "TID_HINT_18",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "20": {
+    "Name": "20",
+    "TID": "TID_HINT_19",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "21": {
+    "Name": "21",
+    "TID": "TID_HINT_20",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "22": {
+    "Name": "22",
+    "TID": "TID_HINT_21",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "23": {
+    "Name": "23",
+    "TID": "TID_HINT_22",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "24": {
+    "Name": "24",
+    "TID": "TID_HINT_23",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "25": {
+    "Name": "25",
+    "TID": "TID_HINT_24",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "26": {
+    "Name": "26",
+    "TID": "TID_HINT_25",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "27": {
+    "Name": "27",
+    "TID": "TID_HINT_26",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "28": {
+    "Name": "28",
+    "TID": "TID_HINT_27",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "29": {
+    "Name": "29",
+    "TID": "TID_HINT_28",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "30": {
+    "Name": "30",
+    "TID": "TID_HINT_29",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "31": {
+    "Name": "31",
+    "TID": "TID_HINT_30",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "32": {
+    "Name": "32",
+    "TID": "TID_HINT_31",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "33": {
+    "Name": "33",
+    "TID": "TID_HINT_32",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "34": {
+    "Name": "34",
+    "TID": "TID_HINT_33",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "35": {
+    "Name": "35",
+    "TID": "TID_HINT_34",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "36": {
+    "Name": "36",
+    "TID": "TID_HINT_35",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "37": {
+    "Name": "37",
+    "TID": "TID_HINT_36",
+    "Disabled": true,
+    "MinXPLevel": 999,
+    "MaxXPLevel": 999
+  },
+  "38": {
+    "Name": "38",
+    "TID": "TID_HINT_37",
+    "Disabled": true,
+    "MinXPLevel": 999,
+    "MaxXPLevel": 999
+  },
+  "39": {
+    "Name": "39",
+    "TID": "TID_HINT_38",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 999
+  },
+  "40": {
+    "Name": "40",
+    "TID": "TID_HINT_39",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 999
+  },
+  "41": {
+    "Name": "41",
+    "TID": "TID_HINT_40",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999,
+    "ReferringSCID": true
+  },
+  "42": {
+    "Name": "42",
+    "TID": "TID_HINT_41",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 60
+  },
+  "43": {
+    "Name": "43",
+    "TID": "TID_HINT_42",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "44": {
+    "Name": "44",
+    "TID": "TID_HINT_43",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "45": {
+    "Name": "45",
+    "TID": "TID_HINT_44",
+    "Disabled": true,
+    "MinXPLevel": 999,
+    "MaxXPLevel": 999
+  },
+  "46": {
+    "Name": "46",
+    "TID": "TID_HINT_45",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 999
+  },
+  "47": {
+    "Name": "47",
+    "TID": "TID_HINT_46",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "48": {
+    "Name": "48",
+    "TID": "TID_HINT_47",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 60
+  },
+  "49": {
+    "Name": "49",
+    "TID": "TID_HINT_48",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 999
+  },
+  "50": {
+    "Name": "50",
+    "TID": "TID_HINT_49",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "51": {
+    "Name": "51",
+    "TID": "TID_HINT_50",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 999
+  },
+  "52": {
+    "Name": "52",
+    "TID": "TID_HINT_51",
+    "MinXPLevel": 1,
+    "MaxXPLevel": 40
+  },
+  "53": {
+    "Name": "53",
+    "TID": "TID_HINT_52",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 40
+  },
+  "54": {
+    "Name": "54",
+    "TID": "TID_HINT_53",
+    "MinXPLevel": 7,
+    "MaxXPLevel": 60
+  },
+  "55": {
+    "Name": "55",
+    "TID": "TID_HINT_54",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "56": {
+    "Name": "56",
+    "TID": "TID_HINT_55",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "57": {
+    "Name": "57",
+    "TID": "TID_HINT_56",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
+  },
+  "58": {
+    "Name": "58",
+    "TID": "TID_HINT_57",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 60
+  },
+  "59": {
+    "Name": "59",
+    "TID": "TID_HINT_58",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "60": {
+    "Name": "60",
+    "TID": "TID_HINT_59",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "61": {
+    "Name": "61",
+    "TID": "TID_HINT_60",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "62": {
+    "Name": "62",
+    "TID": "TID_HINT_61",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "63": {
+    "Name": "63",
+    "TID": "TID_HINT_62",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "64": {
+    "Name": "64",
+    "TID": "TID_HINT_63",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "65": {
+    "Name": "65",
+    "TID": "TID_HINT_64",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  },
+  "66": {
+    "Name": "66",
+    "TID": "TID_HINT_65",
+    "MinXPLevel": 20,
+    "MaxXPLevel": 999
+  }
+}

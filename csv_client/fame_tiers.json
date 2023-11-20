@@ -1,0 +1,152 @@
+{
+  "Global1": {
+    "Name": "Global1",
+    "FameToNext": 2000,
+    "Group": 1,
+    "TID": "TID_FAME_TIER_GLOBAL1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_1_1",
+    "IconBigExportName": "fame_big_tier_1",
+    "IconStarsExportName": "fame_stars_tier_1_1"
+  },
+  "Global2": {
+    "Name": "Global2",
+    "FameToNext": 2000,
+    "Group": 1,
+    "TID": "TID_FAME_TIER_GLOBAL2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_1_2",
+    "IconBigExportName": "fame_big_tier_1",
+    "IconStarsExportName": "fame_stars_tier_1_2"
+  },
+  "Global3": {
+    "Name": "Global3",
+    "FameToNext": 2000,
+    "Group": 1,
+    "TID": "TID_FAME_TIER_GLOBAL3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_1_3",
+    "IconBigExportName": "fame_big_tier_1",
+    "IconStarsExportName": "fame_stars_tier_1_3"
+  },
+  "Lunar1": {
+    "Name": "Lunar1",
+    "FameToNext": 3200,
+    "Group": 2,
+    "TID": "TID_FAME_TIER_LUNAR1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_2_1",
+    "IconBigExportName": "fame_big_tier_2",
+    "IconStarsExportName": "fame_stars_tier_2_1"
+  },
+  "Lunar2": {
+    "Name": "Lunar2",
+    "FameToNext": 3200,
+    "Group": 2,
+    "TID": "TID_FAME_TIER_LUNAR2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_2_2",
+    "IconBigExportName": "fame_big_tier_2",
+    "IconStarsExportName": "fame_stars_tier_2_2"
+  },
+  "Lunar3": {
+    "Name": "Lunar3",
+    "FameToNext": 3200,
+    "Group": 2,
+    "TID": "TID_FAME_TIER_LUNAR3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_2_3",
+    "IconBigExportName": "fame_big_tier_2",
+    "IconStarsExportName": "fame_stars_tier_2_3"
+  },
+  "Martial1": {
+    "Name": "Martial1",
+    "FameToNext": 4500,
+    "Group": 3,
+    "TID": "TID_FAME_TIER_MARTIAL1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_3_1",
+    "IconBigExportName": "fame_big_tier_3",
+    "IconStarsExportName": "fame_stars_tier_3_1"
+  },
+  "Martial2": {
+    "Name": "Martial2",
+    "FameToNext": 4500,
+    "Group": 3,
+    "TID": "TID_FAME_TIER_MARTIAL2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_3_2",
+    "IconBigExportName": "fame_big_tier_3",
+    "IconStarsExportName": "fame_stars_tier_3_2"
+  },
+  "Martial3": {
+    "Name": "Martial3",
+    "FameToNext": 4500,
+    "Group": 3,
+    "TID": "TID_FAME_TIER_MARTIAL3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_3_3",
+    "IconBigExportName": "fame_big_tier_3",
+    "IconStarsExportName": "fame_stars_tier_3_3"
+  },
+  "Saturnal1": {
+    "Name": "Saturnal1",
+    "FameToNext": 8000,
+    "Group": 4,
+    "TID": "TID_FAME_TIER_SATURNAL1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_4_1",
+    "IconBigExportName": "fame_big_tier_4",
+    "IconStarsExportName": "fame_stars_tier_4_1"
+  },
+  "Saturnal2": {
+    "Name": "Saturnal2",
+    "FameToNext": 8000,
+    "Group": 4,
+    "TID": "TID_FAME_TIER_SATURNAL2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_4_2",
+    "IconBigExportName": "fame_big_tier_4",
+    "IconStarsExportName": "fame_stars_tier_4_2"
+  },
+  "Saturnal3": {
+    "Name": "Saturnal3",
+    "FameToNext": 8000,
+    "Group": 4,
+    "TID": "TID_FAME_TIER_SATURNAL3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_4_3",
+    "IconBigExportName": "fame_big_tier_4",
+    "IconStarsExportName": "fame_stars_tier_4_3"
+  },
+  "Solar1": {
+    "Name": "Solar1",
+    "FameToNext": 12000,
+    "Group": 5,
+    "TID": "TID_FAME_TIER_SOLAR1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_5_1",
+    "IconBigExportName": "fame_big_tier_5",
+    "IconStarsExportName": "fame_stars_tier_5_1"
+  },
+  "Solar2": {
+    "Name": "Solar2",
+    "FameToNext": 12000,
+    "Group": 5,
+    "TID": "TID_FAME_TIER_SOLAR2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_5_2",
+    "IconBigExportName": "fame_big_tier_5",
+    "IconStarsExportName": "fame_stars_tier_5_2"
+  },
+  "Solar3": {
+    "Name": "Solar3",
+    "FameToNext": 12000,
+    "Group": 5,
+    "TID": "TID_FAME_TIER_SOLAR3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_5_3",
+    "IconBigExportName": "fame_big_tier_5",
+    "IconStarsExportName": "fame_stars_tier_5_3"
+  }
+}

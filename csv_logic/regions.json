@@ -1,0 +1,1335 @@
+{
+  "_EU": {
+    "Name": "_EU",
+    "DisplayName": "Europe",
+    "IsCountry": false
+  },
+  "_NA": {
+    "Name": "_NA",
+    "DisplayName": "North America",
+    "IsCountry": false
+  },
+  "_SA": {
+    "Name": "_SA",
+    "DisplayName": "South America",
+    "IsCountry": false
+  },
+  "_AS": {
+    "Name": "_AS",
+    "DisplayName": "Asia",
+    "IsCountry": false
+  },
+  "_AU": {
+    "Name": "_AU",
+    "DisplayName": "Australia",
+    "IsCountry": false
+  },
+  "_AF": {
+    "Name": "_AF",
+    "DisplayName": "Africa",
+    "IsCountry": false
+  },
+  "_INT": {
+    "Name": "_INT",
+    "TID": "TID_REGION_INT",
+    "DisplayName": "International",
+    "IsCountry": false
+  },
+  "AF": {
+    "Name": "AF",
+    "DisplayName": "Afghanistan",
+    "IsCountry": true
+  },
+  "AX": {
+    "Name": "AX",
+    "DisplayName": "\u00c5land Islands",
+    "IsCountry": true
+  },
+  "AL": {
+    "Name": "AL",
+    "DisplayName": "Albania",
+    "IsCountry": true
+  },
+  "DZ": {
+    "Name": "DZ",
+    "DisplayName": "Algeria",
+    "IsCountry": true
+  },
+  "AS": {
+    "Name": "AS",
+    "DisplayName": "American Samoa",
+    "IsCountry": true
+  },
+  "AD": {
+    "Name": "AD",
+    "DisplayName": "Andorra",
+    "IsCountry": true
+  },
+  "AO": {
+    "Name": "AO",
+    "DisplayName": "Angola",
+    "IsCountry": true
+  },
+  "AI": {
+    "Name": "AI",
+    "DisplayName": "Anguilla",
+    "IsCountry": true
+  },
+  "AQ": {
+    "Name": "AQ",
+    "DisplayName": "Antarctica",
+    "IsCountry": true
+  },
+  "AG": {
+    "Name": "AG",
+    "DisplayName": "Antigua and Barbuda",
+    "IsCountry": true
+  },
+  "AR": {
+    "Name": "AR",
+    "DisplayName": "Argentina",
+    "IsCountry": true
+  },
+  "AM": {
+    "Name": "AM",
+    "DisplayName": "Armenia",
+    "IsCountry": true
+  },
+  "AW": {
+    "Name": "AW",
+    "DisplayName": "Aruba",
+    "IsCountry": true
+  },
+  "AC": {
+    "Name": "AC",
+    "DisplayName": "Ascension Island",
+    "IsCountry": true
+  },
+  "AU": {
+    "Name": "AU",
+    "DisplayName": "Australia",
+    "IsCountry": true
+  },
+  "AT": {
+    "Name": "AT",
+    "DisplayName": "Austria",
+    "IsCountry": true
+  },
+  "AZ": {
+    "Name": "AZ",
+    "DisplayName": "Azerbaijan",
+    "IsCountry": true
+  },
+  "BS": {
+    "Name": "BS",
+    "DisplayName": "Bahamas",
+    "IsCountry": true
+  },
+  "BH": {
+    "Name": "BH",
+    "DisplayName": "Bahrain",
+    "IsCountry": true
+  },
+  "BD": {
+    "Name": "BD",
+    "DisplayName": "Bangladesh",
+    "IsCountry": true
+  },
+  "BB": {
+    "Name": "BB",
+    "DisplayName": "Barbados",
+    "IsCountry": true
+  },
+  "BY": {
+    "Name": "BY",
+    "DisplayName": "Belarus",
+    "IsCountry": true
+  },
+  "BE": {
+    "Name": "BE",
+    "DisplayName": "Belgium",
+    "IsCountry": true
+  },
+  "BZ": {
+    "Name": "BZ",
+    "DisplayName": "Belize",
+    "IsCountry": true
+  },
+  "BJ": {
+    "Name": "BJ",
+    "DisplayName": "Benin",
+    "IsCountry": true
+  },
+  "BM": {
+    "Name": "BM",
+    "DisplayName": "Bermuda",
+    "IsCountry": true
+  },
+  "BT": {
+    "Name": "BT",
+    "DisplayName": "Bhutan",
+    "IsCountry": true
+  },
+  "BO": {
+    "Name": "BO",
+    "DisplayName": "Bolivia",
+    "IsCountry": true
+  },
+  "BA": {
+    "Name": "BA",
+    "DisplayName": "Bosnia and Herzegovina",
+    "IsCountry": true
+  },
+  "BW": {
+    "Name": "BW",
+    "DisplayName": "Botswana",
+    "IsCountry": true
+  },
+  "BV": {
+    "Name": "BV",
+    "DisplayName": "Bouvet Island",
+    "IsCountry": true
+  },
+  "BR": {
+    "Name": "BR",
+    "DisplayName": "Brazil",
+    "IsCountry": true
+  },
+  "IO": {
+    "Name": "IO",
+    "DisplayName": "British Indian Ocean Territory",
+    "IsCountry": true
+  },
+  "VG": {
+    "Name": "VG",
+    "DisplayName": "British Virgin Islands",
+    "IsCountry": true
+  },
+  "BN": {
+    "Name": "BN",
+    "DisplayName": "Brunei",
+    "IsCountry": true
+  },
+  "BG": {
+    "Name": "BG",
+    "DisplayName": "Bulgaria",
+    "IsCountry": true
+  },
+  "BF": {
+    "Name": "BF",
+    "DisplayName": "Burkina Faso",
+    "IsCountry": true
+  },
+  "BI": {
+    "Name": "BI",
+    "DisplayName": "Burundi",
+    "IsCountry": true
+  },
+  "KH": {
+    "Name": "KH",
+    "DisplayName": "Cambodia",
+    "IsCountry": true
+  },
+  "CM": {
+    "Name": "CM",
+    "DisplayName": "Cameroon",
+    "IsCountry": true
+  },
+  "CA": {
+    "Name": "CA",
+    "DisplayName": "Canada",
+    "IsCountry": true
+  },
+  "IC": {
+    "Name": "IC",
+    "DisplayName": "Canary Islands",
+    "IsCountry": true
+  },
+  "CV": {
+    "Name": "CV",
+    "DisplayName": "Cape Verde",
+    "IsCountry": true
+  },
+  "BQ": {
+    "Name": "BQ",
+    "DisplayName": "Caribbean Netherlands",
+    "IsCountry": true
+  },
+  "KY": {
+    "Name": "KY",
+    "DisplayName": "Cayman Islands",
+    "IsCountry": true
+  },
+  "CF": {
+    "Name": "CF",
+    "DisplayName": "Central African Republic",
+    "IsCountry": true
+  },
+  "EA": {
+    "Name": "EA",
+    "DisplayName": "Ceuta and Melilla",
+    "IsCountry": true
+  },
+  "TD": {
+    "Name": "TD",
+    "DisplayName": "Chad",
+    "IsCountry": true
+  },
+  "CL": {
+    "Name": "CL",
+    "DisplayName": "Chile",
+    "IsCountry": true
+  },
+  "CN": {
+    "Name": "CN",
+    "DisplayName": "China",
+    "IsCountry": true
+  },
+  "CX": {
+    "Name": "CX",
+    "DisplayName": "Christmas Island",
+    "IsCountry": true
+  },
+  "CC": {
+    "Name": "CC",
+    "DisplayName": "Cocos (Keeling) Islands",
+    "IsCountry": true
+  },
+  "CO": {
+    "Name": "CO",
+    "DisplayName": "Colombia",
+    "IsCountry": true
+  },
+  "KM": {
+    "Name": "KM",
+    "DisplayName": "Comoros",
+    "IsCountry": true
+  },
+  "CG": {
+    "Name": "CG",
+    "DisplayName": "Congo (DRC)",
+    "IsCountry": true
+  },
+  "CD": {
+    "Name": "CD",
+    "DisplayName": "Congo (Republic)",
+    "IsCountry": true
+  },
+  "CK": {
+    "Name": "CK",
+    "DisplayName": "Cook Islands",
+    "IsCountry": true
+  },
+  "CR": {
+    "Name": "CR",
+    "DisplayName": "Costa Rica",
+    "IsCountry": true
+  },
+  "CI": {
+    "Name": "CI",
+    "DisplayName": "C\u00f4te d\u2019Ivoire",
+    "IsCountry": true
+  },
+  "HR": {
+    "Name": "HR",
+    "DisplayName": "Croatia",
+    "IsCountry": true
+  },
+  "CU": {
+    "Name": "CU",
+    "DisplayName": "Cuba",
+    "IsCountry": true
+  },
+  "CW": {
+    "Name": "CW",
+    "DisplayName": "Cura\u00e7ao",
+    "IsCountry": true
+  },
+  "CY": {
+    "Name": "CY",
+    "DisplayName": "Cyprus",
+    "IsCountry": true
+  },
+  "CZ": {
+    "Name": "CZ",
+    "DisplayName": "Czech Republic",
+    "IsCountry": true
+  },
+  "DK": {
+    "Name": "DK",
+    "DisplayName": "Denmark",
+    "IsCountry": true
+  },
+  "DG": {
+    "Name": "DG",
+    "DisplayName": "Diego Garcia",
+    "IsCountry": true
+  },
+  "DJ": {
+    "Name": "DJ",
+    "DisplayName": "Djibouti",
+    "IsCountry": true
+  },
+  "DM": {
+    "Name": "DM",
+    "DisplayName": "Dominica",
+    "IsCountry": true
+  },
+  "DO": {
+    "Name": "DO",
+    "DisplayName": "Dominican Republic",
+    "IsCountry": true
+  },
+  "EC": {
+    "Name": "EC",
+    "DisplayName": "Ecuador",
+    "IsCountry": true
+  },
+  "EG": {
+    "Name": "EG",
+    "DisplayName": "Egypt",
+    "IsCountry": true
+  },
+  "SV": {
+    "Name": "SV",
+    "DisplayName": "El Salvador",
+    "IsCountry": true
+  },
+  "GQ": {
+    "Name": "GQ",
+    "DisplayName": "Equatorial Guinea",
+    "IsCountry": true
+  },
+  "ER": {
+    "Name": "ER",
+    "DisplayName": "Eritrea",
+    "IsCountry": true
+  },
+  "EE": {
+    "Name": "EE",
+    "DisplayName": "Estonia",
+    "IsCountry": true
+  },
+  "ET": {
+    "Name": "ET",
+    "DisplayName": "Ethiopia",
+    "IsCountry": true
+  },
+  "FK": {
+    "Name": "FK",
+    "DisplayName": "Falkland Islands",
+    "IsCountry": true
+  },
+  "FO": {
+    "Name": "FO",
+    "DisplayName": "Faroe Islands",
+    "IsCountry": true
+  },
+  "FJ": {
+    "Name": "FJ",
+    "DisplayName": "Fiji",
+    "IsCountry": true
+  },
+  "FI": {
+    "Name": "FI",
+    "DisplayName": "Finland",
+    "IsCountry": true
+  },
+  "FR": {
+    "Name": "FR",
+    "DisplayName": "France",
+    "IsCountry": true
+  },
+  "GF": {
+    "Name": "GF",
+    "DisplayName": "French Guiana",
+    "IsCountry": true
+  },
+  "PF": {
+    "Name": "PF",
+    "DisplayName": "French Polynesia",
+    "IsCountry": true
+  },
+  "TF": {
+    "Name": "TF",
+    "DisplayName": "French Southern Territories",
+    "IsCountry": true
+  },
+  "GA": {
+    "Name": "GA",
+    "DisplayName": "Gabon",
+    "IsCountry": true
+  },
+  "GM": {
+    "Name": "GM",
+    "DisplayName": "Gambia",
+    "IsCountry": true
+  },
+  "GE": {
+    "Name": "GE",
+    "DisplayName": "Georgia",
+    "IsCountry": true
+  },
+  "DE": {
+    "Name": "DE",
+    "DisplayName": "Germany",
+    "IsCountry": true
+  },
+  "GH": {
+    "Name": "GH",
+    "DisplayName": "Ghana",
+    "IsCountry": true
+  },
+  "GI": {
+    "Name": "GI",
+    "DisplayName": "Gibraltar",
+    "IsCountry": true
+  },
+  "GR": {
+    "Name": "GR",
+    "DisplayName": "Greece",
+    "IsCountry": true
+  },
+  "GL": {
+    "Name": "GL",
+    "DisplayName": "Greenland",
+    "IsCountry": true
+  },
+  "GD": {
+    "Name": "GD",
+    "DisplayName": "Grenada",
+    "IsCountry": true
+  },
+  "GP": {
+    "Name": "GP",
+    "DisplayName": "Guadeloupe",
+    "IsCountry": true
+  },
+  "GU": {
+    "Name": "GU",
+    "DisplayName": "Guam",
+    "IsCountry": true
+  },
+  "GT": {
+    "Name": "GT",
+    "DisplayName": "Guatemala",
+    "IsCountry": true
+  },
+  "GG": {
+    "Name": "GG",
+    "DisplayName": "Guernsey",
+    "IsCountry": true
+  },
+  "GN": {
+    "Name": "GN",
+    "DisplayName": "Guinea",
+    "IsCountry": true
+  },
+  "GW": {
+    "Name": "GW",
+    "DisplayName": "Guinea-Bissau",
+    "IsCountry": true
+  },
+  "GY": {
+    "Name": "GY",
+    "DisplayName": "Guyana",
+    "IsCountry": true
+  },
+  "HT": {
+    "Name": "HT",
+    "DisplayName": "Haiti",
+    "IsCountry": true
+  },
+  "HM": {
+    "Name": "HM",
+    "DisplayName": "Heard & McDonald Islands",
+    "IsCountry": true
+  },
+  "HN": {
+    "Name": "HN",
+    "DisplayName": "Honduras",
+    "IsCountry": true
+  },
+  "HK": {
+    "Name": "HK",
+    "DisplayName": "Hong Kong",
+    "IsCountry": true
+  },
+  "HU": {
+    "Name": "HU",
+    "DisplayName": "Hungary",
+    "IsCountry": true
+  },
+  "IS": {
+    "Name": "IS",
+    "DisplayName": "Iceland",
+    "IsCountry": true
+  },
+  "IN": {
+    "Name": "IN",
+    "DisplayName": "India",
+    "IsCountry": true
+  },
+  "ID": {
+    "Name": "ID",
+    "DisplayName": "Indonesia",
+    "IsCountry": true
+  },
+  "IR": {
+    "Name": "IR",
+    "DisplayName": "Iran",
+    "IsCountry": true
+  },
+  "IQ": {
+    "Name": "IQ",
+    "DisplayName": "Iraq",
+    "IsCountry": true
+  },
+  "IE": {
+    "Name": "IE",
+    "DisplayName": "Ireland",
+    "IsCountry": true
+  },
+  "IM": {
+    "Name": "IM",
+    "DisplayName": "Isle of Man",
+    "IsCountry": true
+  },
+  "IL": {
+    "Name": "IL",
+    "DisplayName": "Israel",
+    "IsCountry": true
+  },
+  "IT": {
+    "Name": "IT",
+    "DisplayName": "Italy",
+    "IsCountry": true
+  },
+  "JM": {
+    "Name": "JM",
+    "DisplayName": "Jamaica",
+    "IsCountry": true
+  },
+  "JP": {
+    "Name": "JP",
+    "DisplayName": "Japan",
+    "IsCountry": true
+  },
+  "JE": {
+    "Name": "JE",
+    "DisplayName": "Jersey",
+    "IsCountry": true
+  },
+  "JO": {
+    "Name": "JO",
+    "DisplayName": "Jordan",
+    "IsCountry": true
+  },
+  "KZ": {
+    "Name": "KZ",
+    "DisplayName": "Kazakhstan",
+    "IsCountry": true
+  },
+  "KE": {
+    "Name": "KE",
+    "DisplayName": "Kenya",
+    "IsCountry": true
+  },
+  "KI": {
+    "Name": "KI",
+    "DisplayName": "Kiribati",
+    "IsCountry": true
+  },
+  "XK": {
+    "Name": "XK",
+    "DisplayName": "Kosovo",
+    "IsCountry": true
+  },
+  "KW": {
+    "Name": "KW",
+    "DisplayName": "Kuwait",
+    "IsCountry": true
+  },
+  "KG": {
+    "Name": "KG",
+    "DisplayName": "Kyrgyzstan",
+    "IsCountry": true
+  },
+  "LA": {
+    "Name": "LA",
+    "DisplayName": "Laos",
+    "IsCountry": true
+  },
+  "LV": {
+    "Name": "LV",
+    "DisplayName": "Latvia",
+    "IsCountry": true
+  },
+  "LB": {
+    "Name": "LB",
+    "DisplayName": "Lebanon",
+    "IsCountry": true
+  },
+  "LS": {
+    "Name": "LS",
+    "DisplayName": "Lesotho",
+    "IsCountry": true
+  },
+  "LR": {
+    "Name": "LR",
+    "DisplayName": "Liberia",
+    "IsCountry": true
+  },
+  "LY": {
+    "Name": "LY",
+    "DisplayName": "Libya",
+    "IsCountry": true
+  },
+  "LI": {
+    "Name": "LI",
+    "DisplayName": "Liechtenstein",
+    "IsCountry": true
+  },
+  "LT": {
+    "Name": "LT",
+    "DisplayName": "Lithuania",
+    "IsCountry": true
+  },
+  "LU": {
+    "Name": "LU",
+    "DisplayName": "Luxembourg",
+    "IsCountry": true
+  },
+  "MO": {
+    "Name": "MO",
+    "DisplayName": "Macau",
+    "IsCountry": true
+  },
+  "MK": {
+    "Name": "MK",
+    "DisplayName": "Macedonia (FYROM)",
+    "IsCountry": true
+  },
+  "MG": {
+    "Name": "MG",
+    "DisplayName": "Madagascar",
+    "IsCountry": true
+  },
+  "MW": {
+    "Name": "MW",
+    "DisplayName": "Malawi",
+    "IsCountry": true
+  },
+  "MY": {
+    "Name": "MY",
+    "DisplayName": "Malaysia",
+    "IsCountry": true
+  },
+  "MV": {
+    "Name": "MV",
+    "DisplayName": "Maldives",
+    "IsCountry": true
+  },
+  "ML": {
+    "Name": "ML",
+    "DisplayName": "Mali",
+    "IsCountry": true
+  },
+  "MT": {
+    "Name": "MT",
+    "DisplayName": "Malta",
+    "IsCountry": true
+  },
+  "MH": {
+    "Name": "MH",
+    "DisplayName": "Marshall Islands",
+    "IsCountry": true
+  },
+  "MQ": {
+    "Name": "MQ",
+    "DisplayName": "Martinique",
+    "IsCountry": true
+  },
+  "MR": {
+    "Name": "MR",
+    "DisplayName": "Mauritania",
+    "IsCountry": true
+  },
+  "MU": {
+    "Name": "MU",
+    "DisplayName": "Mauritius",
+    "IsCountry": true
+  },
+  "YT": {
+    "Name": "YT",
+    "DisplayName": "Mayotte",
+    "IsCountry": true
+  },
+  "MX": {
+    "Name": "MX",
+    "DisplayName": "Mexico",
+    "IsCountry": true
+  },
+  "FM": {
+    "Name": "FM",
+    "DisplayName": "Micronesia",
+    "IsCountry": true
+  },
+  "MD": {
+    "Name": "MD",
+    "DisplayName": "Moldova",
+    "IsCountry": true
+  },
+  "MC": {
+    "Name": "MC",
+    "DisplayName": "Monaco",
+    "IsCountry": true
+  },
+  "MN": {
+    "Name": "MN",
+    "DisplayName": "Mongolia",
+    "IsCountry": true
+  },
+  "ME": {
+    "Name": "ME",
+    "DisplayName": "Montenegro",
+    "IsCountry": true
+  },
+  "MS": {
+    "Name": "MS",
+    "DisplayName": "Montserrat",
+    "IsCountry": true
+  },
+  "MA": {
+    "Name": "MA",
+    "DisplayName": "Morocco",
+    "IsCountry": true
+  },
+  "MZ": {
+    "Name": "MZ",
+    "DisplayName": "Mozambique",
+    "IsCountry": true
+  },
+  "MM": {
+    "Name": "MM",
+    "DisplayName": "Myanmar (Burma)",
+    "IsCountry": true
+  },
+  "NA": {
+    "Name": "NA",
+    "DisplayName": "Namibia",
+    "IsCountry": true
+  },
+  "NR": {
+    "Name": "NR",
+    "DisplayName": "Nauru",
+    "IsCountry": true
+  },
+  "NP": {
+    "Name": "NP",
+    "DisplayName": "Nepal",
+    "IsCountry": true
+  },
+  "NL": {
+    "Name": "NL",
+    "DisplayName": "Netherlands",
+    "IsCountry": true
+  },
+  "NC": {
+    "Name": "NC",
+    "DisplayName": "New Caledonia",
+    "IsCountry": true
+  },
+  "NZ": {
+    "Name": "NZ",
+    "DisplayName": "New Zealand",
+    "IsCountry": true
+  },
+  "NI": {
+    "Name": "NI",
+    "DisplayName": "Nicaragua",
+    "IsCountry": true
+  },
+  "NE": {
+    "Name": "NE",
+    "DisplayName": "Niger",
+    "IsCountry": true
+  },
+  "NG": {
+    "Name": "NG",
+    "DisplayName": "Nigeria",
+    "IsCountry": true
+  },
+  "NU": {
+    "Name": "NU",
+    "DisplayName": "Niue",
+    "IsCountry": true
+  },
+  "NF": {
+    "Name": "NF",
+    "DisplayName": "Norfolk Island",
+    "IsCountry": true
+  },
+  "KP": {
+    "Name": "KP",
+    "DisplayName": "North Korea",
+    "IsCountry": true
+  },
+  "MP": {
+    "Name": "MP",
+    "DisplayName": "Northern Mariana Islands",
+    "IsCountry": true
+  },
+  "NO": {
+    "Name": "NO",
+    "DisplayName": "Norway",
+    "IsCountry": true
+  },
+  "OM": {
+    "Name": "OM",
+    "DisplayName": "Oman",
+    "IsCountry": true
+  },
+  "PK": {
+    "Name": "PK",
+    "DisplayName": "Pakistan",
+    "IsCountry": true
+  },
+  "PW": {
+    "Name": "PW",
+    "DisplayName": "Palau",
+    "IsCountry": true
+  },
+  "PS": {
+    "Name": "PS",
+    "DisplayName": "Palestine",
+    "IsCountry": true
+  },
+  "PA": {
+    "Name": "PA",
+    "DisplayName": "Panama",
+    "IsCountry": true
+  },
+  "PG": {
+    "Name": "PG",
+    "DisplayName": "Papua New Guinea",
+    "IsCountry": true
+  },
+  "PY": {
+    "Name": "PY",
+    "DisplayName": "Paraguay",
+    "IsCountry": true
+  },
+  "PE": {
+    "Name": "PE",
+    "DisplayName": "Peru",
+    "IsCountry": true
+  },
+  "PH": {
+    "Name": "PH",
+    "DisplayName": "Philippines",
+    "IsCountry": true
+  },
+  "PN": {
+    "Name": "PN",
+    "DisplayName": "Pitcairn Islands",
+    "IsCountry": true
+  },
+  "PL": {
+    "Name": "PL",
+    "DisplayName": "Poland",
+    "IsCountry": true
+  },
+  "PT": {
+    "Name": "PT",
+    "DisplayName": "Portugal",
+    "IsCountry": true
+  },
+  "PR": {
+    "Name": "PR",
+    "DisplayName": "Puerto Rico",
+    "IsCountry": true
+  },
+  "QA": {
+    "Name": "QA",
+    "DisplayName": "Qatar",
+    "IsCountry": true
+  },
+  "RE": {
+    "Name": "RE",
+    "DisplayName": "R\u00e9union",
+    "IsCountry": true
+  },
+  "RO": {
+    "Name": "RO",
+    "DisplayName": "Romania",
+    "IsCountry": true
+  },
+  "RU": {
+    "Name": "RU",
+    "DisplayName": "Russia",
+    "IsCountry": true
+  },
+  "RW": {
+    "Name": "RW",
+    "DisplayName": "Rwanda",
+    "IsCountry": true
+  },
+  "BL": {
+    "Name": "BL",
+    "DisplayName": "Saint Barth\u00e9lemy",
+    "IsCountry": true
+  },
+  "SH": {
+    "Name": "SH",
+    "DisplayName": "Saint Helena",
+    "IsCountry": true
+  },
+  "KN": {
+    "Name": "KN",
+    "DisplayName": "Saint Kitts and Nevis",
+    "IsCountry": true
+  },
+  "LC": {
+    "Name": "LC",
+    "DisplayName": "Saint Lucia",
+    "IsCountry": true
+  },
+  "MF": {
+    "Name": "MF",
+    "DisplayName": "Saint Martin",
+    "IsCountry": true
+  },
+  "PM": {
+    "Name": "PM",
+    "DisplayName": "Saint Pierre and Miquelon",
+    "IsCountry": true
+  },
+  "WS": {
+    "Name": "WS",
+    "DisplayName": "Samoa",
+    "IsCountry": true
+  },
+  "SM": {
+    "Name": "SM",
+    "DisplayName": "San Marino",
+    "IsCountry": true
+  },
+  "ST": {
+    "Name": "ST",
+    "DisplayName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "IsCountry": true
+  },
+  "SA": {
+    "Name": "SA",
+    "DisplayName": "Saudi Arabia",
+    "IsCountry": true
+  },
+  "SN": {
+    "Name": "SN",
+    "DisplayName": "Senegal",
+    "IsCountry": true
+  },
+  "RS": {
+    "Name": "RS",
+    "DisplayName": "Serbia",
+    "IsCountry": true
+  },
+  "SC": {
+    "Name": "SC",
+    "DisplayName": "Seychelles",
+    "IsCountry": true
+  },
+  "SL": {
+    "Name": "SL",
+    "DisplayName": "Sierra Leone",
+    "IsCountry": true
+  },
+  "SG": {
+    "Name": "SG",
+    "DisplayName": "Singapore",
+    "IsCountry": true
+  },
+  "SX": {
+    "Name": "SX",
+    "DisplayName": "Sint Maarten",
+    "IsCountry": true
+  },
+  "SK": {
+    "Name": "SK",
+    "DisplayName": "Slovakia",
+    "IsCountry": true
+  },
+  "SI": {
+    "Name": "SI",
+    "DisplayName": "Slovenia",
+    "IsCountry": true
+  },
+  "SB": {
+    "Name": "SB",
+    "DisplayName": "Solomon Islands",
+    "IsCountry": true
+  },
+  "SO": {
+    "Name": "SO",
+    "DisplayName": "Somalia",
+    "IsCountry": true
+  },
+  "ZA": {
+    "Name": "ZA",
+    "DisplayName": "South Africa",
+    "IsCountry": true
+  },
+  "KR": {
+    "Name": "KR",
+    "DisplayName": "South Korea",
+    "IsCountry": true,
+    "AgeLimitOverride": 14,
+    "ForceScidLoginForNewPlayers": true
+  },
+  "SS": {
+    "Name": "SS",
+    "DisplayName": "South Sudan",
+    "IsCountry": true
+  },
+  "ES": {
+    "Name": "ES",
+    "DisplayName": "Spain",
+    "IsCountry": true
+  },
+  "LK": {
+    "Name": "LK",
+    "DisplayName": "Sri Lanka",
+    "IsCountry": true
+  },
+  "VC": {
+    "Name": "VC",
+    "DisplayName": "St. Vincent & Grenadines",
+    "IsCountry": true
+  },
+  "SD": {
+    "Name": "SD",
+    "DisplayName": "Sudan",
+    "IsCountry": true
+  },
+  "SR": {
+    "Name": "SR",
+    "DisplayName": "Suriname",
+    "IsCountry": true
+  },
+  "SJ": {
+    "Name": "SJ",
+    "DisplayName": "Svalbard and Jan Mayen",
+    "IsCountry": true
+  },
+  "SZ": {
+    "Name": "SZ",
+    "DisplayName": "Swaziland",
+    "IsCountry": true
+  },
+  "SE": {
+    "Name": "SE",
+    "DisplayName": "Sweden",
+    "IsCountry": true
+  },
+  "CH": {
+    "Name": "CH",
+    "DisplayName": "Switzerland",
+    "IsCountry": true
+  },
+  "SY": {
+    "Name": "SY",
+    "DisplayName": "Syria",
+    "IsCountry": true
+  },
+  "TW": {
+    "Name": "TW",
+    "DisplayName": "Taiwan",
+    "IsCountry": true
+  },
+  "TJ": {
+    "Name": "TJ",
+    "DisplayName": "Tajikistan",
+    "IsCountry": true
+  },
+  "TZ": {
+    "Name": "TZ",
+    "DisplayName": "Tanzania",
+    "IsCountry": true
+  },
+  "TH": {
+    "Name": "TH",
+    "DisplayName": "Thailand",
+    "IsCountry": true
+  },
+  "TL": {
+    "Name": "TL",
+    "DisplayName": "Timor-Leste",
+    "IsCountry": true
+  },
+  "TG": {
+    "Name": "TG",
+    "DisplayName": "Togo",
+    "IsCountry": true
+  },
+  "TK": {
+    "Name": "TK",
+    "DisplayName": "Tokelau",
+    "IsCountry": true
+  },
+  "TO": {
+    "Name": "TO",
+    "DisplayName": "Tonga",
+    "IsCountry": true
+  },
+  "TT": {
+    "Name": "TT",
+    "DisplayName": "Trinidad and Tobago",
+    "IsCountry": true
+  },
+  "TA": {
+    "Name": "TA",
+    "DisplayName": "Tristan da Cunha",
+    "IsCountry": true
+  },
+  "TN": {
+    "Name": "TN",
+    "DisplayName": "Tunisia",
+    "IsCountry": true
+  },
+  "TR": {
+    "Name": "TR",
+    "DisplayName": "Turkey",
+    "IsCountry": true
+  },
+  "TM": {
+    "Name": "TM",
+    "DisplayName": "Turkmenistan",
+    "IsCountry": true
+  },
+  "TC": {
+    "Name": "TC",
+    "DisplayName": "Turks and Caicos Islands",
+    "IsCountry": true
+  },
+  "TV": {
+    "Name": "TV",
+    "DisplayName": "Tuvalu",
+    "IsCountry": true
+  },
+  "UM": {
+    "Name": "UM",
+    "DisplayName": "U.S. Outlying Islands",
+    "IsCountry": true
+  },
+  "VI": {
+    "Name": "VI",
+    "DisplayName": "U.S. Virgin Islands",
+    "IsCountry": true
+  },
+  "UG": {
+    "Name": "UG",
+    "DisplayName": "Uganda",
+    "IsCountry": true
+  },
+  "UA": {
+    "Name": "UA",
+    "DisplayName": "Ukraine",
+    "IsCountry": true
+  },
+  "AE": {
+    "Name": "AE",
+    "DisplayName": "United Arab Emirates",
+    "IsCountry": true
+  },
+  "GB": {
+    "Name": "GB",
+    "DisplayName": "United Kingdom",
+    "IsCountry": true
+  },
+  "US": {
+    "Name": "US",
+    "DisplayName": "United States",
+    "IsCountry": true
+  },
+  "UY": {
+    "Name": "UY",
+    "DisplayName": "Uruguay",
+    "IsCountry": true
+  },
+  "UZ": {
+    "Name": "UZ",
+    "DisplayName": "Uzbekistan",
+    "IsCountry": true
+  },
+  "VU": {
+    "Name": "VU",
+    "DisplayName": "Vanuatu",
+    "IsCountry": true
+  },
+  "VA": {
+    "Name": "VA",
+    "DisplayName": "Vatican City",
+    "IsCountry": true
+  },
+  "VE": {
+    "Name": "VE",
+    "DisplayName": "Venezuela",
+    "IsCountry": true
+  },
+  "VN": {
+    "Name": "VN",
+    "DisplayName": "Vietnam",
+    "IsCountry": true
+  },
+  "WF": {
+    "Name": "WF",
+    "DisplayName": "Wallis and Futuna",
+    "IsCountry": true
+  },
+  "EH": {
+    "Name": "EH",
+    "DisplayName": "Western Sahara",
+    "IsCountry": true
+  },
+  "YE": {
+    "Name": "YE",
+    "DisplayName": "Yemen",
+    "IsCountry": true
+  },
+  "ZM": {
+    "Name": "ZM",
+    "DisplayName": "Zambia",
+    "IsCountry": true
+  },
+  "ZW": {
+    "Name": "ZW",
+    "DisplayName": "Zimbabwe",
+    "IsCountry": true
+  },
+  "CUSTOM1": {
+    "Name": "CUSTOM1",
+    "TID": "TID_REGION_CUSTOM1",
+    "IsCountry": false
+  },
+  "CUSTOM2": {
+    "Name": "CUSTOM2",
+    "TID": "TID_REGION_CUSTOM2",
+    "IsCountry": false
+  },
+  "CUSTOM3": {
+    "Name": "CUSTOM3",
+    "TID": "TID_REGION_CUSTOM3",
+    "IsCountry": false
+  },
+  "CUSTOM4": {
+    "Name": "CUSTOM4",
+    "TID": "TID_REGION_CUSTOM4",
+    "IsCountry": false
+  },
+  "CUSTOM5": {
+    "Name": "CUSTOM5",
+    "TID": "TID_REGION_CUSTOM5",
+    "IsCountry": false
+  }
+}

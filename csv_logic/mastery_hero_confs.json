@@ -1,0 +1,578 @@
+{
+  "MasteryShotgunGirl": {
+    "Name": "MasteryShotgunGirl",
+    "RewardEmotes": "emoji_shelly_facepalm",
+    "RewardPlayerIcons": "player_icon_shelly1",
+    "RewardTitles": "TitleMasteryShelly",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_shelly"
+  },
+  "MasteryGunslinger": {
+    "Name": "MasteryGunslinger",
+    "RewardEmotes": "emoji_colt_facepalm",
+    "RewardPlayerIcons": "player_icon_colt1",
+    "RewardTitles": "TitleMasteryColt",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_colt"
+  },
+  "MasteryBullDude": {
+    "Name": "MasteryBullDude",
+    "RewardEmotes": "emoji_bull_facepalm",
+    "RewardPlayerIcons": "player_icon_bull1",
+    "RewardTitles": "TitleMasteryBull",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_bull"
+  },
+  "MasteryRocketGirl": {
+    "Name": "MasteryRocketGirl",
+    "RewardEmotes": "emoji_brock_facepalm",
+    "RewardPlayerIcons": "player_icon_brock1",
+    "RewardTitles": "TitleMasteryBrock",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_brock"
+  },
+  "MasteryTrickshotDude": {
+    "Name": "MasteryTrickshotDude",
+    "RewardEmotes": "emoji_rico_facepalm",
+    "RewardPlayerIcons": "player_icon_rico1",
+    "RewardTitles": "TitleMasteryRico",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_rico"
+  },
+  "MasteryCactus": {
+    "Name": "MasteryCactus",
+    "RewardEmotes": "emoji_spike_facepalm",
+    "RewardPlayerIcons": "player_icon_spike1",
+    "RewardTitles": "TitleMasterySpike",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_spike"
+  },
+  "MasteryBarkeep": {
+    "Name": "MasteryBarkeep",
+    "RewardEmotes": "emoji_barley_facepalm",
+    "RewardPlayerIcons": "player_icon_barley1",
+    "RewardTitles": "TitleMasteryBarley",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_barley"
+  },
+  "MasteryMechanic": {
+    "Name": "MasteryMechanic",
+    "RewardEmotes": "emoji_jessie_facepalm",
+    "RewardPlayerIcons": "player_icon_jessie1",
+    "RewardTitles": "TitleMasteryJessie",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_jessie"
+  },
+  "MasteryShaman": {
+    "Name": "MasteryShaman",
+    "RewardEmotes": "emoji_nita_facepalm",
+    "RewardPlayerIcons": "player_icon_nita1",
+    "RewardTitles": "TitleMasteryNita",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_nita"
+  },
+  "MasteryTntDude": {
+    "Name": "MasteryTntDude",
+    "RewardEmotes": "emoji_dynamike_facepalm",
+    "RewardPlayerIcons": "player_icon_dynamike1",
+    "RewardTitles": "TitleMasteryDynamike",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_dynamike"
+  },
+  "MasteryLuchador": {
+    "Name": "MasteryLuchador",
+    "RewardEmotes": "emoji_primo_facepalm",
+    "RewardPlayerIcons": "player_icon_primo1",
+    "RewardTitles": "TitleMasteryPrimo",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_primo"
+  },
+  "MasteryUndertaker": {
+    "Name": "MasteryUndertaker",
+    "RewardEmotes": "emoji_mortis_facepalm",
+    "RewardPlayerIcons": "player_icon_mortis1",
+    "RewardTitles": "TitleMasteryMortis",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_mortis"
+  },
+  "MasteryCrow": {
+    "Name": "MasteryCrow",
+    "RewardEmotes": "emoji_crow_facepalm",
+    "RewardPlayerIcons": "player_icon_crow1",
+    "RewardTitles": "TitleMasteryCrow",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_crow"
+  },
+  "MasteryDeadMariachi": {
+    "Name": "MasteryDeadMariachi",
+    "RewardEmotes": "emoji_poco_facepalm",
+    "RewardPlayerIcons": "player_icon_poco1",
+    "RewardTitles": "TitleMasteryPoco",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_poco"
+  },
+  "MasteryBowDude": {
+    "Name": "MasteryBowDude",
+    "RewardEmotes": "emoji_bo_facepalm",
+    "RewardPlayerIcons": "player_icon_bo1",
+    "RewardTitles": "TitleMasteryBo",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_bo"
+  },
+  "MasterySniper": {
+    "Name": "MasterySniper",
+    "RewardEmotes": "emoji_piper_facepalm",
+    "RewardPlayerIcons": "player_icon_piper1",
+    "RewardTitles": "TitleMasteryPiper",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_piper"
+  },
+  "MasteryMinigunDude": {
+    "Name": "MasteryMinigunDude",
+    "RewardEmotes": "emoji_pam_facepalm",
+    "RewardPlayerIcons": "player_icon_pam1",
+    "RewardTitles": "TitleMasteryPam",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_pam"
+  },
+  "MasteryBlackHole": {
+    "Name": "MasteryBlackHole",
+    "RewardEmotes": "emoji_tara_facepalm",
+    "RewardPlayerIcons": "player_icon_tara1",
+    "RewardTitles": "TitleMasteryTara",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_tara"
+  },
+  "MasteryBarrelBot": {
+    "Name": "MasteryBarrelBot",
+    "RewardEmotes": "emoji_darryl_facepalm",
+    "RewardPlayerIcons": "player_icon_darryl1",
+    "RewardTitles": "TitleMasteryDarryl",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_darryl"
+  },
+  "MasteryArtilleryDude": {
+    "Name": "MasteryArtilleryDude",
+    "RewardEmotes": "emoji_penny_facepalm",
+    "RewardPlayerIcons": "player_icon_penny1",
+    "RewardTitles": "TitleMasteryPenny",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_penny"
+  },
+  "MasteryHammerDude": {
+    "Name": "MasteryHammerDude",
+    "RewardEmotes": "emoji_frank_facepalm",
+    "RewardPlayerIcons": "player_icon_frank1",
+    "RewardTitles": "TitleMasteryFrank",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_frank"
+  },
+  "MasteryHookDude": {
+    "Name": "MasteryHookDude",
+    "RewardEmotes": "emoji_gene_facepalm",
+    "RewardPlayerIcons": "player_icon_gene1",
+    "RewardTitles": "TitleMasteryGene",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_gene"
+  },
+  "MasteryClusterBombDude": {
+    "Name": "MasteryClusterBombDude",
+    "RewardEmotes": "emoji_tick_facepalm",
+    "RewardPlayerIcons": "player_icon_tick1",
+    "RewardTitles": "TitleMasteryTick",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_tick"
+  },
+  "MasteryNinja": {
+    "Name": "MasteryNinja",
+    "RewardEmotes": "emoji_leon_facepalm",
+    "RewardPlayerIcons": "player_icon_leon1",
+    "RewardTitles": "TitleMasteryLeon",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_leon"
+  },
+  "MasteryRosa": {
+    "Name": "MasteryRosa",
+    "RewardEmotes": "emoji_rosa_facepalm",
+    "RewardPlayerIcons": "player_icon_rosa1",
+    "RewardTitles": "TitleMasteryRosa",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_rosa"
+  },
+  "MasteryWhirlwind": {
+    "Name": "MasteryWhirlwind",
+    "RewardEmotes": "emoji_carl_facepalm",
+    "RewardPlayerIcons": "player_icon_carl1",
+    "RewardTitles": "TitleMasteryCarl",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_carl"
+  },
+  "MasteryBaseball": {
+    "Name": "MasteryBaseball",
+    "RewardEmotes": "emoji_bibi_facepalm",
+    "RewardPlayerIcons": "player_icon_bibi1",
+    "RewardTitles": "TitleMasteryBibi",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_bibi"
+  },
+  "MasteryArcade": {
+    "Name": "MasteryArcade",
+    "RewardEmotes": "emoji_8bit_facepalm",
+    "RewardPlayerIcons": "player_icon_8bit1",
+    "RewardTitles": "TitleMastery8bit",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_8bit"
+  },
+  "MasterySandstorm": {
+    "Name": "MasterySandstorm",
+    "RewardEmotes": "emoji_sandy_facepalm",
+    "RewardPlayerIcons": "player_icon_sandy1",
+    "RewardTitles": "TitleMasterySandy",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_sandy"
+  },
+  "MasteryBeeSniper": {
+    "Name": "MasteryBeeSniper",
+    "RewardEmotes": "emoji_bea_facepalm",
+    "RewardPlayerIcons": "player_icon_bea1",
+    "RewardTitles": "TitleMasteryBea",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_bea"
+  },
+  "MasteryMummy": {
+    "Name": "MasteryMummy",
+    "RewardEmotes": "emoji_emz_facepalm",
+    "RewardPlayerIcons": "player_icon_emz1",
+    "RewardTitles": "TitleMasteryEmz",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_emz"
+  },
+  "MasterySpawnerDude": {
+    "Name": "MasterySpawnerDude",
+    "RewardEmotes": "emoji_mrp_facepalm",
+    "RewardPlayerIcons": "player_icon_mrp1",
+    "RewardTitles": "TitleMasteryMrp",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_mrp"
+  },
+  "MasterySpeedy": {
+    "Name": "MasterySpeedy",
+    "RewardEmotes": "emoji_max_facepalm",
+    "RewardPlayerIcons": "player_icon_max1",
+    "RewardTitles": "TitleMasteryMax",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_max"
+  },
+  "MasteryDriller": {
+    "Name": "MasteryDriller",
+    "RewardEmotes": "emoji_jacky_facepalm",
+    "RewardPlayerIcons": "player_icon_jacky1",
+    "RewardTitles": "TitleMasteryJacky",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_jacky"
+  },
+  "MasteryBlower": {
+    "Name": "MasteryBlower",
+    "RewardEmotes": "emoji_gale_facepalm",
+    "RewardPlayerIcons": "player_icon_gale1",
+    "RewardTitles": "TitleMasteryGale",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_gale"
+  },
+  "MasteryController": {
+    "Name": "MasteryController",
+    "RewardEmotes": "emoji_nani_facepalm",
+    "RewardPlayerIcons": "player_icon_nani1",
+    "RewardTitles": "TitleMasteryNani",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_nani"
+  },
+  "MasteryWally": {
+    "Name": "MasteryWally",
+    "RewardEmotes": "emoji_sprout_facepalm",
+    "RewardPlayerIcons": "player_icon_sprout1",
+    "RewardTitles": "TitleMasterySprout",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_sprout"
+  },
+  "MasteryPowerLeveler": {
+    "Name": "MasteryPowerLeveler",
+    "RewardEmotes": "emoji_surge_facepalm",
+    "RewardPlayerIcons": "player_icon_surge1",
+    "RewardTitles": "TitleMasterySurge",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_surge"
+  },
+  "MasteryPercenter": {
+    "Name": "MasteryPercenter",
+    "RewardEmotes": "emoji_colette_facepalm",
+    "RewardPlayerIcons": "player_icon_colette1",
+    "RewardTitles": "TitleMasteryColette",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_colette"
+  },
+  "MasteryFireDude": {
+    "Name": "MasteryFireDude",
+    "RewardEmotes": "emoji_amber_facepalm",
+    "RewardPlayerIcons": "player_icon_amber1",
+    "RewardTitles": "TitleMasteryAmber",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_amber"
+  },
+  "MasteryIceDude": {
+    "Name": "MasteryIceDude",
+    "RewardEmotes": "emoji_lou_facepalm",
+    "RewardPlayerIcons": "player_icon_lou1",
+    "RewardTitles": "TitleMasteryLou",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_lou"
+  },
+  "MasterySnakeOil": {
+    "Name": "MasterySnakeOil",
+    "RewardEmotes": "emoji_byron_facepalm",
+    "RewardPlayerIcons": "player_icon_byron1",
+    "RewardTitles": "TitleMasteryByron",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_byron"
+  },
+  "MasteryEnrager": {
+    "Name": "MasteryEnrager",
+    "RewardEmotes": "emoji_edgar_facepalm",
+    "RewardPlayerIcons": "player_icon_edgar1",
+    "RewardTitles": "TitleMasteryEdgar",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_edgar"
+  },
+  "MasteryRuffs": {
+    "Name": "MasteryRuffs",
+    "RewardEmotes": "emoji_ruffs_facepalm",
+    "RewardPlayerIcons": "player_icon_ruffs1",
+    "RewardTitles": "TitleMasteryRuffs",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_ruffs"
+  },
+  "MasteryRoller": {
+    "Name": "MasteryRoller",
+    "RewardEmotes": "emoji_stu_facepalm",
+    "RewardPlayerIcons": "player_icon_stu1",
+    "RewardTitles": "TitleMasteryStu",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_stu"
+  },
+  "MasteryElectroSniper": {
+    "Name": "MasteryElectroSniper",
+    "RewardEmotes": "emoji_belle_facepalm",
+    "RewardPlayerIcons": "player_icon_belle1",
+    "RewardTitles": "TitleMasteryBelle",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_belle"
+  },
+  "MasteryStickyBomb": {
+    "Name": "MasteryStickyBomb",
+    "RewardEmotes": "emoji_squeak_facepalm",
+    "RewardPlayerIcons": "player_icon_squeak1",
+    "RewardTitles": "TitleMasterySqueak",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_squeak"
+  },
+  "MasteryCrossBomber": {
+    "Name": "MasteryCrossBomber",
+    "RewardEmotes": "emoji_grom_facepalm",
+    "RewardPlayerIcons": "player_icon_grom1",
+    "RewardTitles": "TitleMasteryGrom",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_grom"
+  },
+  "MasteryRopeDude": {
+    "Name": "MasteryRopeDude",
+    "RewardEmotes": "emoji_buzz_facepalm",
+    "RewardPlayerIcons": "player_icon_buzz1",
+    "RewardTitles": "TitleMasteryBuzz",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_buzz"
+  },
+  "MasteryAssaultShotgun": {
+    "Name": "MasteryAssaultShotgun",
+    "RewardEmotes": "emoji_griff_facepalm",
+    "RewardPlayerIcons": "player_icon_griff1",
+    "RewardTitles": "TitleMasteryGriff",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_griff"
+  },
+  "MasteryKnight": {
+    "Name": "MasteryKnight",
+    "RewardEmotes": "emoji_ash_facepalm",
+    "RewardPlayerIcons": "player_icon_ash1",
+    "RewardTitles": "TitleMasteryAsh",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_ash"
+  },
+  "MasteryMechaDude": {
+    "Name": "MasteryMechaDude",
+    "RewardEmotes": "emoji_meg_facepalm",
+    "RewardPlayerIcons": "player_icon_meg1",
+    "RewardTitles": "TitleMasteryMeg",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_meg"
+  },
+  "MasteryDuplicator": {
+    "Name": "MasteryDuplicator",
+    "RewardEmotes": "emoji_lola_facepalm",
+    "RewardPlayerIcons": "player_icon_lola1",
+    "RewardTitles": "TitleMasteryLola",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_lola"
+  },
+  "MasteryKickerDude": {
+    "Name": "MasteryKickerDude",
+    "RewardEmotes": "emoji_fang_facepalm",
+    "RewardPlayerIcons": "player_icon_fang1",
+    "RewardTitles": "TitleMasteryFang",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_fang"
+  },
+  "MasteryFlea": {
+    "Name": "MasteryFlea",
+    "RewardEmotes": "emoji_eve_facepalm",
+    "RewardPlayerIcons": "player_icon_eve1",
+    "RewardTitles": "TitleMasteryEve",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_eve"
+  },
+  "MasteryJetpackGirl": {
+    "Name": "MasteryJetpackGirl",
+    "RewardEmotes": "emoji_janet_facepalm",
+    "RewardPlayerIcons": "player_icon_janet1",
+    "RewardTitles": "TitleMasteryJanet",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_janet"
+  },
+  "MasteryCannonGirl": {
+    "Name": "MasteryCannonGirl",
+    "RewardEmotes": "emoji_bonnie_facepalm",
+    "RewardPlayerIcons": "player_icon_bonnie1",
+    "RewardTitles": "TitleMasteryBonnie",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_bonnie"
+  },
+  "MasterySilencer": {
+    "Name": "MasterySilencer",
+    "RewardEmotes": "emoji_otto_facepalm",
+    "RewardPlayerIcons": "player_icon_otis1",
+    "RewardTitles": "TitleMasteryOtis",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_otis"
+  },
+  "MasteryWeaponThrower": {
+    "Name": "MasteryWeaponThrower",
+    "RewardEmotes": "emoji_bronson_facepalm",
+    "RewardPlayerIcons": "player_icon_sam1",
+    "RewardTitles": "TitleMasterySam",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_sam"
+  },
+  "MasterySoulCollector": {
+    "Name": "MasterySoulCollector",
+    "RewardEmotes": "emoji_gus_facepalm",
+    "RewardPlayerIcons": "player_icon_gus1",
+    "RewardTitles": "TitleMasteryGus",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_gus"
+  },
+  "MasteryShieldTank": {
+    "Name": "MasteryShieldTank",
+    "RewardEmotes": "emoji_cameron_facepalm",
+    "RewardPlayerIcons": "player_icon_buster1",
+    "RewardTitles": "TitleMasteryBuster",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_buster"
+  },
+  "MasteryJester": {
+    "Name": "MasteryJester",
+    "RewardEmotes": "emoji_chester_facepalm",
+    "RewardPlayerIcons": "player_icon_chester1",
+    "RewardTitles": "TitleMasteryChester",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_chester"
+  },
+  "MasteryDoorMan": {
+    "Name": "MasteryDoorMan",
+    "RewardEmotes": "emoji_gray_facepalm",
+    "RewardPlayerIcons": "player_icon_gray1",
+    "RewardTitles": "TitleMasteryGray",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_gray"
+  },
+  "MasteryBeamer": {
+    "Name": "MasteryBeamer",
+    "RewardEmotes": "emoji_mandy_facepalm",
+    "RewardPlayerIcons": "player_icon_mandy1",
+    "RewardTitles": "TitleMasteryMandy",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_mandy"
+  },
+  "MasterySplitter": {
+    "Name": "MasterySplitter",
+    "RewardEmotes": "emoji_rt_facepalm",
+    "RewardPlayerIcons": "player_icon_rt1",
+    "RewardTitles": "TitleMasteryRT",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_rt"
+  },
+  "MasteryPuppeteer": {
+    "Name": "MasteryPuppeteer",
+    "RewardEmotes": "emoji_willow_facepalm",
+    "RewardPlayerIcons": "player_icon_willow1",
+    "RewardTitles": "TitleMasteryWillow",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_willow"
+  },
+  "MasteryMaisie": {
+    "Name": "MasteryMaisie",
+    "RewardEmotes": "emoji_maisie_facepalm",
+    "RewardPlayerIcons": "player_icon_maisie1",
+    "RewardTitles": "TitleMasteryMaisie",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_maisie"
+  },
+  "MasteryFishTank": {
+    "Name": "MasteryFishTank",
+    "RewardEmotes": "emoji_lilt_facepalm",
+    "RewardPlayerIcons": "player_icon_lilt1",
+    "RewardTitles": "TitleMasteryFishTank",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_lilt"
+  },
+  "MasteryDuelist": {
+    "Name": "MasteryDuelist",
+    "RewardEmotes": "emoji_tox_facepalm",
+    "RewardPlayerIcons": "player_icon_cordelius1",
+    "RewardTitles": "TitleMasteryCordelius",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_cornelius"
+  },
+  "MasteryReviver": {
+    "Name": "MasteryReviver",
+    "RewardEmotes": "emoji_dino_facepalm",
+    "RewardPlayerIcons": "player_icon_doug1",
+    "RewardTitles": "TitleMasteryDoug",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_doug"
+  },
+  "MasteryCooker": {
+    "Name": "MasteryCooker",
+    "RewardEmotes": "emoji_pearl_facepalm",
+    "RewardPlayerIcons": "player_icon_pearl1",
+    "RewardTitles": "TitleMasteryPearl",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_pearl"
+  },
+  "MasteryConductor": {
+    "Name": "MasteryConductor",
+    "RewardEmotes": "emoji_chuck_facepalm",
+    "RewardPlayerIcons": "player_icon_chuck1",
+    "RewardTitles": "TitleMasteryChuck",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_chuck"
+  }
+}

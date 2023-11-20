@@ -1,0 +1,17 @@
+{
+  "1": {
+    "Name": "1",
+    "GearTokens": 1,
+    "GearScrap": 40
+  },
+  "2": {
+    "Name": "2",
+    "GearTokens": 1,
+    "GearScrap": 100
+  },
+  "3": {
+    "Name": "3",
+    "GearTokens": 2,
+    "GearScrap": 200
+  }
+}

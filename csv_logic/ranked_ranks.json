@@ -1,0 +1,171 @@
+{
+  "Bronze I": {
+    "Name": "Bronze I",
+    "Rank": 1,
+    "TID": "TID_RANKED_BRONZE_I",
+    "HexColor": "0xFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Bronze II": {
+    "Name": "Bronze II",
+    "Rank": 2,
+    "TID": "TID_RANKED_BRONZE_II",
+    "HexColor": "0xFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Bronze III": {
+    "Name": "Bronze III",
+    "Rank": 3,
+    "TID": "TID_RANKED_BRONZE_III",
+    "HexColor": "0xFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Silver I": {
+    "Name": "Silver I",
+    "Rank": 4,
+    "TID": "TID_RANKED_SILVER_I",
+    "HexColor": "0xC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Silver II": {
+    "Name": "Silver II",
+    "Rank": 5,
+    "TID": "TID_RANKED_SILVER_II",
+    "HexColor": "0xC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Silver III": {
+    "Name": "Silver III",
+    "Rank": 6,
+    "TID": "TID_RANKED_SILVER_III",
+    "HexColor": "0xC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Gold I": {
+    "Name": "Gold I",
+    "Rank": 7,
+    "TID": "TID_RANKED_GOLD_I",
+    "HexColor": "0xFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Gold II": {
+    "Name": "Gold II",
+    "Rank": 8,
+    "TID": "TID_RANKED_GOLD_II",
+    "HexColor": "0xFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Gold III": {
+    "Name": "Gold III",
+    "Rank": 9,
+    "TID": "TID_RANKED_GOLD_III",
+    "HexColor": "0xFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Diamond I": {
+    "Name": "Diamond I",
+    "Rank": 10,
+    "TID": "TID_RANKED_DIAMOND_I",
+    "HexColor": "0x33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Diamond II": {
+    "Name": "Diamond II",
+    "Rank": 11,
+    "TID": "TID_RANKED_DIAMOND_II",
+    "HexColor": "0x33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Diamond III": {
+    "Name": "Diamond III",
+    "Rank": 12,
+    "TID": "TID_RANKED_DIAMOND_III",
+    "HexColor": "0x33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Mythic I": {
+    "Name": "Mythic I",
+    "Rank": 13,
+    "TID": "TID_RANKED_MYTHIC_I",
+    "HexColor": "0xFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Mythic II": {
+    "Name": "Mythic II",
+    "Rank": 14,
+    "TID": "TID_RANKED_MYTHIC_II",
+    "HexColor": "0xFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Mythic III": {
+    "Name": "Mythic III",
+    "Rank": 15,
+    "TID": "TID_RANKED_MYTHIC_III",
+    "HexColor": "0xFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Legendary I": {
+    "Name": "Legendary I",
+    "Rank": 16,
+    "TID": "TID_RANKED_LEGENDARY_I",
+    "HexColor": "0xF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_0"
+  },
+  "Legendary II": {
+    "Name": "Legendary II",
+    "Rank": 17,
+    "TID": "TID_RANKED_LEGENDARY_II",
+    "HexColor": "0xF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_1"
+  },
+  "Legendary III": {
+    "Name": "Legendary III",
+    "Rank": 18,
+    "TID": "TID_RANKED_LEGENDARY_III",
+    "HexColor": "0xF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_PLAYER_RANK_TIER_2"
+  },
+  "Masters": {
+    "Name": "Masters",
+    "Rank": 19,
+    "TID": "TID_RANKED_MASTERS",
+    "HexColor": "0xFFFFFF",
+    "FrameLabel": "masters"
+  }
+}

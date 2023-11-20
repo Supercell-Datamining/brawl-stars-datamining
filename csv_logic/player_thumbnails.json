@@ -1,0 +1,3239 @@
+{
+  "base1": {
+    "Name": "base1",
+    "LegacyExpLevelLimit": 1,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_00",
+    "SortOrder": 0
+  },
+  "base2": {
+    "Name": "base2",
+    "LegacyExpLevelLimit": 10,
+    "RequiredTotalTrophies": 100,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_01",
+    "SortOrder": 1
+  },
+  "base3": {
+    "Name": "base3",
+    "LegacyExpLevelLimit": 20,
+    "RequiredTotalTrophies": 1000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_02",
+    "SortOrder": 2
+  },
+  "hero1": {
+    "Name": "hero1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "ShotgunGirl",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_shelly",
+    "SortOrder": 101
+  },
+  "hero2": {
+    "Name": "hero2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Gunslinger",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colt",
+    "SortOrder": 103
+  },
+  "hero3": {
+    "Name": "hero3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "RocketGirl",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brock",
+    "SortOrder": 106
+  },
+  "hero4": {
+    "Name": "hero4",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Mechanic",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jess",
+    "SortOrder": 105
+  },
+  "hero5": {
+    "Name": "hero5",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Shaman",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nita",
+    "SortOrder": 102
+  },
+  "hero6": {
+    "Name": "hero6",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "TntDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mike",
+    "SortOrder": 107
+  },
+  "hero7": {
+    "Name": "hero7",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Luchador",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_primo",
+    "SortOrder": 201
+  },
+  "hero8": {
+    "Name": "hero8",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "BullDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bull",
+    "SortOrder": 104
+  },
+  "hero9": {
+    "Name": "hero9",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "TrickshotDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rick",
+    "SortOrder": 301
+  },
+  "hero10": {
+    "Name": "hero10",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Barkeep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_barley",
+    "SortOrder": 202
+  },
+  "hero11": {
+    "Name": "hero11",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "DeadMariachi",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_poco",
+    "SortOrder": 203
+  },
+  "hero12": {
+    "Name": "hero12",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Undertaker",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mortis",
+    "SortOrder": 501
+  },
+  "hero13": {
+    "Name": "hero13",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "BowDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bo",
+    "SortOrder": 108
+  },
+  "hero14": {
+    "Name": "hero14",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Cactus",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_spike",
+    "SortOrder": 601
+  },
+  "hero15": {
+    "Name": "hero15",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Crow",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_crow",
+    "SortOrder": 602
+  },
+  "hero16": {
+    "Name": "hero16",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Sniper",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_piper",
+    "SortOrder": 401
+  },
+  "base4": {
+    "Name": "base4",
+    "LegacyExpLevelLimit": 40,
+    "RequiredTotalTrophies": 2500,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_03",
+    "SortOrder": 3
+  },
+  "base5": {
+    "Name": "base5",
+    "LegacyExpLevelLimit": 60,
+    "RequiredTotalTrophies": 4000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_04",
+    "SortOrder": 4
+  },
+  "base6": {
+    "Name": "base6",
+    "LegacyExpLevelLimit": 80,
+    "RequiredTotalTrophies": 6000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_05",
+    "SortOrder": 5
+  },
+  "base7": {
+    "Name": "base7",
+    "LegacyExpLevelLimit": 100,
+    "RequiredTotalTrophies": 7500,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_06",
+    "SortOrder": 6
+  },
+  "base8": {
+    "Name": "base8",
+    "LegacyExpLevelLimit": 120,
+    "RequiredTotalTrophies": 9000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_07",
+    "SortOrder": 7
+  },
+  "trophy1": {
+    "Name": "trophy1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 500,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_trophy_00",
+    "SortOrder": 8
+  },
+  "trophy2": {
+    "Name": "trophy2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 1000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_trophy_01",
+    "SortOrder": 9
+  },
+  "trophy3": {
+    "Name": "trophy3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 2000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_trophy_02",
+    "SortOrder": 10
+  },
+  "trophy4": {
+    "Name": "trophy4",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 3000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_trophy_03",
+    "SortOrder": 11
+  },
+  "hero17": {
+    "Name": "hero17",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "MinigunDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mj",
+    "SortOrder": 402
+  },
+  "hero18": {
+    "Name": "hero18",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "BlackHole",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_taro",
+    "SortOrder": 502
+  },
+  "trophy5": {
+    "Name": "trophy5",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 5000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_elite_00",
+    "SortOrder": 12
+  },
+  "trophy6": {
+    "Name": "trophy6",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 7000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_elite_01",
+    "SortOrder": 13
+  },
+  "trophy7": {
+    "Name": "trophy7",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 10000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_elite_02",
+    "SortOrder": 14
+  },
+  "trophy8": {
+    "Name": "trophy8",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 13000,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_elite_03",
+    "SortOrder": 15
+  },
+  "hero19": {
+    "Name": "hero19",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "BarrelBot",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_barrelbot",
+    "SortOrder": 302
+  },
+  "hero20": {
+    "Name": "hero20",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "ArtilleryDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_penny",
+    "SortOrder": 303
+  },
+  "hero21": {
+    "Name": "hero21",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "HammerDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_frank",
+    "SortOrder": 403
+  },
+  "hero22": {
+    "Name": "hero22",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Ninja",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_leon",
+    "SortOrder": 603
+  },
+  "hero23": {
+    "Name": "hero23",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "HookDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gene",
+    "SortOrder": 503
+  },
+  "hero24": {
+    "Name": "hero24",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Whirlwind",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_carl",
+    "SortOrder": 304
+  },
+  "hero25": {
+    "Name": "hero25",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Rosa",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rosa",
+    "SortOrder": 204
+  },
+  "hero26": {
+    "Name": "hero26",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Baseball",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bibi",
+    "SortOrder": 404
+  },
+  "hero27": {
+    "Name": "hero27",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "ClusterBombDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_tick",
+    "SortOrder": 109
+  },
+  "hero28": {
+    "Name": "hero28",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Arcade",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_8bit",
+    "SortOrder": 110
+  },
+  "hero29": {
+    "Name": "hero29",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Sandstorm",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sandy",
+    "SortOrder": 604
+  },
+  "hero30": {
+    "Name": "hero30",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Mummy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_emz",
+    "SortOrder": 111
+  },
+  "hero31": {
+    "Name": "hero31",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "BeeSniper",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bea",
+    "SortOrder": 405
+  },
+  "hero32": {
+    "Name": "hero32",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Speedy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_max",
+    "SortOrder": 504
+  },
+  "hero33": {
+    "Name": "hero33",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "SpawnerDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mrp",
+    "SortOrder": 505
+  },
+  "hero34": {
+    "Name": "hero34",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Driller",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jacky",
+    "SortOrder": 305
+  },
+  "hero35": {
+    "Name": "hero35",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Wally",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sprout",
+    "SortOrder": 506
+  },
+  "hero36": {
+    "Name": "hero36",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Blower",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gale",
+    "SortOrder": 701
+  },
+  "hero37": {
+    "Name": "hero37",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Controller",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nani",
+    "SortOrder": 406
+  },
+  "hero38": {
+    "Name": "hero38",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "PowerLeveler",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_surge",
+    "SortOrder": 702
+  },
+  "hero39": {
+    "Name": "hero39",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Percenter",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colette",
+    "SortOrder": 703
+  },
+  "hero40": {
+    "Name": "hero40",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "FireDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_amber",
+    "SortOrder": 605
+  },
+  "hero41": {
+    "Name": "hero41",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "IceDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lou",
+    "SortOrder": 704
+  },
+  "hero42": {
+    "Name": "hero42",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "SnakeOil",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_byron",
+    "SortOrder": 507
+  },
+  "hero43": {
+    "Name": "hero43",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Enrager",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_edgar",
+    "SortOrder": 407
+  },
+  "hero44": {
+    "Name": "hero44",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Ruffs",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ruffs",
+    "SortOrder": 705
+  },
+  "rank01": {
+    "Name": "rank01",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_starrforce_01",
+    "SortOrder": 1000,
+    "IsReward": true
+  },
+  "rank02": {
+    "Name": "rank02",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_starrforce_02",
+    "SortOrder": 1001,
+    "IsReward": true
+  },
+  "hero45": {
+    "Name": "hero45",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Roller",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stu",
+    "SortOrder": 112
+  },
+  "rank03": {
+    "Name": "rank03",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_actionshow_01",
+    "SortOrder": 1002,
+    "IsReward": true
+  },
+  "rank04": {
+    "Name": "rank04",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_actionshow_02",
+    "SortOrder": 1003,
+    "IsReward": true
+  },
+  "hero46": {
+    "Name": "hero46",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "ElectroSniper",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_belle",
+    "SortOrder": 706
+  },
+  "hero47": {
+    "Name": "hero47",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "StickyBomb",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_squeak",
+    "SortOrder": 508
+  },
+  "hero48": {
+    "Name": "hero48",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "RopeDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_buzz",
+    "SortOrder": 707
+  },
+  "hero49": {
+    "Name": "hero49",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "AssaultShotgun",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_griff",
+    "SortOrder": 408
+  },
+  "rank05": {
+    "Name": "rank05",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_velocirapids_01",
+    "SortOrder": 1004,
+    "IsReward": true
+  },
+  "rank06": {
+    "Name": "rank06",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_velocirapids_02",
+    "SortOrder": 1005,
+    "IsReward": true
+  },
+  "hero50": {
+    "Name": "hero50",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Knight",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ash",
+    "SortOrder": 708
+  },
+  "rank07": {
+    "Name": "rank07",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ft_01",
+    "SortOrder": 1006,
+    "IsReward": true
+  },
+  "rank08": {
+    "Name": "rank08",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ft_02",
+    "SortOrder": 1007,
+    "IsReward": true
+  },
+  "hero51": {
+    "Name": "hero51",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "MechaDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_meg",
+    "SortOrder": 606
+  },
+  "hero52": {
+    "Name": "hero52",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Duplicator",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lolla",
+    "SortOrder": 709
+  },
+  "rank09": {
+    "Name": "rank09",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bw_01",
+    "SortOrder": 1008,
+    "IsReward": true
+  },
+  "rank10": {
+    "Name": "rank10",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bw_02",
+    "SortOrder": 1009,
+    "IsReward": true
+  },
+  "rank11": {
+    "Name": "rank11",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny2022_01",
+    "SortOrder": 1010,
+    "IsReward": true
+  },
+  "rank12": {
+    "Name": "rank12",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny2022_02",
+    "SortOrder": 1011,
+    "IsReward": true
+  },
+  "hero53": {
+    "Name": "hero53",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "CrossBomber",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_grom",
+    "SortOrder": 409
+  },
+  "hero54": {
+    "Name": "hero54",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "KickerDude",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_fang",
+    "SortOrder": 710
+  },
+  "hero55": {
+    "Name": "hero55",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Flea",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_eve",
+    "SortOrder": 711
+  },
+  "rank13": {
+    "Name": "rank13",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_biodome_01",
+    "SortOrder": 1012,
+    "IsReward": true
+  },
+  "rank14": {
+    "Name": "rank14",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_biodome_02",
+    "SortOrder": 1013,
+    "IsReward": true
+  },
+  "hero56": {
+    "Name": "hero56",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "JetpackGirl",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_janet",
+    "SortOrder": 712
+  },
+  "hero57": {
+    "Name": "hero57",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "CannonGirl",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bonnie",
+    "SortOrder": 410
+  },
+  "rank15": {
+    "Name": "rank15",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stuntshow_01",
+    "SortOrder": 1014,
+    "IsReward": true
+  },
+  "rank16": {
+    "Name": "rank16",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stuntshow_02",
+    "SortOrder": 1015,
+    "IsReward": true
+  },
+  "player_icon_tick1": {
+    "Name": "player_icon_tick1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_tick1",
+    "SortOrder": 2001,
+    "IsReward": true
+  },
+  "player_icon_stu1": {
+    "Name": "player_icon_stu1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stu1",
+    "SortOrder": 2002,
+    "IsReward": true
+  },
+  "player_icon_shelly1": {
+    "Name": "player_icon_shelly1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_shelly1",
+    "SortOrder": 2003,
+    "IsReward": true
+  },
+  "player_icon_nita1": {
+    "Name": "player_icon_nita1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nita1",
+    "SortOrder": 2004,
+    "IsReward": true
+  },
+  "player_icon_jessie1": {
+    "Name": "player_icon_jessie1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jessie1",
+    "SortOrder": 2005,
+    "IsReward": true
+  },
+  "player_icon_emz1": {
+    "Name": "player_icon_emz1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_emz1",
+    "SortOrder": 2006,
+    "IsReward": true
+  },
+  "player_icon_dynamike1": {
+    "Name": "player_icon_dynamike1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_dynamike1",
+    "SortOrder": 2007,
+    "IsReward": true
+  },
+  "player_icon_colt1": {
+    "Name": "player_icon_colt1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colt1",
+    "SortOrder": 2008,
+    "IsReward": true
+  },
+  "player_icon_bull1": {
+    "Name": "player_icon_bull1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bull1",
+    "SortOrder": 2009,
+    "IsReward": true
+  },
+  "player_icon_brock1": {
+    "Name": "player_icon_brock1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brock1",
+    "SortOrder": 2010,
+    "IsReward": true
+  },
+  "player_icon_bo1": {
+    "Name": "player_icon_bo1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bo1",
+    "SortOrder": 2011,
+    "IsReward": true
+  },
+  "player_icon_8bit1": {
+    "Name": "player_icon_8bit1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_8bit1",
+    "SortOrder": 2012,
+    "IsReward": true
+  },
+  "player_icon_villains": {
+    "Name": "player_icon_villains",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_villains",
+    "SortOrder": 3001,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_stuntshow": {
+    "Name": "player_icon_stuntshow",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stuntshow",
+    "SortOrder": 3002,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lantern": {
+    "Name": "player_icon_lantern",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lantern",
+    "SortOrder": 3003,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_goldenweek": {
+    "Name": "player_icon_goldenweek",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_goldenweek",
+    "SortOrder": 3004,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "hero58": {
+    "Name": "hero58",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Silencer",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_otis",
+    "SortOrder": 713
+  },
+  "rank17": {
+    "Name": "rank17",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_deepsea_01",
+    "SortOrder": 1016,
+    "IsReward": true
+  },
+  "rank18": {
+    "Name": "rank18",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_deepsea_02",
+    "SortOrder": 1017,
+    "IsReward": true
+  },
+  "player_icon_ruffs_bt21": {
+    "Name": "player_icon_ruffs_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ruffs_bt21",
+    "SortOrder": 4001,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "RuffsChimmy"
+  },
+  "player_icon_bull_bt21": {
+    "Name": "player_icon_bull_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bull_bt21",
+    "SortOrder": 4002,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "BullDudeMang"
+  },
+  "player_icon_bibi_bt21": {
+    "Name": "player_icon_bibi_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bibi_bt21",
+    "SortOrder": 4003,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "BaseballRj"
+  },
+  "player_icon_edgar_bt21": {
+    "Name": "player_icon_edgar_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_edgar_bt21",
+    "SortOrder": 4004,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "EnragerTata"
+  },
+  "player_icon_sandy_bt21": {
+    "Name": "player_icon_sandy_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sandy_bt21",
+    "SortOrder": 4005,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "SandstormKoya"
+  },
+  "player_icon_tick_bt21": {
+    "Name": "player_icon_tick_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_tick_bt21",
+    "SortOrder": 4006,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ClusterBombDudeShooky"
+  },
+  "player_icon_jacky_bt21": {
+    "Name": "player_icon_jacky_bt21",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jacky_bt21",
+    "SortOrder": 4007,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "DrillerCooky"
+  },
+  "player_icon_deepsea": {
+    "Name": "player_icon_deepsea",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_deepsea",
+    "SortOrder": 3005,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_primo1": {
+    "Name": "player_icon_primo1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_primo1",
+    "SortOrder": 2013,
+    "IsReward": true
+  },
+  "player_icon_barley1": {
+    "Name": "player_icon_barley1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_barley1",
+    "SortOrder": 2014,
+    "IsReward": true
+  },
+  "player_icon_rosa1": {
+    "Name": "player_icon_rosa1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rosa1",
+    "SortOrder": 2015,
+    "IsReward": true
+  },
+  "player_icon_poco1": {
+    "Name": "player_icon_poco1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_poco1",
+    "SortOrder": 2016,
+    "IsReward": true
+  },
+  "player_icon_darryl1": {
+    "Name": "player_icon_darryl1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_darryl1",
+    "SortOrder": 2017,
+    "IsReward": true
+  },
+  "player_icon_penny1": {
+    "Name": "player_icon_penny1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_penny1",
+    "SortOrder": 2018,
+    "IsReward": true
+  },
+  "player_icon_carl1": {
+    "Name": "player_icon_carl1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_carl1",
+    "SortOrder": 2019,
+    "IsReward": true
+  },
+  "player_icon_rico1": {
+    "Name": "player_icon_rico1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rico1",
+    "SortOrder": 2020,
+    "IsReward": true
+  },
+  "player_icon_jacky1": {
+    "Name": "player_icon_jacky1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jacky1",
+    "SortOrder": 2020,
+    "IsReward": true
+  },
+  "player_icon_badrandoms": {
+    "Name": "player_icon_badrandoms",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_badrandoms",
+    "SortOrder": 3006,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_pirates": {
+    "Name": "player_icon_pirates",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pirates",
+    "SortOrder": 3007,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "rank19": {
+    "Name": "rank19",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lola_outlaw_01",
+    "SortOrder": 1018,
+    "IsReward": true
+  },
+  "rank20": {
+    "Name": "rank20",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lola_outlaw_02",
+    "SortOrder": 1019,
+    "IsReward": true
+  },
+  "player_icon_mortis_mecha": {
+    "Name": "player_icon_mortis_mecha",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mortis_mecha",
+    "SortOrder": 4008,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "UndertakerMecha"
+  },
+  "player_icon_outlaw": {
+    "Name": "player_icon_outlaw",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_outlaw",
+    "SortOrder": 3008,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_esports_intz": {
+    "Name": "player_icon_esports_intz",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_intz",
+    "SortOrder": 5001,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "DisableCatalogRelease": true,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_navi": {
+    "Name": "player_icon_esports_navi",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_navi",
+    "SortOrder": 5002,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_obey": {
+    "Name": "player_icon_esports_obey",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_obey",
+    "SortOrder": 5003,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "DisableCatalogRelease": true,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_qlash": {
+    "Name": "player_icon_esports_qlash",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_qlash",
+    "SortOrder": 5004,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_sk": {
+    "Name": "player_icon_esports_sk",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_sk",
+    "SortOrder": 5005,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_stmn": {
+    "Name": "player_icon_esports_stmn",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_stmn",
+    "SortOrder": 5006,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_tq": {
+    "Name": "player_icon_esports_tq",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_tq",
+    "SortOrder": 5007,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_tribe": {
+    "Name": "player_icon_esports_tribe",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_tribe",
+    "SortOrder": 5008,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_zeta": {
+    "Name": "player_icon_esports_zeta",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_zeta",
+    "SortOrder": 5009,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_totem": {
+    "Name": "player_icon_esports_totem",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_totem",
+    "SortOrder": 5010,
+    "IsAvailableForOffers": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_mecha": {
+    "Name": "player_icon_mecha",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mecha",
+    "SortOrder": 3009,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_robot_colt": {
+    "Name": "player_icon_robot_colt",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_robot_colt",
+    "SortOrder": 3010,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_robots_1": {
+    "Name": "player_icon_robots_1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_robots_1",
+    "SortOrder": 3011,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_robots_2": {
+    "Name": "player_icon_robots_2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_robots_2",
+    "SortOrder": 3012,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_robots_3": {
+    "Name": "player_icon_robots_3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_robots_3",
+    "SortOrder": 3013,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_robots_4": {
+    "Name": "player_icon_robots_4",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_robots_4",
+    "SortOrder": 3014,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_claw": {
+    "Name": "player_icon_claw",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_claw",
+    "SortOrder": 3015,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_defeat_them_all": {
+    "Name": "player_icon_defeat_them_all",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_defeat_them_all",
+    "SortOrder": 3016,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "hero59": {
+    "Name": "hero59",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "WeaponThrower",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bronson",
+    "SortOrder": 714
+  },
+  "hero60": {
+    "Name": "hero60",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "SoulCollector",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gus",
+    "SortOrder": 306
+  },
+  "player_icon_leon_ghost": {
+    "Name": "player_icon_leon_ghost",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_leon_ghost",
+    "SortOrder": 4009,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "NinjaGhost"
+  },
+  "player_icon_squeak_veteran1": {
+    "Name": "player_icon_squeak_veteran1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_squeak_veteran1",
+    "SortOrder": 4010,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "StickyBombVeteran"
+  },
+  "player_icon_squeak_veteran2": {
+    "Name": "player_icon_squeak_veteran2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_squeak_veteran2",
+    "SortOrder": 4011,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "StickyBombVeteran"
+  },
+  "rank21": {
+    "Name": "rank21",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colette_ghost1",
+    "SortOrder": 1020,
+    "IsReward": true
+  },
+  "rank22": {
+    "Name": "rank22",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colette_ghost2",
+    "SortOrder": 1021,
+    "IsReward": true
+  },
+  "player_icon_bscwf": {
+    "Name": "player_icon_bscwf",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bscwf",
+    "SortOrder": 5000,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lastbox": {
+    "Name": "player_icon_lastbox",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lastbox",
+    "SortOrder": 3017,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_ghosttrain": {
+    "Name": "player_icon_ghosttrain",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ghosttrain",
+    "SortOrder": 3018,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_action": {
+    "Name": "player_icon_action",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_action",
+    "SortOrder": 3019,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "hero61": {
+    "Name": "hero61",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "ShieldTank",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_buster",
+    "SortOrder": 715
+  },
+  "player_icon_brawlball": {
+    "Name": "player_icon_brawlball",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlball",
+    "SortOrder": 3020,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "rank23": {
+    "Name": "rank23",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ash_pl1",
+    "SortOrder": 1022,
+    "IsReward": true
+  },
+  "rank24": {
+    "Name": "rank24",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ash_pl2",
+    "SortOrder": 1023,
+    "IsReward": true
+  },
+  "player_icon_holidaybox": {
+    "Name": "player_icon_holidaybox",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_holidaybox",
+    "SortOrder": 3020,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_candyland_skull": {
+    "Name": "player_icon_candyland_skull",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_candyland_skull",
+    "SortOrder": 3021,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_candyland": {
+    "Name": "player_icon_candyland",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_candyland",
+    "SortOrder": 3022,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawlentines": {
+    "Name": "player_icon_brawlentines",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlentines",
+    "SortOrder": 3023,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_darkmas": {
+    "Name": "player_icon_darkmas",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_darkmas",
+    "SortOrder": 3024,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lny2023": {
+    "Name": "player_icon_lny2023",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny2023",
+    "SortOrder": 3025,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_anniversary1": {
+    "Name": "player_icon_anniversary1",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary1",
+    "SortOrder": 3026,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_anniversary2": {
+    "Name": "player_icon_anniversary2",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary2",
+    "SortOrder": 3027,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_anniversary3": {
+    "Name": "player_icon_anniversary3",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary3",
+    "SortOrder": 3028,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_anniversary4": {
+    "Name": "player_icon_anniversary4",
+    "DisabledCN": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary4",
+    "SortOrder": 3029,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawlidays1": {
+    "Name": "player_icon_brawlidays1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays1",
+    "SortOrder": 3030,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_brawlidays2": {
+    "Name": "player_icon_brawlidays2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays2",
+    "SortOrder": 3031,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_brawlidays3": {
+    "Name": "player_icon_brawlidays3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays3",
+    "SortOrder": 3032,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_brawlidays4": {
+    "Name": "player_icon_brawlidays4",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays4",
+    "SortOrder": 3033,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_brawlidays5": {
+    "Name": "player_icon_brawlidays5",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays5",
+    "SortOrder": 3034,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_brawlidays6": {
+    "Name": "player_icon_brawlidays6",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawlidays6",
+    "SortOrder": 3035,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lny1": {
+    "Name": "player_icon_lny1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny1",
+    "SortOrder": 3036,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lny2": {
+    "Name": "player_icon_lny2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny2",
+    "SortOrder": 3037,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_lny3": {
+    "Name": "player_icon_lny3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lny3",
+    "SortOrder": 3038,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "hero62": {
+    "Name": "hero62",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "DoorMan",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gray",
+    "SortOrder": 509
+  },
+  "hero63": {
+    "Name": "hero63",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Beamer",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mandy",
+    "SortOrder": 716
+  },
+  "hero64": {
+    "Name": "hero64",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Jester",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_chester",
+    "SortOrder": 607
+  },
+  "player_icon_creators": {
+    "Name": "player_icon_creators",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_creators",
+    "SortOrder": 3039,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_edgar1": {
+    "Name": "player_icon_edgar1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_edgar1",
+    "SortOrder": 2021,
+    "IsReward": true
+  },
+  "player_icon_bea1": {
+    "Name": "player_icon_bea1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bea1",
+    "SortOrder": 2022,
+    "IsReward": true
+  },
+  "player_icon_bibi1": {
+    "Name": "player_icon_bibi1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bibi1",
+    "SortOrder": 2023,
+    "IsReward": true
+  },
+  "player_icon_bonnie1": {
+    "Name": "player_icon_bonnie1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bonnie1",
+    "SortOrder": 2024,
+    "IsReward": true
+  },
+  "player_icon_frank1": {
+    "Name": "player_icon_frank1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_frank1",
+    "SortOrder": 2025,
+    "IsReward": true
+  },
+  "player_icon_griff1": {
+    "Name": "player_icon_griff1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_griff1",
+    "SortOrder": 2026,
+    "IsReward": true
+  },
+  "player_icon_grom1": {
+    "Name": "player_icon_grom1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_grom1",
+    "SortOrder": 2027,
+    "IsReward": true
+  },
+  "player_icon_nani1": {
+    "Name": "player_icon_nani1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nani1",
+    "SortOrder": 2028,
+    "IsReward": true
+  },
+  "player_icon_pam1": {
+    "Name": "player_icon_pam1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pam1",
+    "SortOrder": 2029,
+    "IsReward": true
+  },
+  "player_icon_piper1": {
+    "Name": "player_icon_piper1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_piper1",
+    "SortOrder": 2030,
+    "IsReward": true
+  },
+  "player_icon_byron1": {
+    "Name": "player_icon_byron1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_byron1",
+    "SortOrder": 2031,
+    "IsReward": true
+  },
+  "player_icon_gene1": {
+    "Name": "player_icon_gene1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gene1",
+    "SortOrder": 2032,
+    "IsReward": true
+  },
+  "player_icon_mrp1": {
+    "Name": "player_icon_mrp1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mrp1",
+    "SortOrder": 2033,
+    "IsReward": true
+  },
+  "player_icon_tara1": {
+    "Name": "player_icon_tara1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_tara1",
+    "SortOrder": 2034,
+    "IsReward": true
+  },
+  "player_icon_squeak1": {
+    "Name": "player_icon_squeak1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_squeak1",
+    "SortOrder": 2035,
+    "IsReward": true
+  },
+  "player_icon_max1": {
+    "Name": "player_icon_max1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_max1",
+    "SortOrder": 2036,
+    "IsReward": true
+  },
+  "player_icon_leon1": {
+    "Name": "player_icon_leon1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_leon1",
+    "SortOrder": 2037,
+    "IsReward": true
+  },
+  "player_icon_meg1": {
+    "Name": "player_icon_meg1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_meg1",
+    "SortOrder": 2039,
+    "IsReward": true
+  },
+  "player_icon_crow1": {
+    "Name": "player_icon_crow1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_crow1",
+    "SortOrder": 2040,
+    "IsReward": true
+  },
+  "player_icon_spike1": {
+    "Name": "player_icon_spike1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_spike1",
+    "SortOrder": 2041,
+    "IsReward": true
+  },
+  "player_icon_mortis1": {
+    "Name": "player_icon_mortis1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mortis1",
+    "SortOrder": 2042,
+    "IsReward": true
+  },
+  "player_icon_amber1": {
+    "Name": "player_icon_amber1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_amber1",
+    "SortOrder": 2043,
+    "IsReward": true
+  },
+  "player_icon_gale1": {
+    "Name": "player_icon_gale1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gale1",
+    "SortOrder": 2044,
+    "IsReward": true
+  },
+  "player_icon_colette1": {
+    "Name": "player_icon_colette1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colette1",
+    "SortOrder": 2046,
+    "IsReward": true
+  },
+  "player_icon_surge1": {
+    "Name": "player_icon_surge1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_surge1",
+    "SortOrder": 2047,
+    "IsReward": true
+  },
+  "player_icon_sandy1": {
+    "Name": "player_icon_sandy1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sandy1",
+    "SortOrder": 2045,
+    "IsReward": true
+  },
+  "player_icon_sprout1": {
+    "Name": "player_icon_sprout1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sprout1",
+    "SortOrder": 2038,
+    "IsReward": true
+  },
+  "player_icon_ruffs1": {
+    "Name": "player_icon_ruffs1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ruffs1",
+    "SortOrder": 2048,
+    "IsReward": true
+  },
+  "player_icon_belle1": {
+    "Name": "player_icon_belle1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_belle1",
+    "SortOrder": 2049,
+    "IsReward": true
+  },
+  "player_icon_otis1": {
+    "Name": "player_icon_otis1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_otis1",
+    "SortOrder": 2050,
+    "IsReward": true
+  },
+  "player_icon_janet1": {
+    "Name": "player_icon_janet1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_janet1",
+    "SortOrder": 2051,
+    "IsReward": true
+  },
+  "player_icon_carpet_carl": {
+    "Name": "player_icon_carpet_carl",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_carpet_carl",
+    "SortOrder": 3040,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "WhirlwindRamadan"
+  },
+  "player_icon_popstar_janet": {
+    "Name": "player_icon_popstar_janet",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_popstar_janet",
+    "SortOrder": 3041,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "JetpackGirlPopstar"
+  },
+  "player_icon_easter_nani": {
+    "Name": "player_icon_easter_nani",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_easter_nani",
+    "SortOrder": 3042,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ControllerEaster"
+  },
+  "rank25": {
+    "Name": "rank25",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_piper_pl1",
+    "SortOrder": 1024,
+    "IsReward": true
+  },
+  "rank26": {
+    "Name": "rank26",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_piper_pl2",
+    "SortOrder": 1025,
+    "IsReward": true
+  },
+  "player_icon_mask_dynamike": {
+    "Name": "player_icon_mask_dynamike",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mask_dynamike",
+    "SortOrder": 3043,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "TntDudeTengu"
+  },
+  "player_icon_mask_lola": {
+    "Name": "player_icon_mask_lola",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mask_lola",
+    "SortOrder": 3044,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "DuplicatorKitsune"
+  },
+  "player_icon_mask_otis": {
+    "Name": "player_icon_mask_otis",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mask_otis",
+    "SortOrder": 3045,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "SilencerOni"
+  },
+  "player_icon_masks": {
+    "Name": "player_icon_masks",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_masks",
+    "SortOrder": 3046,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_biodome": {
+    "Name": "player_icon_biodome",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_biodome",
+    "SortOrder": 3047,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_womenday": {
+    "Name": "player_icon_womenday",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_womenday",
+    "SortOrder": 3048,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_starr": {
+    "Name": "player_icon_starr",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_starr",
+    "SortOrder": 3049,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_gray1": {
+    "Name": "player_icon_gray1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gray1",
+    "SortOrder": 2038,
+    "IsReward": true
+  },
+  "player_icon_buzz1": {
+    "Name": "player_icon_buzz1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_buzz1",
+    "SortOrder": 2052,
+    "IsReward": true
+  },
+  "player_icon_ash1": {
+    "Name": "player_icon_ash1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_ash1",
+    "SortOrder": 2053,
+    "IsReward": true
+  },
+  "player_icon_fang1": {
+    "Name": "player_icon_fang1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_fang1",
+    "SortOrder": 2054,
+    "IsReward": true
+  },
+  "player_icon_gus1": {
+    "Name": "player_icon_gus1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gus1",
+    "SortOrder": 2055,
+    "IsReward": true
+  },
+  "player_icon_willow1": {
+    "Name": "player_icon_willow1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_willow1",
+    "SortOrder": 2056,
+    "IsReward": true
+  },
+  "player_icon_rt1": {
+    "Name": "player_icon_rt1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rt1",
+    "SortOrder": 2057,
+    "IsReward": true
+  },
+  "player_icon_chester1": {
+    "Name": "player_icon_chester1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_chester1",
+    "SortOrder": 2058,
+    "IsReward": true
+  },
+  "player_icon_eve1": {
+    "Name": "player_icon_eve1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_eve1",
+    "SortOrder": 2059,
+    "IsReward": true
+  },
+  "player_icon_lola1": {
+    "Name": "player_icon_lola1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lola1",
+    "SortOrder": 2060,
+    "IsReward": true
+  },
+  "player_icon_sam1": {
+    "Name": "player_icon_sam1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_sam1",
+    "SortOrder": 2061,
+    "IsReward": true
+  },
+  "player_icon_lou1": {
+    "Name": "player_icon_lou1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lou1",
+    "SortOrder": 2062,
+    "IsReward": true
+  },
+  "player_icon_easter2023": {
+    "Name": "player_icon_easter2023",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_easter2023",
+    "SortOrder": 3050,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_buster1": {
+    "Name": "player_icon_buster1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_buster1",
+    "SortOrder": 2063,
+    "IsReward": true
+  },
+  "player_icon_mandy1": {
+    "Name": "player_icon_mandy1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mandy1",
+    "SortOrder": 2064,
+    "IsReward": true
+  },
+  "hero65": {
+    "Name": "hero65",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Splitter",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_artie",
+    "SortOrder": 717
+  },
+  "hero66": {
+    "Name": "hero66",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Puppeteer",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_willow",
+    "SortOrder": 510
+  },
+  "player_icon_bunny_brigade": {
+    "Name": "player_icon_bunny_brigade",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bunny_brigade",
+    "SortOrder": 3051,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_jungle": {
+    "Name": "player_icon_jungle",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jungle",
+    "SortOrder": 3052,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_olympus": {
+    "Name": "player_icon_olympus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_olympus",
+    "SortOrder": 3053,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_gw1": {
+    "Name": "player_icon_gw1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gw1",
+    "SortOrder": 3054,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_gw2": {
+    "Name": "player_icon_gw2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gw2",
+    "SortOrder": 3055,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_gw3": {
+    "Name": "player_icon_gw3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_gw3",
+    "SortOrder": 3056,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_bp_jungle": {
+    "Name": "player_icon_bp_jungle",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bp_jungle",
+    "SortOrder": 3057,
+    "IsReward": true
+  },
+  "player_icon_colt_jungle": {
+    "Name": "player_icon_colt_jungle",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colt_jungle",
+    "SortOrder": 3058,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "GunslingerMonkey"
+  },
+  "player_icon_amazon_frog": {
+    "Name": "player_icon_amazon_frog",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_amazon_frog",
+    "SortOrder": 3059,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_maisie1": {
+    "Name": "player_icon_maisie1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_maisie1",
+    "SortOrder": 2065,
+    "IsReward": true
+  },
+  "player_icon_lilt1": {
+    "Name": "player_icon_lilt1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lilt1",
+    "SortOrder": 2065,
+    "IsReward": true
+  },
+  "rank27": {
+    "Name": "rank27",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_meg_jungle",
+    "SortOrder": 1026,
+    "IsReward": true
+  },
+  "player_icon_buster_jungle": {
+    "Name": "player_icon_buster_jungle",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_buster_jungle",
+    "SortOrder": 3060,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ShieldTankCroc"
+  },
+  "player_icon_max_jungle": {
+    "Name": "player_icon_max_jungle",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_max_jungle",
+    "SortOrder": 3061,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "SpeedyLeopard"
+  },
+  "player_icon_tick_olympus": {
+    "Name": "player_icon_tick_olympus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_tick_olympus",
+    "SortOrder": 3062,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ClusterBombDudeCerberus"
+  },
+  "player_icon_brock_olympus": {
+    "Name": "player_icon_brock_olympus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brock_olympus",
+    "SortOrder": 3063,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "RocketGirlZeus"
+  },
+  "player_icon_nani_olympus": {
+    "Name": "player_icon_nani_olympus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nani_olympus",
+    "SortOrder": 3064,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ControllerAres"
+  },
+  "player_icon_emz_gw": {
+    "Name": "player_icon_emz_gw",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_emz_gw",
+    "SortOrder": 3065,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "MummyHarajuku"
+  },
+  "hero67": {
+    "Name": "hero67",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Maisie",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_maisie",
+    "SortOrder": 718
+  },
+  "hero68": {
+    "Name": "hero68",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "FishTank",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_fishtank",
+    "SortOrder": 411
+  },
+  "player_icon_goldenkawaii": {
+    "Name": "player_icon_goldenkawaii",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_goldenkawaii",
+    "SortOrder": 3066,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_anniversary_china1": {
+    "Name": "player_icon_anniversary_china1",
+    "Disabled": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary_china1",
+    "SortOrder": 3067,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "DisableCatalogRelease": true
+  },
+  "player_icon_anniversary_china2": {
+    "Name": "player_icon_anniversary_china2",
+    "Disabled": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary_china2",
+    "SortOrder": 3068,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "DisableCatalogRelease": true
+  },
+  "player_icon_anniversary_china3": {
+    "Name": "player_icon_anniversary_china3",
+    "Disabled": true,
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_anniversary_china3",
+    "SortOrder": 3069,
+    "IsReward": true,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "DisableCatalogRelease": true
+  },
+  "player_icon_bp_enchanted": {
+    "Name": "player_icon_bp_enchanted",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bp_enchanted",
+    "SortOrder": 3070,
+    "IsReward": true
+  },
+  "player_icon_crow_phoenix": {
+    "Name": "player_icon_crow_phoenix",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_crow_phoenix",
+    "SortOrder": 3071,
+    "IsAvailableForOffers": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "CrowPheonix"
+  },
+  "player_icon_phoenix_fire": {
+    "Name": "player_icon_phoenix_fire",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_phoenix_fire",
+    "SortOrder": 3072,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_enchanted": {
+    "Name": "player_icon_enchanted",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_enchanted",
+    "SortOrder": 3073,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_velocirapids": {
+    "Name": "player_icon_velocirapids",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_velocirapids",
+    "SortOrder": 3074,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_cursed": {
+    "Name": "player_icon_cursed",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_cursed",
+    "SortOrder": 3075,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_goldball": {
+    "Name": "player_icon_goldball",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_goldball",
+    "SortOrder": 3076,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "player_icon_meg_cursed": {
+    "Name": "player_icon_meg_cursed",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_meg_cursed",
+    "SortOrder": 3077,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "MechaDudePirate"
+  },
+  "player_icon_griff_cursed": {
+    "Name": "player_icon_griff_cursed",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_griff_cursed",
+    "SortOrder": 3078,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "AssaultShotgunTreasure"
+  },
+  "player_icon_bibi_cursed": {
+    "Name": "player_icon_bibi_cursed",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bibi_cursed",
+    "SortOrder": 3079,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "BaseballPirate"
+  },
+  "player_icon_janet_enchanted": {
+    "Name": "player_icon_janet_enchanted",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_janet_enchanted",
+    "SortOrder": 3080,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "JetpackGirlDarkFairy"
+  },
+  "player_icon_surge_cursed": {
+    "Name": "player_icon_surge_cursed",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_surge_cursed",
+    "SortOrder": 3081,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "PowerLevelerKraken"
+  },
+  "player_icon_8bit_enchanted": {
+    "Name": "player_icon_8bit_enchanted",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_8bit_enchanted",
+    "SortOrder": 3082,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "ArcadeHauntedHouse"
+  },
+  "rank28": {
+    "Name": "rank28",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lou_enchanted",
+    "SortOrder": 1027,
+    "IsReward": true
+  },
+  "player_icon_chester_enchanted": {
+    "Name": "player_icon_chester_enchanted",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_chester_enchanted",
+    "SortOrder": 3084,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "JesterWoodspirit"
+  },
+  "player_icon_cordelius1": {
+    "Name": "player_icon_cordelius1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_cordelius1",
+    "SortOrder": 2066,
+    "IsReward": true
+  },
+  "player_icon_doug1": {
+    "Name": "player_icon_doug1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_doug1",
+    "SortOrder": 2066,
+    "IsReward": true
+  },
+  "hero69": {
+    "Name": "hero69",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Duelist",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_cordelius",
+    "SortOrder": 719
+  },
+  "hero70": {
+    "Name": "hero70",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Reviver",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_doug",
+    "SortOrder": 412
+  },
+  "player_icon_colt_overcharge": {
+    "Name": "player_icon_colt_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colt_overcharge",
+    "SortOrder": 6001,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Gunslinger"
+  },
+  "player_icon_bull_overcharge": {
+    "Name": "player_icon_bull_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bull_overcharge",
+    "SortOrder": 6002,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "BullDude"
+  },
+  "player_icon_jacky_overcharge": {
+    "Name": "player_icon_jacky_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jacky_overcharge",
+    "SortOrder": 6003,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Driller"
+  },
+  "player_icon_shelly_overcharge": {
+    "Name": "player_icon_shelly_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_shelly_overcharge",
+    "SortOrder": 6004,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "ShotgunGirl"
+  },
+  "player_icon_spike_overcharge": {
+    "Name": "player_icon_spike_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_spike_overcharge",
+    "SortOrder": 6005,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Cactus"
+  },
+  "rank29": {
+    "Name": "rank29",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_maisie_wasteland",
+    "SortOrder": 1028,
+    "IsReward": true
+  },
+  "player_icon_hank_wasteland": {
+    "Name": "player_icon_hank_wasteland",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_hank_wasteland",
+    "SortOrder": 3083,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "FishTankWasteland"
+  },
+  "player_icon_willow_wasteland": {
+    "Name": "player_icon_willow_wasteland",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_willow_wasteland",
+    "SortOrder": 3084,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "PuppeteerWasteland"
+  },
+  "player_icon_cordelius_wasteland": {
+    "Name": "player_icon_cordelius_wasteland",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_cordelius_wasteland",
+    "SortOrder": 3085,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "DuelistWasteland"
+  },
+  "player_icon_stu_university": {
+    "Name": "player_icon_stu_university",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_stu_university",
+    "SortOrder": 3086,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "RollerUniversity"
+  },
+  "player_icon_rosa_university": {
+    "Name": "player_icon_rosa_university",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rosa_university",
+    "SortOrder": 3087,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "RosaUniversity"
+  },
+  "player_icon_squeak_university": {
+    "Name": "player_icon_squeak_university",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_squeak_university",
+    "SortOrder": 3088,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "StickyBombUniversity"
+  },
+  "player_icon_janet_moon": {
+    "Name": "player_icon_janet_moon",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_janet_moon",
+    "SortOrder": 3089,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "JetpackGirlMoon"
+  },
+  "player_icon_mandy_harvest": {
+    "Name": "player_icon_mandy_harvest",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mandy_harvest",
+    "SortOrder": 3090,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "Beamerharvest"
+  },
+  "player_icon_edgar_mecha": {
+    "Name": "player_icon_edgar_mecha",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_edgar_mecha",
+    "SortOrder": 3090,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19,
+    "CatalogPreRequirementSkin": "EnragerMecha"
+  },
+  "player_icon_bp_wasteland": {
+    "Name": "player_icon_bp_wasteland",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bp_wasteland",
+    "SortOrder": 3091,
+    "IsReward": true
+  },
+  "player_icon_pearl1": {
+    "Name": "player_icon_pearl1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pearl1",
+    "SortOrder": 2066,
+    "IsReward": true
+  },
+  "player_icon_chuck1": {
+    "Name": "player_icon_chuck1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_chuck1",
+    "SortOrder": 2066,
+    "IsReward": true
+  },
+  "player_icon_pearl_overcharge": {
+    "Name": "player_icon_pearl_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pearl_overcharge",
+    "SortOrder": 6006,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Cooker"
+  },
+  "player_icon_brawloween1": {
+    "Name": "player_icon_brawloween1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawloween1",
+    "SortOrder": 3092,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawloween2": {
+    "Name": "player_icon_brawloween2",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawloween2",
+    "SortOrder": 3093,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawloween3": {
+    "Name": "player_icon_brawloween3",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawloween3",
+    "SortOrder": 3094,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawloween4": {
+    "Name": "player_icon_brawloween4",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawloween4",
+    "SortOrder": 3095,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_brawloween5": {
+    "Name": "player_icon_brawloween5",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brawloween5",
+    "SortOrder": 3096,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_classof2023": {
+    "Name": "player_icon_classof2023",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_classof2023",
+    "SortOrder": 3097,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_university": {
+    "Name": "player_icon_university",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_university",
+    "SortOrder": 3098,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_esports2023_badge": {
+    "Name": "player_icon_esports2023_badge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports2023_badge",
+    "SortOrder": 3099,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_mecha_edgar_event": {
+    "Name": "player_icon_mecha_edgar_event",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mecha_edgar_event",
+    "SortOrder": 3100,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_academy": {
+    "Name": "player_icon_academy",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_academy",
+    "SortOrder": 3101,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "hero71": {
+    "Name": "hero71",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Cooker",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pearl",
+    "SortOrder": 413
+  },
+  "hero72": {
+    "Name": "hero72",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Conductor",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_chuck",
+    "SortOrder": 720
+  },
+  "player_icon_esports_fut": {
+    "Name": "player_icon_esports_fut",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_fut",
+    "SortOrder": 5011,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_esports_luminosity": {
+    "Name": "player_icon_esports_luminosity",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_esports_luminosity",
+    "SortOrder": 5012,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WF_2020"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "TitleMasteryShelly": {
+    "Name": "TitleMasteryShelly",
+    "TitleTID": "TID_TITLE_MASTERY_SHELLY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryColt": {
+    "Name": "TitleMasteryColt",
+    "TitleTID": "TID_TITLE_MASTERY_COLT",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBull": {
+    "Name": "TitleMasteryBull",
+    "TitleTID": "TID_TITLE_MASTERY_BULL",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBrock": {
+    "Name": "TitleMasteryBrock",
+    "TitleTID": "TID_TITLE_MASTERY_BROCK",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryRico": {
+    "Name": "TitleMasteryRico",
+    "TitleTID": "TID_TITLE_MASTERY_RICO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySpike": {
+    "Name": "TitleMasterySpike",
+    "TitleTID": "TID_TITLE_MASTERY_SPIKE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBarley": {
+    "Name": "TitleMasteryBarley",
+    "TitleTID": "TID_TITLE_MASTERY_BARLEY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryJessie": {
+    "Name": "TitleMasteryJessie",
+    "TitleTID": "TID_TITLE_MASTERY_JESSIE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryNita": {
+    "Name": "TitleMasteryNita",
+    "TitleTID": "TID_TITLE_MASTERY_NITA",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryDynamike": {
+    "Name": "TitleMasteryDynamike",
+    "TitleTID": "TID_TITLE_MASTERY_DYNAMIKE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPrimo": {
+    "Name": "TitleMasteryPrimo",
+    "TitleTID": "TID_TITLE_MASTERY_ELPRIMO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMortis": {
+    "Name": "TitleMasteryMortis",
+    "TitleTID": "TID_TITLE_MASTERY_MORTIS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryCrow": {
+    "Name": "TitleMasteryCrow",
+    "TitleTID": "TID_TITLE_MASTERY_CROW",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPoco": {
+    "Name": "TitleMasteryPoco",
+    "TitleTID": "TID_TITLE_MASTERY_POCO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBo": {
+    "Name": "TitleMasteryBo",
+    "TitleTID": "TID_TITLE_MASTERY_BO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPiper": {
+    "Name": "TitleMasteryPiper",
+    "TitleTID": "TID_TITLE_MASTERY_PIPER",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPam": {
+    "Name": "TitleMasteryPam",
+    "TitleTID": "TID_TITLE_MASTERY_PAM",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryTara": {
+    "Name": "TitleMasteryTara",
+    "TitleTID": "TID_TITLE_MASTERY_TARA",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryDarryl": {
+    "Name": "TitleMasteryDarryl",
+    "TitleTID": "TID_TITLE_MASTERY_DARRYL",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPenny": {
+    "Name": "TitleMasteryPenny",
+    "TitleTID": "TID_TITLE_MASTERY_PENNY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryFrank": {
+    "Name": "TitleMasteryFrank",
+    "TitleTID": "TID_TITLE_MASTERY_FRANK",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGene": {
+    "Name": "TitleMasteryGene",
+    "TitleTID": "TID_TITLE_MASTERY_GENE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryTick": {
+    "Name": "TitleMasteryTick",
+    "TitleTID": "TID_TITLE_MASTERY_TICK",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryLeon": {
+    "Name": "TitleMasteryLeon",
+    "TitleTID": "TID_TITLE_MASTERY_LEON",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryRosa": {
+    "Name": "TitleMasteryRosa",
+    "TitleTID": "TID_TITLE_MASTERY_ROSA",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryCarl": {
+    "Name": "TitleMasteryCarl",
+    "TitleTID": "TID_TITLE_MASTERY_CARL",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBibi": {
+    "Name": "TitleMasteryBibi",
+    "TitleTID": "TID_TITLE_MASTERY_BIBI",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMastery8bit": {
+    "Name": "TitleMastery8bit",
+    "TitleTID": "TID_TITLE_MASTERY_8BIT",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySandy": {
+    "Name": "TitleMasterySandy",
+    "TitleTID": "TID_TITLE_MASTERY_SANDY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBea": {
+    "Name": "TitleMasteryBea",
+    "TitleTID": "TID_TITLE_MASTERY_BEA",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryEmz": {
+    "Name": "TitleMasteryEmz",
+    "TitleTID": "TID_TITLE_MASTERY_EMZ",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMrp": {
+    "Name": "TitleMasteryMrp",
+    "TitleTID": "TID_TITLE_MASTERY_MRP",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMax": {
+    "Name": "TitleMasteryMax",
+    "TitleTID": "TID_TITLE_MASTERY_MAX",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryJacky": {
+    "Name": "TitleMasteryJacky",
+    "TitleTID": "TID_TITLE_MASTERY_JACKY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGale": {
+    "Name": "TitleMasteryGale",
+    "TitleTID": "TID_TITLE_MASTERY_GALE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryNani": {
+    "Name": "TitleMasteryNani",
+    "TitleTID": "TID_TITLE_MASTERY_NANI",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySprout": {
+    "Name": "TitleMasterySprout",
+    "TitleTID": "TID_TITLE_MASTERY_SPROUT",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySurge": {
+    "Name": "TitleMasterySurge",
+    "TitleTID": "TID_TITLE_MASTERY_SURGE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryColette": {
+    "Name": "TitleMasteryColette",
+    "TitleTID": "TID_TITLE_MASTERY_COLETTE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryAmber": {
+    "Name": "TitleMasteryAmber",
+    "TitleTID": "TID_TITLE_MASTERY_AMBER",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryLou": {
+    "Name": "TitleMasteryLou",
+    "TitleTID": "TID_TITLE_MASTERY_LOU",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryByron": {
+    "Name": "TitleMasteryByron",
+    "TitleTID": "TID_TITLE_MASTERY_BYRON",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryEdgar": {
+    "Name": "TitleMasteryEdgar",
+    "TitleTID": "TID_TITLE_MASTERY_EDGAR",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryRuffs": {
+    "Name": "TitleMasteryRuffs",
+    "TitleTID": "TID_TITLE_MASTERY_RUFFS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryStu": {
+    "Name": "TitleMasteryStu",
+    "TitleTID": "TID_TITLE_MASTERY_STU",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBelle": {
+    "Name": "TitleMasteryBelle",
+    "TitleTID": "TID_TITLE_MASTERY_BELLE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySqueak": {
+    "Name": "TitleMasterySqueak",
+    "TitleTID": "TID_TITLE_MASTERY_SQUEAK",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGrom": {
+    "Name": "TitleMasteryGrom",
+    "TitleTID": "TID_TITLE_MASTERY_GROM",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBuzz": {
+    "Name": "TitleMasteryBuzz",
+    "TitleTID": "TID_TITLE_MASTERY_BUZZ",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGriff": {
+    "Name": "TitleMasteryGriff",
+    "TitleTID": "TID_TITLE_MASTERY_GRIFF",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryAsh": {
+    "Name": "TitleMasteryAsh",
+    "TitleTID": "TID_TITLE_MASTERY_ASH",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMeg": {
+    "Name": "TitleMasteryMeg",
+    "TitleTID": "TID_TITLE_MASTERY_MEG",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryLola": {
+    "Name": "TitleMasteryLola",
+    "TitleTID": "TID_TITLE_MASTERY_LOLA",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryFang": {
+    "Name": "TitleMasteryFang",
+    "TitleTID": "TID_TITLE_MASTERY_FANG",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryEve": {
+    "Name": "TitleMasteryEve",
+    "TitleTID": "TID_TITLE_MASTERY_EVE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryJanet": {
+    "Name": "TitleMasteryJanet",
+    "TitleTID": "TID_TITLE_MASTERY_JANET",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBonnie": {
+    "Name": "TitleMasteryBonnie",
+    "TitleTID": "TID_TITLE_MASTERY_BONNIE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryOtis": {
+    "Name": "TitleMasteryOtis",
+    "TitleTID": "TID_TITLE_MASTERY_OTIS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasterySam": {
+    "Name": "TitleMasterySam",
+    "TitleTID": "TID_TITLE_MASTERY_SAM",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGus": {
+    "Name": "TitleMasteryGus",
+    "TitleTID": "TID_TITLE_MASTERY_GUS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBuster": {
+    "Name": "TitleMasteryBuster",
+    "TitleTID": "TID_TITLE_MASTERY_BUSTER",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryChester": {
+    "Name": "TitleMasteryChester",
+    "TitleTID": "TID_TITLE_MASTERY_CHESTER",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryGray": {
+    "Name": "TitleMasteryGray",
+    "TitleTID": "TID_TITLE_MASTERY_GRAY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMandy": {
+    "Name": "TitleMasteryMandy",
+    "TitleTID": "TID_TITLE_MASTERY_MANDY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryRT": {
+    "Name": "TitleMasteryRT",
+    "TitleTID": "TID_TITLE_MASTERY_RT",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryWillow": {
+    "Name": "TitleMasteryWillow",
+    "TitleTID": "TID_TITLE_MASTERY_WILLOW",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMaisie": {
+    "Name": "TitleMasteryMaisie",
+    "TitleTID": "TID_TITLE_MASTERY_MAISIE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryFishTank": {
+    "Name": "TitleMasteryFishTank",
+    "TitleTID": "TID_TITLE_MASTERY_HANK",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryDoug": {
+    "Name": "TitleMasteryDoug",
+    "TitleTID": "TID_TITLE_MASTERY_DOUG",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryCordelius": {
+    "Name": "TitleMasteryCordelius",
+    "TitleTID": "TID_TITLE_MASTERY_CORDELIUS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryPearl": {
+    "Name": "TitleMasteryPearl",
+    "TitleTID": "TID_TITLE_MASTERY_PEARL",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryChuck": {
+    "Name": "TitleMasteryChuck",
+    "TitleTID": "TID_TITLE_MASTERY_CHUCK",
+    "Gradient": "PlayerTitleGold"
+  }
+}

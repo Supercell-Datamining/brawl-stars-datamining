@@ -1,0 +1,133 @@
+{
+  "BrawlerChoice": {
+    "Name": "BrawlerChoice",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_BRAWLER_CHOICE",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER_CHOICE",
+    "RewardTypes": 3,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_brawler_2",
+    "HudAsset": "login_calendar_hud_brawler_2",
+    "ChooseRewardAsset": "login_calendar_choose_brawler",
+    "FeaturedAsset": "login_calendar_featured_reward_brawler_2",
+    "RewardPanelFrame": "choose_brawler",
+    "FeaturedContainerFrame": "2_brawlers"
+  },
+  "BrawlerChoiceLast": {
+    "Name": "BrawlerChoiceLast",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_BRAWLER_CHOICE",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER_CHOICE",
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_last",
+    "HudAsset": "login_calendar_hud_brawler_2",
+    "ChooseRewardAsset": "login_calendar_choose_brawler",
+    "FeaturedAsset": "login_calendar_featured_reward_brawler_2",
+    "RewardPanelFrame": "choose_brawler",
+    "FeaturedContainerFrame": "2_brawlers"
+  },
+  "LevelUpgrade": {
+    "Name": "LevelUpgrade",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_LEVEL_UPGRADE",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_LEVEL_UPGRADE",
+    "RewardTypes": 34,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_upgrade",
+    "HudAsset": "login_calendar_hud_reward_upgrade",
+    "FeaturedAsset": "login_calendar_featured_reward_upgrade",
+    "RewardPanelFrame": "brawler_upgrade",
+    "FeaturedContainerFrame": "upgrade"
+  },
+  "Pin": {
+    "Name": "Pin",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_PIN",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_PIN",
+    "RewardTypes": 19,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_pin_1",
+    "HudAsset": "login_calendar_hud_reward_pin_1",
+    "FeaturedAsset": "login_calendar_featured_reward_pin_1",
+    "RewardPanelFrame": "1_pin",
+    "FeaturedContainerFrame": "1_pin"
+  },
+  "PinX2": {
+    "Name": "PinX2",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_PIN_X2",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_PIN_X2",
+    "RewardTypes": 20,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_pin_2",
+    "HudAsset": "login_calendar_hud_reward_pin_2",
+    "FeaturedAsset": "login_calendar_featured_reward_pin_2",
+    "RewardPanelFrame": "2_pins",
+    "FeaturedContainerFrame": "2_pins"
+  },
+  "Skin": {
+    "Name": "Skin",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_SKIN",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_SKIN",
+    "RewardTypes": 4,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_skin",
+    "HudAsset": "login_calendar_hud_reward_skin",
+    "FeaturedAsset": "login_calendar_featured_reward_skin",
+    "RewardPanelFrame": "skin",
+    "FeaturedContainerFrame": "skin"
+  },
+  "GadgetStarPowerChoice": {
+    "Name": "GadgetStarPowerChoice",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_GADGET_CHOICE",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_GADGET_CHOICE",
+    "RewardTypes": 5,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_item_2",
+    "HudAsset": "login_calendar_hud_reward_item_2",
+    "ChooseRewardAsset": "login_calendar_choose_item",
+    "FeaturedAsset": "login_calendar_featured_reward_item_2",
+    "RewardPanelFrame": "item_2",
+    "FeaturedContainerFrame": "item_2"
+  },
+  "HeroLvlUpMaterial": {
+    "Name": "HeroLvlUpMaterial",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_HERO_LVL_UP_MATERIAL",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_HERO_LVL_UP_MATERIAL",
+    "RewardTypes": 1,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_resource_coins",
+    "HudAsset": "login_calendar_hud_reward_resource_coins"
+  },
+  "PowerPoints": {
+    "Name": "PowerPoints",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_POWER_POINTS",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_POWER_POINTS",
+    "RewardTypes": 41,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_resource_power_points",
+    "HudAsset": "login_calendar_hud_reward_resource_power_points"
+  },
+  "RecruitTokens": {
+    "Name": "RecruitTokens",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_RECRUIT_TOKEN",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_RECRUIT_TOKEN",
+    "RewardTypes": 38,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_resource_recruit_tokens",
+    "HudAsset": "login_calendar_hud_reward_resource_recruit_tokens"
+  },
+  "Bling": {
+    "Name": "Bling",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_BLING",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_BLING",
+    "RewardTypes": 45,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_resource_cosmetic_coins",
+    "HudAsset": "login_calendar_hud_reward_resource_cosmetic_coins"
+  },
+  "Brawler": {
+    "Name": "Brawler",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_BRAWLER",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER",
+    "RewardTypes": 3,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_skin_single",
+    "HudAsset": "login_calendar_hud_brawler_1"
+  }
+}

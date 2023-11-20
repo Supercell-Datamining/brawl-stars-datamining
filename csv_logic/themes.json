@@ -1,0 +1,609 @@
+{
+  "Default": {
+    "Name": "Default",
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr",
+    "ThemeMusic": "MenuMusic"
+  },
+  "Winter": {
+    "Name": "Winter",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_snow_",
+    "ParticleStyle": "Snow",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Snow_brawl"
+  },
+  "LNY": {
+    "Name": "LNY",
+    "Disabled": true,
+    "FileName": "sc/background_lny.sc",
+    "ExportName": "bgr_cny",
+    "ThemeMusic": "Cnymenu_music"
+  },
+  "CR": {
+    "Name": "CR",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr_royale",
+    "ThemeMusic": "Brawl_royale_menu_music"
+  },
+  "Easter": {
+    "Name": "Easter",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr",
+    "ThemeMusic": "MenuMusic"
+  },
+  "GoldenWeek": {
+    "Name": "GoldenWeek",
+    "Disabled": true,
+    "FileName": "sc/background_gw.sc",
+    "ExportName": "bgr_gw",
+    "ThemeMusic": "Golden_Week_Menu"
+  },
+  "Retropolis": {
+    "Name": "Retropolis",
+    "Disabled": true,
+    "FileName": "sc/background_retro.sc",
+    "ExportName": "bgr_retro",
+    "ThemeMusic": "Retropolis_menu"
+  },
+  "Mecha": {
+    "Name": "Mecha",
+    "Disabled": true,
+    "FileName": "sc/background_mecha.sc",
+    "ExportName": "bgr_mecha",
+    "ThemeMusic": "MechMenuMusic"
+  },
+  "Halloween": {
+    "Name": "Halloween",
+    "Disabled": true,
+    "FileName": "sc/background_brawloween.sc",
+    "ExportName": "bgr_brawloween",
+    "ThemeMusic": "Halloween_menu"
+  },
+  "Brawlidays": {
+    "Name": "Brawlidays",
+    "Disabled": true,
+    "FileName": "sc/background_brawlidays.sc",
+    "ExportName": "bgr_brawlidays",
+    "ThemeMusic": "Xmas_Pirate_Menu"
+  },
+  "LNY20": {
+    "Name": "LNY20",
+    "Disabled": true,
+    "FileName": "sc/background_lny_20.sc",
+    "ExportName": "bgr_lny20",
+    "ThemeMusic": "Brawlcade_Menu"
+  },
+  "PSG": {
+    "Name": "PSG",
+    "Disabled": true,
+    "FileName": "sc/background_psg.sc",
+    "ExportName": "bgr_psg",
+    "ParticleFileName": "sc/ui.sc",
+    "ThemeMusic": "Footbrawl_menu_muzak"
+  },
+  "SC10": {
+    "Name": "SC10",
+    "Disabled": true,
+    "FileName": "sc/background_s_anniversary.sc",
+    "ExportName": "bgr_s_anniversary",
+    "ThemeMusic": "10th_Anniversary_Menu"
+  },
+  "Bazaar": {
+    "Name": "Bazaar",
+    "Disabled": true,
+    "FileName": "sc/background_t_bazaar.sc",
+    "ExportName": "bgr_t_bazaar",
+    "ThemeMusic": "Brawzaar_menu_muzak"
+  },
+  "Monsters": {
+    "Name": "Monsters",
+    "Disabled": true,
+    "FileName": "sc/background_scity.sc",
+    "ExportName": "bgr_scity",
+    "ThemeMusic": "Monsterbrawl_menu_muzak"
+  },
+  "Giftshop": {
+    "Name": "Giftshop",
+    "Disabled": true,
+    "FileName": "sc/background_giftshop.sc",
+    "ExportName": "bgr_giftshop",
+    "ThemeMusic": "Starpark_Menu_Music"
+  },
+  "MoonFestival20": {
+    "Name": "MoonFestival20",
+    "Disabled": true,
+    "FileName": "sc/background_moon_festival.sc",
+    "ExportName": "bgr_moon_festival",
+    "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "WF20": {
+    "Name": "WF20",
+    "Disabled": true,
+    "FileName": "sc/background_world_finals.sc",
+    "ExportName": "bgr_world_finals",
+    "ThemeMusic": "Elprimo_fire_menu"
+  },
+  "Brawloween_20": {
+    "Name": "Brawloween_20",
+    "Disabled": true,
+    "FileName": "sc/background_brawloween.sc",
+    "ExportName": "bgr_brawloween",
+    "ThemeMusic": "Elprimo_fire_menu"
+  },
+  "Winter_20": {
+    "Name": "Winter_20",
+    "Disabled": true,
+    "FileName": "sc/background_snowtel.sc",
+    "ExportName": "bgr_snowtel",
+    "ThemeMusic": "Snowtel_Menu"
+  },
+  "Winter_20_snow": {
+    "Name": "Winter_20_snow",
+    "Disabled": true,
+    "FileName": "sc/background_snowtel.sc",
+    "ExportName": "bgr_snowtel",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_snow_",
+    "ParticleStyle": "Snow",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Xmas_menu"
+  },
+  "StarrForce": {
+    "Name": "StarrForce",
+    "Disabled": true,
+    "FileName": "sc/background_ox.sc",
+    "ExportName": "bgr_ox",
+    "ThemeMusic": "Space_Brawl_Menu"
+  },
+  "LNY21": {
+    "Name": "LNY21",
+    "Disabled": true,
+    "FileName": "sc/background_lny.sc",
+    "ExportName": "bgr_lny21",
+    "ThemeMusic": "Space_Brawl_LNY_Menu"
+  },
+  "ActionShow": {
+    "Name": "ActionShow",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr",
+    "ThemeMusic": "Action_Western_Menu"
+  },
+  "Ramadan": {
+    "Name": "Ramadan",
+    "Disabled": true,
+    "FileName": "sc/background_ramadan.sc",
+    "ExportName": "bgr_ramadan",
+    "ThemeMusic": "Brawzaar_menu_muzak"
+  },
+  "China_Anniversary": {
+    "Name": "China_Anniversary",
+    "Disabled": true,
+    "FileName": "sc/background_c1a.sc",
+    "ExportName": "bgr_c1a",
+    "ThemeMusic": "Cnymenu_music"
+  },
+  "Velocirapids": {
+    "Name": "Velocirapids",
+    "Disabled": true,
+    "FileName": "sc/background_vp.sc",
+    "ExportName": "bgr_vp",
+    "ThemeMusic": "Summer_Brawl_Menu_Muzak"
+  },
+  "Punk": {
+    "Name": "Punk",
+    "Disabled": true,
+    "FileName": "sc/background_punk.sc",
+    "ExportName": "bgr_punk",
+    "ThemeMusic": "Bad_Randoms_Music"
+  },
+  "FairyTale": {
+    "Name": "FairyTale",
+    "Disabled": true,
+    "FileName": "sc/background_ft.sc",
+    "ExportName": "bgr_ft",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_ember_",
+    "ParticleStyle": "Ember",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Fairytale_Menu",
+    "LoadingJingle": "sfx/fairytale_load_01.ogg"
+  },
+  "MoonFestival21": {
+    "Name": "MoonFestival21",
+    "Disabled": true,
+    "FileName": "sc/background_mf.sc",
+    "ExportName": "bgr_mf",
+    "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "Retropolis21": {
+    "Name": "Retropolis21",
+    "Disabled": true,
+    "FileName": "sc/background_retro.sc",
+    "ExportName": "bgr_retro",
+    "ThemeMusic": "Retropolis_menu"
+  },
+  "Brawloween_21": {
+    "Name": "Brawloween_21",
+    "Disabled": true,
+    "FileName": "sc/background_brawloween.sc",
+    "ExportName": "bgr_brawloween",
+    "ThemeMusic": "Halloween_menu",
+    "LoadingJingle": "sfx/brawloween_load_01.ogg",
+    "LoadingScreen": "sc/loading_brawloween.sc"
+  },
+  "Singlesday_21": {
+    "Name": "Singlesday_21",
+    "Disabled": true,
+    "FileName": "sc/background_sd.sc",
+    "ExportName": "bgr_sd",
+    "ThemeMusic": "Brawlywood_Menu",
+    "LoadingJingle": "sfx/brawlywood_load_01.ogg"
+  },
+  "BlackFriday_2121": {
+    "Name": "BlackFriday_2121",
+    "Disabled": true,
+    "FileName": "sc/background_bf.sc",
+    "ExportName": "bgr_bf",
+    "ThemeMusic": "Brawlywood_Menu",
+    "LoadingJingle": "sfx/brawlywood_load_01.ogg"
+  },
+  "Brawlywood": {
+    "Name": "Brawlywood",
+    "Disabled": true,
+    "FileName": "sc/background_brawlywood.sc",
+    "ExportName": "bgr_brawlywood",
+    "ThemeMusic": "Brawlywood_Menu",
+    "LoadingJingle": "sfx/brawlywood_load_01.ogg"
+  },
+  "Brawlidays_2021": {
+    "Name": "Brawlidays_2021",
+    "Disabled": true,
+    "FileName": "sc/background_brawlidays2021.sc",
+    "ExportName": "bgr_brawlidays2021",
+    "ThemeMusic": "Xmas_menu",
+    "LoadingJingle": "sfx/brawl_xmas_load_01.ogg",
+    "LoadingScreen": "sc/loading_brawlidays.sc"
+  },
+  "Brawlidays_2021_snow": {
+    "Name": "Brawlidays_2021_snow",
+    "Disabled": true,
+    "FileName": "sc/background_brawlidays2021.sc",
+    "ExportName": "bgr_brawlidays2021",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_snow_",
+    "ParticleStyle": "Snow",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Xmas_menu",
+    "LoadingJingle": "sfx/brawl_xmas_load_01.ogg",
+    "LoadingScreen": "sc/loading_brawlidays.sc"
+  },
+  "Brawlentines": {
+    "Name": "Brawlentines",
+    "Disabled": true,
+    "FileName": "sc/background_stv.sc",
+    "ExportName": "bgr_stv",
+    "ThemeMusic": "Brawlywood_Menu",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg"
+  },
+  "LNY22": {
+    "Name": "LNY22",
+    "Disabled": true,
+    "FileName": "sc/background_lny22.sc",
+    "ExportName": "bgr_lny22",
+    "ThemeMusic": "Retro_Fight_Menu",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg"
+  },
+  "Biodome": {
+    "Name": "Biodome",
+    "Disabled": true,
+    "FileName": "sc/background_biodome.sc",
+    "ExportName": "bgr_biodome",
+    "ThemeMusic": "Biodome_Menu",
+    "LoadingJingle": "sfx/brawly_biome_loading_01.ogg"
+  },
+  "Ramadan22": {
+    "Name": "Ramadan22",
+    "Disabled": true,
+    "FileName": "sc/background_ramadan22.sc",
+    "ExportName": "bgr_ramadan22",
+    "ThemeMusic": "Brawzaar_menu_muzak"
+  },
+  "Easter22": {
+    "Name": "Easter22",
+    "Disabled": true,
+    "FileName": "sc/background_easter22.sc",
+    "ExportName": "bgr_easter22",
+    "ThemeMusic": "MenuMusic"
+  },
+  "GoldenWeek22": {
+    "Name": "GoldenWeek22",
+    "Disabled": true,
+    "FileName": "sc/background_gw22.sc",
+    "ExportName": "bgr_gw",
+    "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "Stuntshow": {
+    "Name": "Stuntshow",
+    "Disabled": true,
+    "FileName": "sc/background_stuntshow.sc",
+    "ExportName": "bgr_stuntshow",
+    "ThemeMusic": "Pinstuntbrawl_Menu"
+  },
+  "Villains": {
+    "Name": "Villains",
+    "Disabled": true,
+    "FileName": "sc/background_villains.sc",
+    "ExportName": "bgr_villains",
+    "ThemeMusic": "Space_Brawl_Menu"
+  },
+  "Deepsea": {
+    "Name": "Deepsea",
+    "Disabled": true,
+    "FileName": "sc/background_deepsea.sc",
+    "ExportName": "bgr_deepsea",
+    "ThemeMusic": "Deepsea_Beastieboys_Menu",
+    "LoadingJingle": "sfx/brawl_underwater_load_01.ogg"
+  },
+  "Bt21": {
+    "Name": "Bt21",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr_bt21",
+    "ThemeMusic": "MenuMusic"
+  },
+  "MechaMortis": {
+    "Name": "MechaMortis",
+    "Disabled": true,
+    "FileName": "sc/background_mecha.sc",
+    "ExportName": "bgr_mecha",
+    "ThemeMusic": "MechMenuMusic"
+  },
+  "MoonFestival2022": {
+    "Name": "MoonFestival2022",
+    "Disabled": true,
+    "FileName": "sc/background_mf.sc",
+    "ExportName": "bgr_mf",
+    "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "Brawloween2022": {
+    "Name": "Brawloween2022",
+    "Disabled": true,
+    "FileName": "sc/background_brawloween22.sc",
+    "ExportName": "bgr_brawloween",
+    "ThemeMusic": "Halloween_menu",
+    "LoadingJingle": "sfx/brawloween_load_01.ogg",
+    "LoadingScreen": "sc/loading_brawloween2022.sc"
+  },
+  "RobotFactory": {
+    "Name": "RobotFactory",
+    "Disabled": true,
+    "FileName": "sc/background_outlaw.sc",
+    "ExportName": "bgr_outlaw",
+    "ThemeMusic": "Robotfactory_Menu"
+  },
+  "GhostTrain": {
+    "Name": "GhostTrain",
+    "Disabled": true,
+    "FileName": "sc/background_ghosttrain.sc",
+    "ExportName": "bgr_ghosttrain",
+    "ThemeMusic": "Ghosttrain_Menu",
+    "LoadingJingle": "sfx/ghost_train_load_01.ogg"
+  },
+  "ActionHeroes": {
+    "Name": "ActionHeroes",
+    "Disabled": true,
+    "FileName": "sc/background_action.sc",
+    "ExportName": "bgr_action",
+    "ThemeMusic": "TopGun_Action_Menu"
+  },
+  "LastBox": {
+    "Name": "LastBox",
+    "Disabled": true,
+    "FileName": "sc/background_lastbox.sc",
+    "ExportName": "bgr_lastbox",
+    "ThemeMusic": "MenuMusic"
+  },
+  "Candyland": {
+    "Name": "Candyland",
+    "Disabled": true,
+    "FileName": "sc/background_candyland.sc",
+    "ExportName": "bgr_candyland",
+    "ThemeMusic": "Mandy_Candy_Menu",
+    "LoadingJingle": "sfx/candy_land_load_01.ogg"
+  },
+  "4thAnniversary": {
+    "Name": "4thAnniversary",
+    "Disabled": true,
+    "FileName": "sc/background_basic.sc",
+    "ExportName": "bgr_4thanniversary",
+    "ThemeMusic": "MenuMusic"
+  },
+  "Brawlentines23": {
+    "Name": "Brawlentines23",
+    "Disabled": true,
+    "FileName": "sc/background_brawlentines.sc",
+    "ExportName": "bgr_brawlentines",
+    "ThemeMusic": "Brawlentines_Menu"
+  },
+  "LNY23": {
+    "Name": "LNY23",
+    "Disabled": true,
+    "FileName": "sc/background_lny23.sc",
+    "ExportName": "bgr_lny23",
+    "ThemeMusic": "Retro_Fight_Menu",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg"
+  },
+  "LNY23red": {
+    "Name": "LNY23red",
+    "Disabled": true,
+    "FileName": "sc/background_lny23.sc",
+    "ExportName": "bgr_lny23red",
+    "ThemeMusic": "Retro_Fight_Menu",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg"
+  },
+  "Darkmas": {
+    "Name": "Darkmas",
+    "Disabled": true,
+    "FileName": "sc/background_darkmas.sc",
+    "ExportName": "bgr_darkmas",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_snow_",
+    "ParticleStyle": "Snow",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Krampus_Menu",
+    "LoadingJingle": "sfx/dark_xmas_load_01.ogg",
+    "LoadingScreen": "sc/loading_darkmas.sc"
+  },
+  "Masks": {
+    "Name": "Masks",
+    "Disabled": true,
+    "FileName": "sc/background_masks.sc",
+    "ExportName": "bgr_masks",
+    "ThemeMusic": "Mask_Dance_Menu",
+    "LoadingJingle": "sfx/brawl_mask_dance_loading_jingle_01.ogg"
+  },
+  "Easter2023": {
+    "Name": "Easter2023",
+    "Disabled": true,
+    "FileName": "sc/background_easter_2023.sc",
+    "ExportName": "bgr_easter2023",
+    "ThemeMusic": "MenuMusic"
+  },
+  "Popstar": {
+    "Name": "Popstar",
+    "Disabled": true,
+    "FileName": "sc/background_popstar.sc",
+    "ExportName": "bgr_popstar",
+    "ThemeMusic": "MenuMusic"
+  },
+  "Ramadan2023": {
+    "Name": "Ramadan2023",
+    "Disabled": true,
+    "FileName": "sc/background_ramadan2023.sc",
+    "ExportName": "bgr_ramadan2023",
+    "ThemeMusic": "Brawzaar_menu_muzak"
+  },
+  "Hub": {
+    "Name": "Hub",
+    "Disabled": true,
+    "FileName": "sc/background_hub.sc",
+    "ExportName": "bgr_hub",
+    "ThemeMusic": "Scifi_Noir_Menu"
+  },
+  "Olympus": {
+    "Name": "Olympus",
+    "Disabled": true,
+    "FileName": "sc/background_olympus.sc",
+    "ExportName": "bgr_olympus",
+    "ThemeMusic": "Brawlympus_Menu",
+    "LoadingJingle": "sfx/brawlympus_loading_01.ogg",
+    "LoadingScreen": "sc/loading_olympus.sc"
+  },
+  "GoldenWeek2023": {
+    "Name": "GoldenWeek2023",
+    "Disabled": true,
+    "FileName": "sc/background_gw2023.sc",
+    "ExportName": "bgr_gw2023",
+    "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "Jungle": {
+    "Name": "Jungle",
+    "Disabled": true,
+    "FileName": "sc/background_jungle.sc",
+    "ExportName": "bgr_jungle",
+    "ThemeMusic": "Brawl_Jungle_Menu",
+    "LoadingJingle": "sfx/brawl_jungle_loading_01.ogg"
+  },
+  "Deepsea2023": {
+    "Name": "Deepsea2023",
+    "Disabled": true,
+    "FileName": "sc/background_deepsea.sc",
+    "ExportName": "bgr_deepsea",
+    "ThemeMusic": "Deepsea_Beastieboys_Menu",
+    "LoadingJingle": "sfx/brawl_underwater_load_01.ogg"
+  },
+  "Enchanted": {
+    "Name": "Enchanted",
+    "Disabled": true,
+    "FileName": "sc/background_enchantedforest.sc",
+    "ExportName": "bgr_enchanted",
+    "ThemeMusic": "Brawl_Enchanted_Forest_Menu",
+    "LoadingJingle": "sfx/enchanted_forest_loading_01.ogg"
+  },
+  "Phoenix": {
+    "Name": "Phoenix",
+    "Disabled": true,
+    "FileName": "sc/background_phoenix.sc",
+    "ExportName": "bgr_phoenix",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_ember_",
+    "ParticleStyle": "Ember",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Action_Western_Menu"
+  },
+  "Velocirapids2023": {
+    "Name": "Velocirapids2023",
+    "Disabled": true,
+    "FileName": "sc/background_velocirapids2023.sc",
+    "ExportName": "bgr_velocirapids2023",
+    "ThemeMusic": "Summer_Brawl_Menu_Muzak"
+  },
+  "Cursedpirates": {
+    "Name": "Cursedpirates",
+    "Disabled": true,
+    "FileName": "sc/background_cursedpirates.sc",
+    "ExportName": "bgr_cursedpirates",
+    "ThemeMusic": "Brawl_Cursed_Pirates_Menu",
+    "LoadingJingle": "sfx/cursed_pirates_loading_01.ogg",
+    "LoadingScreen": "sc/loading_cursed.sc"
+  },
+  "Football2023": {
+    "Name": "Football2023",
+    "Disabled": true,
+    "FileName": "sc/background_football2023.sc",
+    "ExportName": "bgr_football2023",
+    "ThemeMusic": "Footbrawl_menu_muzak"
+  },
+  "Mechaedgar": {
+    "Name": "Mechaedgar",
+    "FileName": "sc/background_mecha_edgar.sc",
+    "ExportName": "bgr_mecha_edgar",
+    "ThemeMusic": "MechMenuMusic",
+    "LoadingScreen": "sc/loading_mechaedgar.sc"
+  },
+  "Brawloween2023": {
+    "Name": "Brawloween2023",
+    "FileName": "sc/background_ghosttrain.sc",
+    "ExportName": "bgr_ghosttrain",
+    "ThemeMusic": "Ghosttrain_Menu",
+    "LoadingJingle": "sfx/ghost_train_load_01.ogg"
+  },
+  "Wasteland": {
+    "Name": "Wasteland",
+    "FileName": "sc/background_wasteland.sc",
+    "ExportName": "bgr_wasteland",
+    "ThemeMusic": "Wasteland_Menu",
+    "LoadingJingle": "sfx/wasteland_loading_01.ogg"
+  },
+  "University": {
+    "Name": "University",
+    "FileName": "sc/background_university.sc",
+    "ExportName": "bgr_university",
+    "ThemeMusic": "Highschool_Menu",
+    "LoadingJingle": "sfx/monster_university_loading_01.ogg",
+    "LoadingScreen": "sc/loading_university.sc"
+  },
+  "MoonFestival2023": {
+    "Name": "MoonFestival2023",
+    "FileName": "sc/background_mf2023.sc",
+    "ExportName": "bgr_mf2023",
+    "ThemeMusic": "Lunar_Menu_Music"
+  }
+}

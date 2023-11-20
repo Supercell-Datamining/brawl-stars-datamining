@@ -1,0 +1,416 @@
+{
+  "0_0": {
+    "Name": "0_0",
+    "Type": 0,
+    "Threshold": 0,
+    "Amount": 5
+  },
+  "0_1": {
+    "Name": "0_1",
+    "Type": 0,
+    "Threshold": 50,
+    "Amount": 7
+  },
+  "0_2": {
+    "Name": "0_2",
+    "Type": 0,
+    "Threshold": 100,
+    "Amount": 10
+  },
+  "0_3": {
+    "Name": "0_3",
+    "Type": 0,
+    "Threshold": 150,
+    "Amount": 12
+  },
+  "0_4": {
+    "Name": "0_4",
+    "Type": 0,
+    "Threshold": 200,
+    "Amount": 15
+  },
+  "0_5": {
+    "Name": "0_5",
+    "Type": 0,
+    "Threshold": 250,
+    "Amount": 17
+  },
+  "0_6": {
+    "Name": "0_6",
+    "Type": 0,
+    "Threshold": 300,
+    "Amount": 20
+  },
+  "0_7": {
+    "Name": "0_7",
+    "Type": 0,
+    "Threshold": 350,
+    "Amount": 23
+  },
+  "0_8": {
+    "Name": "0_8",
+    "Type": 0,
+    "Threshold": 400,
+    "Amount": 25
+  },
+  "0_9": {
+    "Name": "0_9",
+    "Type": 0,
+    "Threshold": 450,
+    "Amount": 27
+  },
+  "0_10": {
+    "Name": "0_10",
+    "Type": 0,
+    "Threshold": 500,
+    "Amount": 35
+  },
+  "0_11": {
+    "Name": "0_11",
+    "Type": 0,
+    "Threshold": 550,
+    "Amount": 40
+  },
+  "0_12": {
+    "Name": "0_12",
+    "Type": 0,
+    "Threshold": 600,
+    "Amount": 45
+  },
+  "0_13": {
+    "Name": "0_13",
+    "Type": 0,
+    "Threshold": 650,
+    "Amount": 50
+  },
+  "0_14": {
+    "Name": "0_14",
+    "Type": 0,
+    "Threshold": 700,
+    "Amount": 55
+  },
+  "0_15": {
+    "Name": "0_15",
+    "Type": 0,
+    "Threshold": 750,
+    "Amount": 60
+  },
+  "0_16": {
+    "Name": "0_16",
+    "Type": 0,
+    "Threshold": 800,
+    "Amount": 65
+  },
+  "0_17": {
+    "Name": "0_17",
+    "Type": 0,
+    "Threshold": 850,
+    "Amount": 70
+  },
+  "0_18": {
+    "Name": "0_18",
+    "Type": 0,
+    "Threshold": 900,
+    "Amount": 75
+  },
+  "0_19": {
+    "Name": "0_19",
+    "Type": 0,
+    "Threshold": 950,
+    "Amount": 80
+  },
+  "0_20": {
+    "Name": "0_20",
+    "Type": 0,
+    "Threshold": 1000,
+    "Amount": 85
+  },
+  "0_21": {
+    "Name": "0_21",
+    "Type": 0,
+    "Threshold": 1050,
+    "Amount": 90
+  },
+  "0_22": {
+    "Name": "0_22",
+    "Type": 0,
+    "Threshold": 1100,
+    "Amount": 95
+  },
+  "0_23": {
+    "Name": "0_23",
+    "Type": 0,
+    "Threshold": 1150,
+    "Amount": 100
+  },
+  "0_24": {
+    "Name": "0_24",
+    "Type": 0,
+    "Threshold": 1200,
+    "Amount": 100
+  },
+  "0_25": {
+    "Name": "0_25",
+    "Type": 0,
+    "Threshold": 1250,
+    "Amount": 100
+  },
+  "0_26": {
+    "Name": "0_26",
+    "Type": 0,
+    "Threshold": 1300,
+    "Amount": 100
+  },
+  "0_27": {
+    "Name": "0_27",
+    "Type": 0,
+    "Threshold": 1350,
+    "Amount": 100
+  },
+  "0_28": {
+    "Name": "0_28",
+    "Type": 0,
+    "Threshold": 1400,
+    "Amount": 100
+  },
+  "0_29": {
+    "Name": "0_29",
+    "Type": 0,
+    "Threshold": 1450,
+    "Amount": 100
+  },
+  "0_30": {
+    "Name": "0_30",
+    "Type": 0,
+    "Threshold": 1500,
+    "Amount": 100
+  },
+  "1_0": {
+    "Name": "1_0",
+    "Type": 1,
+    "Threshold": 1,
+    "Amount": 5
+  },
+  "1_1": {
+    "Name": "1_1",
+    "Type": 1,
+    "Threshold": 2,
+    "Amount": 6
+  },
+  "1_2": {
+    "Name": "1_2",
+    "Type": 1,
+    "Threshold": 3,
+    "Amount": 8
+  },
+  "1_3": {
+    "Name": "1_3",
+    "Type": 1,
+    "Threshold": 4,
+    "Amount": 10
+  },
+  "1_4": {
+    "Name": "1_4",
+    "Type": 1,
+    "Threshold": 5,
+    "Amount": 13
+  },
+  "1_5": {
+    "Name": "1_5",
+    "Type": 1,
+    "Threshold": 6,
+    "Amount": 18
+  },
+  "1_6": {
+    "Name": "1_6",
+    "Type": 1,
+    "Threshold": 7,
+    "Amount": 22
+  },
+  "1_7": {
+    "Name": "1_7",
+    "Type": 1,
+    "Threshold": 8,
+    "Amount": 26
+  },
+  "1_8": {
+    "Name": "1_8",
+    "Type": 1,
+    "Threshold": 9,
+    "Amount": 30
+  },
+  "1_9": {
+    "Name": "1_9",
+    "Type": 1,
+    "Threshold": 10,
+    "Amount": 35
+  },
+  "1_10": {
+    "Name": "1_10",
+    "Type": 1,
+    "Threshold": 11,
+    "Amount": 40
+  },
+  "1_11": {
+    "Name": "1_11",
+    "Type": 1,
+    "Threshold": 12,
+    "Amount": 45
+  },
+  "1_12": {
+    "Name": "1_12",
+    "Type": 1,
+    "Threshold": 13,
+    "Amount": 60
+  },
+  "1_13": {
+    "Name": "1_13",
+    "Type": 1,
+    "Threshold": 14,
+    "Amount": 65
+  },
+  "1_14": {
+    "Name": "1_14",
+    "Type": 1,
+    "Threshold": 15,
+    "Amount": 70
+  },
+  "1_15": {
+    "Name": "1_15",
+    "Type": 1,
+    "Threshold": 16,
+    "Amount": 80
+  },
+  "1_16": {
+    "Name": "1_16",
+    "Type": 1,
+    "Threshold": 17,
+    "Amount": 85
+  },
+  "1_17": {
+    "Name": "1_17",
+    "Type": 1,
+    "Threshold": 18,
+    "Amount": 90
+  },
+  "1_18": {
+    "Name": "1_18",
+    "Type": 1,
+    "Threshold": 19,
+    "Amount": 100
+  },
+  "2_0": {
+    "Name": "2_0",
+    "Type": 2,
+    "Threshold": 1,
+    "Amount": 5
+  },
+  "2_1": {
+    "Name": "2_1",
+    "Type": 2,
+    "Threshold": 2,
+    "Amount": 6
+  },
+  "2_2": {
+    "Name": "2_2",
+    "Type": 2,
+    "Threshold": 3,
+    "Amount": 8
+  },
+  "2_3": {
+    "Name": "2_3",
+    "Type": 2,
+    "Threshold": 4,
+    "Amount": 10
+  },
+  "2_4": {
+    "Name": "2_4",
+    "Type": 2,
+    "Threshold": 5,
+    "Amount": 13
+  },
+  "2_5": {
+    "Name": "2_5",
+    "Type": 2,
+    "Threshold": 6,
+    "Amount": 15
+  },
+  "2_6": {
+    "Name": "2_6",
+    "Type": 2,
+    "Threshold": 7,
+    "Amount": 17
+  },
+  "2_7": {
+    "Name": "2_7",
+    "Type": 2,
+    "Threshold": 8,
+    "Amount": 20
+  },
+  "2_8": {
+    "Name": "2_8",
+    "Type": 2,
+    "Threshold": 9,
+    "Amount": 22
+  },
+  "2_9": {
+    "Name": "2_9",
+    "Type": 2,
+    "Threshold": 10,
+    "Amount": 25
+  },
+  "2_10": {
+    "Name": "2_10",
+    "Type": 2,
+    "Threshold": 11,
+    "Amount": 27
+  },
+  "2_11": {
+    "Name": "2_11",
+    "Type": 2,
+    "Threshold": 12,
+    "Amount": 30
+  },
+  "2_12": {
+    "Name": "2_12",
+    "Type": 2,
+    "Threshold": 13,
+    "Amount": 32
+  },
+  "2_13": {
+    "Name": "2_13",
+    "Type": 2,
+    "Threshold": 14,
+    "Amount": 35
+  },
+  "2_14": {
+    "Name": "2_14",
+    "Type": 2,
+    "Threshold": 15,
+    "Amount": 37
+  },
+  "2_15": {
+    "Name": "2_15",
+    "Type": 2,
+    "Threshold": 16,
+    "Amount": 40
+  },
+  "2_16": {
+    "Name": "2_16",
+    "Type": 2,
+    "Threshold": 17,
+    "Amount": 42
+  },
+  "2_17": {
+    "Name": "2_17",
+    "Type": 2,
+    "Threshold": 18,
+    "Amount": 45
+  },
+  "2_18": {
+    "Name": "2_18",
+    "Type": 2,
+    "Threshold": 19,
+    "Amount": 50
+  }
+}

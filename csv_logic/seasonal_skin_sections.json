@@ -1,0 +1,525 @@
+{
+  "Brawlidays_2018": {
+    "Name": "Brawlidays_2018",
+    "Mode": 1,
+    "IncludedCampaigns": "BRAWLIDAYS_2018",
+    "SectionTitleTID": "TID_SHOP_BRAWLIDAYS_SKINS",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS"
+  },
+  "LunarBrawl": {
+    "Name": "LunarBrawl",
+    "Mode": 2,
+    "IncludedCampaigns": [
+      "LNY_2019",
+      "LNY_2020",
+      "LNY_2021"
+    ],
+    "SectionTitleTID": "TID_SHOP_LUNAR_BRAWL_SKINS",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS"
+  },
+  "Brawloween2020": {
+    "Name": "Brawloween2020",
+    "Mode": 3,
+    "IncludedCampaigns": "BRAWLOWEEN2020",
+    "SectionTitleTID": "TID_SHOP_BRAWLOWEEN_SKINS",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS"
+  },
+  "Laml": {
+    "Name": "Laml",
+    "Mode": 4,
+    "IncludedCampaigns": "LAML",
+    "SectionTitleTID": "TID_SKIN_INFO_CAMPAIGN_LAML_TITLE",
+    "SectionInfoTID": "TID_LAML_FOOTBALL_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_brawlers_skin_pack",
+    "ShopItemCharacters": [
+      "Gunslinger",
+      "TntDude",
+      "ShotgunGirl",
+      "Luchador"
+    ],
+    "PurchasePopupBg": "laml"
+  },
+  "Punk": {
+    "Name": "Punk",
+    "Mode": 5,
+    "IncludedCampaigns": [
+      "PUNK",
+      "BRAWLPASS_PUNK"
+    ],
+    "SectionTitleTID": "TID_SKIN_INFO_CAMPAIGN_PUNK_TITLE",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_PUNK_TITLE",
+    "SectionInfoTID": "TID_PUNK_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
+    "ShopItemCharacters": [
+      "DeadMariachi",
+      "Roller",
+      "RopeDude"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "punk"
+  },
+  "Retro": {
+    "Name": "Retro",
+    "Mode": 6,
+    "IncludedCampaigns": "RETRO",
+    "SectionTitleTID": "TID_SKIN_INFO_CAMPAIGN_RETRO_TITLE",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_RETRO_TITLE",
+    "SectionInfoTID": "TID_RETRO_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_retro",
+    "ShopItemCharacters": [
+      "Whirlwind",
+      "Undertaker",
+      "Arcade",
+      "Barkeep",
+      "RocketGirl"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "retro"
+  },
+  "Brawloween": {
+    "Name": "Brawloween",
+    "Mode": 7,
+    "IncludedCampaigns": "BRAWLOWEEN2020",
+    "SectionTitleTID": "TID_SHOP_BRAWLOWEEN_SKINS",
+    "SectionItemTID": "TID_SHOP_BRAWLOWEEN_TITLE",
+    "SectionInfoTID": "TID_SHOP_BRAWLOWEEN_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_brawloween",
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "brawloween"
+  },
+  "Scmake": {
+    "Name": "Scmake",
+    "Mode": 8,
+    "IncludedCampaigns": "SC_MAKE",
+    "SectionTitleTID": "TID_SHOP_SCMAKE_SKINS",
+    "SectionInfoTID": "TID_SHOP_SCMAKE_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_scmake",
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "scmake"
+  },
+  "Legendaryset": {
+    "Name": "Legendaryset",
+    "Mode": 9,
+    "IncludedCampaigns": "LEGENDARYSET",
+    "SectionTitleTID": "TID_SHOP_LEGENDARYSET_SKINS_GROUP",
+    "SectionItemTID": "TID_SHOP_LEGENDARYSET_TITLE",
+    "SectionInfoTID": "TID_SHOP_LEGENDARYSET_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_legendary",
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "legendary"
+  },
+  "Brawlywood": {
+    "Name": "Brawlywood",
+    "Mode": 10,
+    "IncludedCampaigns": [
+      "BRAWLYWOOD",
+      "BRAWLPASS_BRAWLYWOOD"
+    ],
+    "SectionTitleTID": "TID_SHOP_BRAWLYWOOD_SKINS",
+    "SectionItemTID": "TID_SHOP_BRAWLYWOOD_TITLE",
+    "SectionInfoTID": "TID_SHOP_BRAWLYWOOD_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_brawlywood",
+    "ShopItemCharacters": [
+      "Blower",
+      "PowerLeveler",
+      "RopeDude",
+      "Crow",
+      "BullDude"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "brawlywood"
+  },
+  "Brawlidays": {
+    "Name": "Brawlidays",
+    "Mode": 11,
+    "IncludedCampaigns": "BRAWLIDAYS",
+    "SectionTitleTID": "TID_SHOP_BRAWLIDAYS_SKINS",
+    "SectionItemTID": "TID_SHOP_BRAWLIDAYS_TITLE",
+    "SectionInfoTID": "TID_SHOP_BRAWLIDAYS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_brawlidays",
+    "ShopItemCharacters": [
+      "AssaultShotgun",
+      "Driller",
+      "BowDude",
+      "Cactus",
+      "HammerDude",
+      "ClusterBombDude"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "brawlidays2021",
+    "EmotesBundle": "Brawlidays"
+  },
+  "Brawlentines": {
+    "Name": "Brawlentines",
+    "Mode": 12,
+    "IncludedCampaigns": "BRAWLENTINES",
+    "SectionTitleTID": "TID_SHOP_BRAWLENTINES_SKINS",
+    "SectionItemTID": "TID_SHOP_BRAWLENTINES_TITLE",
+    "SectionInfoTID": "TID_SHOP_BRAWLENTINES_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_brawlentines",
+    "ShopItemCharacters": [
+      "Luchador",
+      "Sniper",
+      "IceDude",
+      "DeadMariachi"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "brawlentines",
+    "EmotesBundle": "Brawlentines"
+  },
+  "Lny22": {
+    "Name": "Lny22",
+    "Mode": 13,
+    "IncludedCampaigns": "LNY22",
+    "SectionTitleTID": "TID_SHOP_LNY22_SKINS",
+    "SectionItemTID": "TID_SHOP_LNY22_TITLE",
+    "SectionInfoTID": "TID_SHOP_LNY22_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_lny22",
+    "ShopItemCharacters": [
+      "Luchador",
+      "Enrager",
+      "Barkeep",
+      "Shaman",
+      "Rosa"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "lny22",
+    "EmotesBundle": "Lny22"
+  },
+  "Biodome": {
+    "Name": "Biodome",
+    "Mode": 14,
+    "IncludedCampaigns": "BIODOME",
+    "SectionTitleTID": "TID_SHOP_BIODOME_SKINS",
+    "SectionItemTID": "TID_SHOP_BIODOME_TITLE",
+    "SectionInfoTID": "TID_SHOP_BIODOME_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_biodome",
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "biodome",
+    "EmotesBundle": "Biodome"
+  },
+  "Stuntshow": {
+    "Name": "Stuntshow",
+    "Mode": 15,
+    "IncludedCampaigns": "STUNTSHOW",
+    "SectionTitleTID": "TID_SHOP_STUNTSHOW_SKINS",
+    "SectionItemTID": "TID_SHOP_STUNTSHOW_TITLE",
+    "SectionInfoTID": "TID_SHOP_STUNTSHOW_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_stuntshow",
+    "ShopItemCharacters": [
+      "MechaDude",
+      "Whirlwind",
+      "Cactus"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "stuntshow",
+    "EmotesBundle": "Stuntshow"
+  },
+  "GoldenWeek": {
+    "Name": "GoldenWeek",
+    "Mode": 16,
+    "IncludedCampaigns": "GOLDENWEEK",
+    "SectionTitleTID": "TID_SHOP_GOLDENWEEK_SKINS",
+    "SectionItemTID": "TID_SHOP_GOLDENWEEK_TITLE",
+    "SectionInfoTID": "TID_SHOP_GOLDENWEEK_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_goldenweek",
+    "ShopItemCharacters": [
+      "SpawnerDude",
+      "BeeSniper",
+      "Shaman",
+      "Mechanic"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "goldenweek",
+    "EmotesBundle": "Goldenweek"
+  },
+  "Villains": {
+    "Name": "Villains",
+    "Mode": 17,
+    "IncludedCampaigns": "VILLAINS",
+    "SectionTitleTID": "TID_SHOP_VILLAINS_SKINS",
+    "SectionItemTID": "TID_SHOP_VILLAINS_TITLE",
+    "SectionInfoTID": "TID_SHOP_VILLAINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_villains",
+    "ShopItemCharacters": [
+      "Duplicator",
+      "CannonGirl",
+      "SnakeOil"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "villains",
+    "EmotesBundle": "Villains"
+  },
+  "Deepsea": {
+    "Name": "Deepsea",
+    "Mode": 18,
+    "IncludedCampaigns": "DEEPSEA",
+    "SectionTitleTID": "TID_SHOP_DEEPSEA_SKINS",
+    "SectionItemTID": "TID_SHOP_DEEPSEA_TITLE",
+    "SectionInfoTID": "TID_SHOP_DEEPSEA_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_deepsea",
+    "ShopItemCharacters": [
+      "ElectroSniper",
+      "Gunslinger",
+      "KickerDude"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "deepsea",
+    "EmotesBundle": "Deepsea"
+  },
+  "Brawloween22": {
+    "Name": "Brawloween22",
+    "Mode": 19,
+    "IncludedCampaigns": "BRAWLOWEEN22",
+    "SectionTitleTID": "TID_SHOP_BRAWLOWEEN_SKINS",
+    "SectionItemTID": "TID_SHOP_BRAWLOWEEN_TITLE",
+    "SectionInfoTID": "TID_SHOP_BRAWLOWEEN_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_brawloween",
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "brawloween"
+  },
+  "Retro22": {
+    "Name": "Retro22",
+    "Mode": 20,
+    "IncludedCampaigns": "RETRO22",
+    "SectionTitleTID": "TID_SKIN_INFO_CAMPAIGN_RETRO_TITLE",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_RETRO_TITLE",
+    "SectionInfoTID": "TID_RETRO_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_retro",
+    "ShopItemCharacters": [
+      "Whirlwind",
+      "Undertaker",
+      "Arcade",
+      "Barkeep",
+      "RocketGirl"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "retro"
+  },
+  "Darkmas": {
+    "Name": "Darkmas",
+    "Mode": 21,
+    "IncludedCampaigns": "DARKMAS",
+    "SectionTitleTID": "TID_SHOP_DARKMAS_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_DARKMAS_TITLE",
+    "SectionInfoTID": "TID_DARKMAS_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_darkmas",
+    "ShopItemCharacters": [
+      "WeaponThrower",
+      "FireDude",
+      "Knight"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "darkmas"
+  },
+  "Candyland": {
+    "Name": "Candyland",
+    "Mode": 22,
+    "IncludedCampaigns": "CANDYLAND",
+    "SectionTitleTID": "TID_SHOP_CANDYLAND_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_CANDYLAND_TITLE",
+    "SectionInfoTID": "TID_CANDYLAND_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_candyland",
+    "ShopItemCharacters": [
+      "RopeDude",
+      "Shaman",
+      "BarrelBot"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "candyland"
+  },
+  "Masks": {
+    "Name": "Masks",
+    "Mode": 23,
+    "IncludedCampaigns": "MASKS",
+    "SectionTitleTID": "TID_SHOP_MASKS_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_MASKS_TITLE",
+    "SectionInfoTID": "TID_MASKS_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_masks",
+    "ShopItemCharacters": [
+      "Silencer",
+      "TntDude",
+      "Duplicator"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "masks"
+  },
+  "Hub": {
+    "Name": "Hub",
+    "Mode": 24,
+    "IncludedCampaigns": "HUB",
+    "SectionTitleTID": "TID_SHOP_HUB_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_HUB_TITLE",
+    "SectionInfoTID": "TID_HUB_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_hub",
+    "ShopItemCharacters": [
+      "Luchador",
+      "BullDude",
+      "DoorMan"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "hub"
+  },
+  "Jungle": {
+    "Name": "Jungle",
+    "Mode": 25,
+    "IncludedCampaigns": "JUNGLE",
+    "SectionTitleTID": "TID_SHOP_JUNGLE_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_JUNGLE_TITLE",
+    "SectionInfoTID": "TID_JUNGLE_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_jungle",
+    "ShopItemCharacters": [
+      "Speedy",
+      "Gunslinger",
+      "ShieldTank"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "jungle"
+  },
+  "Olympus": {
+    "Name": "Olympus",
+    "Mode": 26,
+    "IncludedCampaigns": "OLYMPUS",
+    "SectionTitleTID": "TID_SHOP_OLYMPUS_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_OLYMPUS_TITLE",
+    "SectionInfoTID": "TID_OLYMPUS_SKINS_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_olympus",
+    "ShopItemCharacters": [
+      "Controller",
+      "RocketGirl",
+      "ClusterBombDude"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "olympus"
+  },
+  "Cursed": {
+    "Name": "Cursed",
+    "Mode": 27,
+    "IncludedCampaigns": "CURSED",
+    "SectionTitleTID": "TID_SHOP_CURSED_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_CURSED_TITLE",
+    "SectionInfoTID": "TID_SKIN_SET_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_cursed",
+    "ShopItemCharacters": [
+      "AssaultShotgun",
+      "MechaDude",
+      "PowerLeveler",
+      "Baseball"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "cursed"
+  },
+  "Goldenball": {
+    "Name": "Goldenball",
+    "Mode": 28,
+    "IncludedCampaigns": "GOLDENBALL",
+    "SectionTitleTID": "TID_SHOP_GOLDENBALL_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_GOLDENBALL_TITLE",
+    "SectionInfoTID": "TID_SKIN_SET_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_goldenball",
+    "ShopItemCharacters": [
+      "BarrelBot",
+      "TntDude",
+      "CannonGirl"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "goldenball"
+  },
+  "Enchanted": {
+    "Name": "Enchanted",
+    "Mode": 29,
+    "IncludedCampaigns": "ENCHANTED",
+    "SectionTitleTID": "TID_SHOP_ENCHANTED_SKINS",
+    "SectionItemTID": "TID_SKIN_INFO_CAMPAIGN_ENCHANTED_TITLE",
+    "SectionInfoTID": "TID_SKIN_SET_INFO",
+    "LastChanceSectionSeparately": "FALSE",
+    "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
+    "GroupCampaign": true,
+    "GroupShopItem": "offer_1_item_skin_pack_enchanted",
+    "ShopItemCharacters": [
+      "IceDude",
+      "Arcade",
+      "JetpackGirl"
+    ],
+    "CheckDataFromOffers": true,
+    "PurchasePopupBg": "enchanted"
+  }
+}

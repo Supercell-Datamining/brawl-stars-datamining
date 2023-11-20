@@ -1,0 +1,143 @@
+{
+  "MineEnvironment": {
+    "Name": "MineEnvironment",
+    "TID": "TID_ENVIRONMENT_MINE",
+    "GameModeVariations": "GemGrab",
+    "LocationThemes": "Mine",
+    "MapTemplates": "Template_Gemgrab"
+  },
+  "DefaultEnvironment": {
+    "Name": "DefaultEnvironment",
+    "TID": "TID_ENVIRONMENT_DEFAULT",
+    "GameModeVariations": [
+      "Showdown",
+      "Bounty",
+      "Heist",
+      "DuoShowdown",
+      "Knockout",
+      "KingOfHill"
+    ],
+    "LocationThemes": [
+      "DefaultShowdown",
+      "Default",
+      "Default",
+      "DefaultShowdown",
+      "Default",
+      "Default"
+    ],
+    "MapTemplates": [
+      "Template_Survival",
+      "Template_Bounty",
+      "Template_Heist",
+      "Template_Survival_2",
+      "Template_Knockout",
+      "Template_KingOfHill"
+    ]
+  },
+  "ScrapyardEnvironment": {
+    "Name": "ScrapyardEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_SCRAPYARD",
+    "GameModeVariations": "Siege",
+    "LocationThemes": "Scrapyard",
+    "MapTemplates": "Template_Siege"
+  },
+  "OasisEnvironment": {
+    "Name": "OasisEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_OASIS",
+    "GameModeVariations": "Bounty",
+    "LocationThemes": "Oasis",
+    "MapTemplates": "Template_Bounty"
+  },
+  "MortuaryEnvironment": {
+    "Name": "MortuaryEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_MORTUARY",
+    "GameModeVariations": [
+      "Showdown",
+      "DuoShowdown",
+      "Knockout"
+    ],
+    "LocationThemes": [
+      "MortuaryShowdown",
+      "MortuaryShowdown",
+      "Mortuary"
+    ],
+    "MapTemplates": [
+      "Template_Survival",
+      "Template_Survival_2",
+      "Template_Knockout"
+    ]
+  },
+  "GrassfieldEnvironment": {
+    "Name": "GrassfieldEnvironment",
+    "TID": "TID_ENVIRONMENT_GRASSFIELD",
+    "GameModeVariations": "BrawlBall",
+    "LocationThemes": "Grassfield",
+    "MapTemplates": "Template_Laserball"
+  },
+  "BeachBallEnvironment": {
+    "Name": "BeachBallEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_BEACHBALL",
+    "GameModeVariations": "BrawlBall",
+    "LocationThemes": "GrassfieldBeachBall",
+    "MapTemplates": "Template_Laserball"
+  },
+  "ArcadeEnvironment": {
+    "Name": "ArcadeEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_ARCADE",
+    "GameModeVariations": [
+      "GemGrab",
+      "Bounty",
+      "Heist",
+      "KingOfHill"
+    ],
+    "LocationThemes": [
+      "Arcade",
+      "Arcade",
+      "Arcade",
+      "Arcade"
+    ],
+    "MapTemplates": [
+      "Template_Gemgrab",
+      "Template_Bounty",
+      "Template_Heist",
+      "Template_KingOfHill"
+    ]
+  },
+  "BazaarEnvironment": {
+    "Name": "BazaarEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_BAZAAR",
+    "GameModeVariations": "GemGrab",
+    "LocationThemes": "Bazaar",
+    "MapTemplates": "Template_Gemgrab"
+  },
+  "MinicityEnvironment": {
+    "Name": "MinicityEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_MINICITY",
+    "GameModeVariations": "GemGrab",
+    "LocationThemes": "Minicity",
+    "MapTemplates": "Template_Gemgrab"
+  },
+  "GiftShopEnvironment": {
+    "Name": "GiftShopEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_GIFTSHOP",
+    "GameModeVariations": "GemGrab",
+    "LocationThemes": "GiftShop",
+    "MapTemplates": "Template_Gemgrab"
+  },
+  "StarrForceEnvironment": {
+    "Name": "StarrForceEnvironment",
+    "Disabled": true,
+    "TID": "TID_ENVIRONMENT_DEFAULT",
+    "GameModeVariations": "GemGrab",
+    "LocationThemes": "StarrForce",
+    "MapTemplates": "Template_Gemgrab"
+  }
+}

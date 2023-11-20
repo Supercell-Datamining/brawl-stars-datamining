@@ -1,0 +1,12 @@
+{
+  "Medium": {
+    "Name": "Medium",
+    "FileName": "sc/ui.sc",
+    "PlayerExportNameTop": "player_info_badge",
+    "PlayerExportNameBot": "player_info_badge_btm",
+    "EnemyExportNameTop": "enemy_info_badge",
+    "EnemyExportNameBot": "enemy_info_badge_btm",
+    "YourTeamExportNameTop": "yourteam_info_badge",
+    "YourTeamExportNameBot": "teammate_info_badge_btm"
+  }
+}

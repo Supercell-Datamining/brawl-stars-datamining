@@ -1,0 +1,209 @@
+{
+  "ClubBronze1": {
+    "Name": "ClubBronze1",
+    "Rank": 1,
+    "TID": "TID_CLUB_LEAGUE_BRONZE_I",
+    "HexColor": "0xFFFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_bronze"
+  },
+  "ClubBronze2": {
+    "Name": "ClubBronze2",
+    "Rank": 2,
+    "TID": "TID_CLUB_LEAGUE_BRONZE_II",
+    "HexColor": "0xFFFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_bronze"
+  },
+  "ClubBronze3": {
+    "Name": "ClubBronze3",
+    "Rank": 3,
+    "TID": "TID_CLUB_LEAGUE_BRONZE_III",
+    "HexColor": "0xFFFF9900",
+    "FrameLabel": "bronze",
+    "RankIconTextField": "rank_bronze_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_bronze"
+  },
+  "ClubSilver1": {
+    "Name": "ClubSilver1",
+    "Rank": 4,
+    "TID": "TID_CLUB_LEAGUE_SILVER_I",
+    "HexColor": "0xFFC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_silver"
+  },
+  "ClubSilver2": {
+    "Name": "ClubSilver2",
+    "Rank": 5,
+    "TID": "TID_CLUB_LEAGUE_SILVER_II",
+    "HexColor": "0xFFC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_silver"
+  },
+  "ClubSilver3": {
+    "Name": "ClubSilver3",
+    "Rank": 6,
+    "TID": "TID_CLUB_LEAGUE_SILVER_III",
+    "HexColor": "0xFFC9C6F1",
+    "FrameLabel": "silver",
+    "RankIconTextField": "rank_silver_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_silver"
+  },
+  "ClubGold1": {
+    "Name": "ClubGold1",
+    "Rank": 7,
+    "TID": "TID_CLUB_LEAGUE_GOLD_I",
+    "HexColor": "0xFFFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_gold"
+  },
+  "ClubGold2": {
+    "Name": "ClubGold2",
+    "Rank": 8,
+    "TID": "TID_CLUB_LEAGUE_GOLD_II",
+    "HexColor": "0xFFFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_gold"
+  },
+  "ClubGold3": {
+    "Name": "ClubGold3",
+    "Rank": 9,
+    "TID": "TID_CLUB_LEAGUE_GOLD_III",
+    "HexColor": "0xFFFFEF49",
+    "FrameLabel": "gold",
+    "RankIconTextField": "rank_gold_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_gold"
+  },
+  "ClubDiamond1": {
+    "Name": "ClubDiamond1",
+    "Rank": 10,
+    "TID": "TID_CLUB_LEAGUE_DIAMOND_I",
+    "HexColor": "0xFF33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_diamond"
+  },
+  "ClubDiamond2": {
+    "Name": "ClubDiamond2",
+    "Rank": 11,
+    "TID": "TID_CLUB_LEAGUE_DIAMOND_II",
+    "HexColor": "0xFF33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_diamond"
+  },
+  "ClubDiamond3": {
+    "Name": "ClubDiamond3",
+    "Rank": 12,
+    "TID": "TID_CLUB_LEAGUE_DIAMOND_III",
+    "HexColor": "0xFF33FFFF",
+    "FrameLabel": "diamond",
+    "RankIconTextField": "rank_diamond_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_diamond"
+  },
+  "ClubMythic1": {
+    "Name": "ClubMythic1",
+    "Rank": 13,
+    "TID": "TID_CLUB_LEAGUE_MYTHIC_I",
+    "HexColor": "0xFFFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_mythic"
+  },
+  "ClubMythic2": {
+    "Name": "ClubMythic2",
+    "Rank": 14,
+    "TID": "TID_CLUB_LEAGUE_MYTHIC_II",
+    "HexColor": "0xFFFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_mythic"
+  },
+  "ClubMythic3": {
+    "Name": "ClubMythic3",
+    "Rank": 15,
+    "TID": "TID_CLUB_LEAGUE_MYTHIC_III",
+    "HexColor": "0xFFFF00FF",
+    "FrameLabel": "mythic",
+    "RankIconTextField": "rank_mythic_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_mythic"
+  },
+  "ClubLegendary1": {
+    "Name": "ClubLegendary1",
+    "Rank": 16,
+    "TID": "TID_CLUB_LEAGUE_LEGENDARY_I",
+    "HexColor": "0xFFF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_1",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_legendary"
+  },
+  "ClubLegendary2": {
+    "Name": "ClubLegendary2",
+    "Rank": 17,
+    "TID": "TID_CLUB_LEAGUE_LEGENDARY_II",
+    "HexColor": "0xFFF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_2",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_legendary"
+  },
+  "ClubLegendary3": {
+    "Name": "ClubLegendary3",
+    "Rank": 18,
+    "TID": "TID_CLUB_LEAGUE_LEGENDARY_III",
+    "HexColor": "0xFFF75363",
+    "FrameLabel": "legendary",
+    "RankIconTextField": "rank_legendary_text",
+    "RankIconTID": "TID_CLUB_LEAGUE_TIER_3",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_legendary"
+  },
+  "ClubMasters": {
+    "Name": "ClubMasters",
+    "Rank": 19,
+    "TID": "TID_CLUB_LEAGUE_MASTERS",
+    "HexColor": "0xFFFFFFFF",
+    "FrameLabel": "masters",
+    "BannerFileName": "sc/ui.sc",
+    "BannerExportName": "club_league_banner_masters"
+  }
+}

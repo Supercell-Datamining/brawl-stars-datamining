@@ -1,0 +1,69 @@
+{
+  "LaserBall": {
+    "Name": "LaserBall",
+    "ThrowOverWalls": false,
+    "ThrowFromGroundLevel": false,
+    "MaxZ": 500,
+    "ThrowSkill": "DummySkillForLaserBall",
+    "ThrowSkillUlti": "DummyUltiSkillForLaserBall",
+    "ShouldRoll": true,
+    "Bouncing": true,
+    "MinScale": 495,
+    "MaxScale": 495,
+    "AllowOwnTeamPickup": true,
+    "MinHeightForGrab": -1
+  },
+  "CaptureFlag": {
+    "Name": "CaptureFlag",
+    "ThrowOverWalls": true,
+    "ThrowFromGroundLevel": true,
+    "MaxZ": 1500,
+    "ThrowSkill": "DummySkillForCTF",
+    "ThrowSkillUlti": "DummyUltiSkillForCTF",
+    "MinScale": 270,
+    "MaxScale": 270,
+    "ShowTeamCircle": true,
+    "PreventPickupInTargetBase": true,
+    "MinHeightForGrab": 300
+  },
+  "HoldingBall": {
+    "Name": "HoldingBall",
+    "ThrowOverWalls": true,
+    "ThrowFromGroundLevel": true,
+    "MaxZ": 1500,
+    "ThrowSkill": "DummySkillForCTF",
+    "ThrowSkillUlti": "DummyUltiSkillForCTF",
+    "MinScale": 400,
+    "MaxScale": 400,
+    "AllowOwnTeamPickup": true,
+    "MinHeightForGrab": 300
+  },
+  "VolleyBall": {
+    "Name": "VolleyBall",
+    "ThrowOverWalls": true,
+    "ThrowFromGroundLevel": false,
+    "MaxZ": 3500,
+    "ThrowSkill": "DummySkillForCTF",
+    "ThrowSkillUlti": "DummyUltiSkillForCTF",
+    "ShouldRoll": true,
+    "MinScale": 600,
+    "MaxScale": 800,
+    "PreventPickupFromLastTouchingTeam": true,
+    "ThrowOnTouch": true,
+    "MinHeightForGrab": 500
+  },
+  "BasketBall": {
+    "Name": "BasketBall",
+    "ThrowOverWalls": true,
+    "ThrowFromGroundLevel": true,
+    "MaxZ": 2000,
+    "ThrowSkill": "DummySkillForBasketBrawl",
+    "ThrowSkillUlti": "DummyUltiSkillForBasketBrawl",
+    "ShouldRoll": true,
+    "Bouncing": true,
+    "MinScale": 400,
+    "MaxScale": 700,
+    "AllowOwnTeamPickup": true,
+    "MinHeightForGrab": 300
+  }
+}

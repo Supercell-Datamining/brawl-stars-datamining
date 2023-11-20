@@ -1,0 +1,74 @@
+{
+  "BrawlerAsEmoteAndSkinAsModel": {
+    "Name": "BrawlerAsEmoteAndSkinAsModel",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_brawler_and_skin_layout_1",
+    "Items": [
+      "GUARANTEEDHERO",
+      "SKIN"
+    ],
+    "ItemPlaceholderNames": [
+      "item_brawler",
+      "item_skin"
+    ],
+    "ItemContextNames": [
+      "CTX_HERO_AS_DEFAULT_EMOTE",
+      "CTX_SHOP_LARGE"
+    ]
+  },
+  "BrawlerAndSkinAsModels": {
+    "Name": "BrawlerAndSkinAsModels",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_starter_pack",
+    "Asset": "offer_1_item_brawler_and_skin_layout_2",
+    "Items": [
+      "GUARANTEEDHERO",
+      "SKIN"
+    ],
+    "ItemPlaceholderNames": [
+      "item_brawler",
+      "item_skin"
+    ],
+    "ItemContextNames": [
+      "CTX_HERO_MODEL_ITEM",
+      "CTX_HERO_MODEL_ITEM"
+    ]
+  },
+  "EsportsPinsOffer": {
+    "Name": "EsportsPinsOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "ESPORTS_EMOTE",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
+  },
+  "EsportsIconsOffer": {
+    "Name": "EsportsIconsOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "ESPORTS_PLAYER_THUMBNAIL",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
+  },
+  "GroupPinsOffer": {
+    "Name": "GroupPinsOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "GROUP_EMOTE",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
+  },
+  "GroupIconsOffer": {
+    "Name": "GroupIconsOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "GROUP_PLAYER_THUMBNAIL",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
+  }
+}

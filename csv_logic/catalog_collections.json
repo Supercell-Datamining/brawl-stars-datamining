@@ -1,0 +1,146 @@
+{
+  "PLAYER_ICONS": {
+    "Name": "PLAYER_ICONS",
+    "SortOrder": 30,
+    "CollectionType": 0,
+    "CatalogIconExportName": "icon_catalogue_profile_icons",
+    "NameTID": "TID_CATALOG_COLLECTION_PLAYER_ICONS",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_PLAYER_ICONS"
+  },
+  "EMOTES": {
+    "Name": "EMOTES",
+    "Disabled": true,
+    "SortOrder": 20,
+    "CollectionType": 1,
+    "CatalogIconExportName": "icon_ticket",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES"
+  },
+  "EMOTES_COMMON": {
+    "Name": "EMOTES_COMMON",
+    "SortOrder": 21,
+    "CollectionType": 2,
+    "Rarities": [
+      0,
+      -1
+    ],
+    "CatalogIconExportName": "icon_catalogue_pins_common",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES_COMMON",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES_COMMON"
+  },
+  "EMOTES_RARE": {
+    "Name": "EMOTES_RARE",
+    "SortOrder": 22,
+    "CollectionType": 2,
+    "Rarities": 1,
+    "CatalogIconExportName": "icon_catalogue_pins_rare",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES_RARE",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES_RARE"
+  },
+  "EMOTES_EPIC": {
+    "Name": "EMOTES_EPIC",
+    "SortOrder": 23,
+    "CollectionType": 2,
+    "Rarities": 2,
+    "CatalogIconExportName": "icon_catalogue_pins_epic",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES_EPIC",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES_EPIC"
+  },
+  "EMOTES_LEGENDARY": {
+    "Name": "EMOTES_LEGENDARY",
+    "SortOrder": 24,
+    "CollectionType": 2,
+    "Rarities": 3,
+    "CatalogIconExportName": "icon_catalogue_pins_legendary",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES_LEGENDARY",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES_LEGENDARY"
+  },
+  "EMOTES_PREMIUM": {
+    "Name": "EMOTES_PREMIUM",
+    "SortOrder": 25,
+    "CollectionType": 2,
+    "Rarities": 4,
+    "CatalogIconExportName": "icon_catalogue_pins_premium",
+    "NameTID": "TID_CATALOG_COLLECTION_EMOTES_PREMIUM",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_EMOTES_PREMIUM"
+  },
+  "SPRAYS": {
+    "Name": "SPRAYS",
+    "SortOrder": 40,
+    "CollectionType": 3,
+    "CatalogIconExportName": "icon_catalogue_sprays",
+    "NameTID": "TID_CATALOG_COLLECTION_SPRAYS",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SPRAYS"
+  },
+  "NEW": {
+    "Name": "NEW",
+    "SortOrder": 0,
+    "CollectionType": 4,
+    "CatalogIconExportName": "icon_catalogue_new",
+    "NameTID": "TID_CATALOG_COLLECTION_NEW",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_NEW"
+  },
+  "WISHLIST": {
+    "Name": "WISHLIST",
+    "SortOrder": 1,
+    "CollectionType": 5,
+    "CatalogIconExportName": "icon_catalogue_wishlist",
+    "NameTID": "TID_CATALOG_COLLECTION_WISHLIST",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_WISHLIST"
+  },
+  "SKINS_RARE": {
+    "Name": "SKINS_RARE",
+    "SortOrder": 10,
+    "CollectionType": 6,
+    "Rarities": 1,
+    "CatalogIconExportName": "icon_catalogue_skins_rare",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_RARE",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_RARE"
+  },
+  "SKINS_SUPER_RARE": {
+    "Name": "SKINS_SUPER_RARE",
+    "SortOrder": 11,
+    "CollectionType": 6,
+    "Rarities": 2,
+    "CatalogIconExportName": "icon_catalogue_skins_super_rare",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_SUPER_RARE",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_SUPER_RARE"
+  },
+  "SKINS_EPIC": {
+    "Name": "SKINS_EPIC",
+    "SortOrder": 12,
+    "CollectionType": 6,
+    "Rarities": 3,
+    "CatalogIconExportName": "icon_catalogue_skins_epic",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_EPIC",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_EPIC"
+  },
+  "SKINS_MYTHIC": {
+    "Name": "SKINS_MYTHIC",
+    "SortOrder": 13,
+    "CollectionType": 6,
+    "Rarities": 4,
+    "CatalogIconExportName": "icon_catalogue_skins_mythic",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_MYTHIC",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_MYTHIC"
+  },
+  "SKINS_LEGENDARY": {
+    "Name": "SKINS_LEGENDARY",
+    "SortOrder": 14,
+    "CollectionType": 6,
+    "Rarities": 5,
+    "CatalogIconExportName": "icon_catalogue_skins_legendary",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_LEGENDARY",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_LEGENDARY"
+  },
+  "SKINS_PREMIUM": {
+    "Name": "SKINS_PREMIUM",
+    "Disabled": true,
+    "SortOrder": 15,
+    "CollectionType": 6,
+    "Rarities": 6,
+    "CatalogIconExportName": "icon_catalogue_skins_legendary",
+    "NameTID": "TID_CATALOG_COLLECTION_SKINS_PREMIUM",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_PREMIUM"
+  }
+}

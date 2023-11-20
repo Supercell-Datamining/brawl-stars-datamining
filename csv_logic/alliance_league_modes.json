@@ -1,0 +1,19 @@
+{
+  "Standard": {
+    "Name": "Standard",
+    "EventSlot": 16,
+    "PreviewTickets": 1,
+    "PreviewMaxWin": 4
+  },
+  "Competitive": {
+    "Name": "Competitive",
+    "EventSlot": 17,
+    "ModeOverrideIconName": "event_icon_clubleague",
+    "ModeOverrideRoomIconName": "event_gameroom_clubleague",
+    "BannerOverrideSWF": "sc/events.sc",
+    "BannerOverrideExportName": "event_power_match_banner",
+    "EventTeaseBgColorOverride": "0xFFEE1B39",
+    "PreviewTickets": 2,
+    "PreviewMaxWin": 9
+  }
+}

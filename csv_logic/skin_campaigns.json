@@ -1,0 +1,488 @@
+{
+  "BRAWLIDAYS": {
+    "Name": "BRAWLIDAYS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_1_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_1",
+    "CampaignIconExportName": "icon_skins_brawlmas",
+    "CatalogNameOverrideTID": "TID_CATALOG_NAME_BRAWLIDAYS",
+    "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLIDAYS"
+  },
+  "LNY_2019": {
+    "Name": "LNY_2019",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2019",
+    "BgItemName": "bg_campaign_5",
+    "CampaignIconExportName": "icon_skins_lny20",
+    "CatalogNameOverrideTID": "TID_CATALOG_NAME_LNY"
+  },
+  "BRAWLOWEEN2020": {
+    "Name": "BRAWLOWEEN2020",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_3_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_3",
+    "CampaignIconExportName": "icon_skins_brawloween",
+    "BundledUnderCatalogCategory": "BRAWLOWEEN"
+  },
+  "LINE": {
+    "Name": "LINE",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_4_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_4",
+    "CampaignIconExportName": "icon_skins_line"
+  },
+  "LNY_2020": {
+    "Name": "LNY_2020",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2020",
+    "BgItemName": "bg_campaign_5",
+    "CampaignIconExportName": "icon_skins_lny20",
+    "BundledUnderCatalogCategory": "LNY_2019"
+  },
+  "PSG": {
+    "Name": "PSG",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_6_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_6",
+    "CampaignIconExportName": "icon_skins_psg"
+  },
+  "SC_MAKE": {
+    "Name": "SC_MAKE",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_7_SC_MAKE",
+    "InfoTID": "TID_SKIN_INFO_CAMPAIGN_7_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_7",
+    "CampaignIconExportName": "icon_skins_make"
+  },
+  "ARCHIVING": {
+    "Name": "ARCHIVING",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_8_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_8",
+    "CampaignIconExportName": "icon_skins_archive"
+  },
+  "ARCHIVED": {
+    "Name": "ARCHIVED",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_9_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_9",
+    "CampaignIconExportName": "icon_skins_archive"
+  },
+  "SC10": {
+    "Name": "SC10",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_10_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_10",
+    "CampaignIconExportName": "icon_skins_sc10y"
+  },
+  "BRAWLPASS": {
+    "Name": "BRAWLPASS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_11_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_11",
+    "CampaignIconExportName": "icon_skins_brawl_pass",
+    "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLPASS"
+  },
+  "CHINA": {
+    "Name": "CHINA",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_12_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_12",
+    "CampaignIconExportName": "icon_skins_prereg_cn"
+  },
+  "SILVER": {
+    "Name": "SILVER",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_13_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_13",
+    "CampaignIconExportName": "icon_skins_silver",
+    "ShowInCatalogCollectionsSection": true
+  },
+  "GOLD": {
+    "Name": "GOLD",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_14_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_14",
+    "CampaignIconExportName": "icon_skins_gold",
+    "ShowInCatalogCollectionsSection": true
+  },
+  "WF_2020": {
+    "Name": "WF_2020",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_15_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_15",
+    "CampaignIconExportName": "icon_skins_wf",
+    "CatalogNameOverrideTID": "TID_CATALOG_NAME_BSC"
+  },
+  "BRAWLIDAYS_2018": {
+    "Name": "BRAWLIDAYS_2018",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_BRAWLIDAYS_2018",
+    "BgItemName": "bg_campaign_1",
+    "CampaignIconExportName": "icon_skins_brawlmas",
+    "BundledUnderCatalogCategory": "BRAWLIDAYS"
+  },
+  "ANNIVERSARY2019": {
+    "Name": "ANNIVERSARY2019",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2019",
+    "BgItemName": "bg_campaign_16",
+    "CampaignIconExportName": "icon_skins_anniversary",
+    "CatalogNameOverrideTID": "TID_CATALOG_NAME_ANNIVERSARY"
+  },
+  "ANNIVERSARY2020": {
+    "Name": "ANNIVERSARY2020",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2020",
+    "BgItemName": "bg_campaign_16",
+    "CampaignIconExportName": "icon_skins_anniversary",
+    "BundledUnderCatalogCategory": "ANNIVERSARY2019"
+  },
+  "LNY_2021": {
+    "Name": "LNY_2021",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2021",
+    "BgItemName": "bg_campaign_5",
+    "CampaignIconExportName": "icon_skins_lny20",
+    "BundledUnderCatalogCategory": "LNY_2019"
+  },
+  "RANKED": {
+    "Name": "RANKED",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_RANKED",
+    "BgItemName": "bg_campaign_ranked",
+    "SkinBuyRequiresExclusiveOption": true,
+    "CampaignIconExportName": "icon_skins_ranked"
+  },
+  "LAML": {
+    "Name": "LAML",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LAML",
+    "BgItemName": "bg_campaign_laml",
+    "CampaignIconExportName": "icon_skins_laml"
+  },
+  "PUNK": {
+    "Name": "PUNK",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_PUNK_TITLE",
+    "BgItemName": "bg_campaign_punk",
+    "CampaignIconExportName": "icon_skins_punk"
+  },
+  "BRAWLPASS_PUNK": {
+    "Name": "BRAWLPASS_PUNK",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_11_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_11",
+    "CampaignIconExportName": "icon_skins_brawl_pass"
+  },
+  "C1A": {
+    "Name": "C1A",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_C1A",
+    "BgItemName": "bg_campaign_c1a",
+    "CampaignIconExportName": "icon_skins_mega"
+  },
+  "RETRO": {
+    "Name": "RETRO",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_RETRO",
+    "BgItemName": "bg_campaign_retro",
+    "CampaignIconExportName": "icon_skins_retro"
+  },
+  "CLUBLEAGUE": {
+    "Name": "CLUBLEAGUE",
+    "NameTID": "TID_SKIN_INFO_CLUB_LEAGUE",
+    "BgItemName": "bg_campaign_club_league",
+    "CampaignIconExportName": "icon_skins_club_league"
+  },
+  "BRAWLOWEEN": {
+    "Name": "BRAWLOWEEN",
+    "NameTID": "TID_SKIN_INFO_BRAWLOWEEN",
+    "BgItemName": "bg_campaign_3",
+    "CampaignIconExportName": "icon_skins_brawloween",
+    "CatalogSortingOrder": -5
+  },
+  "LEGENDARYSET": {
+    "Name": "LEGENDARYSET",
+    "NameTID": "TID_SKIN_INFO_LEGENDARYSET_SKINS",
+    "BgItemName": "bg_campaign_legendary",
+    "CampaignIconExportName": "icon_skins_legendary"
+  },
+  "BRAWLYWOOD": {
+    "Name": "BRAWLYWOOD",
+    "NameTID": "TID_SKIN_INFO_BRAWLYWOOD",
+    "BgItemName": "bg_campaign_brawlywood",
+    "CampaignIconExportName": "icon_skins_brawlywood"
+  },
+  "BRAWLPASS_BRAWLYWOOD": {
+    "Name": "BRAWLPASS_BRAWLYWOOD",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_11_NOT_AVAILABLE",
+    "BgItemName": "bg_campaign_11",
+    "CampaignIconExportName": "icon_skins_brawl_pass"
+  },
+  "WF_2021": {
+    "Name": "WF_2021",
+    "NameTID": "TID_SKIN_INFO_WF_2021",
+    "BgItemName": "bg_campaign_15",
+    "CampaignIconExportName": "icon_skins_wf",
+    "BundledUnderCatalogCategory": "WF_2020"
+  },
+  "PIRATES": {
+    "Name": "PIRATES",
+    "NameTID": "TID_SKIN_INFO_PIRATES",
+    "BgItemName": "bg_campaign_pirates",
+    "CampaignIconExportName": "icon_skins_pirates"
+  },
+  "BRAWLENTINES": {
+    "Name": "BRAWLENTINES",
+    "NameTID": "TID_SKIN_INFO_BRAWLENTINES",
+    "BgItemName": "bg_campaign_brawlentines",
+    "CampaignIconExportName": "icon_skins_brawlentines"
+  },
+  "LNY22": {
+    "Name": "LNY22",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022",
+    "BgItemName": "bg_campaign_5",
+    "EmoteBundleName": "Lny22",
+    "CampaignIconExportName": "icon_skins_lny20",
+    "BundledUnderCatalogCategory": "LNY_2019"
+  },
+  "ANNIVERSARY2021": {
+    "Name": "ANNIVERSARY2021",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2021",
+    "BgItemName": "bg_campaign_16",
+    "CampaignIconExportName": "icon_skins_anniversary",
+    "BundledUnderCatalogCategory": "ANNIVERSARY2019"
+  },
+  "BIODOME": {
+    "Name": "BIODOME",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_BIODOME",
+    "BgItemName": "bg_campaign_biodome",
+    "EmoteBundleName": "Biodome",
+    "CampaignIconExportName": "icon_skins_biodome"
+  },
+  "STUNTSHOW": {
+    "Name": "STUNTSHOW",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_STUNTSHOW",
+    "BgItemName": "bg_campaign_stuntshow",
+    "EmoteBundleName": "Stuntshow",
+    "CampaignIconExportName": "icon_skins_stuntshow"
+  },
+  "GOLDENWEEK": {
+    "Name": "GOLDENWEEK",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_GOLDENWEEK",
+    "BgItemName": "bg_campaign_goldenkawaii",
+    "EmoteBundleName": "Goldenweek",
+    "CampaignIconExportName": "icon_skins_goldenkawaii"
+  },
+  "VILLAINS": {
+    "Name": "VILLAINS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_VILLAINS",
+    "BgItemName": "bg_campaign_villains",
+    "EmoteBundleName": "Villains",
+    "CampaignIconExportName": "icon_skins_villains"
+  },
+  "LANTERN": {
+    "Name": "LANTERN",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LANTERN",
+    "BgItemName": "bg_campaign_lantern",
+    "CampaignIconExportName": "icon_skins_lantern"
+  },
+  "DEEPSEA": {
+    "Name": "DEEPSEA",
+    "NameTID": "TID_SKIN_INFO_DEEPSEA",
+    "BgItemName": "bg_campaign_deepsea",
+    "EmoteBundleName": "Deepsea",
+    "CampaignIconExportName": "icon_skins_deepsea"
+  },
+  "BT21": {
+    "Name": "BT21",
+    "NameTID": "TID_SKIN_INFO_BT21",
+    "BgItemName": "bg_campaign_bt21",
+    "CampaignIconExportName": "icon_skins_bt21"
+  },
+  "OUTLAW": {
+    "Name": "OUTLAW",
+    "NameTID": "TID_SKIN_INFO_OUTLAW",
+    "BgItemName": "bg_campaign_outlaw",
+    "CampaignIconExportName": "icon_skins_outlaw"
+  },
+  "MECHA": {
+    "Name": "MECHA",
+    "NameTID": "TID_SKIN_INFO_MECHA",
+    "BgItemName": "bg_campaign_mecha",
+    "CampaignIconExportName": "icon_skins_mecha",
+    "CatalogSortingOrder": -30
+  },
+  "GHOST_TRAIN": {
+    "Name": "GHOST_TRAIN",
+    "NameTID": "TID_SKIN_INFO_GHOST_TRAIN",
+    "BgItemName": "bg_campaign_ghosttrain",
+    "CampaignIconExportName": "icon_skins_ghosttrain"
+  },
+  "ACTION": {
+    "Name": "ACTION",
+    "NameTID": "TID_SKIN_INFO_ACTION",
+    "BgItemName": "bg_campaign_action",
+    "CampaignIconExportName": "icon_skins_action"
+  },
+  "WF_2022": {
+    "Name": "WF_2022",
+    "NameTID": "TID_SKIN_INFO_WF_2022",
+    "BgItemName": "bg_campaign_15",
+    "CampaignIconExportName": "icon_skins_wf",
+    "BundledUnderCatalogCategory": "WF_2020"
+  },
+  "BRAWLOWEEN22": {
+    "Name": "BRAWLOWEEN22",
+    "NameTID": "TID_SKIN_INFO_BRAWLOWEEN",
+    "BgItemName": "bg_campaign_3",
+    "CampaignIconExportName": "icon_skins_brawloween",
+    "BundledUnderCatalogCategory": "BRAWLOWEEN"
+  },
+  "RETRO22": {
+    "Name": "RETRO22",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_RETRO",
+    "BgItemName": "bg_campaign_retro",
+    "CampaignIconExportName": "icon_skins_retro"
+  },
+  "LASTBOX": {
+    "Name": "LASTBOX",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LASTBOX",
+    "BgItemName": "bg_campaign_lastbox",
+    "CampaignIconExportName": "icon_skins_lastbox"
+  },
+  "DARKMAS": {
+    "Name": "DARKMAS",
+    "NameTID": "TID_SKIN_INFO_DARKMAS",
+    "BgItemName": "bg_campaign_darkmas",
+    "CampaignIconExportName": "icon_skins_darkmas"
+  },
+  "CANDYLAND": {
+    "Name": "CANDYLAND",
+    "NameTID": "TID_SKIN_INFO_CANDYLAND",
+    "BgItemName": "bg_campaign_candyland",
+    "CampaignIconExportName": "icon_skins_candyland"
+  },
+  "LNY_2023": {
+    "Name": "LNY_2023",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2023",
+    "BgItemName": "bg_campaign_5",
+    "CampaignIconExportName": "icon_skins_lny20",
+    "BundledUnderCatalogCategory": "LNY_2019"
+  },
+  "WC_2022": {
+    "Name": "WC_2022",
+    "NameTID": "TID_SKIN_INFO_WC_2022",
+    "BgItemName": "bg_campaign_15",
+    "CampaignIconExportName": "icon_skins_wf",
+    "BundledUnderCatalogCategory": "WF_2020"
+  },
+  "ANNIVERSARY2022": {
+    "Name": "ANNIVERSARY2022",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2022",
+    "BgItemName": "bg_campaign_16",
+    "CampaignIconExportName": "icon_skins_anniversary",
+    "BundledUnderCatalogCategory": "ANNIVERSARY2019"
+  },
+  "MASKS": {
+    "Name": "MASKS",
+    "NameTID": "TID_SKIN_INFO_MASKS",
+    "BgItemName": "bg_campaign_masks",
+    "CampaignIconExportName": "icon_skins_masks"
+  },
+  "HUB": {
+    "Name": "HUB",
+    "NameTID": "TID_SKIN_INFO_HUB",
+    "BgItemName": "bg_campaign_hub",
+    "CampaignIconExportName": "icon_skins_hub"
+  },
+  "RANKED_OLD": {
+    "Name": "RANKED_OLD",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_RANKED",
+    "BgItemName": "bg_campaign_ranked",
+    "CampaignIconExportName": "icon_skins_ranked",
+    "BundledUnderCatalogCategory": "RANKED"
+  },
+  "BUNNY_BRIGADE": {
+    "Name": "BUNNY_BRIGADE",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_BUNNY",
+    "BgItemName": "bg_campaign_bunny_brigade",
+    "CampaignIconExportName": "icon_skins_bunny_brigade"
+  },
+  "JUNGLE": {
+    "Name": "JUNGLE",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_JUNGLE",
+    "BgItemName": "bg_campaign_jungle",
+    "CampaignIconExportName": "icon_skins_jungle"
+  },
+  "OLYMPUS": {
+    "Name": "OLYMPUS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_GREEK",
+    "BgItemName": "bg_campaign_olympus",
+    "CampaignIconExportName": "icon_skins_olympus"
+  },
+  "CLASHIP": {
+    "Name": "CLASHIP",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_CLASHIP",
+    "BgItemName": "bg_campaign_claship",
+    "CampaignIconExportName": "icon_skins_claship"
+  },
+  "LUNAREVENT": {
+    "Name": "LUNAREVENT",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAREVENT",
+    "BgItemName": "bg_campaign_moonfestival",
+    "CampaignIconExportName": "icon_skins_moonfestival",
+    "CatalogSortingOrder": -20
+  },
+  "SUMMER": {
+    "Name": "SUMMER",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_SUMMER",
+    "BgItemName": "bg_campaign_summer",
+    "CampaignIconExportName": "icon_skins_summer"
+  },
+  "ONCEUPON": {
+    "Name": "ONCEUPON",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ONCEUPON",
+    "BgItemName": "bg_campaign_onceupon",
+    "CampaignIconExportName": "icon_skins_onceupon"
+  },
+  "OUTLAWS": {
+    "Name": "OUTLAWS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_OUTLAWS",
+    "BgItemName": "bg_campaign_outlaws",
+    "CampaignIconExportName": "icon_skins_outlaws"
+  },
+  "ROBOTSMONSTERS": {
+    "Name": "ROBOTSMONSTERS",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ROBOTSMONSTERS",
+    "BgItemName": "bg_campaign_robotsmonsters",
+    "CampaignIconExportName": "icon_skins_robotmonsters"
+  },
+  "LNY": {
+    "Name": "LNY",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL",
+    "BgItemName": "bg_campaign_5",
+    "CampaignIconExportName": "icon_skins_lny20"
+  },
+  "CURSED": {
+    "Name": "CURSED",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_CURSED",
+    "BgItemName": "bg_campaign_cursed",
+    "CampaignIconExportName": "icon_skins_cursed"
+  },
+  "ENCHANTED": {
+    "Name": "ENCHANTED",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_ENCHANTED",
+    "BgItemName": "bg_campaign_enchanted",
+    "CampaignIconExportName": "icon_skins_enchanted"
+  },
+  "GOLDENBALL": {
+    "Name": "GOLDENBALL",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_GOLDENBALL",
+    "BgItemName": "bg_campaign_goldball",
+    "CampaignIconExportName": "icon_skins_goldball"
+  },
+  "PHOENIX": {
+    "Name": "PHOENIX",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_PHOENIX",
+    "BgItemName": "bg_campaign_phoenix",
+    "CampaignIconExportName": "icon_skins_phoenix"
+  },
+  "UNIVERSITY": {
+    "Name": "UNIVERSITY",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_UNIVERSITY",
+    "BgItemName": "bg_campaign_university",
+    "CampaignIconExportName": "icon_skins_university",
+    "CatalogSortingOrder": -10
+  },
+  "WASTELAND": {
+    "Name": "WASTELAND",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_WASTELAND",
+    "BgItemName": "bg_campaign_wasteland",
+    "CampaignIconExportName": "icon_skins_wasteland",
+    "CatalogSortingOrder": -15
+  },
+  "HARVESTFESTIVAL": {
+    "Name": "HARVESTFESTIVAL",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_HARVESTFESTIVAL",
+    "BgItemName": "bg_campaign_harvestfestival",
+    "CampaignIconExportName": "icon_skins_harvestfestival",
+    "CatalogSortingOrder": -25
+  }
+}

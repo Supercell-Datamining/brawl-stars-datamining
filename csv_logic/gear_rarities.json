@@ -1,0 +1,30 @@
+{
+  "RareGear": {
+    "Name": "RareGear",
+    "CoinPrice": 1000,
+    "TID": "TID_GEAR_RARITY_RARE",
+    "AvailableToAllBrawlers": true,
+    "IconFrameIndex": 1,
+    "NotOwnedIconBgFrameIndex": 11,
+    "TextColor": "0xFF9EF0FF",
+    "GearTitleWithRarityTID": "TID_GEAR_RARITY_TITLE_RARE_GEAR"
+  },
+  "SuperRareGear": {
+    "Name": "SuperRareGear",
+    "CoinPrice": 1500,
+    "TID": "TID_GEAR_RARITY_SUPER_RARE",
+    "IconFrameIndex": 2,
+    "NotOwnedIconBgFrameIndex": 12,
+    "TextColor": "0xFFECBAFF",
+    "GearTitleWithRarityTID": "TID_GEAR_RARITY_TITLE_SUPER_RARE_GEAR"
+  },
+  "EpicGear": {
+    "Name": "EpicGear",
+    "CoinPrice": 2000,
+    "TID": "TID_GEAR_RARITY_EPIC",
+    "IconFrameIndex": 3,
+    "NotOwnedIconBgFrameIndex": 13,
+    "TextColor": "0xFFFF9BCF",
+    "GearTitleWithRarityTID": "TID_GEAR_RARITY_TITLE_EPIC_GEAR"
+  }
+}

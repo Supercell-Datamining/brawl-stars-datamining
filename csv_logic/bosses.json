@@ -1,0 +1,85 @@
+{
+  "boss1": {
+    "Name": "boss1",
+    "TID": "TID_BOSS_1",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 6,
+    "Location": "Planet1",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss2",
+    "BossLevel": 1
+  },
+  "boss2": {
+    "Name": "boss2",
+    "TID": "TID_BOSS_2",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 12,
+    "Location": "Planet2",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss1",
+    "BossLevel": 5
+  },
+  "boss3": {
+    "Name": "boss3",
+    "TID": "TID_BOSS_3",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 18,
+    "Location": "Planet3",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss2",
+    "BossLevel": 9
+  },
+  "boss4": {
+    "Name": "boss4",
+    "TID": "TID_BOSS_4",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 24,
+    "Location": "Planet4",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss1",
+    "BossLevel": 12
+  },
+  "boss5": {
+    "Name": "boss5",
+    "TID": "TID_BOSS_5",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 30,
+    "Location": "Planet5",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss2",
+    "BossLevel": 15
+  },
+  "boss6": {
+    "Name": "boss6",
+    "TID": "TID_BOSS_6",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 36,
+    "Location": "Planet6",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss1",
+    "BossLevel": 18
+  },
+  "boss7": {
+    "Name": "boss7",
+    "PlayerCount": 3,
+    "RequiredCampaignProgressToUnlock": 54,
+    "Location": "Planet7",
+    "AllowedHeroes": "Trooper,Techie,Vanguard,Sniper,PoisonDude,Healer",
+    "Reward": "Diamonds:10:",
+    "Map": "Pvp4",
+    "Boss": "Boss2",
+    "BossLevel": 20
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "MostKills": {
+    "Name": "MostKills",
+    "TID": "TID_FEAT_MOST_KILLS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "MostDamage": {
+    "Name": "MostDamage",
+    "TID": "TID_FEAT_MOST_DAMAGE",
+    "Gradient": "PlayerTitleGold"
+  },
+  "MostHeal": {
+    "Name": "MostHeal",
+    "TID": "TID_FEAT_MOST_HEAL",
+    "Gradient": "PlayerTitleGold"
+  }
+}

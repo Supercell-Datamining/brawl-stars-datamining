@@ -1,0 +1,862 @@
+{
+  "HELP_CENTER_LANGUAGES": {
+    "Name": "HELP_CENTER_LANGUAGES",
+    "StringArray": [
+      "EN",
+      "DE",
+      "IT",
+      "FR",
+      "ES",
+      "PT",
+      "NL",
+      "CN",
+      "JP",
+      "KR",
+      "TR",
+      "NO",
+      "RU"
+    ]
+  },
+  "FEEDBACK_CATEGORIES": {
+    "Name": "FEEDBACK_CATEGORIES",
+    "StringArray": [
+      "Purchasing Issue",
+      "Connection Issue",
+      "Report Problem",
+      "Feedback",
+      "Lost Village",
+      "Account Locked"
+    ]
+  },
+  "GAMECENTER_REAUTHORIZE": {
+    "Name": "GAMECENTER_REAUTHORIZE",
+    "BooleanValue": false
+  },
+  "LOW_GFX_DEVICES": {
+    "Name": "LOW_GFX_DEVICES",
+    "StringArray": [
+      "iPad2,.*",
+      "iPad3,.*",
+      "iPhone4,.*",
+      "iPhone5,.*",
+      "iPod5,.*",
+      "iPhone6,.*"
+    ]
+  },
+  "LOW_GFX_RENDERERS": {
+    "Name": "LOW_GFX_RENDERERS",
+    "StringArray": [
+      "Mali-300.*",
+      "Mali-400.*",
+      "Mali-450.*",
+      "Mali-T6.*",
+      "Mali-T720",
+      "Adreno.*2\\d\\d",
+      "Adreno.*3\\d\\d",
+      "PowerVR.*SGX.*",
+      "PowerVR.*Rogue.*GE8100"
+    ]
+  },
+  "LOW_MEMORY_LIMIT": {
+    "Name": "LOW_MEMORY_LIMIT",
+    "NumberValue": 1536
+  },
+  "ASH_CNT": {
+    "Name": "ASH_CNT",
+    "NumberValue": 250
+  },
+  "ASH_CNT_COMBAT": {
+    "Name": "ASH_CNT_COMBAT",
+    "NumberValue": 40
+  },
+  "SNOWFLAKE_CNT": {
+    "Name": "SNOWFLAKE_CNT",
+    "NumberValue": 200
+  },
+  "SNOWFLAKE_CNT_COMBAT": {
+    "Name": "SNOWFLAKE_CNT_COMBAT",
+    "NumberValue": 100
+  },
+  "LOAD_DROID_SANS_FALLBACK_MANUALLY": {
+    "Name": "LOAD_DROID_SANS_FALLBACK_MANUALLY",
+    "BooleanValue": true
+  },
+  "LOAD_DROID_SANS_FALLBACK_MANUALLY_ANDROID": {
+    "Name": "LOAD_DROID_SANS_FALLBACK_MANUALLY_ANDROID",
+    "BooleanValue": false
+  },
+  "SHOW_GEM_BALANCE_IN_JP": {
+    "Name": "SHOW_GEM_BALANCE_IN_JP",
+    "BooleanValue": true
+  },
+  "GOOGLE_SERVICE_REAUTHORIZE": {
+    "Name": "GOOGLE_SERVICE_REAUTHORIZE"
+  },
+  "IN_APP_RETRY_LIMIT": {
+    "Name": "IN_APP_RETRY_LIMIT",
+    "NumberValue": 4
+  },
+  "DISCONNECT_IN_APPS": {
+    "Name": "DISCONNECT_IN_APPS",
+    "BooleanValue": false
+  },
+  "RETRY_PURCHASES_IN_SHOP": {
+    "Name": "RETRY_PURCHASES_IN_SHOP",
+    "BooleanValue": true
+  },
+  "HARD_BIND_TOWN_HALL_LEVEL": {
+    "Name": "HARD_BIND_TOWN_HALL_LEVEL",
+    "NumberValue": 4
+  },
+  "USE_DEVICE_LINK": {
+    "Name": "USE_DEVICE_LINK",
+    "BooleanValue": false
+  },
+  "CONFIRM_WORD_MAX_LENGTH": {
+    "Name": "CONFIRM_WORD_MAX_LENGTH",
+    "NumberValue": 15
+  },
+  "HUD_PRINT_TIME": {
+    "Name": "HUD_PRINT_TIME",
+    "NumberValue": 6
+  },
+  "HIGH_SCORE_EMPTY_LINES": {
+    "Name": "HIGH_SCORE_EMPTY_LINES",
+    "NumberArray": [
+      10,
+      50,
+      100,
+      150,
+      200
+    ]
+  },
+  "NO_MONEY_COLOR_RED": {
+    "Name": "NO_MONEY_COLOR_RED",
+    "NumberValue": 255
+  },
+  "NO_MONEY_COLOR_GREEN": {
+    "Name": "NO_MONEY_COLOR_GREEN",
+    "NumberValue": 123
+  },
+  "NO_MONEY_COLOR_BLUE": {
+    "Name": "NO_MONEY_COLOR_BLUE",
+    "NumberValue": 114
+  },
+  "HELPSHIFT_ENABLED": {
+    "Name": "HELPSHIFT_ENABLED",
+    "BooleanValue": true
+  },
+  "FORCE_USE_HELPSHIFT_FALLBACK_URL": {
+    "Name": "FORCE_USE_HELPSHIFT_FALLBACK_URL",
+    "BooleanValue": false
+  },
+  "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING": {
+    "Name": "DISABLE_HELPSHIFT_CONTACT_US_FROM_NON_PAYING",
+    "BooleanValue": false
+  },
+  "USE_DEFAULT_USER_NAME": {
+    "Name": "USE_DEFAULT_USER_NAME",
+    "BooleanValue": false
+  },
+  "SHOW_SUPPORT_TARGETING_ICON": {
+    "Name": "SHOW_SUPPORT_TARGETING_ICON",
+    "BooleanValue": false
+  },
+  "MAX_INSTRUCTOR_TH_LEVEL": {
+    "Name": "MAX_INSTRUCTOR_TH_LEVEL",
+    "NumberValue": 0
+  },
+  "ENABLE_SC_CACHING": {
+    "Name": "ENABLE_SC_CACHING",
+    "BooleanValue": true
+  },
+  "ENABLE_SC_CACHE_LOADING": {
+    "Name": "ENABLE_SC_CACHE_LOADING",
+    "BooleanValue": true
+  },
+  "SC_CACHE_FREE_SPACE_LIMIT": {
+    "Name": "SC_CACHE_FREE_SPACE_LIMIT",
+    "NumberValue": 200
+  },
+  "SC_CACHE_FREE_SPACE_LIMIT_ANDROID": {
+    "Name": "SC_CACHE_FREE_SPACE_LIMIT_ANDROID",
+    "NumberValue": 400
+  },
+  "SC_CACHE_USE_MODULO": {
+    "Name": "SC_CACHE_USE_MODULO"
+  },
+  "INSTRUCTOR_RECOMMENDS_PVP": {
+    "Name": "INSTRUCTOR_RECOMMENDS_PVP",
+    "BooleanValue": false
+  },
+  "REMOVE_INSTRUCTOR_AFTER_CLAN_CASTLE_REPAIR": {
+    "Name": "REMOVE_INSTRUCTOR_AFTER_CLAN_CASTLE_REPAIR",
+    "BooleanValue": false
+  },
+  "INSTRUCTOR_MIN_IDLE_TIME_SEC": {
+    "Name": "INSTRUCTOR_MIN_IDLE_TIME_SEC",
+    "NumberValue": 5
+  },
+  "INSTRUCTOR_MAX_IDLE_TIME_SEC": {
+    "Name": "INSTRUCTOR_MAX_IDLE_TIME_SEC",
+    "NumberValue": 10
+  },
+  "INSTRUCTOR_MIN_GOLD_PERCENT_FOR_RECOMMENDING_RAID": {
+    "Name": "INSTRUCTOR_MIN_GOLD_PERCENT_FOR_RECOMMENDING_RAID",
+    "NumberValue": 25
+  },
+  "INSTRUCTOR_MIN_ELIXIR_PERCENT_FOR_RECOMMENDING_RAID": {
+    "Name": "INSTRUCTOR_MIN_ELIXIR_PERCENT_FOR_RECOMMENDING_RAID",
+    "NumberValue": 25
+  },
+  "INSTRUCTOR_TIME_TO_HIDE_BUBBLE_AFTER_TAP_IN_SECONDS": {
+    "Name": "INSTRUCTOR_TIME_TO_HIDE_BUBBLE_AFTER_TAP_IN_SECONDS",
+    "NumberValue": 10
+  },
+  "SHOW_SAFE_ZONE_WHEN_BUILDING_SELECTED": {
+    "Name": "SHOW_SAFE_ZONE_WHEN_BUILDING_SELECTED",
+    "BooleanValue": true
+  },
+  "CONNECT_IOS_TO_KUNLUN": {
+    "Name": "CONNECT_IOS_TO_KUNLUN",
+    "BooleanValue": true
+  },
+  "KUNLUN_SPLASH_MESSAGE": {
+    "Name": "KUNLUN_SPLASH_MESSAGE"
+  },
+  "RENDER_TEXT_OUTLINES_FIRST": {
+    "Name": "RENDER_TEXT_OUTLINES_FIRST",
+    "BooleanValue": true
+  },
+  "FALLBACK_ARABIC_FONT": {
+    "Name": "FALLBACK_ARABIC_FONT",
+    "TextValue": "font/NotoNaskhArabic-Bold.ttf"
+  },
+  "FALLBACK_RUSSIAN_FONT": {
+    "Name": "FALLBACK_RUSSIAN_FONT",
+    "TextValue": "font/Pusia-Bold.otf"
+  },
+  "FALLBACK_JP_FONT": {
+    "Name": "FALLBACK_JP_FONT"
+  },
+  "USE_HELPSHIFT_SDK_LANGUAGE": {
+    "Name": "USE_HELPSHIFT_SDK_LANGUAGE",
+    "BooleanValue": true
+  },
+  "EXTRA_HELPSHIFT_LANGUAGES": {
+    "Name": "EXTRA_HELPSHIFT_LANGUAGES",
+    "StringArray": "fi"
+  },
+  "TRACK_GC_SPEND_MODULO": {
+    "Name": "TRACK_GC_SPEND_MODULO",
+    "NumberValue": 199
+  },
+  "TEXTFIELD_SCALE_FONT_SIZE_MAX_TESTS": {
+    "Name": "TEXTFIELD_SCALE_FONT_SIZE_MAX_TESTS",
+    "NumberValue": 3
+  },
+  "LANGUAGE_SETTINGS_SCROLL_MS": {
+    "Name": "LANGUAGE_SETTINGS_SCROLL_MS",
+    "NumberValue": 300
+  },
+  "LANGUAGE_SETTINGS_SCROLL_ENABLED": {
+    "Name": "LANGUAGE_SETTINGS_SCROLL_ENABLED",
+    "BooleanValue": true
+  },
+  "GOOGLE_KUNLUN_TRANSFER_COUNTRIES": {
+    "Name": "GOOGLE_KUNLUN_TRANSFER_COUNTRIES",
+    "StringArray": "CN"
+  },
+  "SHOW_IAP_INFO_IN_KOREA": {
+    "Name": "SHOW_IAP_INFO_IN_KOREA",
+    "BooleanValue": true
+  },
+  "USE_HELPSHIFT_LINKS": {
+    "Name": "USE_HELPSHIFT_LINKS",
+    "BooleanValue": false
+  },
+  "USE_TREASURY_WINDOW": {
+    "Name": "USE_TREASURY_WINDOW",
+    "BooleanValue": true
+  },
+  "APPLY_REPLAY_COMPATIBILITY_IF_CONTENT_VERSION": {
+    "Name": "APPLY_REPLAY_COMPATIBILITY_IF_CONTENT_VERSION",
+    "NumberValue": 0
+  },
+  "MIN_COMPATIBLE_CONTENT_VERSION_FOR_REPLAY": {
+    "Name": "MIN_COMPATIBLE_CONTENT_VERSION_FOR_REPLAY",
+    "NumberValue": 0
+  },
+  "ENABLE_SCREENRECORDING": {
+    "Name": "ENABLE_SCREENRECORDING",
+    "BooleanValue": false
+  },
+  "DISABLE_SCREENSHAKE_WHILE_RECORDING": {
+    "Name": "DISABLE_SCREENSHAKE_WHILE_RECORDING",
+    "BooleanValue": true
+  },
+  "SEND_CONNECTION_TYPE_INFO": {
+    "Name": "SEND_CONNECTION_TYPE_INFO",
+    "BooleanValue": true
+  },
+  "HELPSHIFT_AFTER_LOGIN": {
+    "Name": "HELPSHIFT_AFTER_LOGIN",
+    "BooleanValue": true
+  },
+  "FINISH_DEFERRED_TRANSACTION_IN_HOURS": {
+    "Name": "FINISH_DEFERRED_TRANSACTION_IN_HOURS",
+    "NumberValue": 24
+  },
+  "RESET_PENDING_TRANSACTION_WHEN_FINISHING_DEFERRED_PURCHASE": {
+    "Name": "RESET_PENDING_TRANSACTION_WHEN_FINISHING_DEFERRED_PURCHASE",
+    "BooleanValue": true
+  },
+  "SHOW_INGAME_MAINTENANCE_SCREEN": {
+    "Name": "SHOW_INGAME_MAINTENANCE_SCREEN",
+    "BooleanValue": true
+  },
+  "TRACK_MODULO": {
+    "Name": "TRACK_MODULO",
+    "NumberValue": 13
+  },
+  "CANCEL_KUNLUN_PURCHASES_ON_WINDOW_CLOSED": {
+    "Name": "CANCEL_KUNLUN_PURCHASES_ON_WINDOW_CLOSED",
+    "BooleanValue": true
+  },
+  "TRAINING_SHOW_MAX_CAPACITY_WITH_OVERTRAINING": {
+    "Name": "TRAINING_SHOW_MAX_CAPACITY_WITH_OVERTRAINING",
+    "BooleanValue": false
+  },
+  "MINIMUM_LIVE_CHAT": {
+    "Name": "MINIMUM_LIVE_CHAT",
+    "NumberValue": -1
+  },
+  "SPECIAL_URLS": {
+    "Name": "SPECIAL_URLS",
+    "StringArray": [
+      "EN",
+      "CN"
+    ]
+  },
+  "DEFERRED_FILE_DOWNLOAD_ENABLED": {
+    "Name": "DEFERRED_FILE_DOWNLOAD_ENABLED",
+    "BooleanValue": true
+  },
+  "GIFT_PACK_LOCAL_EXTENSION": {
+    "Name": "GIFT_PACK_LOCAL_EXTENSION"
+  },
+  "ENABLE_TENCENT_FRIENDS": {
+    "Name": "ENABLE_TENCENT_FRIENDS",
+    "BooleanValue": true
+  },
+  "LASER_BOX_URL_WHITE_LIST": {
+    "Name": "LASER_BOX_URL_WHITE_LIST",
+    "StringArray": [
+      "https://www.youtube.com/embed/",
+      "about:blank"
+    ]
+  },
+  "LASER_BOX_DOMAIN_WHITE_LIST": {
+    "Name": "LASER_BOX_DOMAIN_WHITE_LIST",
+    "StringArray": [
+      "kunlun-cdn.com",
+      "accounts.google.com",
+      "video.qq.com",
+      "v.qq.com",
+      "qualtrics.com",
+      "bilibili.com",
+      "hd.huya.com",
+      "open.douyu.com"
+    ]
+  },
+  "ESPORTS_HUB_URL_WHITE_LIST": {
+    "Name": "ESPORTS_HUB_URL_WHITE_LIST"
+  },
+  "ESPORTS_HUB_DOMAIN_WHITE_LIST": {
+    "Name": "ESPORTS_HUB_DOMAIN_WHITE_LIST",
+    "StringArray": "discord.com"
+  },
+  "JOYSTICK_AREA_WIDTH": {
+    "Name": "JOYSTICK_AREA_WIDTH",
+    "NumberValue": 350
+  },
+  "ENABLE_CHAT_REPORTING": {
+    "Name": "ENABLE_CHAT_REPORTING",
+    "BooleanValue": true
+  },
+  "ENABLE_BAD_TEXT_CHECK": {
+    "Name": "ENABLE_BAD_TEXT_CHECK",
+    "BooleanValue": true
+  },
+  "CLAN_INVITE_TOKEN_ENABLED": {
+    "Name": "CLAN_INVITE_TOKEN_ENABLED",
+    "BooleanValue": true
+  },
+  "CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS": {
+    "Name": "CLAN_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
+    "NumberValue": 600
+  },
+  "FRIEND_INVITE_TOKEN_ENABLED": {
+    "Name": "FRIEND_INVITE_TOKEN_ENABLED",
+    "BooleanValue": true
+  },
+  "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS": {
+    "Name": "FRIEND_INVITE_TOKEN_EXPIRE_TIME_SECONDS",
+    "NumberValue": 600
+  },
+  "TEAM_INVITE_DEEPLINK_ENABLED": {
+    "Name": "TEAM_INVITE_DEEPLINK_ENABLED",
+    "BooleanValue": true
+  },
+  "CN_STARTUP_WARNING": {
+    "Name": "CN_STARTUP_WARNING",
+    "TextValue": "\u4e3a\u4e86\u4f60\u7684\u5065\u5eb7\uff0c\u8bf7\u5408\u7406\u63a7\u5236\u6e38\u620f\u65f6\u95f4\u3002\u6caa\u7f51\u6587\u30102018\u30118544-517\u53f7 \u65b0\u51fa\u7f51\u8bc1\uff08\u6caa\uff09\u5b5733\u53f7 \u8457\u4f5c\u6743\u4eba\uff1a\u8d85\u7ea7\u7ec6\u80de\u6709\u9650\u516c\u53f8\uff08SUPERCELL OY\uff09\u51fa\u7248\u5355\u4f4d\uff1a\\n\u4e0a\u6d77\u6e38\u65cf\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8 \u56fd\u65b0\u51fa\u5ba1\u30102020\u3011552\u53f7 \u51fa\u7248\u7269\u53f7\uff1aISBN 978-7-498-07472-0\\n\u62b5\u5236\u4e0d\u826f\u6e38\u620f\uff0c\u62d2\u7edd\u76d7\u7248\u6e38\u620f\u3002\u6ce8\u610f\u81ea\u6211\u4fdd\u62a4\uff0c\u8c28\u9632\u53d7\u9a97\u4e0a\u5f53\u3002\\n\u9002\u5ea6\u6e38\u620f\u76ca\u8111\uff0c\u6c89\u8ff7\u6e38\u620f\u4f24\u8eab\u3002\u5408\u7406\u5b89\u6392\u65f6\u95f4\uff0c\u4eab\u53d7\u5065\u5eb7\u751f\u6d3b\u3002"
+  },
+  "CN_STARTUP_WARNING_TOP": {
+    "Name": "CN_STARTUP_WARNING_TOP",
+    "TextValue": "\u672c\u516c\u53f8\u79ef\u6781\u5c65\u884c\u300a\u7f51\u7edc\u6e38\u620f\u884c\u4e1a\u9632\u6c89\u8ff7\u81ea\u5f8b\u516c\u7ea6\u300b\\n\u62b5\u5236\u4e0d\u826f\u6e38\u620f\uff0c\u62d2\u7edd\u76d7\u7248\u6e38\u620f\u3002\u6ce8\u610f\u81ea\u6211\u4fdd\u62a4\uff0c\u8c28\u9632\u53d7\u9a97\u4e0a\u5f53\u3002\\n\u9002\u5ea6\u6e38\u620f\u76ca\u8111\uff0c\u6c89\u8ff7\u6e38\u620f\u4f24\u8eab\u3002\u5408\u7406\u5b89\u6392\u65f6\u95f4\uff0c\u4eab\u53d7\u5065\u5eb7\u751f\u6d3b\u3002"
+  },
+  "CN_STARTUP_WARNING_BOTTOM": {
+    "Name": "CN_STARTUP_WARNING_BOTTOM",
+    "TextValue": "\u6839\u636e\u56fd\u5bb6\u65b0\u95fb\u51fa\u7248\u7f72\u300a\u5173\u4e8e\u9632\u6b62\u672a\u6210\u5e74\u4eba\u6c89\u8ff7\u7f51\u7edc\u6e38\u620f\u7684\u901a\u77e5\u300b\u3001\\n\u300a\u5173\u4e8e\u8fdb\u4e00\u6b65\u4e25\u683c\u7ba1\u7406\u5207\u5b9e\u9632\u6b62\u672a\u6210\u5e74\u4eba\u6c89\u8ff7\u7f51\u7edc\u6e38\u620f\u7684\u901a\u77e5\u300b\uff0c\\n\u6240\u6709\u7f51\u7edc\u6e38\u620f\u7528\u6237\u5747\u9700\u4f7f\u7528\u6709\u6548\u8eab\u4efd\u4fe1\u606f\u5b8c\u6210\u8d26\u53f7\u5b9e\u540d\u6ce8\u518c\u540e\u65b9\u53ef\u8fdb\u5165\u6e38\u620f\uff0c\u8ba4\u8bc1\u4e3a\u672a\u6210\u5e74\u7684\u73a9\u5bb6\u5c06\u53d7\u5230\u9632\u6c89\u8ff7\u529f\u80fd\u9650\u5236\u3002\\n\u6caa\u7f51\u6587\u30102018\u30118544-517\u53f7\u3001\u65b0\u51fa\u7f51\u8bc1\uff08\u6caa\uff09\u5b5733\u53f7  \u8457\u4f5c\u6743\u4eba\uff1aSUPERCELL OY \u51fa\u7248\u5355\u4f4d\uff1a\\n\u4e0a\u6d77\u6e38\u65cf\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8  \u8fd0\u8425\u5355\u4f4d\uff1a\u4e0a\u6d77\u6e38\u65cf\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8\\n\u56fd\u65b0\u51fa\u5ba1\u30102020\u3011552\u53f7  \u51fa\u7248\u7269\u53f7\uff1aISBN 978-7-498-07472-0"
+  },
+  "CN_STARTUP_WARNING_MINDURATION": {
+    "Name": "CN_STARTUP_WARNING_MINDURATION",
+    "NumberValue": 5
+  },
+  "CHINA_REGULATIONS_ENABLED": {
+    "Name": "CHINA_REGULATIONS_ENABLED",
+    "BooleanValue": true
+  },
+  "RARE_CHANCE": {
+    "Name": "RARE_CHANCE",
+    "NumberValue": 559
+  },
+  "SUPER_RARE_CHANCE": {
+    "Name": "SUPER_RARE_CHANCE",
+    "NumberValue": 252
+  },
+  "EPIC_CHANCE": {
+    "Name": "EPIC_CHANCE",
+    "NumberValue": 114
+  },
+  "MYTHIC_CHANCE": {
+    "Name": "MYTHIC_CHANCE",
+    "NumberValue": 52
+  },
+  "LEGENDARY_CHANCE": {
+    "Name": "LEGENDARY_CHANCE",
+    "NumberValue": 23
+  },
+  "STAR_POWER_CHANCE": {
+    "Name": "STAR_POWER_CHANCE",
+    "NumberValue": 10
+  },
+  "ACCESSORY_CHANCE": {
+    "Name": "ACCESSORY_CHANCE",
+    "NumberValue": 20
+  },
+  "NEW_HERO_CHANCE": {
+    "Name": "NEW_HERO_CHANCE",
+    "NumberValue": 48
+  },
+  "PP_CHANCE": {
+    "Name": "PP_CHANCE",
+    "NumberValue": 922
+  },
+  "TOKEN_DOUBLER_CHANCE": {
+    "Name": "TOKEN_DOUBLER_CHANCE",
+    "NumberValue": 30
+  },
+  "MAX_LUCK": {
+    "Name": "MAX_LUCK",
+    "NumberValue": 30
+  },
+  "SPECTATE_ENABLED": {
+    "Name": "SPECTATE_ENABLED",
+    "BooleanValue": true
+  },
+  "KAKAO_ENABLED": {
+    "Name": "KAKAO_ENABLED",
+    "BooleanValue": true
+  },
+  "LINE_ENABLED": {
+    "Name": "LINE_ENABLED",
+    "BooleanValue": false
+  },
+  "SELFHELP_ENABLED": {
+    "Name": "SELFHELP_ENABLED",
+    "BooleanValue": true
+  },
+  "RETRY_LOGIN_DURING_MAINTENANCE": {
+    "Name": "RETRY_LOGIN_DURING_MAINTENANCE",
+    "BooleanValue": true
+  },
+  "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS": {
+    "Name": "ONLINE_MENU_NEW_ITEM_THROTTLE_SECS",
+    "NumberValue": 60
+  },
+  "DEFAULT_FONT_COLORS": {
+    "Name": "DEFAULT_FONT_COLORS",
+    "StringArray": [
+      "0xff4d4848",
+      "0xffe1e1e1",
+      "0xfffd8067",
+      "0xff9aee2d",
+      "0xff2766cf",
+      "0xff61def1",
+      "0xfff871f8",
+      "0xffffd156",
+      "0xffd16eff",
+      "0xfffe6a71"
+    ]
+  },
+  "COLOR_YOU": {
+    "Name": "COLOR_YOU",
+    "TextValue": "0xff00ff00"
+  },
+  "BATTLE_FRAME_RATE": {
+    "Name": "BATTLE_FRAME_RATE",
+    "NumberArray": [
+      90,
+      90,
+      90,
+      90,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "StringArray": [
+      "Phone 2",
+      "PEEM00",
+      "PEDM00",
+      "PEDT00",
+      "LE2120",
+      "LE2121",
+      "LE2123",
+      "LE2125",
+      "LE2127",
+      "CPH2171",
+      "CPH2173",
+      "PEET00",
+      "PFLM10"
+    ]
+  },
+  "MOVEMENT_SPEED_CLASSES": {
+    "Name": "MOVEMENT_SPEED_CLASSES",
+    "NumberArray": [
+      580,
+      650,
+      720,
+      770,
+      820
+    ]
+  },
+  "RELOAD_SPEED_CLASSES": {
+    "Name": "RELOAD_SPEED_CLASSES",
+    "NumberArray": [
+      2200,
+      2000,
+      1500,
+      1400,
+      1000
+    ]
+  },
+  "RANGE_CLASSES": {
+    "Name": "RANGE_CLASSES",
+    "NumberArray": [
+      11,
+      20,
+      27,
+      30
+    ]
+  },
+  "LINK_FONT_COLOR": {
+    "Name": "LINK_FONT_COLOR",
+    "TextValue": "0xffa3edff"
+  },
+  "RATING_DIALOG_XP_LEVELS": {
+    "Name": "RATING_DIALOG_XP_LEVELS",
+    "NumberArray": [
+      5,
+      15,
+      30,
+      50,
+      70
+    ]
+  },
+  "LFG_XP_LIMIT": {
+    "Name": "LFG_XP_LIMIT",
+    "NumberValue": 10
+  },
+  "BATTLE_EMOTE_VISIBLE_TIME_SECS": {
+    "Name": "BATTLE_EMOTE_VISIBLE_TIME_SECS",
+    "NumberValue": 4
+  },
+  "QQ_TARGET_URL": {
+    "Name": "QQ_TARGET_URL",
+    "TextValue": "https://speed.gamecenter.qq.com/pushgame/v1/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>"
+  },
+  "QQ_TARGET_URL_ANDROID": {
+    "Name": "QQ_TARGET_URL_ANDROID",
+    "TextValue": "https://speed.gamecenter.qq.com/pushgame/v1/detail?appid=1106576735&_wv=2164260896&_wwv=448&autodownload=1&autolaunch=1&autosubscribe=1&ADTAG=gameobj.<tag>"
+  },
+  "QQ_IMAGE_URL": {
+    "Name": "QQ_IMAGE_URL",
+    "TextValue": "http://imgcache.gtimg.cn/ACT/svip_act/act_img/public/202006/m1591079527_108x108_gaitubao_100x100.png"
+  },
+  "WECHAT_IMAGE_PATH": {
+    "Name": "WECHAT_IMAGE_PATH",
+    "TextValue": "image/brawl_icon.png"
+  },
+  "YOOZOO_OPID_TO_OPSID": {
+    "Name": "YOOZOO_OPID_TO_OPSID",
+    "StringArray": "2402",
+    "AltStringArray": "2208"
+  },
+  "TUTORIAL_FIRST_BATTLE_LOCATION": {
+    "Name": "TUTORIAL_FIRST_BATTLE_LOCATION",
+    "TextValue": "SurvivalTutorial"
+  },
+  "SHOP_SKIN_ITEM_MIX_ENABLED": {
+    "Name": "SHOP_SKIN_ITEM_MIX_ENABLED",
+    "BooleanValue": true
+  },
+  "PLAYER_MAP_STATUS_INFO_ENABLED": {
+    "Name": "PLAYER_MAP_STATUS_INFO_ENABLED",
+    "BooleanValue": true
+  },
+  "PLAYER_MAP_BATTLE_END_CTX_ENABLED": {
+    "Name": "PLAYER_MAP_BATTLE_END_CTX_ENABLED",
+    "BooleanValue": true
+  },
+  "TEAM_HUD_COLOR_BLUE": {
+    "Name": "TEAM_HUD_COLOR_BLUE",
+    "TextValue": "0x0099FF"
+  },
+  "TEAM_HUD_COLOR_RED": {
+    "Name": "TEAM_HUD_COLOR_RED",
+    "TextValue": "0xFF0000"
+  },
+  "TEAM_HUD_COLOR_PINK": {
+    "Name": "TEAM_HUD_COLOR_PINK",
+    "TextValue": "0xFF6EC2"
+  },
+  "TEAM_HUD_COLOR_YELLOW": {
+    "Name": "TEAM_HUD_COLOR_YELLOW",
+    "TextValue": "0xFFFF69"
+  },
+  "TEAM_HUD_COLOR_ORANGE": {
+    "Name": "TEAM_HUD_COLOR_ORANGE",
+    "TextValue": "0xFFC900"
+  },
+  "HUD_SPLIT_KILL_GFX_ENABLED": {
+    "Name": "HUD_SPLIT_KILL_GFX_ENABLED",
+    "BooleanValue": true
+  },
+  "RANKED_SPECTATE_ROUND_COUNTDOWN_ENABLED": {
+    "Name": "RANKED_SPECTATE_ROUND_COUNTDOWN_ENABLED",
+    "BooleanValue": false
+  },
+  "RANKED_REPLAY_ROUND_COUNTDOWN_ENABLED": {
+    "Name": "RANKED_REPLAY_ROUND_COUNTDOWN_ENABLED",
+    "BooleanValue": false
+  },
+  "RANKED_RANKUP_REWARD_VISUALS_DISABLED": {
+    "Name": "RANKED_RANKUP_REWARD_VISUALS_DISABLED",
+    "BooleanValue": false
+  },
+  "CHAT_FREE_TEXT_BUBBLE_ENABLED": {
+    "Name": "CHAT_FREE_TEXT_BUBBLE_ENABLED",
+    "BooleanValue": true
+  },
+  "TEAM_CHAT_PINNING_DISABLED": {
+    "Name": "TEAM_CHAT_PINNING_DISABLED",
+    "BooleanValue": false
+  },
+  "SD_LEAVE_PROMPT_DURATION": {
+    "Name": "SD_LEAVE_PROMPT_DURATION",
+    "NumberValue": 5
+  },
+  "SD_LEAVE_PROMPT_TEAM_WAIT": {
+    "Name": "SD_LEAVE_PROMPT_TEAM_WAIT",
+    "NumberValue": 5
+  },
+  "SHOW_POPUPS_OVER_BLUR_IN_BATTLE_END": {
+    "Name": "SHOW_POPUPS_OVER_BLUR_IN_BATTLE_END",
+    "BooleanValue": true
+  },
+  "CLUB_UNLOCK_FLOW_SKIN_1": {
+    "Name": "CLUB_UNLOCK_FLOW_SKIN_1",
+    "TextValue": "TrickshotDudeChicken"
+  },
+  "CLUB_UNLOCK_FLOW_SKIN_2": {
+    "Name": "CLUB_UNLOCK_FLOW_SKIN_2",
+    "TextValue": "TntDudeToxic"
+  },
+  "CLUB_UNLOCK_FLOW_MIN_WAIT": {
+    "Name": "CLUB_UNLOCK_FLOW_MIN_WAIT",
+    "NumberValue": 2
+  },
+  "CLUB_LEAGUE_ONBOARDING_FLOW_SKIN_1": {
+    "Name": "CLUB_LEAGUE_ONBOARDING_FLOW_SKIN_1",
+    "TextValue": "TrickshotDudeChicken"
+  },
+  "CLUB_LEAGUE_ONBOARDING_FLOW_SKIN_2": {
+    "Name": "CLUB_LEAGUE_ONBOARDING_FLOW_SKIN_2",
+    "TextValue": "TntDudeToxic"
+  },
+  "CLUB_SHOP_TEASE_SKIN_DEFAULT": {
+    "Name": "CLUB_SHOP_TEASE_SKIN_DEFAULT",
+    "TextValue": "TrickshotDudeChicken"
+  },
+  "CLUB_LEAGUE_SELFHELP_FAQ_URL": {
+    "Name": "CLUB_LEAGUE_SELFHELP_FAQ_URL"
+  },
+  "TENCENT_SUPPORT_URL": {
+    "Name": "TENCENT_SUPPORT_URL",
+    "StringArray": [
+      "LOGIN",
+      "HOMESCREEN",
+      "EVENTS",
+      "SETTINGS",
+      "SHOP",
+      "DELETE_ACCOUNT",
+      "DELETE_ACCOUNT_NEW",
+      "ANNOUNCEMENTS"
+    ],
+    "AltStringArray": [
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8629",
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8631",
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8632",
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8631",
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8630",
+      "https://bs.qq.com/act/7619/a20220316zxhy/index.html?",
+      "https://bs.qq.com/act/7619/a20220316zxhy/index.html?",
+      "https://kf.qq.com/touch/scene_product.html?scene_id=kf8631"
+    ]
+  },
+  "TENCENT_REPORT_URL": {
+    "Name": "TENCENT_REPORT_URL",
+    "TextValue": "https://report.gamesafe.qq.com/static/h5/index.htm"
+  },
+  "TENCENT_LAYOUT_REPORT_URL": {
+    "Name": "TENCENT_LAYOUT_REPORT_URL",
+    "TextValue": "https://service-light.gamesafe.qq.com/report/report_log_data"
+  },
+  "TENCENT_LAYOUT_REPORT_TOKEN": {
+    "Name": "TENCENT_LAYOUT_REPORT_TOKEN"
+  },
+  "TENCENT_LAYOUT_REPORT_UID": {
+    "Name": "TENCENT_LAYOUT_REPORT_UID"
+  },
+  "TENCENT_LAYOUT_REPORT_APP_ID": {
+    "Name": "TENCENT_LAYOUT_REPORT_APP_ID",
+    "NumberValue": 0
+  },
+  "TENCENT_LAYOUT_REPORT_SCREENSHOT_DOWNSCALE": {
+    "Name": "TENCENT_LAYOUT_REPORT_SCREENSHOT_DOWNSCALE",
+    "NumberValue": 512
+  },
+  "TENCENT_LAYOUT_REPORT_SCREENSHOT_QUALITY": {
+    "Name": "TENCENT_LAYOUT_REPORT_SCREENSHOT_QUALITY",
+    "NumberValue": 86
+  },
+  "TENCENT_PERSONAL_ASSISTANT_GAMEID": {
+    "Name": "TENCENT_PERSONAL_ASSISTANT_GAMEID",
+    "TextValue": "1339"
+  },
+  "TENCENT_PERSONAL_ASSISTANT_URL": {
+    "Name": "TENCENT_PERSONAL_ASSISTANT_URL",
+    "TextValue": "https://xyapi.game.qq.com/xiaoyue/service/redirect?"
+  },
+  "SELF_HELP_DELETION_ARTICLE": {
+    "Name": "SELF_HELP_DELETION_ARTICLE",
+    "TextValue": "articles/gdpr-request-deletion-of-your-personal-data.html"
+  },
+  "SELF_HELP_DELETION_ARTICLE_CN": {
+    "Name": "SELF_HELP_DELETION_ARTICLE_CN",
+    "TextValue": "articles/gdpr-request-deletion-of-your-personal-data-1.html"
+  },
+  "BRAWL_PASS_IN_SHOP": {
+    "Name": "BRAWL_PASS_IN_SHOP",
+    "BooleanValue": true
+  },
+  "SELF_HELP_PORTRAIT_LOCK_IOS": {
+    "Name": "SELF_HELP_PORTRAIT_LOCK_IOS",
+    "BooleanValue": true
+  },
+  "SELF_HELP_PORTRAIT_LOCK_ANDROID": {
+    "Name": "SELF_HELP_PORTRAIT_LOCK_ANDROID",
+    "BooleanValue": true
+  },
+  "ENABLE_WEB_NOTIFICATIONS": {
+    "Name": "ENABLE_WEB_NOTIFICATIONS",
+    "BooleanValue": true
+  },
+  "RECRUIT_AUTO_HIGHLIGHT_PERCENTAGES": {
+    "Name": "RECRUIT_AUTO_HIGHLIGHT_PERCENTAGES",
+    "NumberArray": [
+      50,
+      90
+    ]
+  },
+  "RECRUIT_AUTO_HIGHLIGHT_MIN_HEROES": {
+    "Name": "RECRUIT_AUTO_HIGHLIGHT_MIN_HEROES",
+    "NumberValue": 3
+  },
+  "ENABLE_NEW_BATTLE_INTRO": {
+    "Name": "ENABLE_NEW_BATTLE_INTRO",
+    "BooleanValue": true
+  },
+  "TENCENT_DOLPHIN_URL_DEV": {
+    "Name": "TENCENT_DOLPHIN_URL_DEV",
+    "TextValue": "pre-download.936396168-1-2.gcloudsvcs.com"
+  },
+  "TENCENT_DOLPHIN_CHANNEL_DEV": {
+    "Name": "TENCENT_DOLPHIN_CHANNEL_DEV",
+    "NumberValue": 1001225
+  },
+  "TENCENT_DOLPHIN_URL_STAGE": {
+    "Name": "TENCENT_DOLPHIN_URL_STAGE",
+    "TextValue": "pre-download.936396168-1-2.gcloudsvcs.com"
+  },
+  "TENCENT_DOLPHIN_CHANNEL_STAGE": {
+    "Name": "TENCENT_DOLPHIN_CHANNEL_STAGE",
+    "NumberValue": 1001224
+  },
+  "TENCENT_DOLPHIN_URL": {
+    "Name": "TENCENT_DOLPHIN_URL",
+    "TextValue": "download.936396168-1-1.gcloudsvcs.com"
+  },
+  "TENCENT_DOLPHIN_CHANNEL": {
+    "Name": "TENCENT_DOLPHIN_CHANNEL",
+    "NumberValue": 1001223
+  },
+  "TENCENT_GCLOUD_ID": {
+    "Name": "TENCENT_GCLOUD_ID",
+    "TextValue": "936396168"
+  },
+  "TENCENT_GCLOUD_KEY": {
+    "Name": "TENCENT_GCLOUD_KEY",
+    "TextValue": "eba81f5ecae852e5947746aacb562ba9"
+  },
+  "TENCENT_CDKEY_EXCHANGE_URL": {
+    "Name": "TENCENT_CDKEY_EXCHANGE_URL",
+    "TextValue": "https://bs.qq.com/act/a20230116cdkey/index.html"
+  },
+  "RANDOM_REWARDS_FOR_WINS": {
+    "Name": "RANDOM_REWARDS_FOR_WINS",
+    "BooleanValue": true
+  },
+  "HIDE_SC_WEB_NOTIFICATION_ON_ENTER_BATTLE": {
+    "Name": "HIDE_SC_WEB_NOTIFICATION_ON_ENTER_BATTLE",
+    "BooleanValue": true
+  }
+}

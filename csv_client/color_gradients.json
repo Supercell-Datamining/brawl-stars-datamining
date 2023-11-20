@@ -1,0 +1,225 @@
+{
+  "FreeOffer": {
+    "Name": "FreeOffer",
+    "Colors": [
+      "0xFF9FFF72",
+      "0xFF68E524",
+      "0xFF68E524",
+      "0xFF9FFF72",
+      "0xFFE0FFA0"
+    ],
+    "Speed": 40,
+    "Scale": 100
+  },
+  "Golden": {
+    "Name": "Golden",
+    "Colors": [
+      "0xFFFFFABC",
+      "0xFFFFD12E",
+      "0xFFF29928",
+      "0xFFFFD12E"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Purple": {
+    "Name": "Purple",
+    "Colors": [
+      "0xFFFABCFF",
+      "0xFFD12EFF",
+      "0xFF9928F2",
+      "0xFFD12EFF"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "DoubleTokenGold": {
+    "Name": "DoubleTokenGold",
+    "Colors": [
+      "0xFFFFDAAC",
+      "0xFFFFD12E",
+      "0xFFF29928",
+      "0xFFFFD12E"
+    ],
+    "Speed": 50,
+    "Scale": 70
+  },
+  "DefaultName": {
+    "Name": "DefaultName",
+    "Colors": [
+      "0xFFFFFFFF",
+      "0xFFFFFFFF"
+    ],
+    "Speed": 50,
+    "Scale": 70
+  },
+  "Name1": {
+    "Name": "Name1",
+    "Colors": [
+      "0xFF45ffb1",
+      "0xFF2eef60",
+      "0xFF00c74b",
+      "0xFF2eef60"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name2": {
+    "Name": "Name2",
+    "Colors": [
+      "0xFFfff5d6",
+      "0xFFFFDBA7",
+      "0xFFffb777",
+      "0xFFFFDBA7"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name3": {
+    "Name": "Name3",
+    "Colors": [
+      "0xFFffffce",
+      "0xFFfff76c",
+      "0xFFffe034",
+      "0xFFfff76c"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name4": {
+    "Name": "Name4",
+    "Colors": [
+      "0xFFFDF542",
+      "0xFFfdd000",
+      "0xFFFF9005",
+      "0xFFfdd000"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name5": {
+    "Name": "Name5",
+    "Colors": [
+      "0xFFffd49d",
+      "0xFFFFAA82",
+      "0xFFff7b4f",
+      "0xFFFFAA82"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name6": {
+    "Name": "Name6",
+    "Colors": [
+      "0xFFffae1f",
+      "0xFFff7b06",
+      "0xFFff382e",
+      "0xFFff7b06"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name7": {
+    "Name": "Name7",
+    "Colors": [
+      "0xFFff9368",
+      "0xFFFF6178",
+      "0xFFf51a73",
+      "0xFFFF6178"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name8": {
+    "Name": "Name8",
+    "Colors": [
+      "0xFFffc92f",
+      "0xFFff9c4c",
+      "0xFFff6856",
+      "0xFFf931a3",
+      "0xFFe300b9",
+      "0xFFf931a3",
+      "0xFFff6856",
+      "0xFFff9c4c"
+    ],
+    "Speed": 30,
+    "Scale": 100
+  },
+  "Name9": {
+    "Name": "Name9",
+    "Colors": [
+      "0xFF20fbff",
+      "0xFF00d0fa",
+      "0xFF359eff",
+      "0xFF00d0fa"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name10": {
+    "Name": "Name10",
+    "Colors": [
+      "0xFFFF6DEA",
+      "0xFFFA00D6",
+      "0xFFCA00F4",
+      "0xFFFA00D6"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "Name11": {
+    "Name": "Name11",
+    "Colors": [
+      "0xFFdffd67",
+      "0xFF7efc7d",
+      "0xFF13cf00",
+      "0xFF7efc7d"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  },
+  "ComingSoon": {
+    "Name": "ComingSoon",
+    "Colors": [
+      "0xFFFFFABC",
+      "0xFFFFD12E",
+      "0xFFF8A535",
+      "0xFFFFD12E"
+    ],
+    "Speed": 10,
+    "Scale": 100
+  },
+  "LeagueBonusDay": {
+    "Name": "LeagueBonusDay",
+    "Colors": [
+      "0xFFFFDAAC",
+      "0xFFFFD12E",
+      "0xFFF29928",
+      "0xFFFFD12E"
+    ],
+    "Speed": 50,
+    "Scale": 70
+  },
+  "PlayerTitleGold": {
+    "Name": "PlayerTitleGold",
+    "Colors": [
+      "0xFFFFDAAC",
+      "0xFFFFD12E",
+      "0xFFF29928",
+      "0xFFFFD12E"
+    ],
+    "Speed": 50,
+    "Scale": 70
+  },
+  "MaxLevelGold": {
+    "Name": "MaxLevelGold",
+    "Colors": [
+      "0xFFFFFABC",
+      "0xFFFFD12E",
+      "0xFFF29928",
+      "0xFFFFD12E"
+    ],
+    "Speed": 50,
+    "Scale": 100
+  }
+}

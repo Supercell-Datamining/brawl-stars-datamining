@@ -1,0 +1,375 @@
+{
+  "msg1": {
+    "Name": "msg1",
+    "TID": "TID_QUICK_MESSAGE_CHOOSE_BRAWLER",
+    "MessageType": 1,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item"
+  },
+  "msg2": {
+    "Name": "msg2",
+    "TID": "TID_QUICK_MESSAGE_CHOOSE_MODE",
+    "MessageType": 2,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item"
+  },
+  "msg3": {
+    "Name": "msg3",
+    "TID": "TID_QUICK_MESSAGE_CHANGE_BRAWLERS",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 0
+  },
+  "msg4": {
+    "Name": "msg4",
+    "TID": "TID_QUICK_MESSAGE_GOOD_GAME",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 23
+  },
+  "msg5": {
+    "Name": "msg5",
+    "TID": "TID_QUICK_MESSAGE_PLAY_AGAIN",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 2
+  },
+  "msg6": {
+    "Name": "msg6",
+    "TID": "TID_QUICK_MESSAGE_WELL_PLAYED",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 3
+  },
+  "msg7": {
+    "Name": "msg7",
+    "TID": "TID_QUICK_MESSAGE_WOW",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 4
+  },
+  "msg8": {
+    "Name": "msg8",
+    "TID": "TID_QUICK_MESSAGE_OK",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 5
+  },
+  "msg9": {
+    "Name": "msg9",
+    "TID": "TID_QUICK_MESSAGE_GOTTA_GO",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 6
+  },
+  "msg10": {
+    "Name": "msg10",
+    "TID": "TID_QUICK_MESSAGE_CHANGE_MODE",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 7
+  },
+  "msg11": {
+    "Name": "msg11",
+    "TID": "TID_QUICK_MESSAGE_BYE",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 8
+  },
+  "msg12": {
+    "Name": "msg12",
+    "TID": "TID_QUICK_MESSAGE_CLOSE_MATCH",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 9
+  },
+  "msg13": {
+    "Name": "msg13",
+    "TID": "TID_QUICK_MESSAGE_READY",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 10
+  },
+  "msg14": {
+    "Name": "msg14",
+    "TID": "TID_QUICK_MESSAGE_READY_GO",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 11
+  },
+  "msg15": {
+    "Name": "msg15",
+    "TID": "TID_QUICK_MESSAGE_HI",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 12
+  },
+  "msg16": {
+    "Name": "msg16",
+    "TID": "TID_QUICK_MESSAGE_NEED_BREAK",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 13
+  },
+  "msg17": {
+    "Name": "msg17",
+    "TID": "TID_QUICK_MESSAGE_NEED_TO_GO",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 14
+  },
+  "msg18": {
+    "Name": "msg18",
+    "TID": "TID_QUICK_MESSAGE_THANKS",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 15
+  },
+  "msg19": {
+    "Name": "msg19",
+    "TID": "TID_QUICK_MESSAGE_SORRY",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 16
+  },
+  "msg20": {
+    "Name": "msg20",
+    "TID": "TID_QUICK_MESSAGE_OOPS",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 17
+  },
+  "msg21": {
+    "Name": "msg21",
+    "TID": "TID_QUICK_MESSAGE_SUGGEST_BRAWLER",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 18
+  },
+  "msg22": {
+    "Name": "msg22",
+    "TID": "TID_QUICK_MESSAGE_SUGGEST_STARPOWER",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 19
+  },
+  "msg23": {
+    "Name": "msg23",
+    "TID": "TID_QUICK_MESSAGE_SUGGEST_MODE",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 20
+  },
+  "msg24": {
+    "Name": "msg24",
+    "TID": "TID_QUICK_MESSAGE_ASK_BRAWLER",
+    "BubbleOverrideTID": "TID_QUICK_MESSAGE_ASK_BRAWLER_SPLIT",
+    "MessageType": 5,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 21
+  },
+  "msg25": {
+    "Name": "msg25",
+    "TID": "TID_QUICK_MESSAGE_ASK_MODE",
+    "BubbleOverrideTID": "TID_QUICK_MESSAGE_ASK_MODE_SPLIT",
+    "MessageType": 6,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 22
+  },
+  "msg26": {
+    "Name": "msg26",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_thumbsup",
+    "QuickEmojiType": 1,
+    "SortPriority": 30,
+    "AvailableInClub": "TRUE"
+  },
+  "msg27": {
+    "Name": "msg27",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_thumbsdown",
+    "QuickEmojiType": 2,
+    "SortPriority": 30,
+    "AvailableInClub": "TRUE"
+  },
+  "msg28": {
+    "Name": "msg28",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_smile",
+    "QuickEmojiType": 3,
+    "SortPriority": 0,
+    "AvailableInClub": "TRUE"
+  },
+  "msg29": {
+    "Name": "msg29",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_sad",
+    "QuickEmojiType": 4,
+    "SortPriority": 11,
+    "AvailableInClub": "TRUE"
+  },
+  "msg30": {
+    "Name": "msg30",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_laugh",
+    "SortPriority": 0,
+    "AvailableInClub": "TRUE"
+  },
+  "msg31": {
+    "Name": "msg31",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_angry",
+    "QuickEmojiType": 5,
+    "SortPriority": 22,
+    "AvailableInClub": "TRUE"
+  },
+  "msg32": {
+    "Name": "msg32",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_annoyed",
+    "SortPriority": 21,
+    "AvailableInClub": "TRUE"
+  },
+  "msg33": {
+    "Name": "msg33",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_blank",
+    "SortPriority": 10,
+    "AvailableInClub": "TRUE"
+  },
+  "msg34": {
+    "Name": "msg34",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_grin",
+    "SortPriority": 1,
+    "AvailableInClub": "TRUE"
+  },
+  "msg35": {
+    "Name": "msg35",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_rage",
+    "SortPriority": 22,
+    "AvailableInClub": "TRUE"
+  },
+  "msg36": {
+    "Name": "msg36",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_shocked",
+    "SortPriority": 12,
+    "AvailableInClub": "TRUE"
+  },
+  "msg37": {
+    "Name": "msg37",
+    "TID": "TID_QUICK_MESSAGE_CHOOSE_FRIENDLY_LOCATION",
+    "MessageType": 4,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item"
+  },
+  "msg38": {
+    "Name": "msg38",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_happy",
+    "SortPriority": 0,
+    "AvailableInClub": "TRUE"
+  },
+  "msg39": {
+    "Name": "msg39",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_stunned",
+    "SortPriority": 11,
+    "AvailableInClub": "TRUE"
+  },
+  "msg40": {
+    "Name": "msg40",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_bothered",
+    "SortPriority": 20,
+    "AvailableInClub": "TRUE"
+  },
+  "msg41": {
+    "Name": "msg41",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_ecstatic",
+    "SortPriority": 1,
+    "AvailableInClub": "TRUE"
+  },
+  "msg42": {
+    "Name": "msg42",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_speechless",
+    "SortPriority": 10,
+    "AvailableInClub": "TRUE"
+  },
+  "msg43": {
+    "Name": "msg43",
+    "MessageType": 3,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_frenzied",
+    "SortPriority": 22,
+    "AvailableInClub": "TRUE"
+  },
+  "msg44": {
+    "Name": "msg44",
+    "TID": "TID_QUICK_MESSAGE_ONE_MOMENT",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 24
+  },
+  "msg45": {
+    "Name": "msg45",
+    "TID": "TID_QUICK_MESSAGE_ASK_STAR_TOKEN_HELP",
+    "Disabled": "TRUE",
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 25
+  },
+  "msg55": {
+    "Name": "msg55",
+    "TID": "TID_QUICK_MESSAGE_LETS_CHAT",
+    "MessageType": 7,
+    "FileName": "sc/ui.sc",
+    "ExportName": "button_chat_item",
+    "SortPriority": 26,
+    "AgeGated": "TRUE"
+  },
+  "msg56": {
+    "Name": "msg56",
+    "MessageType": 8,
+    "FileName": "sc/ui.sc",
+    "ExportName": "emoji_happy",
+    "SortPriority": 0,
+    "AvailableInClub": "TRUE"
+  }
+}
