@@ -125,9 +125,7 @@
     "Name": "PowerPoints",
     "TID": "TID_RESOURCE_POWER_POINTS",
     "IconSWF": "sc/ui.sc",
-    "IconExportName": "icon_resource_powerpoints",
-    "Cap": 4000,
-    "AllowedToOverflowCapOnce": "TRUE"
+    "IconExportName": "icon_resource_powerpoints"
   },
   "Bling": {
     "Name": "Bling",

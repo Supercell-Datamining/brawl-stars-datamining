@@ -1,7 +1,7 @@
 {
   "ALLIANCE_CREATE_COST": {
     "Name": "ALLIANCE_CREATE_COST",
-    "NumberValue": 0
+    "NumberValue": 1000
   },
   "STARTING_DIAMONDS": {
     "Name": "STARTING_DIAMONDS",
@@ -156,7 +156,7 @@
   },
   "GEM_TO_COIN_PERCENTAGE": {
     "Name": "GEM_TO_COIN_PERCENTAGE",
-    "NumberValue": 930
+    "NumberValue": 1000
   },
   "FAME_CHROMA_OFFER_PRICE": {
     "Name": "FAME_CHROMA_OFFER_PRICE",

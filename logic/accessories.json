@@ -20,7 +20,7 @@
     "UseEffect": "gadget_activate",
     "AimGuideType": 2,
     "InterruptsAction": true,
-    "CustomValue1": 1500,
+    "CustomValue1": 30,
     "TargetTooFarText": "TID_ACCESSORY_BLOCKED_BUSH_TOO_FAR"
   },
   "RocketGirl_Jump": {
@@ -59,7 +59,8 @@
     "SubType": 1,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomObject": "ArtilleryDudeCover"
+    "CustomObject": "ArtilleryDudeCover",
+    "CustomValue1": 35
   },
   "Shaman_PetSlam": {
     "Name": "Shaman_PetSlam",
@@ -99,7 +100,7 @@
     "AimGuideType": 1,
     "AreaEffect": "HookDudePushback",
     "SkipTypeCondition": true,
-    "CustomValue1": 600
+    "CustomValue1": 10
   },
   "ClusterBombDude_ExtraMines": {
     "Name": "ClusterBombDude_ExtraMines",
@@ -165,7 +166,7 @@
     "CustomObject": "TntDudeProjectile",
     "CustomValue1": 2,
     "CustomValue2": 100,
-    "CustomValue3": 2000,
+    "CustomValue3": 150,
     "CustomValue4": 700,
     "CustomValue5": 100
   },
@@ -194,7 +195,7 @@
     "CustomObject": "BarrelBotSpinProjectile",
     "CustomValue1": 1,
     "CustomValue2": 25,
-    "CustomValue3": 400,
+    "CustomValue3": 125,
     "CustomValue4": 2500,
     "CustomValue5": 0,
     "CustomValue6": 1000
@@ -284,7 +285,7 @@
     "RequireEnemyInRange": true,
     "CustomObject": "PiperHandgunProjectile",
     "CustomValue1": 5,
-    "CustomValue2": 100
+    "CustomValue2": 5
   },
   "SpawnerDude_Promote": {
     "Name": "SpawnerDude_Promote",
@@ -292,8 +293,8 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "RequirePetDistance": 12,
-    "CustomValue1": 150,
-    "CustomValue2": 1000,
+    "CustomValue1": 15,
+    "CustomValue2": 20,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_NO_PORTERS_IN_RANGE",
     "TargetTooFarText": "TID_ACCESSORY_BLOCKED_NO_PORTERS_IN_RANGE",
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_PORTER_ALREADY_PROMOTED"
@@ -325,7 +326,7 @@
     "SubType": 1,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomValue1": 1500
+    "CustomValue1": 20
   },
   "Gunslinger_Reload": {
     "Name": "Gunslinger_Reload",
@@ -348,7 +349,7 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "ActiveTicks": 80,
-    "CustomValue1": 600
+    "CustomValue1": 10
   },
   "Ninja_Fake": {
     "Name": "Ninja_Fake",
@@ -357,7 +358,8 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "CustomObject": "NinjaFake",
-    "CustomValue1": 200
+    "CustomValue1": 100,
+    "CustomValue2": 200
   },
   "Blower_Trampoline": {
     "Name": "Blower_Trampoline",
@@ -392,7 +394,7 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "CustomValue1": 350,
-    "CustomValue2": 60
+    "CustomValue2": 40
   },
   "ArtilleryDude_Barrage": {
     "Name": "ArtilleryDude_Barrage",
@@ -466,7 +468,7 @@
     "RequireEnemyInRange": true,
     "TargetIndirect": true,
     "CustomObject": "LuchadorMeteorSpawn",
-    "CustomValue1": 2000
+    "CustomValue1": 400
   },
   "Barkeep_HealPotion": {
     "Name": "Barkeep_HealPotion",
@@ -484,7 +486,7 @@
     "TargetIndirect": true,
     "CustomObject": "BarkeepHealingProjectile",
     "CustomValue1": 5,
-    "CustomValue2": -500,
+    "CustomValue2": -15,
     "CustomValue3": 3000
   },
   "TntDude_Stun": {
@@ -519,7 +521,7 @@
     "UseEffect": "gadget_activate",
     "LoopingEffect": "gadget_on_loop",
     "ActiveTicks": 100000,
-    "CustomValue1": 1000
+    "CustomValue1": 75
   },
   "FireDude_Spill": {
     "Name": "FireDude_Spill",
@@ -566,7 +568,7 @@
     "Interruptable": true,
     "CustomObject": "BeeSniperCirclingProjectile",
     "CustomValue1": 4,
-    "CustomValue2": 1000
+    "CustomValue2": 75
   },
   "BarrelBot_Slow": {
     "Name": "BarrelBot_Slow",
@@ -660,7 +662,7 @@
     "UseEffect": "gadget_activate",
     "ActiveTicks": 60,
     "ConsumesAmmo": true,
-    "CustomValue1": 800
+    "CustomValue1": 25
   },
   "Enrager_SuperBoost": {
     "Name": "Enrager_SuperBoost",
@@ -678,7 +680,8 @@
     "UseEffect": "gadget_activate",
     "CustomObject": "RuffsCover",
     "CustomValue1": 3,
-    "CustomValue2": 400
+    "CustomValue2": 400,
+    "CustomValue4": 35
   },
   "Rosa_BushControl": {
     "Name": "Rosa_BushControl",
@@ -688,7 +691,7 @@
     "ActiveTicks": 5,
     "CustomValue1": 350,
     "CustomValue2": 60,
-    "CustomValue3": 100
+    "CustomValue3": 30
   },
   "SpawnerDude_ExtraPorter": {
     "Name": "SpawnerDude_ExtraPorter",
@@ -733,7 +736,7 @@
     "TargetIndirect": true,
     "CustomObject": "GeneHomingProjectile",
     "CustomValue1": 5,
-    "CustomValue2": 1000
+    "CustomValue2": 80
   },
   "Controller_BounceBack": {
     "Name": "Controller_BounceBack",
@@ -794,7 +797,7 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "CustomObject": "ElectroTrap",
-    "CustomValue1": 500
+    "CustomValue1": 30
   },
   "StickyBomb_Range": {
     "Name": "StickyBomb_Range",
@@ -835,7 +838,7 @@
     "InterruptsAction": true,
     "CustomObject": "AssaultShotgunGadgetProjectile",
     "CustomValue1": 5,
-    "CustomValue2": 1000
+    "CustomValue2": 250
   },
   "IceDude_AreaFreeze": {
     "Name": "IceDude_AreaFreeze",
@@ -854,7 +857,7 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "CustomObject": "RollerGadgetProjectile",
-    "CustomValue1": 200,
+    "CustomValue1": 20,
     "CustomValue2": 3,
     "CustomValue3": 200,
     "CustomValue4": 2000,
@@ -873,7 +876,7 @@
     "RequireEnemyInRange": true,
     "TargetIndirect": true,
     "CustomObject": "RuffsAirStrikeSpawn",
-    "CustomValue1": 700,
+    "CustomValue1": 100,
     "CustomValue2": 8
   },
   "Enrager_Protection": {
@@ -881,7 +884,7 @@
     "Type": "consumable_shield",
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomValue1": 2000,
+    "CustomValue1": 50,
     "CustomValue2": 140,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_SHIELD_ALREADY_ACTIVE"
   },
@@ -912,7 +915,8 @@
     "SubType": 1,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomObject": "CactusCover"
+    "CustomObject": "CactusCover",
+    "CustomValue1": 50
   },
   "Blower_Stopper": {
     "Name": "Blower_Stopper",
@@ -938,7 +942,7 @@
     "UseEffect": "gadget_activate",
     "LoopingEffect": "gadget_on_loop",
     "ActiveTicks": 100000,
-    "CustomValue1": 200
+    "CustomValue1": 40
   },
   "Knight_Heal": {
     "Name": "Knight_Heal",
@@ -946,7 +950,7 @@
     "SubType": 3,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomValue1": 2500,
+    "CustomValue1": 30,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_REQUIRES_RAGE"
   },
   "MechaDude_Heal": {
@@ -956,7 +960,7 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "ActiveTicks": 100,
-    "CustomValue1": 300,
+    "CustomValue1": 7,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_REQUIRES_MECHA"
   },
   "Duplicator_StaticDuplicate": {
@@ -985,7 +989,7 @@
     "CustomObject": "KickerDudeMinesProjectile",
     "CustomValue1": 2,
     "CustomValue2": 50,
-    "CustomValue3": 750,
+    "CustomValue3": 40,
     "CustomValue4": 1500,
     "CustomValue5": 0,
     "CustomValue6": 0
@@ -1004,7 +1008,8 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "CustomObject": "FleaExtraPet",
-    "CustomValue1": 200
+    "CustomValue1": 20,
+    "CustomValue2": 200
   },
   "Flea_Symbiosis": {
     "Name": "Flea_Symbiosis",
@@ -1029,7 +1034,7 @@
     "InterruptsAction": true,
     "RequirePetDistance": 12,
     "CustomObject": "DuplicatorSwapEffect",
-    "CustomValue1": 1000,
+    "CustomValue1": 20,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_MISSING_EGO",
     "TargetTooFarText": "TID_ACCESSORY_BLOCKED_EGO_TOO_FAR"
   },
@@ -1187,7 +1192,7 @@
     "CustomValue1": 600,
     "CustomValue2": 2000,
     "CustomValue3": 130,
-    "CustomValue4": 1000,
+    "CustomValue4": 200,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_REQUIRES_ASSASSIN"
   },
   "PowerLeveler_ExtraLevels": {
@@ -1244,7 +1249,7 @@
     "Interruptable": true,
     "CustomObject": "FlameDudeCirclingProjectile",
     "CustomValue1": 1,
-    "CustomValue2": 1000,
+    "CustomValue2": 500,
     "CustomValue3": 3
   },
   "MechaDude_ReloadTower": {
@@ -1287,7 +1292,7 @@
     "CustomObject": "SilencerBigProjectile",
     "CustomValue1": 100,
     "CustomValue2": 150,
-    "CustomValue4": 810,
+    "CustomValue4": 125,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   },
   "WeaponThrower_Pull": {
@@ -1437,7 +1442,7 @@
     "StopMovement": true,
     "InterruptsAction": true,
     "CustomObject": "SplitterLegSignalProjectile",
-    "CustomValue1": 500
+    "CustomValue1": 50
   },
   "Splitter_TriggerTags": {
     "Name": "Splitter_TriggerTags",
@@ -1455,7 +1460,7 @@
     "LoopingEffect": "gadget_on_loop",
     "ActiveTicks": 100000,
     "AreaEffect": "PuppeteerPoisonAlternative",
-    "CustomValue1": 500,
+    "CustomValue1": 25,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   },
   "Puppeteer_Dive": {
@@ -1564,7 +1569,7 @@
     "UseEffect": "gadget_activate",
     "LoopingEffect": "gadget_on_loop",
     "ActiveTicks": 100000,
-    "CustomValue1": 300,
+    "CustomValue1": 200,
     "CustomValue2": 3,
     "CustomValue3": 2,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
@@ -1600,5 +1605,28 @@
     "ActiveTicks": 50,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_SUPER_REQUIRED",
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "Cocooner_SpawnPets": {
+    "Name": "Cocooner_SpawnPets",
+    "Type": "spawn",
+    "SubType": 5,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "CustomObject": "CocoonerPet",
+    "CustomValue1": 3,
+    "CustomValue2": 350
+  },
+  "Cocooner_CocoonSelf": {
+    "Name": "Cocooner_CocoonSelf",
+    "Type": "cocoon_self",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 40,
+    "StopMovement": true,
+    "InterruptsAction": true,
+    "CustomObject": "CocoonerCocoon",
+    "CustomValue1": 50,
+    "CustomValue2": 100,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_COCOONED"
   }
 }

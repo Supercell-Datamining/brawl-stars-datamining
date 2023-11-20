@@ -484,6 +484,16 @@
     "RandomStartFrame": 2,
     "Layer": "Above"
   },
+  "MineLotus": {
+    "Name": "MineLotus",
+    "ParentItemForSkin": "Mine",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "bo_007_mine",
+    "ExportNameEnemy": "bo_007_mine_red",
+    "TriggerAreaEffect": "Bo_007_ulti2_area",
+    "SpawnEffect": "bo_def_ulti2_spawn",
+    "Layer": "Above"
+  },
   "ScorePole": {
     "Name": "ScorePole",
     "SpawnEffect": "Spawn_plasmoid",
@@ -1039,6 +1049,18 @@
     "ExportName": "bronson_003_ulti_reached_proj",
     "ExportNameEnemy": "bronson_003_ulti_reached_proj_red",
     "ShadowExportName": "bronson_003_ulti_reached_shadow",
+    "TriggerRangeSubTiles": 3,
+    "CanBePickedUp": true,
+    "SpawnEffect": "bo_def_ulti2_spawn",
+    "Layer": "Above"
+  },
+  "Bronson004Weapon": {
+    "Name": "Bronson004Weapon",
+    "ParentItemForSkin": "WeaponThrowerWeapon",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "bronson_004_ulti_reached_gauntlet",
+    "ExportNameEnemy": "bronson_004_ulti_reached_gauntlet_red",
+    "ShadowExportName": "bronson_004_ulti_reached_gauntlet_shadow",
     "TriggerRangeSubTiles": 3,
     "CanBePickedUp": true,
     "SpawnEffect": "bo_def_ulti2_spawn",

@@ -304,6 +304,7 @@
     "NumSpawns": 1,
     "MaxSpawns": 1,
     "Projectile": "MechanicUltiProjectile",
+    "OverchargedProjectile": "MechanicOverchargedUltiProjectile",
     "SummonedCharacter": "MechanicTurret",
     "AttackEffect": "mechanic_ulti"
   },
@@ -1084,6 +1085,7 @@
     "TwoGuns": true,
     "ExecuteFirstAttackImmediately": true,
     "Projectile": "RosaProjectile",
+    "OverchargedProjectile": "RosaOverchargedProjectile",
     "AttackEffect": "rosa_def_atk",
     "UsableInShadowRealm": true
   },
@@ -1095,8 +1097,11 @@
     "Cooldown": 50,
     "ActiveTime": 3000,
     "MsBetweenAttacks": 70,
+    "OverchargedAreaEffectObject": "RosaOverchargedUltiArea",
     "UseEffect": "rosa_def_ulti",
+    "OverchargedUseEffect": "rosa_def_overcharge_use",
     "LoopEffect": "rosa_def_ulti_loop",
+    "OverchargedLoopEffect": "rosa_def_overcharge_loop",
     "ShowTimerBar": true
   },
   "SandstormUlti": {
@@ -1933,6 +1938,8 @@
     "AlwaysCastAtMaxRange": true,
     "LoopEffect": "colette_def_ulti",
     "LoopEffect2": "colette_def_ulti_cover",
+    "OverchargedLoopEffect": "colette_def_overcharge",
+    "OverchargedLoopEffect2": "colette_def_overcharge_cover",
     "ChargeMoveSound": "Rhinostep"
   },
   "FireDudeWeapon": {
@@ -2007,6 +2014,7 @@
     "NumBulletsInOneAttack": 1,
     "ExecuteFirstAttackImmediately": true,
     "Projectile": "IceDudeUltiProjectile",
+    "OverchargedProjectile": "IceDudeOverchargedUltiProjectile",
     "AttackEffect": "cactus_attack_ulti"
   },
   "SnakeOilWeapon": {
@@ -2535,7 +2543,7 @@
     "CastingRange": 8,
     "RechargeTime": 1000,
     "MaxCharge": 3,
-    "Damage": 1400,
+    "Damage": 1360,
     "MsBetweenAttacks": 500,
     "NumBulletsInOneAttack": 1,
     "ExecuteFirstAttackImmediately": true,
@@ -2916,7 +2924,7 @@
     "CastingRange": 16,
     "RechargeTime": 1800,
     "MaxCharge": 3,
-    "Damage": 1440,
+    "Damage": 1400,
     "MsBetweenAttacks": 200,
     "Spread": 90,
     "NumBulletsInOneAttack": 3,
@@ -3210,7 +3218,6 @@
     "CastingRange": 10,
     "RechargeTime": 1800,
     "MaxCharge": 3,
-    "Damage": 1100,
     "MsBetweenAttacks": 1000,
     "AreaEffectObject": "SplitterLegsDamageArea",
     "AreaEffectFollow": true,
@@ -3286,6 +3293,8 @@
     "RechargeTime": 1800,
     "MsBetweenAttacks": 1000,
     "AreaEffectObject": "MaisieUltiShockwave",
+    "OverchargedAreaEffectObject": "MaisieOverchargedUltiShockwave",
+    "OverchargedAreaEffectObject2": "MaisieOverchargedUltiBulletExplosion",
     "AreaEffectFollow": true,
     "AttackEffect": "shelly_def_ulti"
   },
@@ -3384,7 +3393,7 @@
     "CanAutoShoot": true,
     "Cooldown": 500,
     "ActiveTime": 150,
-    "CastingRange": 20,
+    "CastingRange": 28,
     "RechargeTime": 2000,
     "MsBetweenAttacks": 100,
     "NumBulletsInOneAttack": 1,
@@ -3404,7 +3413,7 @@
     "RechargeTime": 1500,
     "MaxCharge": 3,
     "Damage": 260,
-    "MsBetweenAttacks": 120,
+    "MsBetweenAttacks": 100,
     "Spread": 40,
     "AttackPattern": 1,
     "NumBulletsInOneAttack": 1,
@@ -3426,7 +3435,6 @@
     "AreaEffectObject": "CookerUltiExplosion",
     "OverchargedAreaEffectObject": "CookerOverchargedUltiExplosion",
     "OverchargedAreaEffectObject2": "CookerOverchargedUltiArea",
-    "AreaEffectFollow": true,
     "AttackEffect": "shelly_def_ulti"
   },
   "ConductorWeapon": {
@@ -3490,5 +3498,65 @@
     "ChargeMoveSound": "Rhinostep",
     "SkillChangeType": 1,
     "SecondarySkill": "ConductorUltiSpawn"
+  },
+  "CocoonerWeapon": {
+    "Name": "CocoonerWeapon",
+    "BehaviorType": "Attack",
+    "CanMoveAtSameTime": true,
+    "Targeted": true,
+    "CanAutoShoot": true,
+    "Cooldown": 250,
+    "ActiveTime": 150,
+    "CastingRange": 27,
+    "RechargeTime": 2000,
+    "MaxCharge": 1,
+    "Damage": 800,
+    "MsBetweenAttacks": 100,
+    "Spread": 0,
+    "NumBulletsInOneAttack": 1,
+    "ExecuteFirstAttackImmediately": true,
+    "Projectile": "CocoonerProjectile",
+    "AttackEffect": "whirlwind_attack",
+    "UsableInShadowRealm": true
+  },
+  "CocoonerUlti": {
+    "Name": "CocoonerUlti",
+    "BehaviorType": "Attack",
+    "CanMoveAtSameTime": true,
+    "Targeted": true,
+    "CanAutoShoot": true,
+    "AttackFacing": 2,
+    "Cooldown": 251,
+    "ActiveTime": 250,
+    "CastingRange": 27,
+    "MsBetweenAttacks": 200,
+    "NumBulletsInOneAttack": 1,
+    "ExecuteFirstAttackImmediately": true,
+    "NumSpawns": 1,
+    "MaxSpawns": 10,
+    "Projectile": "CocoonerUltiProjectile",
+    "OverchargedProjectile": "CocoonerOverchargedUltiProjectile"
+  },
+  "CocoonerPetWeapon": {
+    "Name": "CocoonerPetWeapon",
+    "BehaviorType": "Charge",
+    "Targeted": true,
+    "CanAutoShoot": true,
+    "Cooldown": 750,
+    "ActiveTime": 750,
+    "CastingRange": 6,
+    "AllowAimOutsideMap": true,
+    "RechargeTime": 100,
+    "MaxCharge": 3,
+    "Damage": 400,
+    "ChargeSpeed": 2200,
+    "ChargeType": 4,
+    "AlwaysCastAtMaxRange": true,
+    "UseEffect": "mortis_def_sound",
+    "UsableInShadowRealm": true
+  },
+  "CocoonerPetUltiDummy": {
+    "Name": "CocoonerPetUltiDummy",
+    "BehaviorType": "Attack"
   }
 }

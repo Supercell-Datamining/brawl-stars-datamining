@@ -1,42 +1,42 @@
 {
   "Coins S": {
     "Name": "Coins S",
-    "TicketsInRareDraw": 75,
+    "TicketsInRareDraw": 90,
     "TypeName": "Coins",
     "AmountMin": 50,
-    "AmountMax": 70
+    "AmountMax": 62
   },
   "Coins M": {
     "Name": "Coins M",
-    "TicketsInSuperRareDraw": 45,
+    "TicketsInSuperRareDraw": 64,
     "TypeName": "Coins",
     "AmountMin": 100,
-    "AmountMax": 140
+    "AmountMax": 120
   },
   "Coins L": {
     "Name": "Coins L",
-    "TicketsInEpicDraw": 90,
+    "TicketsInEpicDraw": 100,
     "TypeName": "Coins",
     "AmountMin": 200,
-    "AmountMax": 240
+    "AmountMax": 230
   },
   "Coins XL": {
     "Name": "Coins XL",
-    "TicketsInMythicDraw": 25,
+    "TicketsInMythicDraw": 30,
     "TypeName": "Coins",
     "AmountMin": 500,
-    "AmountMax": 540
+    "AmountMax": 610
   },
   "Gadget": {
     "Name": "Gadget",
-    "TicketsInLegendaryDraw": 35,
+    "TicketsInLegendaryDraw": 37,
     "TypeName": "Gadget",
     "FallbackTypeName": "Coins",
     "FallbackAmount": 1000
   },
   "Star Power": {
     "Name": "Star Power",
-    "TicketsInLegendaryDraw": 30,
+    "TicketsInLegendaryDraw": 22,
     "TypeName": "StarPower",
     "FallbackTypeName": "Coins",
     "FallbackAmount": 1000
@@ -57,31 +57,31 @@
   },
   "Power Points S": {
     "Name": "Power Points S",
-    "TicketsInRareDraw": 85,
+    "TicketsInRareDraw": 70,
     "TypeName": "PowerPoints",
     "AmountMin": 20,
     "AmountMax": 30
   },
   "Power Points M": {
     "Name": "Power Points M",
-    "TicketsInSuperRareDraw": 60,
+    "TicketsInSuperRareDraw": 50,
     "TypeName": "PowerPoints",
     "AmountMin": 50,
-    "AmountMax": 70
+    "AmountMax": 62
   },
   "Power Points L": {
     "Name": "Power Points L",
-    "TicketsInEpicDraw": 60,
+    "TicketsInEpicDraw": 55,
     "TypeName": "PowerPoints",
     "AmountMin": 100,
-    "AmountMax": 130
+    "AmountMax": 120
   },
   "Power Points XL": {
     "Name": "Power Points XL",
-    "TicketsInMythicDraw": 35,
+    "TicketsInMythicDraw": 30,
     "TypeName": "PowerPoints",
-    "AmountMin": 240,
-    "AmountMax": 280
+    "AmountMin": 200,
+    "AmountMax": 230
   },
   "Credits S": {
     "Name": "Credits S",
@@ -266,7 +266,7 @@
     "TicketsInRareDraw": 45,
     "TypeName": "TokenDoubler",
     "AmountMin": 100,
-    "AmountMax": 150,
+    "AmountMax": 110,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
@@ -288,24 +288,25 @@
   },
   "Token Doubler M": {
     "Name": "Token Doubler M",
-    "TicketsInSuperRareDraw": 37,
+    "TicketsInSuperRareDraw": 28,
     "TypeName": "TokenDoubler",
     "AmountMin": 200,
-    "AmountMax": 275,
+    "AmountMax": 215,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
   "Token Doubler L": {
     "Name": "Token Doubler L",
-    "TicketsInEpicDraw": 45,
+    "TicketsInEpicDraw": 40,
     "TypeName": "TokenDoubler",
     "AmountMin": 500,
-    "AmountMax": 750,
+    "AmountMax": 610,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
   "Overcharge": {
     "Name": "Overcharge",
+    "TicketsInLegendaryDraw": 6,
     "TicketsInOverchargeDraw": 1,
     "TypeName": "Overcharge",
     "FallbackTypeName": "Coins",

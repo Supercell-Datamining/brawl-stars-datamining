@@ -127,7 +127,7 @@
     "Radius": 800,
     "Damage": 800,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "Spike_002_atk1_explosion": {
@@ -505,6 +505,42 @@
     "DestroysEnvironment": true,
     "PushbackStrength": 70
   },
+  "Bo_007_atk_area": {
+    "Name": "Bo_007_atk_area",
+    "ParentAreaEffectForSkin": "Bo_def_atk_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "bo_007_atkHit",
+    "Scale": 70,
+    "TimeMs": 700,
+    "Radius": 300,
+    "Type": "Damage"
+  },
+  "Bo_007_ulti1_area": {
+    "Name": "Bo_007_ulti1_area",
+    "ParentAreaEffectForSkin": "Bo_def_ulti1_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "bo_007_ulti1_explosion",
+    "Scale": 70,
+    "TimeMs": 700,
+    "Radius": 300,
+    "Type": "Effect"
+  },
+  "Bo_007_ulti2_area": {
+    "Name": "Bo_007_ulti2_area",
+    "ParentAreaEffectForSkin": "Bo_def_ulti2_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "bo_007_ulti2_explosion",
+    "Scale": 133,
+    "TimeMs": 700,
+    "Radius": 600,
+    "Damage": 99,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 70
+  },
   "Piper_def_ulti": {
     "Name": "Piper_def_ulti",
     "ParentAreaEffectForSkin": "SniperBombExplosion",
@@ -825,7 +861,7 @@
     "Scale": 125,
     "TimeMs": 600000,
     "Radius": 1000,
-    "Damage": -360,
+    "Damage": -10,
     "Type": "Hot"
   },
   "HealingStationHeal2": {
@@ -837,7 +873,7 @@
     "Scale": 125,
     "TimeMs": 600000,
     "Radius": 1000,
-    "Damage": -360,
+    "Damage": -10,
     "Type": "Hot"
   },
   "HealingStationHeal3": {
@@ -849,7 +885,7 @@
     "Scale": 125,
     "TimeMs": 600000,
     "Radius": 1000,
-    "Damage": -360,
+    "Damage": -10,
     "Type": "Hot"
   },
   "Heal": {
@@ -1510,7 +1546,7 @@
     "Radius": 1700,
     "Damage": 240,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "Emz_002_Ulti": {
@@ -1528,7 +1564,7 @@
     "Radius": 1700,
     "Damage": 240,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "Emz_003_Ulti": {
@@ -1545,7 +1581,7 @@
     "Radius": 1700,
     "Damage": 240,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "Emz_004_Ulti": {
@@ -1562,7 +1598,7 @@
     "Radius": 1700,
     "Damage": 240,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "SpeedyUltiArea": {
@@ -2044,7 +2080,7 @@
     "Scale": 165,
     "TimeMs": 700,
     "Radius": 800,
-    "Damage": 500,
+    "Damage": 25,
     "Type": "Damage",
     "PushbackStrength": 150
   },
@@ -2055,7 +2091,7 @@
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 600,
-    "Damage": 800,
+    "Damage": 160,
     "CustomValue": 8,
     "Type": "BulletExplosion",
     "BulletExplosionBullet": "TrickshotDudeGadgetProjectile",
@@ -2068,7 +2104,7 @@
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 600,
-    "Damage": 800,
+    "Damage": 100,
     "CustomValue": 10,
     "Type": "BulletExplosion",
     "BulletExplosionBullet": "CactusSpikeGadget",
@@ -2108,7 +2144,7 @@
     "TimeMs": 4000,
     "Radius": 1000,
     "Type": "Slow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "MechanicSlowArea": {
@@ -2120,7 +2156,7 @@
     "TimeMs": 1000,
     "Radius": 1300,
     "Type": "Slow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 60
   },
   "HookDudePushback": {
@@ -2157,7 +2193,7 @@
     "Scale": 125,
     "TimeMs": 250,
     "Radius": 1000,
-    "Damage": -1200,
+    "Damage": -20,
     "Type": "Heal"
   },
   "WhirlwindTrail": {
@@ -2168,7 +2204,7 @@
     "Scale": 28,
     "TimeMs": 3900,
     "Radius": 300,
-    "Damage": 2000,
+    "Damage": 200,
     "Type": "SetOnFire"
   },
   "MummyAccessoryPushback": {
@@ -2179,7 +2215,7 @@
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 800,
-    "Damage": 500,
+    "Damage": 65,
     "Type": "Damage",
     "PushbackStrength": 100
   },
@@ -2191,7 +2227,7 @@
     "Scale": 125,
     "TimeMs": 250,
     "Radius": 1000,
-    "Damage": -400,
+    "Damage": -8,
     "CustomValue": 100,
     "Type": "HealRegen"
   },
@@ -2203,7 +2239,7 @@
     "Scale": 100,
     "TimeMs": 300,
     "Radius": 1000,
-    "Damage": 1500,
+    "Damage": 100,
     "Type": "Damage",
     "RequireLineOfSight": true
   },
@@ -2216,7 +2252,7 @@
     "TimeMs": 600000,
     "Radius": 1200,
     "Type": "Slow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "BowDudeSuperChargeArea": {
@@ -2397,7 +2433,7 @@
     "TimeMs": 4500,
     "Radius": 800,
     "Type": "Hot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21,
     "SameAreaEffectCanNotDamageMs": 1000
   },
@@ -2544,7 +2580,7 @@
     "TimeMs": 1000,
     "Radius": 900,
     "Type": "Slow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 30
   },
   "SpeedyRewindArea": {
@@ -2568,7 +2604,7 @@
     "TimeMs": 4000,
     "Radius": 700,
     "Type": "Slow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 20
   },
   "PetrolDistributionGadget": {
@@ -2625,7 +2661,7 @@
     "CustomValue": 90,
     "CustomValue2": 6,
     "Type": "Slippery",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "IceDudeKingUltiArea": {
@@ -2642,7 +2678,7 @@
     "Radius": 1100,
     "CustomValue": 90,
     "Type": "Slippery",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "IceDudeValentineUltiArea": {
@@ -2659,7 +2695,7 @@
     "Radius": 1100,
     "CustomValue": 90,
     "Type": "Slippery",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "IceDudeBurgerUltiArea": {
@@ -2676,7 +2712,7 @@
     "Radius": 1100,
     "CustomValue": 90,
     "Type": "Slippery",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "IceDudeStonetrollUltiArea": {
@@ -2693,7 +2729,7 @@
     "Radius": 1100,
     "CustomValue": 90,
     "Type": "Slippery",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "SnakeOilUltiExplosion": {
@@ -2731,6 +2767,18 @@
     "Damage": 1500,
     "Type": "HealAndDamage"
   },
+  "SnakeOilRingMasterExplosion": {
+    "Name": "SnakeOilRingMasterExplosion",
+    "ParentAreaEffectForSkin": "SnakeOilUltiExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "byron_004_ulti_hit",
+    "Scale": 160,
+    "TimeMs": 500,
+    "Radius": 800,
+    "Damage": 1500,
+    "Type": "HealAndDamage"
+  },
   "EnragerUltiSpeed": {
     "Name": "EnragerUltiSpeed",
     "FileName": "sc/effects.sc",
@@ -2751,7 +2799,7 @@
     "Scale": 133,
     "TimeMs": 500,
     "Radius": 900,
-    "Damage": 1000,
+    "Damage": 125,
     "Type": "Damage"
   },
   "RuffsSupplySpawn": {
@@ -2883,7 +2931,7 @@
     "Scale": 165,
     "TimeMs": 700,
     "Radius": 800,
-    "Damage": 1000,
+    "Damage": 100,
     "Type": "Damage",
     "PushbackStrength": 150,
     "PushbackStrengthSelf": 250
@@ -3086,6 +3134,32 @@
     "BulletExplosionBullet": "Grom003UltiProjectile2",
     "BulletExplosionBulletDistance": 17
   },
+  "Grom004ClusterExplosion": {
+    "Name": "Grom004ClusterExplosion",
+    "ParentAreaEffectForSkin": "CrossBomberClusterExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "crossbomber_def_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "CustomValue": 4,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "Grom004Projectile2",
+    "BulletExplosionBulletDistance": 10
+  },
+  "Grom004UltiClusterExplosion": {
+    "Name": "Grom004UltiClusterExplosion",
+    "ParentAreaEffectForSkin": "CrossBomberUltiClusterExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "crossbomber_def_explosion_ulti",
+    "Scale": 100,
+    "TimeMs": 700,
+    "CustomValue": 4,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "Grom004UltiProjectile2",
+    "BulletExplosionBulletDistance": 17
+  },
   "Squeak003ClusterExplosion": {
     "Name": "Squeak003ClusterExplosion",
     "ParentAreaEffectForSkin": "StickyBombClusterExplosion",
@@ -3194,9 +3268,8 @@
     "Scale": 133,
     "TimeMs": 700,
     "Radius": 600,
-    "Damage": 500,
     "Type": "Damage",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 60
   },
   "PullRopeStun": {
@@ -3385,7 +3458,8 @@
     "Scale": 125,
     "TimeMs": 250,
     "Radius": 1000,
-    "Damage": -1000,
+    "Damage": -30,
+    "CustomValue2": 1,
     "Type": "Heal"
   },
   "RuffsAirStrikeSpawn": {
@@ -3459,7 +3533,7 @@
     "Scale": 165,
     "TimeMs": 700,
     "Radius": 800,
-    "Damage": 1500,
+    "Damage": 400,
     "Type": "Damage",
     "PushbackStrength": 150,
     "PushbackStrengthSelf": 250
@@ -3557,10 +3631,10 @@
     "RedExportName": "range_dashed_red",
     "Layer": "GroundHigh",
     "Scale": 50,
-    "TimeMs": 8000,
+    "TimeMs": 6000,
     "Radius": 750,
     "Type": "VisionSlow",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21,
     "SnapToTile": true
   },
@@ -3611,7 +3685,7 @@
     "Scale": 230,
     "TimeMs": 600000,
     "Radius": 2400,
-    "Damage": 100,
+    "Damage": 10,
     "Type": "Dot"
   },
   "JetpackGirlUltiExplosion": {
@@ -3875,9 +3949,8 @@
     "Scale": 133,
     "TimeMs": 700,
     "Radius": 600,
-    "Damage": 1400,
-    "Type": "Damage",
-    "PushbackStrength": 70
+    "Damage": 100,
+    "Type": "Damage"
   },
   "ShieldTankSuperChargeArea": {
     "Name": "ShieldTankSuperChargeArea",
@@ -3903,7 +3976,7 @@
     "Scale": 100,
     "TimeMs": 250,
     "Radius": 850,
-    "Damage": -750,
+    "Damage": -9,
     "CustomValue": 3,
     "Type": "Heal"
   },
@@ -3932,7 +4005,7 @@
     "Radius": 1100,
     "Damage": 160,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "Chester002UltiExplosion": {
@@ -3962,7 +4035,7 @@
     "Radius": 1100,
     "Damage": 160,
     "Type": "Dot",
-    "FreezeStrength": 350,
+    "SlowStrength": 350,
     "FreezeTicks": 21
   },
   "DoorManDamageDropWarning": {
@@ -4299,6 +4372,7 @@
   },
   "Pearl002UltiExplosion": {
     "Name": "Pearl002UltiExplosion",
+    "ParentAreaEffectForSkin": "CookerUltiExplosion",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
     "Effect": "pearl_002_ulti",
@@ -4312,6 +4386,7 @@
   },
   "CookerOverchargedUltiExplosion": {
     "Name": "CookerOverchargedUltiExplosion",
+    "ParentAreaEffectForSkin": "CookerUltiExplosion",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
     "Effect": "cooker_def_overcharge",
@@ -4355,5 +4430,101 @@
     "TimeMs": 700,
     "Radius": 300,
     "Type": "Effect"
+  },
+  "CocoonerTrail": {
+    "Name": "CocoonerTrail",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "charlie_starpower_slimy",
+    "Scale": 28,
+    "TimeMs": 5000,
+    "Radius": 300,
+    "Type": "Slow",
+    "SlowStrength": 350,
+    "FreezeTicks": 21
+  },
+  "RosaOverchargedUltiArea": {
+    "Name": "RosaOverchargedUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "rosa_def_overcharge_ground_base",
+    "Scale": 255,
+    "TimeMs": 600000,
+    "Radius": 1300,
+    "Type": "Slow",
+    "SlowStrength": 350,
+    "FreezeTicks": 2
+  },
+  "MaisieOverchargedUltiBulletExplosion": {
+    "Name": "MaisieOverchargedUltiBulletExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 1500,
+    "Damage": 1240,
+    "CustomValue": 6,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "MaisieOverchargedProjectile",
+    "BulletExplosionBulletDistance": 26,
+    "PushbackStrength": 150
+  },
+  "MaisieOverchargedUltiShockwave": {
+    "Name": "MaisieOverchargedUltiShockwave",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "maisie_def_overcharge_ulti_ground",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 1500,
+    "Damage": 1240,
+    "Type": "Damage",
+    "PushbackStrength": 150
+  },
+  "IceDudeOverchargedUltiArea": {
+    "Name": "IceDudeOverchargedUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "lou_def_oc_area_base",
+    "BlueExportName": "lou_def_oc_area_base",
+    "RedExportName": "lou_def_oc_area_base_red",
+    "Layer": "GroundHigh",
+    "Effect": "lou_def_oc_area",
+    "Scale": 250,
+    "TimeMs": 10000,
+    "Radius": 1100,
+    "CustomValue": 90,
+    "CustomValue2": 6,
+    "Type": "Slippery",
+    "SlowStrength": 350,
+    "FreezeTicks": 21
+  },
+  "IceDudeOverchargedUltiAreaInvisible": {
+    "Name": "IceDudeOverchargedUltiAreaInvisible",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "lou_def_ulti_area_base",
+    "BlueExportName": "lou_def_ulti_area_base",
+    "RedExportName": "lou_def_ulti_area_base_red",
+    "Layer": "GroundHigh",
+    "Effect": "lou_def_ulti_area_base",
+    "Scale": 250,
+    "TimeMs": 100,
+    "Radius": 1100,
+    "CustomValue": 90,
+    "CustomValue2": 1000,
+    "Type": "Slippery"
+  },
+  "FishTank002UltiArea": {
+    "Name": "FishTank002UltiArea",
+    "ParentAreaEffectForSkin": "FishTankUltiArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 1000,
+    "Damage": 1320,
+    "CustomValue": 6,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "hank002UltiProjectile",
+    "BulletExplosionBulletDistance": 60
   }
 }

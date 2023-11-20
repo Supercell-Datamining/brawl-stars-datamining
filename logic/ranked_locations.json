@@ -1,15 +1,48 @@
 {
+  "Wanted7": {
+    "Name": "Wanted7"
+  },
+  "Wanted9": {
+    "Name": "Wanted9"
+  },
+  "Wanted14": {
+    "Name": "Wanted14"
+  },
+  "Ball14": {
+    "Name": "Ball14"
+  },
+  "Ball3": {
+    "Name": "Ball3"
+  },
+  "Ball6": {
+    "Name": "Ball6"
+  },
   "Gemgrab1": {
     "Name": "Gemgrab1"
   },
   "Gemgrab16": {
     "Name": "Gemgrab16"
   },
-  "Ball1": {
-    "Name": "Ball1"
+  "Gemgrab511": {
+    "Name": "Gemgrab511"
   },
-  "Ball14": {
-    "Name": "Ball14"
+  "Heist2": {
+    "Name": "Heist2"
+  },
+  "Heist3": {
+    "Name": "Heist3"
+  },
+  "Heist8": {
+    "Name": "Heist8"
+  },
+  "KingOfHill16": {
+    "Name": "KingOfHill16"
+  },
+  "KingOfHill20": {
+    "Name": "KingOfHill20"
+  },
+  "KingOfHill14": {
+    "Name": "KingOfHill14"
   },
   "Knockout8": {
     "Name": "Knockout8"
@@ -17,10 +50,7 @@
   "Knockout9": {
     "Name": "Knockout9"
   },
-  "Deathmatch505": {
-    "Name": "Deathmatch505"
-  },
-  "Deathmatch1": {
-    "Name": "Deathmatch1"
+  "Knockout442": {
+    "Name": "Knockout442"
   }
 }

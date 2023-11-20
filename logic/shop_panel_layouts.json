@@ -70,5 +70,23 @@
     "Items": "GROUP_PLAYER_THUMBNAIL",
     "ItemPlaceholderNames": "TODO",
     "ItemContextNames": "TODO"
+  },
+  "GroupSpraysOffer": {
+    "Name": "GroupSpraysOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "GROUP_SPRAYS",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
+  },
+  "EsportSpraysOffer": {
+    "Name": "EsportSpraysOffer",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "offer_1_item_esports_pack",
+    "Items": "ESPORTS_SPRAYS",
+    "ItemPlaceholderNames": "TODO",
+    "ItemContextNames": "TODO"
   }
 }

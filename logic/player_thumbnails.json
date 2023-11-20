@@ -972,8 +972,8 @@
     "IconExportName": "player_icon_ruffs_bt21",
     "SortOrder": 4001,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "RuffsChimmy"
+    "CatalogPreRequirementSkin": "RuffsChimmy",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_bull_bt21": {
     "Name": "player_icon_bull_bt21",
@@ -984,8 +984,8 @@
     "IconExportName": "player_icon_bull_bt21",
     "SortOrder": 4002,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "BullDudeMang"
+    "CatalogPreRequirementSkin": "BullDudeMang",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_bibi_bt21": {
     "Name": "player_icon_bibi_bt21",
@@ -996,8 +996,8 @@
     "IconExportName": "player_icon_bibi_bt21",
     "SortOrder": 4003,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "BaseballRj"
+    "CatalogPreRequirementSkin": "BaseballRj",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_edgar_bt21": {
     "Name": "player_icon_edgar_bt21",
@@ -1008,8 +1008,8 @@
     "IconExportName": "player_icon_edgar_bt21",
     "SortOrder": 4004,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "EnragerTata"
+    "CatalogPreRequirementSkin": "EnragerTata",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_sandy_bt21": {
     "Name": "player_icon_sandy_bt21",
@@ -1020,8 +1020,8 @@
     "IconExportName": "player_icon_sandy_bt21",
     "SortOrder": 4005,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "SandstormKoya"
+    "CatalogPreRequirementSkin": "SandstormKoya",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_tick_bt21": {
     "Name": "player_icon_tick_bt21",
@@ -1032,8 +1032,8 @@
     "IconExportName": "player_icon_tick_bt21",
     "SortOrder": 4006,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "ClusterBombDudeShooky"
+    "CatalogPreRequirementSkin": "ClusterBombDudeShooky",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_jacky_bt21": {
     "Name": "player_icon_jacky_bt21",
@@ -1044,8 +1044,8 @@
     "IconExportName": "player_icon_jacky_bt21",
     "SortOrder": 4007,
     "IsAvailableForOffers": true,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "DrillerCooky"
+    "CatalogPreRequirementSkin": "DrillerCooky",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_deepsea": {
     "Name": "player_icon_deepsea",
@@ -1187,9 +1187,8 @@
     "IconExportName": "player_icon_mortis_mecha",
     "SortOrder": 4008,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "UndertakerMecha"
+    "CatalogPreRequirementSkin": "UndertakerMecha",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_outlaw": {
     "Name": "player_icon_outlaw",
@@ -2090,9 +2089,8 @@
     "IconExportName": "player_icon_carpet_carl",
     "SortOrder": 3040,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "WhirlwindRamadan"
+    "CatalogPreRequirementSkin": "WhirlwindRamadan",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_popstar_janet": {
     "Name": "player_icon_popstar_janet",
@@ -2144,9 +2142,8 @@
     "IconExportName": "player_icon_mask_dynamike",
     "SortOrder": 3043,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "TntDudeTengu"
+    "CatalogPreRequirementSkin": "TntDudeTengu",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_mask_lola": {
     "Name": "player_icon_mask_lola",
@@ -2156,9 +2153,8 @@
     "IconExportName": "player_icon_mask_lola",
     "SortOrder": 3044,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "DuplicatorKitsune"
+    "CatalogPreRequirementSkin": "DuplicatorKitsune",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_mask_otis": {
     "Name": "player_icon_mask_otis",
@@ -2168,9 +2164,8 @@
     "IconExportName": "player_icon_mask_otis",
     "SortOrder": 3045,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "SilencerOni"
+    "CatalogPreRequirementSkin": "SilencerOni",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_masks": {
     "Name": "player_icon_masks",
@@ -2466,9 +2461,8 @@
     "IsReward": true,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "GunslingerMonkey"
+    "CatalogPreRequirementSkin": "GunslingerMonkey",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_amazon_frog": {
     "Name": "player_icon_amazon_frog",
@@ -2519,9 +2513,8 @@
     "SortOrder": 3060,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "ShieldTankCroc"
+    "CatalogPreRequirementSkin": "ShieldTankCroc",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_max_jungle": {
     "Name": "player_icon_max_jungle",
@@ -2545,9 +2538,8 @@
     "SortOrder": 3062,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "ClusterBombDudeCerberus"
+    "CatalogPreRequirementSkin": "ClusterBombDudeCerberus",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_brock_olympus": {
     "Name": "player_icon_brock_olympus",
@@ -2558,9 +2550,8 @@
     "SortOrder": 3063,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "RocketGirlZeus"
+    "CatalogPreRequirementSkin": "RocketGirlZeus",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_nani_olympus": {
     "Name": "player_icon_nani_olympus",
@@ -2571,9 +2562,8 @@
     "SortOrder": 3064,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "ControllerAres"
+    "CatalogPreRequirementSkin": "ControllerAres",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_emz_gw": {
     "Name": "player_icon_emz_gw",
@@ -2675,9 +2665,8 @@
     "IconExportName": "player_icon_crow_phoenix",
     "SortOrder": 3071,
     "IsAvailableForOffers": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "CrowPheonix"
+    "CatalogPreRequirementSkin": "CrowPheonix",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_phoenix_fire": {
     "Name": "player_icon_phoenix_fire",
@@ -2748,9 +2737,8 @@
     "SortOrder": 3077,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "MechaDudePirate"
+    "CatalogPreRequirementSkin": "MechaDudePirate",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_griff_cursed": {
     "Name": "player_icon_griff_cursed",
@@ -2761,9 +2749,8 @@
     "SortOrder": 3078,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "AssaultShotgunTreasure"
+    "CatalogPreRequirementSkin": "AssaultShotgunTreasure",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_bibi_cursed": {
     "Name": "player_icon_bibi_cursed",
@@ -2774,9 +2761,8 @@
     "SortOrder": 3079,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "BaseballPirate"
+    "CatalogPreRequirementSkin": "BaseballPirate",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_janet_enchanted": {
     "Name": "player_icon_janet_enchanted",
@@ -2787,9 +2773,8 @@
     "SortOrder": 3080,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "JetpackGirlDarkFairy"
+    "CatalogPreRequirementSkin": "JetpackGirlDarkFairy",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_surge_cursed": {
     "Name": "player_icon_surge_cursed",
@@ -2800,9 +2785,8 @@
     "SortOrder": 3081,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "PowerLevelerKraken"
+    "CatalogPreRequirementSkin": "PowerLevelerKraken",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_8bit_enchanted": {
     "Name": "player_icon_8bit_enchanted",
@@ -2813,9 +2797,8 @@
     "SortOrder": 3082,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "ArcadeHauntedHouse"
+    "CatalogPreRequirementSkin": "ArcadeHauntedHouse",
+    "GiveOnSkinUnlock": true
   },
   "rank28": {
     "Name": "rank28",
@@ -2948,9 +2931,8 @@
     "SortOrder": 3083,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "FishTankWasteland"
+    "CatalogPreRequirementSkin": "FishTankWasteland",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_willow_wasteland": {
     "Name": "player_icon_willow_wasteland",
@@ -2974,9 +2956,8 @@
     "SortOrder": 3085,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "DuelistWasteland"
+    "CatalogPreRequirementSkin": "DuelistWasteland",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_stu_university": {
     "Name": "player_icon_stu_university",
@@ -2987,9 +2968,8 @@
     "SortOrder": 3086,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "RollerUniversity"
+    "CatalogPreRequirementSkin": "RollerUniversity",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_rosa_university": {
     "Name": "player_icon_rosa_university",
@@ -3000,9 +2980,8 @@
     "SortOrder": 3087,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "RosaUniversity"
+    "CatalogPreRequirementSkin": "RosaUniversity",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_squeak_university": {
     "Name": "player_icon_squeak_university",
@@ -3013,9 +2992,8 @@
     "SortOrder": 3088,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "StickyBombUniversity"
+    "CatalogPreRequirementSkin": "StickyBombUniversity",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_janet_moon": {
     "Name": "player_icon_janet_moon",
@@ -3026,9 +3004,8 @@
     "SortOrder": 3089,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "JetpackGirlMoon"
+    "CatalogPreRequirementSkin": "JetpackGirlMoon",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_mandy_harvest": {
     "Name": "player_icon_mandy_harvest",
@@ -3039,9 +3016,8 @@
     "SortOrder": 3090,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "Beamerharvest"
+    "CatalogPreRequirementSkin": "Beamerharvest",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_edgar_mecha": {
     "Name": "player_icon_edgar_mecha",
@@ -3052,9 +3028,8 @@
     "SortOrder": 3090,
     "IsAvailableForOffers": true,
     "LockedForChronos": true,
-    "PriceBling": 750,
-    "PriceGems": 19,
-    "CatalogPreRequirementSkin": "EnragerMecha"
+    "CatalogPreRequirementSkin": "EnragerMecha",
+    "GiveOnSkinUnlock": true
   },
   "player_icon_bp_wasteland": {
     "Name": "player_icon_bp_wasteland",
@@ -3080,7 +3055,7 @@
     "RequiredTotalTrophies": 0,
     "IconSWF": "sc/ui.sc",
     "IconExportName": "player_icon_chuck1",
-    "SortOrder": 2066,
+    "SortOrder": 2067,
     "IsReward": true
   },
   "player_icon_pearl_overcharge": {
@@ -3235,5 +3210,343 @@
     "LockedForChronos": true,
     "PriceGems": 19,
     "ExtraCatalogCampaign": "WF_2020"
+  },
+  "player_icon_colette_overcharge": {
+    "Name": "player_icon_colette_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_colette_overcharge",
+    "SortOrder": 6007,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Percenter"
+  },
+  "player_icon_rosa_overcharge": {
+    "Name": "player_icon_rosa_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rosa_overcharge",
+    "SortOrder": 6008,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Rosa"
+  },
+  "player_icon_lou_overcharge": {
+    "Name": "player_icon_lou_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lou_overcharge",
+    "SortOrder": 6009,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "IceDude"
+  },
+  "player_icon_maisie_overcharge": {
+    "Name": "player_icon_maisie_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_maisie_overcharge",
+    "SortOrder": 6010,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Maisie"
+  },
+  "player_icon_jessie_overcharge": {
+    "Name": "player_icon_jessie_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_jessie_overcharge",
+    "SortOrder": 6011,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Mechanic"
+  },
+  "player_icon_charly_overcharge": {
+    "Name": "player_icon_charly_overcharge",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_charly_overcharge",
+    "SortOrder": 6012,
+    "IsAvailableForOffers": true,
+    "HideInCatalogWhenNotOwned": true,
+    "ExtraCatalogHero": "Cocooner"
+  },
+  "player_icon_supercell_logo": {
+    "Name": "player_icon_supercell_logo",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_supercell_logo",
+    "SortOrder": 3102,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "HideInCatalogWhenNotOwned": true
+  },
+  "player_icon_bp_circus": {
+    "Name": "player_icon_bp_circus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bp_circus",
+    "SortOrder": 3103,
+    "IsReward": true
+  },
+  "player_icon_hindu": {
+    "Name": "player_icon_hindu",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_hindu",
+    "SortOrder": 3104,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true
+  },
+  "player_icon_cctv": {
+    "Name": "player_icon_cctv",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_cctv",
+    "SortOrder": 3105,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "hero73": {
+    "Name": "hero73",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "RequiredHero": "Cocooner",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_charlie",
+    "SortOrder": 414
+  },
+  "player_icon_charlie1": {
+    "Name": "player_icon_charlie1",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_charlie1",
+    "SortOrder": 2068,
+    "IsReward": true
+  },
+  "player_icon_mortis_retro": {
+    "Name": "player_icon_mortis_retro",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mortis_retro",
+    "SortOrder": 3106,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "UndertakerGreaser",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_brock_retro": {
+    "Name": "player_icon_brock_retro",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_brock_retro",
+    "SortOrder": 3107,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "RocketGirlHotrod",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_barley_retro": {
+    "Name": "player_icon_barley_retro",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_barley_retro",
+    "SortOrder": 3108,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "BarkeepMs",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_rebel_lola": {
+    "Name": "player_icon_rebel_lola",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_rebel_lola",
+    "SortOrder": 3109,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "DuplicatorCholaChroma",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_nita_circus": {
+    "Name": "player_icon_nita_circus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_nita_circus",
+    "SortOrder": 3110,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "ShamanDarkcircus",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_byron_circus": {
+    "Name": "player_icon_byron_circus",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_byron_circus",
+    "SortOrder": 3111,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "SnakeOilDarkcircus",
+    "GiveOnSkinUnlock": true
+  },
+  "rank30": {
+    "Name": "rank30",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_lola_circus",
+    "SortOrder": 1029,
+    "IsReward": true
+  },
+  "player_icon_frank_hindu": {
+    "Name": "player_icon_frank_hindu",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_frank_hindu",
+    "SortOrder": 3112,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "HammerDudeHindu",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_grom_hindu": {
+    "Name": "player_icon_grom_hindu",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_grom_hindu",
+    "SortOrder": 3113,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "CrossBomberHindu",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_bo_hindu": {
+    "Name": "player_icon_bo_hindu",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_bo_hindu",
+    "SortOrder": 3114,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "BowDudeHinduChroma",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_leon_wolf": {
+    "Name": "player_icon_leon_wolf",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_leon_wolf",
+    "SortOrder": 3115,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "NinjaBrawloween",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_shelly_witch": {
+    "Name": "player_icon_shelly_witch",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_shelly_witch",
+    "SortOrder": 3116,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "ShotgunGirlBrawloween",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_fang_pumpkin": {
+    "Name": "player_icon_fang_pumpkin",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_fang_pumpkin",
+    "SortOrder": 3117,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "KickerDudeMake",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_mike_robo": {
+    "Name": "player_icon_mike_robo",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mike_robo",
+    "SortOrder": 3118,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "TntDudeMecha",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_pam_queen": {
+    "Name": "player_icon_pam_queen",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_pam_queen",
+    "SortOrder": 3119,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "MinigunDudeQueen",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_mortis_hockey": {
+    "Name": "player_icon_mortis_hockey",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_mortis_hockey",
+    "SortOrder": 3120,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "CatalogPreRequirementSkin": "UndertakerUndertakerHockey",
+    "GiveOnSkinUnlock": true
+  },
+  "player_icon_razer": {
+    "Name": "player_icon_razer",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_razer",
+    "SortOrder": 3121,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "HideInCatalogWhenNotOwned": true
+  },
+  "player_icon_retropolis": {
+    "Name": "player_icon_retropolis",
+    "LegacyExpLevelLimit": 0,
+    "RequiredTotalTrophies": 0,
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "player_icon_retropolis",
+    "SortOrder": 3122,
+    "IsAvailableForOffers": true,
+    "LockedForChronos": true,
+    "PriceBling": 750,
+    "PriceGems": 19
   }
 }

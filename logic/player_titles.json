@@ -358,5 +358,10 @@
     "Name": "TitleMasteryChuck",
     "TitleTID": "TID_TITLE_MASTERY_CHUCK",
     "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryCharlie": {
+    "Name": "TitleMasteryCharlie",
+    "TitleTID": "TID_TITLE_MASTERY_CHARLIE",
+    "Gradient": "PlayerTitleGold"
   }
 }

@@ -99,5 +99,12 @@
     "HeroArea2": "CookerDefault",
     "HeroArea3": "CookerDeepsea",
     "FrameName": "20"
+  },
+  "season21": {
+    "Name": "season21",
+    "Season": 20,
+    "HeroArea2": "CocoonerDefault",
+    "HeroArea3": "CocoonerRosie",
+    "FrameName": "21"
   }
 }

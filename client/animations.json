@@ -1217,7 +1217,6 @@
     "FileName": "primo_portrait.scw",
     "StartFrame": 1,
     "EndFrame": 1,
-    "Looping": true,
     "Priority": "5"
   },
   "LouchadorIntro": {
@@ -2413,8 +2412,7 @@
   },
   "ArtilleryGalProfile": {
     "Name": "ArtilleryGalProfile",
-    "FileName": "penny_bunny_redux_portrait.glb",
-    "Looping": true
+    "FileName": "penny_bunny_redux_portrait.glb"
   },
   "FrankIdle": {
     "Name": "FrankIdle",
@@ -4259,9 +4257,9 @@
   },
   "ArtilleryGalBunnyWin": {
     "Name": "ArtilleryGalBunnyWin",
-    "FileName": "penny_bunny_redux_win.glb",
+    "FileName": "penny_bunny_redux_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 150
+    "EndFrame": 600
   },
   "ArtilleryGalBunnyWinloop": {
     "Name": "ArtilleryGalBunnyWinloop",
@@ -5687,8 +5685,8 @@
   },
   "LuchadorReyWin": {
     "Name": "LuchadorReyWin",
-    "FileName": "primo_rey_win.scw",
-    "EndFrame": 153,
+    "FileName": "primo_elrey_win_120.glb",
+    "EndFrame": 635,
     "Priority": "5"
   },
   "LuchadorReyWinloop": {
@@ -8217,9 +8215,9 @@
   },
   "RicoDarkWin": {
     "Name": "RicoDarkWin",
-    "FileName": "rico_dark_win.scw",
+    "FileName": "rico_dark_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 160
+    "EndFrame": 640
   },
   "RicoDarkWinloop": {
     "Name": "RicoDarkWinloop",
@@ -8245,8 +8243,7 @@
     "Name": "RicoDarkProfile",
     "FileName": "rico_dark_win.scw",
     "StartFrame": 128,
-    "EndFrame": 128,
-    "Looping": true
+    "EndFrame": 128
   },
   "MortisDarkIdle": {
     "Name": "MortisDarkIdle",
@@ -8311,9 +8308,9 @@
   },
   "MortisDarkWin": {
     "Name": "MortisDarkWin",
-    "FileName": "mortis_dark_win.scw",
+    "FileName": "mortis_dark_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 101,
+    "EndFrame": 404,
     "Priority": "1"
   },
   "MortisDarkWinloop": {
@@ -9356,8 +9353,8 @@
   },
   "SurgeKnightWin": {
     "Name": "SurgeKnightWin",
-    "FileName": "surge_knight_win.glb",
-    "EndFrame": 145
+    "FileName": "surge_knight_win_120.glb",
+    "EndFrame": 584
   },
   "SurgeKnightWinloop": {
     "Name": "SurgeKnightWinloop",
@@ -12181,7 +12178,6 @@
   "StuLoseEnter": {
     "Name": "StuLoseEnter",
     "FileName": "stu_lose.glb",
-    "EndFrame": 1,
     "FaceFreezeFrame": -1
   },
   "AmberMaskedWin": {
@@ -13088,15 +13084,15 @@
   },
   "ElectroSniperBossWin": {
     "Name": "ElectroSniperBossWin",
-    "FileName": "belle_boss_win.glb",
-    "EndFrame": 125,
+    "FileName": "belle_boss_win_120.glb",
+    "EndFrame": 489,
     "FaceFreezeFrame": -1
   },
   "ElectroSniperBossWinloop": {
     "Name": "ElectroSniperBossWinloop",
-    "FileName": "belle_boss_win.glb",
-    "StartFrame": 126,
-    "EndFrame": 162,
+    "FileName": "belle_boss_win_120.glb",
+    "StartFrame": 490,
+    "EndFrame": 631,
     "FaceFreezeFrame": -1,
     "Looping": true
   },
@@ -14247,16 +14243,16 @@
   },
   "ShamanSummerWin": {
     "Name": "ShamanSummerWin",
-    "FileName": "nita_make_win.glb",
+    "FileName": "nita_make_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 158,
+    "EndFrame": 632,
     "Priority": "5"
   },
   "ShamanSummerWinloop": {
     "Name": "ShamanSummerWinloop",
-    "FileName": "nita_make_win.glb",
-    "StartFrame": 159,
-    "EndFrame": 195,
+    "FileName": "nita_make_win_120.glb",
+    "StartFrame": 633,
+    "EndFrame": 779,
     "Looping": true,
     "Priority": "1"
   },
@@ -14280,7 +14276,6 @@
     "FileName": "nita_make_portrait.glb",
     "StartFrame": 1,
     "EndFrame": 1,
-    "Looping": true,
     "Priority": "5"
   },
   "BarrelBotMegaboxIdle": {
@@ -15617,15 +15612,15 @@
   },
   "MinigunDudeQueenWin": {
     "Name": "MinigunDudeQueenWin",
-    "FileName": "pam_queen_win.glb",
-    "EndFrame": 159,
+    "FileName": "pam_queen_win_120.glb",
+    "EndFrame": 636,
     "Priority": "5"
   },
   "MinigunDudeQueenWinloop": {
     "Name": "MinigunDudeQueenWinloop",
-    "FileName": "pam_queen_win.glb",
-    "StartFrame": 160,
-    "EndFrame": 190,
+    "FileName": "pam_queen_win_120.glb",
+    "StartFrame": 637,
+    "EndFrame": 763,
     "Looping": true,
     "Priority": "1"
   },
@@ -15643,19 +15638,18 @@
   },
   "MinigunDudeQueenPortrait": {
     "Name": "MinigunDudeQueenPortrait",
-    "FileName": "pam_queen_portrait.glb",
-    "Looping": true
+    "FileName": "pam_queen_portrait.glb"
   },
   "AshNinjaWin": {
     "Name": "AshNinjaWin",
-    "FileName": "ash_ninja_win.glb",
-    "EndFrame": 124,
+    "FileName": "ash_ninja_win_120.glb",
+    "EndFrame": 499,
     "FaceFreezeFrame": -1
   },
   "AshNinjaWinloop": {
     "Name": "AshNinjaWinloop",
-    "FileName": "ash_ninja_win.glb",
-    "StartFrame": 125,
+    "FileName": "ash_ninja_win_120.glb",
+    "StartFrame": 500,
     "EndFrame": -1,
     "FaceFreezeFrame": -1,
     "Looping": true
@@ -16287,9 +16281,9 @@
   },
   "PercenterGladiatorWin": {
     "Name": "PercenterGladiatorWin",
-    "FileName": "colette_gladiator_win.glb",
+    "FileName": "collette_gladiator_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 145,
+    "EndFrame": 580,
     "TransitionOutMs": 1000,
     "AutoFadeMs": 1000
   },
@@ -16724,7 +16718,6 @@
     "TransitionInMs": 66,
     "TransitionOutMs": 66,
     "AutoFadeMs": 133,
-    "Looping": true,
     "Priority": "5"
   },
   "BullDudeTerminatorRecoil": {
@@ -17035,8 +17028,8 @@
   },
   "CrowSuperWin": {
     "Name": "CrowSuperWin",
-    "FileName": "crow_superhero_win.glb",
-    "EndFrame": 191
+    "FileName": "crow_superhero_win_120.glb",
+    "EndFrame": 759
   },
   "CrowSuperWinloop": {
     "Name": "CrowSuperWinloop",
@@ -17061,7 +17054,8 @@
     "Name": "CrowSuperProfile",
     "FileName": "crow_superhero_idle.glb",
     "StartFrame": 1,
-    "EndFrame": 1
+    "EndFrame": 1,
+    "Looping": true
   },
   "PowerLevelerKongIdle": {
     "Name": "PowerLevelerKongIdle",
@@ -19977,8 +19971,7 @@
     "Name": "TrickshotDudeFireflyProfile",
     "FileName": "rico_firefly_idle.glb",
     "StartFrame": 1,
-    "EndFrame": 1,
-    "Looping": true
+    "EndFrame": 1
   },
   "EnragerVineIdle": {
     "Name": "EnragerVineIdle",
@@ -20931,7 +20924,6 @@
     "FileName": "mrp_daruma_portrait.glb",
     "StartFrame": 1,
     "EndFrame": 1,
-    "Looping": true,
     "Priority": "5"
   },
   "SnakeOilVillainIdle": {
@@ -20998,9 +20990,9 @@
   },
   "SnakeOilVillainWin": {
     "Name": "SnakeOilVillainWin",
-    "FileName": "byron_villain_win.glb",
+    "FileName": "byron_villain_win_120..glb",
     "StartFrame": 1,
-    "EndFrame": 156
+    "EndFrame": 624
   },
   "SnakeOilVillainWinloop": {
     "Name": "SnakeOilVillainWinloop",
@@ -22708,7 +22700,7 @@
   "RocketGirlDeliveryWin": {
     "Name": "RocketGirlDeliveryWin",
     "FileName": "brock_delivery_win.glb",
-    "EndFrame": 122,
+    "EndFrame": 182,
     "Priority": "5"
   },
   "RocketGirlDeliveryWinloop": {
@@ -22739,7 +22731,6 @@
     "FileName": "brock_delivery_win.glb",
     "StartFrame": 182,
     "EndFrame": 182,
-    "Looping": true,
     "Priority": "5"
   },
   "EnragerTataIdle": {
@@ -22973,8 +22964,8 @@
   },
   "ElectroSniperCoralWin": {
     "Name": "ElectroSniperCoralWin",
-    "FileName": "belle_coral_win.glb",
-    "EndFrame": 157,
+    "FileName": "belle_coral_win_120.glb",
+    "EndFrame": 628,
     "FaceFreezeFrame": -1
   },
   "ElectroSniperCoralWinloop": {
@@ -25301,15 +25292,15 @@
   },
   "KnightPizzaWin": {
     "Name": "KnightPizzaWin",
-    "FileName": "ash_pizza_win.glb",
-    "EndFrame": 173,
+    "FileName": "ash_pizza_win_120.glb",
+    "EndFrame": 584,
     "FaceFreezeFrame": -1
   },
   "KnightPizzaWinloop": {
     "Name": "KnightPizzaWinloop",
-    "FileName": "ash_pizza_win.glb",
-    "StartFrame": 147,
-    "EndFrame": 173,
+    "FileName": "ash_pizza_win_120.glb",
+    "StartFrame": 585,
+    "EndFrame": 687,
     "FaceFreezeFrame": -1,
     "Looping": true
   },
@@ -27069,9 +27060,9 @@
   },
   "BeamerLavaQueenWin": {
     "Name": "BeamerLavaQueenWin",
-    "FileName": "mandy_lava_win.glb",
+    "FileName": "mandy_lava_queen_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 178,
+    "EndFrame": 516,
     "Priority": "5"
   },
   "BeamerLavaQueenWinloop": {
@@ -27271,8 +27262,8 @@
   },
   "RopeDudeLollipopWin": {
     "Name": "RopeDudeLollipopWin",
-    "FileName": "buzz_lollipop_win.glb",
-    "EndFrame": 134,
+    "FileName": "buzz_lollipop_win_120.glb",
+    "EndFrame": 536,
     "FaceFreezeFrame": -1
   },
   "RopeDudeLollipopWinloop": {
@@ -28098,8 +28089,8 @@
   },
   "SilencerOniWin": {
     "Name": "SilencerOniWin",
-    "FileName": "otis_oni_win.glb",
-    "EndFrame": 179,
+    "FileName": "otis_oni_win_120.glb",
+    "EndFrame": 711,
     "Priority": "5"
   },
   "SilencerOniWinloop": {
@@ -28126,8 +28117,7 @@
     "Name": "SilencerOniPortrait",
     "FileName": "otis_oni_portrait.glb",
     "StartFrame": 60,
-    "EndFrame": -1,
-    "Looping": true
+    "EndFrame": -1
   },
   "SilencerOniAddonStarfishIdle": {
     "Name": "SilencerOniAddonStarfishIdle",
@@ -28211,9 +28201,9 @@
   },
   "ArtilleryDudeDarkBunnyWin": {
     "Name": "ArtilleryDudeDarkBunnyWin",
-    "FileName": "penny_bunny_dark_redux_win.glb",
+    "FileName": "penny_dark_bunny_redux_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 150
+    "EndFrame": 600
   },
   "ArtilleryDudeDarkBunnyWinloop": {
     "Name": "ArtilleryDudeDarkBunnyWinloop",
@@ -29143,15 +29133,15 @@
   },
   "WhirlwindRamadanWin": {
     "Name": "WhirlwindRamadanWin",
-    "FileName": "carl_ramadan_win.glb",
+    "FileName": "carl_ramadan_win_120.glb",
     "StartFrame": 1,
-    "EndFrame": 200
+    "EndFrame": 500
   },
   "WhirlwindRamadanWinloop": {
     "Name": "WhirlwindRamadanWinloop",
-    "FileName": "carl_ramadan_win.glb",
-    "StartFrame": 171,
-    "EndFrame": 200,
+    "FileName": "carl_ramadan_win_120.glb",
+    "StartFrame": 391,
+    "EndFrame": 500,
     "Looping": true
   },
   "WhirlwindRamadanLose": {
@@ -29340,8 +29330,8 @@
   },
   "ArtilleryDudeSmugglerWin": {
     "Name": "ArtilleryDudeSmugglerWin",
-    "FileName": "penny_smuggler_win.glb",
-    "EndFrame": 289,
+    "FileName": "penny.smuggler_win_120.glb",
+    "EndFrame": 844,
     "FaceFreezeFrame": -1
   },
   "ArtilleryDudeSmugglerWinloop": {
@@ -30827,8 +30817,8 @@
   },
   "RocketGirlZeusWin": {
     "Name": "RocketGirlZeusWin",
-    "FileName": "brock_zeus_win.glb",
-    "EndFrame": 131,
+    "FileName": "brock_zeus_win_120.glb",
+    "EndFrame": 524,
     "TransitionOutMs": 150,
     "AutoFadeMs": 500,
     "Priority": "5"
@@ -32275,8 +32265,8 @@
   },
   "AssaultShotgunTreasureWin": {
     "Name": "AssaultShotgunTreasureWin",
-    "FileName": "griff_treasure_win.glb",
-    "EndFrame": 181,
+    "FileName": "griff_treasure_win_120.glb",
+    "EndFrame": 724,
     "FaceFreezeFrame": -1
   },
   "AssaultShotgunTreasureWinloop": {
@@ -32307,7 +32297,8 @@
     "FileName": "griff_treasure_portrait.glb",
     "StartFrame": 5,
     "EndFrame": 5,
-    "FaceFreezeFrame": -1
+    "FaceFreezeFrame": -1,
+    "Looping": true
   },
   "DamageBoosterHauntedHouseIdle": {
     "Name": "DamageBoosterHauntedHouseIdle",
@@ -32507,7 +32498,7 @@
   "ArtilleryDudeSmugglerWalk": {
     "Name": "ArtilleryDudeSmugglerWalk",
     "FileName": "penny_smuggler_walk.glb",
-    "EndFrame": 19,
+    "EndFrame": 25,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
     "Looping": true,
@@ -32775,8 +32766,8 @@
   },
   "DuelistBrainWin": {
     "Name": "DuelistBrainWin",
-    "FileName": "cordelius_brain_win.glb",
-    "EndFrame": 202,
+    "FileName": "cordelius_brain_win_120.glb",
+    "EndFrame": 800,
     "TransitionOutMs": 10,
     "AutoFadeMs": 100,
     "Priority": "5"
@@ -32807,7 +32798,6 @@
   "DuelistBrainProfile": {
     "Name": "DuelistBrainProfile",
     "FileName": "cordelius_brain_portrait.glb",
-    "Looping": true,
     "Priority": "5"
   },
   "DuelistBrainIntro": {
@@ -33207,7 +33197,7 @@
   },
   "RollerUniversityLoseEnter": {
     "Name": "RollerUniversityLoseEnter",
-    "FileName": "stu_lose.glb",
+    "FileName": "stu_university_lose.glb",
     "EndFrame": 1,
     "FaceFreezeFrame": -1
   },
@@ -33483,8 +33473,8 @@
   },
   "DuelistWastelandWin": {
     "Name": "DuelistWastelandWin",
-    "FileName": "cordelius_raider_win.glb",
-    "EndFrame": 188,
+    "FileName": "cordelius_raider_win_120.glb",
+    "EndFrame": 752,
     "TransitionOutMs": 10,
     "AutoFadeMs": 100,
     "Priority": "5"
@@ -33518,7 +33508,6 @@
     "FileName": "cordelius_raider_portrait.glb",
     "StartFrame": 1,
     "EndFrame": 1,
-    "Looping": true,
     "Priority": "5"
   },
   "DuelistWastelandIntro": {
@@ -34409,5 +34398,1314 @@
     "TransitionInMs": 200,
     "TransitionOutMs": 250,
     "Looping": true
+  },
+  "BowDudeHinduIdle": {
+    "Name": "BowDudeHinduIdle",
+    "FileName": "bo_hindu_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "BowDudeHinduWalk": {
+    "Name": "BowDudeHinduWalk",
+    "FileName": "bo_hindu_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BowDudeHinduAttack": {
+    "Name": "BowDudeHinduAttack",
+    "FileName": "bo_hindu_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 12,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 350,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BowDudeHinduSecondary": {
+    "Name": "BowDudeHinduSecondary",
+    "FileName": "bo_hindu_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 12,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 350,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BowDudeHinduRecoil": {
+    "Name": "BowDudeHinduRecoil",
+    "FileName": "bo_hindu_attack.glb",
+    "StartFrame": 13,
+    "EndFrame": 30,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 350,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BowDudeHinduRecoil2": {
+    "Name": "BowDudeHinduRecoil2",
+    "FileName": "bo_hindu_attack.glb",
+    "StartFrame": 13,
+    "EndFrame": 30,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 350,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BowDudeHinduWin": {
+    "Name": "BowDudeHinduWin",
+    "FileName": "bo_hindu_win_120.glb",
+    "EndFrame": 408,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 500
+  },
+  "BowDudeHinduWinloop": {
+    "Name": "BowDudeHinduWinloop",
+    "FileName": "bo_hindu_win_120.glb",
+    "StartFrame": 409,
+    "EndFrame": 627,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Looping": true
+  },
+  "BowDudeHinduLose": {
+    "Name": "BowDudeHinduLose",
+    "FileName": "bo_hindu_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 119,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200
+  },
+  "BowDudeHinduLoseloop": {
+    "Name": "BowDudeHinduLoseloop",
+    "FileName": "bo_hindu_lose.glb",
+    "StartFrame": 72,
+    "EndFrame": 119,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Looping": true
+  },
+  "BowDudeHinduProfile": {
+    "Name": "BowDudeHinduProfile",
+    "FileName": "bo_idle.scw",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Looping": true
+  },
+  "UndertakerUndertakerHockeyIdle": {
+    "Name": "UndertakerUndertakerHockeyIdle",
+    "FileName": "mortis_hockey_player_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 32,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "Looping": true
+  },
+  "UndertakerUndertakerHockeyWalk": {
+    "Name": "UndertakerUndertakerHockeyWalk",
+    "FileName": "mortis_hockey_player_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 32,
+    "Speed": 150,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "UndertakerUndertakerHockeyAttack": {
+    "Name": "UndertakerUndertakerHockeyAttack",
+    "FileName": "mortis_hockey_player_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 30,
+    "TransitionOutMs": 250,
+    "AutoFadeMs": 200,
+    "Priority": "3"
+  },
+  "UndertakerUndertakerHockeyUltiAttack": {
+    "Name": "UndertakerUndertakerHockeyUltiAttack",
+    "FileName": "mortis_hockey_player_ulti.glb",
+    "EndFrame": 5,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "UndertakerUndertakerHockeyRecoil1": {
+    "Name": "UndertakerUndertakerHockeyRecoil1",
+    "FileName": "mortis_hockey_player_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 30,
+    "TransitionOutMs": 250,
+    "AutoFadeMs": 200,
+    "Priority": "4"
+  },
+  "UndertakerUndertakerHockeyUltiRecoil1": {
+    "Name": "UndertakerUndertakerHockeyUltiRecoil1",
+    "FileName": "mortis_hockey_player_ulti.glb",
+    "StartFrame": 5,
+    "EndFrame": 40,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "UndertakerUndertakerHockeyPushback": {
+    "Name": "UndertakerUndertakerHockeyPushback",
+    "FileName": "mortis_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "UndertakerUndertakerHockeyWin": {
+    "Name": "UndertakerUndertakerHockeyWin",
+    "FileName": "mortis_hockey_player_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 179,
+    "Priority": "1"
+  },
+  "UndertakerUndertakerHockeyWinloop": {
+    "Name": "UndertakerUndertakerHockeyWinloop",
+    "FileName": "mortis_hockey_player_win.glb",
+    "StartFrame": 99,
+    "EndFrame": 179,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "UndertakerUndertakerHockeyLose": {
+    "Name": "UndertakerUndertakerHockeyLose",
+    "FileName": "mortis_hockey_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 189,
+    "Priority": "1"
+  },
+  "UndertakerUndertakerHockeyLoseloop": {
+    "Name": "UndertakerUndertakerHockeyLoseloop",
+    "FileName": "mortis_hockey_lose.glb",
+    "StartFrame": 110,
+    "EndFrame": 189,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "UndertakerUndertakerHockeyProfile": {
+    "Name": "UndertakerUndertakerHockeyProfile",
+    "FileName": "mortis_win.scw",
+    "StartFrame": 49,
+    "EndFrame": 49,
+    "Priority": "1"
+  },
+  "HammerDudeHinduIdle": {
+    "Name": "HammerDudeHinduIdle",
+    "FileName": "frank_hindu_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 500,
+    "Looping": true
+  },
+  "HammerDudeHinduWalk": {
+    "Name": "HammerDudeHinduWalk",
+    "FileName": "frank_hindu_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 120,
+    "TransitionInMs": 300,
+    "TransitionOutMs": 300,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "HammerDudeHinduPrimary": {
+    "Name": "HammerDudeHinduPrimary",
+    "FileName": "frank_hindu_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 45,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "HammerDudeHinduSecondary": {
+    "Name": "HammerDudeHinduSecondary",
+    "FileName": "frank_hindu_ulti.glb",
+    "StartFrame": 1,
+    "EndFrame": 50,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "HammerDudeHinduRecoil": {
+    "Name": "HammerDudeHinduRecoil",
+    "FileName": "frank_hindu_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 35,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "HammerDudeHinduRecoil2": {
+    "Name": "HammerDudeHinduRecoil2",
+    "FileName": "frank_hindu_ulti.glb",
+    "StartFrame": 36,
+    "EndFrame": 50,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 1,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "HammerDudeHinduReloading": {
+    "Name": "HammerDudeHinduReloading",
+    "FileName": "frank_hindu_idle.glb",
+    "EndFrame": 6,
+    "AutoFadeMs": 50
+  },
+  "HammerDudeHinduPushback": {
+    "Name": "HammerDudeHinduPushback",
+    "FileName": "frank_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 120,
+    "TransitionOutMs": 120,
+    "AutoFadeMs": 400,
+    "Priority": "5"
+  },
+  "HammerDudeHinduWin": {
+    "Name": "HammerDudeHinduWin",
+    "FileName": "frank_hindu_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 115,
+    "Priority": "5"
+  },
+  "HammerDudeHinduWinloop": {
+    "Name": "HammerDudeHinduWinloop",
+    "FileName": "frank_hindu_win.glb",
+    "StartFrame": 82,
+    "EndFrame": 115,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HammerDudeHinduLose": {
+    "Name": "HammerDudeHinduLose",
+    "FileName": "frank_hindu_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 201,
+    "Priority": "5"
+  },
+  "HammerDudeHinduLoseloop": {
+    "Name": "HammerDudeHinduLoseloop",
+    "FileName": "frank_hindu_lose.glb",
+    "StartFrame": 165,
+    "EndFrame": 201,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HammerDudeHinduProfile": {
+    "Name": "HammerDudeHinduProfile",
+    "FileName": "frank_hindu_idle.glb",
+    "StartFrame": 44,
+    "EndFrame": 44,
+    "Looping": true
+  },
+  "HammerDudeHinduIntro": {
+    "Name": "HammerDudeHinduIntro",
+    "FileName": "frank_intro_pose.scw"
+  },
+  "WeaponThrowerDarkcircusIdle": {
+    "Name": "WeaponThrowerDarkcircusIdle",
+    "FileName": "bronson_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 73,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "WeaponThrowerDarkcircusWalk": {
+    "Name": "WeaponThrowerDarkcircusWalk",
+    "FileName": "bronson_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "WeaponThrowerDarkcircusAttack": {
+    "Name": "WeaponThrowerDarkcircusAttack",
+    "FileName": "bronson_attack.glb",
+    "StartFrame": 12,
+    "EndFrame": 25,
+    "AutoFadeMs": 10,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "WeaponThrowerDarkcircusAttackRecoil": {
+    "Name": "WeaponThrowerDarkcircusAttackRecoil",
+    "FileName": "bronson_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 30,
+    "TransitionInMs": 10,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "WeaponThrowerDarkcircusAttackRecoil2": {
+    "Name": "WeaponThrowerDarkcircusAttackRecoil2",
+    "FileName": "bronson_attack.glb",
+    "StartFrame": 30,
+    "EndFrame": 35,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "WeaponThrowerDarkcircusUltRecoil": {
+    "Name": "WeaponThrowerDarkcircusUltRecoil",
+    "FileName": "bronson_super.glb",
+    "StartFrame": 10,
+    "EndFrame": 50,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "WeaponThrowerDarkcircusUltRecoil2": {
+    "Name": "WeaponThrowerDarkcircusUltRecoil2",
+    "FileName": "bronson_small_super.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "WeaponThrowerDarkcircusWin": {
+    "Name": "WeaponThrowerDarkcircusWin",
+    "FileName": "bronson_clown_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 259,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 500
+  },
+  "WeaponThrowerDarkcircusWinloop": {
+    "Name": "WeaponThrowerDarkcircusWinloop",
+    "FileName": "bronson_clown_win.glb",
+    "StartFrame": 181,
+    "EndFrame": 259,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 300,
+    "Looping": true
+  },
+  "WeaponThrowerDarkcircusLose": {
+    "Name": "WeaponThrowerDarkcircusLose",
+    "FileName": "bronson_clown_lose.glb",
+    "EndFrame": 229,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200
+  },
+  "WeaponThrowerDarkcircusLoseloop": {
+    "Name": "WeaponThrowerDarkcircusLoseloop",
+    "FileName": "bronson_clown_lose.glb",
+    "StartFrame": 149,
+    "EndFrame": 229,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Looping": true
+  },
+  "WeaponThrowerDarkcircusProfile": {
+    "Name": "WeaponThrowerDarkcircusProfile",
+    "FileName": "bronson_clown_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1
+  },
+  "CrossBomberHinduIdle": {
+    "Name": "CrossBomberHinduIdle",
+    "FileName": "grom_hindu_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 33,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "Looping": true
+  },
+  "CrossBomberHinduWalk": {
+    "Name": "CrossBomberHinduWalk",
+    "FileName": "grom_hindu_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 26,
+    "Speed": 120,
+    "TransitionInMs": 150,
+    "TransitionOutMs": 150,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CrossBomberHinduAttack": {
+    "Name": "CrossBomberHinduAttack",
+    "FileName": "grom_hindu_attack.glb",
+    "EndFrame": 5,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CrossBomberHinduSecondary": {
+    "Name": "CrossBomberHinduSecondary",
+    "FileName": "grom_hindu_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 50,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "CrossBomberHinduRecoil": {
+    "Name": "CrossBomberHinduRecoil",
+    "FileName": "grom_hindu_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": 20,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CrossBomberHinduPushback": {
+    "Name": "CrossBomberHinduPushback",
+    "FileName": "grom_hindu_idle.glb",
+    "EndFrame": 10,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 50,
+    "Priority": "5"
+  },
+  "CrossBomberHinduWin": {
+    "Name": "CrossBomberHinduWin",
+    "FileName": "grom_hindu_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 170,
+    "TransitionOutMs": 200,
+    "Priority": "5"
+  },
+  "CrossBomberHinduWinloop": {
+    "Name": "CrossBomberHinduWinloop",
+    "FileName": "grom_hindu_win.glb",
+    "StartFrame": 106,
+    "EndFrame": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CrossBomberHinduLose": {
+    "Name": "CrossBomberHinduLose",
+    "FileName": "grom_hindu_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 299,
+    "TransitionOutMs": 300,
+    "AutoFadeMs": 300,
+    "Priority": "5"
+  },
+  "CrossBomberHinduLoseloop": {
+    "Name": "CrossBomberHinduLoseloop",
+    "FileName": "grom_hindu_lose.glb",
+    "StartFrame": 221,
+    "EndFrame": 299,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CrossBomberHinduProfile": {
+    "Name": "CrossBomberHinduProfile",
+    "FileName": "grom_hindu_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "SnakeOilDarkcircusIdle": {
+    "Name": "SnakeOilDarkcircusIdle",
+    "FileName": "byron_darkcircus_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 59,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 120,
+    "TransitionOutMs": 120,
+    "Looping": true
+  },
+  "SnakeOilDarkcircusWalk": {
+    "Name": "SnakeOilDarkcircusWalk",
+    "FileName": "byron_walk.scw",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "SnakeOilDarkcircusAttack": {
+    "Name": "SnakeOilDarkcircusAttack",
+    "FileName": "byron_attack.scw",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilDarkcircusSuper": {
+    "Name": "SnakeOilDarkcircusSuper",
+    "FileName": "byron_super.scw",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Looping": true,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilDarkcircusRecoil": {
+    "Name": "SnakeOilDarkcircusRecoil",
+    "FileName": "byron_attack.scw",
+    "StartFrame": 5,
+    "EndFrame": 30,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 120,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilDarkcircusSuperRecoil": {
+    "Name": "SnakeOilDarkcircusSuperRecoil",
+    "FileName": "byron_super.scw",
+    "StartFrame": 5,
+    "EndFrame": 30,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 120,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilDarkcircusPushback": {
+    "Name": "SnakeOilDarkcircusPushback",
+    "FileName": "byron_pushback.scw",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Priority": "5"
+  },
+  "SnakeOilDarkcircusWin": {
+    "Name": "SnakeOilDarkcircusWin",
+    "FileName": "byron_darkcircus_win_120.glb",
+    "StartFrame": 1,
+    "EndFrame": 635
+  },
+  "SnakeOilDarkcircusWinloop": {
+    "Name": "SnakeOilDarkcircusWinloop",
+    "FileName": "byron_darkcircus_win.glb",
+    "StartFrame": 160,
+    "EndFrame": 201,
+    "Looping": true
+  },
+  "SnakeOilDarkcircusLose": {
+    "Name": "SnakeOilDarkcircusLose",
+    "FileName": "byron_darkcircus_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 198
+  },
+  "SnakeOilDarkcircusLoseloop": {
+    "Name": "SnakeOilDarkcircusLoseloop",
+    "FileName": "byron_darkcircus_lose.glb",
+    "StartFrame": 164,
+    "EndFrame": 198,
+    "Looping": true
+  },
+  "SnakeOilDarkcircusProfile": {
+    "Name": "SnakeOilDarkcircusProfile",
+    "FileName": "byron_win.scw",
+    "StartFrame": 192,
+    "EndFrame": 192,
+    "FaceFreezeFrame": -1
+  },
+  "CocoonerRosieIdle": {
+    "Name": "CocoonerRosieIdle",
+    "FileName": "charlie_idle.glb",
+    "EndFrame": 59,
+    "Speed": 120,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerRosieWalk": {
+    "Name": "CocoonerRosieWalk",
+    "FileName": "charlie_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 19,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerRosiePrimary": {
+    "Name": "CocoonerRosiePrimary",
+    "FileName": "charlie_attack.glb",
+    "StartFrame": 7,
+    "EndFrame": 23,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerRosieSecondary": {
+    "Name": "CocoonerRosieSecondary",
+    "FileName": "charlie_super.glb",
+    "StartFrame": 1,
+    "EndFrame": 22,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerRosieRecoil": {
+    "Name": "CocoonerRosieRecoil",
+    "FileName": "charlie_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 47,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerRosieWin": {
+    "Name": "CocoonerRosieWin",
+    "FileName": "charlie_rosie_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 125,
+    "Priority": "5"
+  },
+  "CocoonerRosieWinloop": {
+    "Name": "CocoonerRosieWinloop",
+    "FileName": "charlie_rosie_win.glb",
+    "StartFrame": 88,
+    "EndFrame": 125,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerRosieLose": {
+    "Name": "CocoonerRosieLose",
+    "FileName": "charlie_rosie_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 44,
+    "Priority": "5"
+  },
+  "CocoonerRosieLoseloop": {
+    "Name": "CocoonerRosieLoseloop",
+    "FileName": "charlie_rosie_lose.glb",
+    "EndFrame": 44,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerRosieProfile": {
+    "Name": "CocoonerRosieProfile",
+    "FileName": "charlie_portrait.glb",
+    "Looping": true
+  },
+  "CocoonerRosieIntro": {
+    "Name": "CocoonerRosieIntro",
+    "FileName": "charlie_idle.glb",
+    "StartFrame": 250,
+    "EndFrame": 250
+  },
+  "CocoonerDefaultIdle": {
+    "Name": "CocoonerDefaultIdle",
+    "FileName": "charlie_idle.glb",
+    "EndFrame": 59,
+    "Speed": 120,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerDefaultWalk": {
+    "Name": "CocoonerDefaultWalk",
+    "FileName": "charlie_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 19,
+    "Speed": 110,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerDefaultPrimary": {
+    "Name": "CocoonerDefaultPrimary",
+    "FileName": "charlie_attack.glb",
+    "StartFrame": 7,
+    "EndFrame": 23,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerDefaultSecondary": {
+    "Name": "CocoonerDefaultSecondary",
+    "FileName": "charlie_super.glb",
+    "StartFrame": 1,
+    "EndFrame": 22,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerDefaultRecoil": {
+    "Name": "CocoonerDefaultRecoil",
+    "FileName": "charlie_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 47,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerDefaultWin": {
+    "Name": "CocoonerDefaultWin",
+    "FileName": "charlie_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 148,
+    "Priority": "5"
+  },
+  "CocoonerDefaultWinloop": {
+    "Name": "CocoonerDefaultWinloop",
+    "FileName": "charlie_win.glb",
+    "StartFrame": 116,
+    "EndFrame": 148,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerDefaultLose": {
+    "Name": "CocoonerDefaultLose",
+    "FileName": "charlie_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 79,
+    "Priority": "5"
+  },
+  "CocoonerDefaultLoseloop": {
+    "Name": "CocoonerDefaultLoseloop",
+    "FileName": "charlie_lose.glb",
+    "StartFrame": 79,
+    "EndFrame": 79,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerDefaultProfile": {
+    "Name": "CocoonerDefaultProfile",
+    "FileName": "charlie_portrait.glb",
+    "Looping": true
+  },
+  "CocoonerDefaultIntro": {
+    "Name": "CocoonerDefaultIntro",
+    "FileName": "charlie_idle.glb",
+    "StartFrame": 250,
+    "EndFrame": 250
+  },
+  "KickerDudeMakeIdle": {
+    "Name": "KickerDudeMakeIdle",
+    "FileName": "fang_make_idle.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "KickerDudeMakeWalk": {
+    "Name": "KickerDudeMakeWalk",
+    "FileName": "fang_make_walk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "KickerDudeMakeAttack": {
+    "Name": "KickerDudeMakeAttack",
+    "FileName": "fang_make_attack.glb",
+    "EndFrame": 5,
+    "Priority": "3"
+  },
+  "KickerDudeMakeSuper": {
+    "Name": "KickerDudeMakeSuper",
+    "FileName": "fang_make_attack.glb",
+    "StartFrame": 10,
+    "EndFrame": 13,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 50,
+    "Looping": true,
+    "Priority": "3"
+  },
+  "KickerDudeMakeRecoil": {
+    "Name": "KickerDudeMakeRecoil",
+    "FileName": "fang_make_attack.glb",
+    "EndFrame": 25,
+    "AutoFadeMs": 100,
+    "Priority": "4"
+  },
+  "KickerDudeMakeWin": {
+    "Name": "KickerDudeMakeWin",
+    "FileName": "fang_make_win.glb",
+    "EndFrame": 178,
+    "FaceFreezeFrame": -1
+  },
+  "KickerDudeMakeWinloop": {
+    "Name": "KickerDudeMakeWinloop",
+    "FileName": "fang_make_win.glb",
+    "StartFrame": 136,
+    "EndFrame": 179,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "KickerDudeMakeLose": {
+    "Name": "KickerDudeMakeLose",
+    "FileName": "fang_make_lose.glb",
+    "EndFrame": 172,
+    "FaceFreezeFrame": -1
+  },
+  "KickerDudeMakeLoseloop": {
+    "Name": "KickerDudeMakeLoseloop",
+    "FileName": "fang_make_lose.glb",
+    "StartFrame": 136,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "KickerDudeMakePortrait": {
+    "Name": "KickerDudeMakePortrait",
+    "FileName": "fang_make_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "ShamanDarkcircusIdle": {
+    "Name": "ShamanDarkcircusIdle",
+    "FileName": "nita_idle.scw",
+    "StartFrame": 1,
+    "EndFrame": 34,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "ShamanDarkcircusWalk": {
+    "Name": "ShamanDarkcircusWalk",
+    "FileName": "nita_walk.scw",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanDarkcircusAttack": {
+    "Name": "ShamanDarkcircusAttack",
+    "FileName": "nita_make_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanDarkcircusSecondary": {
+    "Name": "ShamanDarkcircusSecondary",
+    "FileName": "nita_make_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanDarkcircusRecoil": {
+    "Name": "ShamanDarkcircusRecoil",
+    "FileName": "nita_make_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanDarkcircusReload": {
+    "Name": "ShamanDarkcircusReload",
+    "FileName": "nita_idle.scw",
+    "EndFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "ChestBone#2"
+  },
+  "ShamanDarkcircusPushback": {
+    "Name": "ShamanDarkcircusPushback",
+    "FileName": "nita_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "ShamanDarkcircusWin": {
+    "Name": "ShamanDarkcircusWin",
+    "FileName": "nita_darkcircus_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 148,
+    "Priority": "5"
+  },
+  "ShamanDarkcircusWinloop": {
+    "Name": "ShamanDarkcircusWinloop",
+    "FileName": "nita_darkcircus_win.glb",
+    "StartFrame": 102,
+    "EndFrame": 148,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanDarkcircusLose": {
+    "Name": "ShamanDarkcircusLose",
+    "FileName": "nita_darkcircus_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 168,
+    "Priority": "5"
+  },
+  "ShamanDarkcircusLoseloop": {
+    "Name": "ShamanDarkcircusLoseloop",
+    "FileName": "nita_darkcircus_lose.glb",
+    "StartFrame": 168,
+    "EndFrame": 168,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanDarkcircusProfile": {
+    "Name": "ShamanDarkcircusProfile",
+    "FileName": "nita_win.scw",
+    "StartFrame": 88,
+    "EndFrame": 88,
+    "Priority": "5"
+  },
+  "DuplicatorDarkcircusIdle": {
+    "Name": "DuplicatorDarkcircusIdle",
+    "FileName": "lolla_darkcircus_idle.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "DuplicatorDarkcircusWalk": {
+    "Name": "DuplicatorDarkcircusWalk",
+    "FileName": "lolla_darkcircus_walk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "DuplicatorDarkcircusAttack": {
+    "Name": "DuplicatorDarkcircusAttack",
+    "FileName": "lolla_darkcircus_attck.glb",
+    "EndFrame": 4,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 50,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DuplicatorDarkcircusSuper": {
+    "Name": "DuplicatorDarkcircusSuper",
+    "FileName": "lolla_darkcircus_super.glb",
+    "EndFrame": 4,
+    "FaceFreezeFrame": -1,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DuplicatorDarkcircusRecoil": {
+    "Name": "DuplicatorDarkcircusRecoil",
+    "FileName": "lolla_darkcircus_attck.glb",
+    "StartFrame": 5,
+    "EndFrame": 17,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DuplicatorDarkcircusSuperRecoil": {
+    "Name": "DuplicatorDarkcircusSuperRecoil",
+    "FileName": "lolla_darkcircus_super.glb",
+    "StartFrame": 4,
+    "EndFrame": 18,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DuplicatorDarkcircusPushback": {
+    "Name": "DuplicatorDarkcircusPushback",
+    "FileName": "lolla_darkcircus_pushback.glb",
+    "EndFrame": 10,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 20,
+    "AutoFadeMs": 100
+  },
+  "DuplicatorDarkcircusWin": {
+    "Name": "DuplicatorDarkcircusWin",
+    "FileName": "lolla_darkcircus_win.glb",
+    "EndFrame": 150,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 800
+  },
+  "DuplicatorDarkcircusWinloop": {
+    "Name": "DuplicatorDarkcircusWinloop",
+    "FileName": "lolla_darkcircus_win.glb",
+    "StartFrame": 105,
+    "EndFrame": 150,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 800,
+    "TransitionOutMs": 800,
+    "Looping": true
+  },
+  "DuplicatorDarkcircusLose": {
+    "Name": "DuplicatorDarkcircusLose",
+    "FileName": "lolla_darkcircus_lose.glb",
+    "EndFrame": 265,
+    "FaceFreezeFrame": -1
+  },
+  "DuplicatorDarkcircusLoseloop": {
+    "Name": "DuplicatorDarkcircusLoseloop",
+    "FileName": "lolla_darkcircus_lose.glb",
+    "StartFrame": 265,
+    "EndFrame": 265,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "DuplicatorDarkcircusPortrait": {
+    "Name": "DuplicatorDarkcircusPortrait",
+    "FileName": "lolla_portrait.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1
+  },
+  "ShotgunGirlBrawloweenIdle": {
+    "Name": "ShotgunGirlBrawloweenIdle",
+    "FileName": "shelly_witch_redux_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "ShotgunGirlBrawloweenWalk": {
+    "Name": "ShotgunGirlBrawloweenWalk",
+    "FileName": "shelly_witch_redux_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 30,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlBrawloweenPrimary": {
+    "Name": "ShotgunGirlBrawloweenPrimary",
+    "FileName": "shelly_witch_redux_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlBrawloweenSecondary": {
+    "Name": "ShotgunGirlBrawloweenSecondary",
+    "FileName": "shelly_witch_redux_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlBrawloweenCarlSecondary": {
+    "Name": "ShotgunGirlBrawloweenCarlSecondary",
+    "FileName": "carl_super.scw",
+    "StartFrame": 1,
+    "EndFrame": 59,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 200,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "ShotgunGirlBrawloweenRecoil": {
+    "Name": "ShotgunGirlBrawloweenRecoil",
+    "FileName": "shelly_witch_redux_attack.glb",
+    "StartFrame": 6,
+    "EndFrame": 20,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlBrawloweenReload": {
+    "Name": "ShotgunGirlBrawloweenReload",
+    "FileName": "shelly_witch_redux_reload.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#0+L_upperLeg_s#0+R_upperLeg_s#0+R_clavicle_s#4+R_shoulder_s#4+R_elbow_s#4+R_forearm_twist_s#4+R_wrist_s#4+L_clavicle_s#4+L_shoulder_s#4+L_elbow_s#4+L_forearm_twist_s#4+L_wrist_s#4"
+  },
+  "ShotgunGirlBrawloweenPushback": {
+    "Name": "ShotgunGirlBrawloweenPushback",
+    "FileName": "shelly_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "ShotgunGirlBrawloweenWin": {
+    "Name": "ShotgunGirlBrawloweenWin",
+    "FileName": "shelly_witch_redux_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 119,
+    "Priority": "5"
+  },
+  "ShotgunGirlBrawloweenWinloop": {
+    "Name": "ShotgunGirlBrawloweenWinloop",
+    "FileName": "shelly_witch_redux_win.glb",
+    "StartFrame": 120,
+    "EndFrame": 153,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlBrawloweenLose": {
+    "Name": "ShotgunGirlBrawloweenLose",
+    "FileName": "shelly_witch_redux_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 171,
+    "Priority": "5"
+  },
+  "ShotgunGirlBrawloweenLoseloop": {
+    "Name": "ShotgunGirlBrawloweenLoseloop",
+    "FileName": "shelly_witch_redux_lose.glb",
+    "StartFrame": 172,
+    "EndFrame": 198,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlBrawloweenProfile": {
+    "Name": "ShotgunGirlBrawloweenProfile",
+    "FileName": "shelly_witch_redux_win.glb",
+    "StartFrame": 80,
+    "EndFrame": 80
+  },
+  "ShotgunGirlBrawloweenIntro": {
+    "Name": "ShotgunGirlBrawloweenIntro",
+    "FileName": "shelly_intro_pose.scw"
+  },
+  "CocoonerCocoonDefaultIdle": {
+    "Name": "CocoonerCocoonDefaultIdle",
+    "FileName": "charlie_cocoon_idle.glb",
+    "EndFrame": 13,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerPetDefaultIdle": {
+    "Name": "CocoonerPetDefaultIdle",
+    "FileName": "charlie_spider_idle.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerPetDefaultWalk": {
+    "Name": "CocoonerPetDefaultWalk",
+    "FileName": "charlie_spider_walk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerPetDefaultAttack": {
+    "Name": "CocoonerPetDefaultAttack",
+    "FileName": "charlie_spider_walk.glb",
+    "StartFrame": 15,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100
+  },
+  "NinjaBrawloweenIdle": {
+    "Name": "NinjaBrawloweenIdle",
+    "FileName": "leon_wolf_redux_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 28,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "NinjaBrawloweenWalk": {
+    "Name": "NinjaBrawloweenWalk",
+    "FileName": "leon_wolf_redux_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "NinjaBrawloweenAttack": {
+    "Name": "NinjaBrawloweenAttack",
+    "FileName": "leon_wolf_redux_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 3,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "NinjaBrawloweenSecondary": {
+    "Name": "NinjaBrawloweenSecondary",
+    "FileName": "leon_wolf_redux_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "NinjaBrawloweenRecoil": {
+    "Name": "NinjaBrawloweenRecoil",
+    "FileName": "leon_wolf_redux_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 7,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "NinjaBrawloweenRecoil2": {
+    "Name": "NinjaBrawloweenRecoil2",
+    "FileName": "leon_wolf_redux_attack.glb",
+    "StartFrame": 7,
+    "EndFrame": 11,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "NinjaBrawloweenReload": {
+    "Name": "NinjaBrawloweenReload",
+    "FileName": "leon_wolf_redux_idle.glb",
+    "EndFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "ChestBone#2"
+  },
+  "NinjaBrawloweenPushback": {
+    "Name": "NinjaBrawloweenPushback",
+    "FileName": "leon_pushback.scw",
+    "StartFrame": 1,
+    "EndFrame": 34,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "NinjaBrawloweenWin": {
+    "Name": "NinjaBrawloweenWin",
+    "FileName": "leon_wolf_redux_win.glb",
+    "EndFrame": 152,
+    "TransitionOutMs": 10,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "NinjaBrawloweenWinloop": {
+    "Name": "NinjaBrawloweenWinloop",
+    "FileName": "leon_wolf_redux_win.glb",
+    "StartFrame": 117,
+    "EndFrame": 152,
+    "TransitionInMs": 10,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "NinjaBrawloweenLose": {
+    "Name": "NinjaBrawloweenLose",
+    "FileName": "leon_wolf_redux_lose.glb",
+    "EndFrame": 168,
+    "Priority": "5"
+  },
+  "NinjaBrawloweenLoseloop": {
+    "Name": "NinjaBrawloweenLoseloop",
+    "FileName": "leon_wolf_redux_lose.glb",
+    "StartFrame": 131,
+    "EndFrame": 168,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "NinjaBrawloweenProfile": {
+    "Name": "NinjaBrawloweenProfile",
+    "FileName": "leon_base_cam.scw",
+    "StartFrame": 1,
+    "EndFrame": 10,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "NinjaBrawloweenIntro": {
+    "Name": "NinjaBrawloweenIntro",
+    "FileName": "leon_intro_pose.scw"
   }
 }

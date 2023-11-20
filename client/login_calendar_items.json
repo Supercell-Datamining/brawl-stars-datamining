@@ -129,5 +129,32 @@
     "FileName": "sc/ui.sc",
     "PanelAsset": "login_calendar_panel_reward_skin_single",
     "HudAsset": "login_calendar_hud_brawler_1"
+  },
+  "OverchargeStarrDrop": {
+    "Name": "OverchargeStarrDrop",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_OVERCHARGE",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_OVERCHARGE",
+    "RewardTypes": 47,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_random_reward",
+    "HudAsset": "login_calendar_hud_reward_random_reward"
+  },
+  "StarrDropContainer": {
+    "Name": "StarrDropContainer",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_STARR_DROP_CONTAINER",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_STARR_DROP_CONTAINER",
+    "RewardTypes": 49,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_random_reward",
+    "HudAsset": "login_calendar_hud_reward_random_reward"
+  },
+  "RandomStarrDrop": {
+    "Name": "RandomStarrDrop",
+    "RewardTID": "TID_LOGIN_CALENDAR_REWARD_STARR_DROP",
+    "RewardDescTID": "TID_LOGIN_CALENDAR_REWARD_DESC_STARR_DROP",
+    "RewardTypes": 50,
+    "FileName": "sc/ui.sc",
+    "PanelAsset": "login_calendar_panel_reward_random_reward",
+    "HudAsset": "login_calendar_hud_reward_random_reward"
   }
 }

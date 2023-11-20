@@ -6918,5 +6918,430 @@
     "Name": "Edgar007Still",
     "FileName": "characters.sc",
     "ExportName": "edgar_007_still"
+  },
+  "Mortis005Win": {
+    "Name": "Mortis005Win",
+    "FileName": "characters.sc",
+    "ExportName": "mortis_005_win"
+  },
+  "Mortis005WinLoop": {
+    "Name": "Mortis005WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "mortis_005_winLoop"
+  },
+  "Mortis005Lose": {
+    "Name": "Mortis005Lose",
+    "FileName": "characters.sc",
+    "ExportName": "mortis_005_lose"
+  },
+  "Mortis005LoseLoop": {
+    "Name": "Mortis005LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "mortis_005_loseLoop"
+  },
+  "Mortis005Still": {
+    "Name": "Mortis005Still",
+    "FileName": "characters.sc",
+    "ExportName": "mortis_005_still"
+  },
+  "Frank005Win": {
+    "Name": "Frank005Win",
+    "FileName": "characters.sc",
+    "ExportName": "frank_005_win"
+  },
+  "Frank005WinLoop": {
+    "Name": "Frank005WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "frank_005_winLoop"
+  },
+  "Frank005Lose": {
+    "Name": "Frank005Lose",
+    "FileName": "characters.sc",
+    "ExportName": "frank_005_lose"
+  },
+  "Frank005LoseLoop": {
+    "Name": "Frank005LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "frank_005_loseLoop"
+  },
+  "Frank005Still": {
+    "Name": "Frank005Still",
+    "FileName": "characters.sc",
+    "ExportName": "frank_005_still"
+  },
+  "Grom003Win": {
+    "Name": "Grom003Win",
+    "FileName": "characters.sc",
+    "ExportName": "grom_003_win"
+  },
+  "Grom003WinLoop": {
+    "Name": "Grom003WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "grom_003_winLoop"
+  },
+  "Grom003Lose": {
+    "Name": "Grom003Lose",
+    "FileName": "characters.sc",
+    "ExportName": "grom_003_lose"
+  },
+  "Grom003LoseLoop": {
+    "Name": "Grom003LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "grom_003_loseLoop"
+  },
+  "Grom003Still": {
+    "Name": "Grom003Still",
+    "FileName": "characters.sc",
+    "ExportName": "grom_003_still"
+  },
+  "Bo007Win": {
+    "Name": "Bo007Win",
+    "FileName": "characters.sc",
+    "ExportName": "bo_007_win"
+  },
+  "Bo007WinLoop": {
+    "Name": "Bo007WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bo_007_winLoop"
+  },
+  "Bo007Lose": {
+    "Name": "Bo007Lose",
+    "FileName": "characters.sc",
+    "ExportName": "bo_007_lose"
+  },
+  "Bo007LoseLoop": {
+    "Name": "Bo007LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bo_007_loseLoop"
+  },
+  "Bo007Still": {
+    "Name": "Bo007Still",
+    "FileName": "characters.sc",
+    "ExportName": "bo_007_still"
+  },
+  "Bronson005Win": {
+    "Name": "Bronson005Win",
+    "FileName": "characters.sc",
+    "ExportName": "bronson_005_win"
+  },
+  "Bronson005WinLoop": {
+    "Name": "Bronson005WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bronson_005_winLoop"
+  },
+  "Bronson005Lose": {
+    "Name": "Bronson005Lose",
+    "FileName": "characters.sc",
+    "ExportName": "bronson_005_lose"
+  },
+  "Bronson005LoseLoop": {
+    "Name": "Bronson005LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bronson_005_loseLoop"
+  },
+  "Bronson005Still": {
+    "Name": "Bronson005Still",
+    "FileName": "characters.sc",
+    "ExportName": "bronson_005_still"
+  },
+  "Edgar008Win": {
+    "Name": "Edgar008Win",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_008_win"
+  },
+  "Edgar008WinLoop": {
+    "Name": "Edgar008WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_008_winLoop"
+  },
+  "Edgar008Lose": {
+    "Name": "Edgar008Lose",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_008_lose"
+  },
+  "Edgar008LoseLoop": {
+    "Name": "Edgar008LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_008_loseLoop"
+  },
+  "Edgar008Still": {
+    "Name": "Edgar008Still",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_008_still"
+  },
+  "Edgar009Win": {
+    "Name": "Edgar009Win",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_009_win"
+  },
+  "Edgar009WinLoop": {
+    "Name": "Edgar009WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_009_winLoop"
+  },
+  "Edgar009Lose": {
+    "Name": "Edgar009Lose",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_009_lose"
+  },
+  "Edgar009LoseLoop": {
+    "Name": "Edgar009LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_009_loseLoop"
+  },
+  "Edgar009Still": {
+    "Name": "Edgar009Still",
+    "FileName": "characters.sc",
+    "ExportName": "edgar_009_still"
+  },
+  "Byron004Win": {
+    "Name": "Byron004Win",
+    "FileName": "characters.sc",
+    "ExportName": "byron_004_win"
+  },
+  "Byron004WinLoop": {
+    "Name": "Byron004WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "byron_004_winLoop"
+  },
+  "Byron004Lose": {
+    "Name": "Byron004Lose",
+    "FileName": "characters.sc",
+    "ExportName": "byron_004_lose"
+  },
+  "Byron004LoseLoop": {
+    "Name": "Byron004LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "byron_004_loseLoop"
+  },
+  "Byron004Still": {
+    "Name": "Byron004Still",
+    "FileName": "characters.sc",
+    "ExportName": "byron_004_still"
+  },
+  "Nita005Still": {
+    "Name": "Nita005Still",
+    "FileName": "characters.sc",
+    "ExportName": "nita_005_still"
+  },
+  "Nita005Win": {
+    "Name": "Nita005Win",
+    "FileName": "characters.sc",
+    "ExportName": "nita_005_win"
+  },
+  "Nita005WinLoop": {
+    "Name": "Nita005WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "nita_005_winLoop"
+  },
+  "Nita005Lose": {
+    "Name": "Nita005Lose",
+    "FileName": "characters.sc",
+    "ExportName": "nita_005_lose"
+  },
+  "Nita005LoseLoop": {
+    "Name": "Nita005LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "nita_005_loseLoop"
+  },
+  "CharlieStill": {
+    "Name": "CharlieStill",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_def_still"
+  },
+  "CharlieWin": {
+    "Name": "CharlieWin",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_def_win"
+  },
+  "CharlieWinLoop": {
+    "Name": "CharlieWinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_def_winLoop"
+  },
+  "CharlieLose": {
+    "Name": "CharlieLose",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_def_lose"
+  },
+  "CharlieLoseLoop": {
+    "Name": "CharlieLoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_def_loseLoop"
+  },
+  "Fang004Win": {
+    "Name": "Fang004Win",
+    "FileName": "characters.sc",
+    "ExportName": "fang_004_win"
+  },
+  "Fang004WinLoop": {
+    "Name": "Fang004WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "fang_004_winLoop"
+  },
+  "Fang004Lose": {
+    "Name": "Fang004Lose",
+    "FileName": "characters.sc",
+    "ExportName": "fang_004_lose"
+  },
+  "Fang004LoseLoop": {
+    "Name": "Fang004LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "fang_004_loseLoop"
+  },
+  "Fang004Still": {
+    "Name": "Fang004Still",
+    "FileName": "characters.sc",
+    "ExportName": "fang_004_still"
+  },
+  "Bo008Win": {
+    "Name": "Bo008Win",
+    "FileName": "characters.sc",
+    "ExportName": "bo_008_win"
+  },
+  "Bo008WinLoop": {
+    "Name": "Bo008WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bo_008_winLoop"
+  },
+  "Bo008Lose": {
+    "Name": "Bo008Lose",
+    "FileName": "characters.sc",
+    "ExportName": "bo_008_lose"
+  },
+  "Bo008LoseLoop": {
+    "Name": "Bo008LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "bo_008_loseLoop"
+  },
+  "Bo008Still": {
+    "Name": "Bo008Still",
+    "FileName": "characters.sc",
+    "ExportName": "bo_008_still"
+  },
+  "Charlie002Still": {
+    "Name": "Charlie002Still",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_002_still"
+  },
+  "Charlie002Win": {
+    "Name": "Charlie002Win",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_002_win"
+  },
+  "Charlie002WinLoop": {
+    "Name": "Charlie002WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_002_winLoop"
+  },
+  "Charlie002Lose": {
+    "Name": "Charlie002Lose",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_002_lose"
+  },
+  "Charlie002LoseLoop": {
+    "Name": "Charlie002LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_002_loseLoop"
+  },
+  "Shelly005Win": {
+    "Name": "Shelly005Win",
+    "FileName": "characters.sc",
+    "ExportName": "shelly_005_win"
+  },
+  "Shelly005WinLoop": {
+    "Name": "Shelly005WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "shelly_005_winLoop"
+  },
+  "Shelly005Lose": {
+    "Name": "Shelly005Lose",
+    "FileName": "characters.sc",
+    "ExportName": "shelly_005_lose"
+  },
+  "Shelly005LoseLoop": {
+    "Name": "Shelly005LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "shelly_005_loseLoop"
+  },
+  "Shelly005Still": {
+    "Name": "Shelly005Still",
+    "FileName": "characters.sc",
+    "ExportName": "shelly_005_still"
+  },
+  "Lolla006Win": {
+    "Name": "Lolla006Win",
+    "FileName": "characters.sc",
+    "ExportName": "lolla_006_win"
+  },
+  "Lolla006WinLoop": {
+    "Name": "Lolla006WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "lolla_006_winLoop"
+  },
+  "Lolla006Lose": {
+    "Name": "Lolla006Lose",
+    "FileName": "characters.sc",
+    "ExportName": "lolla_006_lose"
+  },
+  "Lolla006LoseLoop": {
+    "Name": "Lolla006LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "lolla_006_loseLoop"
+  },
+  "Lolla006Still": {
+    "Name": "Lolla006Still",
+    "FileName": "characters.sc",
+    "ExportName": "lolla_006_still"
+  },
+  "Charlie003Still": {
+    "Name": "Charlie003Still",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_003_still"
+  },
+  "Charlie003Win": {
+    "Name": "Charlie003Win",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_003_win"
+  },
+  "Charlie003WinLoop": {
+    "Name": "Charlie003WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_003_winLoop"
+  },
+  "Charlie003Lose": {
+    "Name": "Charlie003Lose",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_003_lose"
+  },
+  "Charlie003LoseLoop": {
+    "Name": "Charlie003LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "charlie_003_loseLoop"
+  },
+  "Leon006Win": {
+    "Name": "Leon006Win",
+    "FileName": "characters.sc",
+    "ExportName": "leon_006_win"
+  },
+  "Leon006WinLoop": {
+    "Name": "Leon006WinLoop",
+    "FileName": "characters.sc",
+    "ExportName": "leon_006_winLoop"
+  },
+  "Leon006Lose": {
+    "Name": "Leon006Lose",
+    "FileName": "characters.sc",
+    "ExportName": "leon_006_lose"
+  },
+  "Leon006LoseLoop": {
+    "Name": "Leon006LoseLoop",
+    "FileName": "characters.sc",
+    "ExportName": "leon_006_loseLoop"
+  },
+  "Leon006Still": {
+    "Name": "Leon006Still",
+    "FileName": "characters.sc",
+    "ExportName": "leon_006_still"
   }
 }

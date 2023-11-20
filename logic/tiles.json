@@ -293,9 +293,9 @@
     "DynamicCode": 3,
     "IsDestructible": true,
     "HidesHero": true,
-    "BaseExportName": "custom",
-    "BaseExplosionEffect": "Grass_explo_fx",
-    "BaseHitEffect": "Grass_hit_fx",
+    "BaseExportName": "forest",
+    "BaseExplosionEffect": "Grass_explo_fx_yellow",
+    "BaseHitEffect": "Grass_hit_fx_yellow",
     "SortOffset": -1,
     "HasHitAnim": true,
     "HasWindAnim": true,
@@ -304,9 +304,8 @@
     "ShadowX": -10,
     "ShadowY": 60,
     "ShadowSkew": 25,
-    "CustomSCW": "sc3d/grass2.scw",
-    "CustomMesh": "grass_1",
-    "MapEditorVisualMode": 1
+    "MapEditorVisualMode": 1,
+    "SpawnEffect": "Grass_explo_fx"
   },
   "RopeFence": {
     "Name": "RopeFence",

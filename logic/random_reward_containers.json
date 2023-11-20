@@ -1,6 +1,7 @@
 {
   "RareStar": {
     "Name": "RareStar",
+    "TID": "TID_SHOP_STARR_DROP_RARE",
     "TicketsInWinGamesDraw": 50,
     "Rarity": 1,
     "IsRarityOfferContainer": true,
@@ -31,10 +32,12 @@
     "FaceUpgradeExportName": "starr_01_change",
     "FaceOpenExportName": "starr_01_final",
     "SoloOfferDefaultBgFrameName": "offer_rarity_rare",
-    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_RARE"
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_RARE",
+    "RarityFrameLabel": "rare"
   },
   "SuperRareStar": {
     "Name": "SuperRareStar",
+    "TID": "TID_SHOP_STARR_DROP_SUPER_RARE",
     "TicketsInWinGamesDraw": 28,
     "Rarity": 2,
     "IsRarityOfferContainer": true,
@@ -65,10 +68,12 @@
     "FaceUpgradeExportName": "starr_01_change",
     "FaceOpenExportName": "starr_01_final",
     "SoloOfferDefaultBgFrameName": "offer_rarity_super_rare",
-    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_SUPER_RARE"
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_SUPER_RARE",
+    "RarityFrameLabel": "super_rare"
   },
   "EpicStar": {
     "Name": "EpicStar",
+    "TID": "TID_SHOP_STARR_DROP_EPIC",
     "TicketsInWinGamesDraw": 15,
     "Rarity": 3,
     "IsRarityOfferContainer": true,
@@ -99,10 +104,12 @@
     "FaceUpgradeExportName": "starr_01_change",
     "FaceOpenExportName": "starr_01_final",
     "SoloOfferDefaultBgFrameName": "offer_rarity_epic",
-    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_EPIC"
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_EPIC",
+    "RarityFrameLabel": "epic"
   },
   "MythicStar": {
     "Name": "MythicStar",
+    "TID": "TID_SHOP_STARR_DROP_MYTHIC",
     "TicketsInWinGamesDraw": 5,
     "Rarity": 4,
     "IsRarityOfferContainer": true,
@@ -133,10 +140,12 @@
     "FaceUpgradeExportName": "starr_01_change",
     "FaceOpenExportName": "starr_01_final",
     "SoloOfferDefaultBgFrameName": "offer_rarity_mythic",
-    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_MYTHIC"
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_MYTHIC",
+    "RarityFrameLabel": "mythic"
   },
   "LegendaryStar": {
     "Name": "LegendaryStar",
+    "TID": "TID_SHOP_STARR_DROP_LEGENDARY",
     "TicketsInWinGamesDraw": 2,
     "Rarity": 5,
     "IsRarityOfferContainer": true,
@@ -167,12 +176,14 @@
     "FaceUpgradeExportName": "starr_01_change",
     "FaceOpenExportName": "starr_01_final",
     "SoloOfferDefaultBgFrameName": "offer_rarity_legendary",
-    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_LEGENDARY"
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_LEGENDARY",
+    "RarityFrameLabel": "legendary"
   },
   "OverchargeStar": {
     "Name": "OverchargeStar",
+    "TID": "TID_SHOP_STARR_DROP_OVERCHARGE",
     "IsOverchargeDraw": true,
-    "SCW": "sc3d/rng_reward.glb",
+    "SCW": "sc3d/overcharged_reward_anim.glb",
     "BackgroundFrameLabel": "overcharge",
     "TapEffectClip": "gacha_vfx_tap",
     "FinalContainerEffectClip": "gacha_vfx_legendary",
@@ -197,6 +208,44 @@
     "FaceFileName": "characters.sc",
     "FaceIdleExportName": "starr_01_idle",
     "FaceUpgradeExportName": "starr_01_change",
-    "FaceOpenExportName": "starr_01_final"
+    "FaceOpenExportName": "starr_01_final",
+    "RarityFrameLabel": "wild"
+  },
+  "ClubPiggyBank": {
+    "Name": "ClubPiggyBank",
+    "SCW": "sc3d/ui_golden_pig.glb",
+    "TapEffectClip": "gacha_vfx_tap",
+    "Idle3DAnimStart": 200,
+    "Idle3DAnimEnd": 399,
+    "Miss3DAnimStart": 73,
+    "Miss3DAnimEnd": 91,
+    "Open3DAnimStart": 99,
+    "Open3DAnimEnd": 160,
+    "SoundMiss": "Piggybank_Tap",
+    "SoundOpen": "Piggybank_Explosion_Jingle",
+    "FaceFileName": "ui.sc",
+    "AnimationSCW": "sc3d/ui_golden_pig_anim.glb",
+    "PiggyTap1": "piggybank_vfx_crack_01",
+    "PiggyTap2": "piggybank_vfx_crack_02",
+    "PiggyTap3": "piggybank_vfx_crack_03",
+    "PiggyTap4": "piggybank_vfx_crack_04",
+    "PiggyTapBackground1": "piggybank_vfx_crack_01_tab",
+    "PiggyTapBackground2": "piggybank_vfx_crack_02_tab",
+    "PiggyTapBackground3": "piggybank_vfx_crack_03_tab",
+    "PiggyTapBackground4": "piggybank_vfx_crack_04_tab",
+    "PiggyTapBackgroundFinal": "gacha_vfx_piggy_open",
+    "PiggyTapBackgroundFinalBg": "gacha_vfx_piggy_bg",
+    "CustomAnimationNames": [
+      "SMALL_DROP",
+      "BIG_DROP"
+    ],
+    "CustomAnimationStartFrames": [
+      0,
+      29
+    ],
+    "CustomAnimationEndFrames": [
+      19,
+      69
+    ]
   }
 }

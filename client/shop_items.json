@@ -369,32 +369,14 @@
     "SoloOfferBgFrames": [
       "offer_pin_pack",
       "offer_pin_pack",
+      "offer_random_epic",
+      "offer_pin_pack",
       "offer_random_epic"
     ],
     "RankedGoalAsset": "offer_item_random_emote_of_rarity_small",
     "RankedGoalQuestAsset": "offer_item_random_emote_of_rarity_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_23",
     "ChallengeRewardFrame": "pin"
-  },
-  "RandomEmotesPackOfRarity": {
-    "Name": "RandomEmotesPackOfRarity",
-    "OfferType": 27,
-    "AcceptToOffers": true,
-    "AcceptToChallengeRewards": false,
-    "AcceptToQuestRewards": false,
-    "PopupItemAsset": "shop_popupitem_25",
-    "OfferAssetSolo": "offer_item_rarity_emotes_big",
-    "OfferAssetHalf": "offer_item_rarity_emotes_big",
-    "OfferAssetQuarter": "offer_item_rarity_emotes_small",
-    "OfferAssetHeroLayout": "offer_item_rarity_emotes_big",
-    "RankedGoalAsset": "offer_item_rarity_emotes_small",
-    "RankedGoalQuestAsset": "offer_item_rarity_emotes_small",
-    "RewardDescTID": "TID_SHOP_OFFER_TITLE_27",
-    "ChallengeRewardFrame": "box",
-    "SoloOfferBgFrames": [
-      "offer_pin_pack",
-      "offer_random_epic"
-    ]
   },
   "PlayerThumbnail": {
     "Name": "PlayerThumbnail",
@@ -910,7 +892,7 @@
     "Name": "OverchargeStarrDrop",
     "OfferType": 47,
     "AcceptToOffers": true,
-    "AcceptToChallengeRewards": false,
+    "AcceptToChallengeRewards": true,
     "AcceptToQuestRewards": true,
     "IconFrameNumber": 0,
     "MaxResourcePerFrame": 200,
@@ -923,7 +905,8 @@
     "RankedGoalAsset": "offer_item_overcharge_star_small",
     "RankedGoalQuestAsset": "offer_item_overcharge_star_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_47",
-    "ChallengeRewardFrame": "resource"
+    "ChallengeRewardFrame": "resource",
+    "ChallengeRewardAsset": "icon_resource_random_reward_overcharge"
   },
   "BrawlerUpgradeFromLevelToLevel": {
     "Name": "BrawlerUpgradeFromLevelToLevel",
@@ -942,13 +925,30 @@
     "Name": "StarrDropContainer",
     "OfferType": 49,
     "AcceptToOffers": true,
-    "AcceptToChallengeRewards": false,
-    "AcceptToQuestRewards": false,
+    "AcceptToChallengeRewards": true,
+    "AcceptToQuestRewards": true,
     "PopupItemAsset": "shop_popupitem_47",
     "OfferAssetSolo": "offer_item_random_reward_big",
     "OfferAssetHalf": "offer_item_random_reward_big",
     "OfferAssetQuarter": "offer_item_random_reward_small",
     "OfferAssetHeroLayout": "offer_item_random_reward_small",
-    "RewardDescTID": "TID_SHOP_OFFER_TITLE_49"
+    "RewardDescTID": "TID_SHOP_OFFER_TITLE_49",
+    "ChallengeRewardFrame": "resource",
+    "ChallengeRewardAsset": "icon_resource_random_reward"
+  },
+  "RandomStarrDrop": {
+    "Name": "RandomStarrDrop",
+    "OfferType": 50,
+    "AcceptToOffers": true,
+    "AcceptToChallengeRewards": true,
+    "AcceptToQuestRewards": true,
+    "PopupItemAsset": "shop_popupitem_50",
+    "OfferAssetSolo": "offer_item_random_reward_big",
+    "OfferAssetHalf": "offer_item_random_reward_big",
+    "OfferAssetQuarter": "offer_item_random_reward_small",
+    "OfferAssetHeroLayout": "offer_item_random_reward_small",
+    "RewardDescTID": "TID_SHOP_OFFER_TITLE_50",
+    "ChallengeRewardFrame": "resource",
+    "ChallengeRewardAsset": "icon_resource_random_reward"
   }
 }

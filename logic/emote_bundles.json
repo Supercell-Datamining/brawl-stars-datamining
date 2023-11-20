@@ -198,5 +198,37 @@
     "TID": "TID_EMOTE_BUNDLE_BRONSON_CAESAR_PACK",
     "CanBeBought": true,
     "RepresentingHighlightEmote": "emoji_bronson_caesar"
+  },
+  "Dynamike_robot": {
+    "Name": "Dynamike_robot",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_dynamike_robot",
+    "TID": "TID_EMOTE_BUNDLE_DYNAMIKE_ROBOT_PACK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_dynamike_robot"
+  },
+  "Pam_evilqueen": {
+    "Name": "Pam_evilqueen",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_pam_evilqueen",
+    "TID": "TID_EMOTE_BUNDLE_PAM_EVILQUEEN_PACK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_pam_evilqueen"
+  },
+  "Nita_circus": {
+    "Name": "Nita_circus",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_nita_circus",
+    "TID": "TID_EMOTE_BUNDLE_NITA_CIRCUS_PACK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_nita_circus"
+  },
+  "Buster_chainsaw": {
+    "Name": "Buster_chainsaw",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_buster_chainsaw",
+    "TID": "TID_EMOTE_BUNDLE_BUSTER_CHAINSAW_PACK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_cameron_chainsaw"
   }
 }

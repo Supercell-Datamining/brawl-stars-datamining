@@ -574,5 +574,13 @@
     "RewardTitles": "TitleMasteryChuck",
     "MasteryIconFile": "sc/ui.sc",
     "MasteryIconExportName": "mastery_brawler_icon_chuck"
+  },
+  "MasteryCocooner": {
+    "Name": "MasteryCocooner",
+    "RewardEmotes": "emoji_charlotte_facepalm",
+    "RewardPlayerIcons": "player_icon_charlie1",
+    "RewardTitles": "TitleMasteryCharlie",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_charlotte"
   }
 }

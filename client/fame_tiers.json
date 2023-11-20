@@ -148,5 +148,35 @@
     "IconExportName": "icon_fame_tier_5_3",
     "IconBigExportName": "fame_big_tier_5",
     "IconStarsExportName": "fame_stars_tier_5_3"
+  },
+  "Meteor1": {
+    "Name": "Meteor1",
+    "FameToNext": 20000,
+    "Group": 6,
+    "TID": "TID_FAME_TIER_METEOR1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_6_1",
+    "IconBigExportName": "fame_big_tier_6",
+    "IconStarsExportName": "fame_stars_tier_6_1"
+  },
+  "Meteor2": {
+    "Name": "Meteor2",
+    "FameToNext": 20000,
+    "Group": 6,
+    "TID": "TID_FAME_TIER_METEOR2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_6_2",
+    "IconBigExportName": "fame_big_tier_6",
+    "IconStarsExportName": "fame_stars_tier_6_2"
+  },
+  "Meteor3": {
+    "Name": "Meteor3",
+    "FameToNext": 20000,
+    "Group": 6,
+    "TID": "TID_FAME_TIER_METEOR3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_6_3",
+    "IconBigExportName": "fame_big_tier_6",
+    "IconStarsExportName": "fame_stars_tier_6_3"
   }
 }

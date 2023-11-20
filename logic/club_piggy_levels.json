@@ -1,0 +1,44 @@
+{
+  "PiggyLevel0": {
+    "Name": "PiggyLevel0",
+    "Level": 0,
+    "State": 0,
+    "ShownLevelOnTrack": 1
+  },
+  "PiggyLevel1": {
+    "Name": "PiggyLevel1",
+    "Level": 1,
+    "State": 1,
+    "ShownLevelOnTrack": 1
+  },
+  "PiggyLevel2": {
+    "Name": "PiggyLevel2",
+    "Level": 2,
+    "State": 2,
+    "ShownLevelOnTrack": 2
+  },
+  "PiggyLevel3": {
+    "Name": "PiggyLevel3",
+    "Level": 3,
+    "State": 3,
+    "ShownLevelOnTrack": 3
+  },
+  "PiggyLevel4": {
+    "Name": "PiggyLevel4",
+    "Level": 4,
+    "State": 4,
+    "ShownLevelOnTrack": 4
+  },
+  "PiggyLevel5": {
+    "Name": "PiggyLevel5",
+    "Level": 5,
+    "State": 5,
+    "ShownLevelOnTrack": 5
+  },
+  "PiggyLevel6": {
+    "Name": "PiggyLevel6",
+    "Level": 6,
+    "State": 6,
+    "ShownLevelOnTrack": 5
+  }
+}

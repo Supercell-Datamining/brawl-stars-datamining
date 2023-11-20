@@ -573,6 +573,7 @@
   },
   "Mechaedgar": {
     "Name": "Mechaedgar",
+    "Disabled": true,
     "FileName": "sc/background_mecha_edgar.sc",
     "ExportName": "bgr_mecha_edgar",
     "ThemeMusic": "MechMenuMusic",
@@ -580,6 +581,7 @@
   },
   "Brawloween2023": {
     "Name": "Brawloween2023",
+    "Disabled": true,
     "FileName": "sc/background_ghosttrain.sc",
     "ExportName": "bgr_ghosttrain",
     "ThemeMusic": "Ghosttrain_Menu",
@@ -587,6 +589,7 @@
   },
   "Wasteland": {
     "Name": "Wasteland",
+    "Disabled": true,
     "FileName": "sc/background_wasteland.sc",
     "ExportName": "bgr_wasteland",
     "ThemeMusic": "Wasteland_Menu",
@@ -594,6 +597,7 @@
   },
   "University": {
     "Name": "University",
+    "Disabled": true,
     "FileName": "sc/background_university.sc",
     "ExportName": "bgr_university",
     "ThemeMusic": "Highschool_Menu",
@@ -602,8 +606,51 @@
   },
   "MoonFestival2023": {
     "Name": "MoonFestival2023",
+    "Disabled": true,
     "FileName": "sc/background_mf2023.sc",
     "ExportName": "bgr_mf2023",
     "ThemeMusic": "Lunar_Menu_Music"
+  },
+  "Retropolis2023": {
+    "Name": "Retropolis2023",
+    "FileName": "sc/background_retropolis.sc",
+    "ExportName": "bgr_retropolis",
+    "ThemeMusic": "Retropolis_menu",
+    "LoadingScreen": "sc/loading_retropolis.sc",
+    "CustomButtonName": "button_cctv"
+  },
+  "WF2023": {
+    "Name": "WF2023",
+    "FileName": "sc/background_wf2023.sc",
+    "ExportName": "bgr_wf2023",
+    "ThemeMusic": "MenuMusic",
+    "LoadingJingle": "sfx/brawlywood_load_01.ogg",
+    "LoadingScreen": "sc/loading_wf2023.sc",
+    "CustomButtonName": "button_cctv"
+  },
+  "Hindu": {
+    "Name": "Hindu",
+    "FileName": "sc/background_hindu.sc",
+    "ExportName": "bgr_hindu",
+    "ThemeMusic": "Hindu_Menu",
+    "LoadingJingle": "sfx/hindu_brawl_loading_01.ogg",
+    "LoadingScreen": "sc/loading_hindu.sc",
+    "CustomButtonName": "button_cctv"
+  },
+  "Halloween2023": {
+    "Name": "Halloween2023",
+    "FileName": "sc/background_brawloween2023.sc",
+    "ExportName": "bgr_brawloween",
+    "ThemeMusic": "Halloween_menu",
+    "LoadingJingle": "sfx/brawloween_load_01.ogg",
+    "LoadingScreen": "sc/loading_brawloween2023.sc"
+  },
+  "Circus": {
+    "Name": "Circus",
+    "FileName": "sc/background_circus.sc",
+    "ExportName": "bgr_circus",
+    "ThemeMusic": "Circus_Menu",
+    "LoadingJingle": "sfx/hindu_circus_loading_01.ogg",
+    "CustomButtonName": "button_cctv"
   }
 }
