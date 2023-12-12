@@ -1,0 +1,30 @@
+{
+  "OfferCoverModes": {
+    "Name": "OfferCoverModes",
+    "UniqueValues": [
+      0,
+      1,
+      2
+    ],
+    "UniqueIds": [
+      "None",
+      "CoverGiftRed",
+      "CoverGiftGold"
+    ],
+    "StringContent": [
+      "cover_gift_red",
+      "cover_gift_gold"
+    ]
+  },
+  "ChainOfferArrowModes": {
+    "Name": "ChainOfferArrowModes",
+    "UniqueValues": [
+      0,
+      1
+    ],
+    "UniqueIds": [
+      "None",
+      "Arrows"
+    ]
+  }
+}

@@ -166,7 +166,7 @@
     "Rarity": "EpicGear",
     "ExtraHerosAvailableTo": "Cactus",
     "LogicType": 10,
-    "ModifierValue": 50,
+    "ModifierValue": 30,
     "ModifierType": "percent",
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_gear_spike",
@@ -277,5 +277,19 @@
     "InfoTID": "TID_GEAR_GADGET_CHARGE_INFO",
     "UpgradeInfoTID": "TID_GEAR_GADGET_CHARGE_UPGRADE_INFO",
     "UpgradeTargetTID": "TID_GEAR_GADGET_CHARGE_UPGRADE_TARGET"
+  },
+  "SuperBulletSpeed": {
+    "Name": "SuperBulletSpeed",
+    "Rarity": "EpicGear",
+    "ExtraHerosAvailableTo": "Undertaker",
+    "LogicType": 18,
+    "ModifierValue": 50,
+    "ModifierType": "percent",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_gear_mortis",
+    "TID": "TID_GEAR_SUPER_BULLET_SPEED_TITLE",
+    "InfoTID": "TID_GEAR_SUPER_BULLET_SPEED_INFO",
+    "UpgradeInfoTID": "TID_GEAR_SUPER_BULLET_SPEED_UPGRADE_INFO",
+    "UpgradeTargetTID": "TID_GEAR_SUPER_BULLET_SPEED_UPGRADE_TARGET"
   }
 }

@@ -425,5 +425,54 @@
     "LocationTheme": "Hub",
     "MeshNames": "rt_head",
     "Character": "Splitter"
+  },
+  "Eyebrows": {
+    "Name": "Eyebrows",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "eyebrows_frame_1;eyebrows_frame_2",
+    "FrameDelay": 600
+  },
+  "Tail": {
+    "Name": "Tail",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "tail_frame_1;tail_frame_2",
+    "FrameDelay": 400
+  },
+  "TailFront1": {
+    "Name": "TailFront1",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "tail_front_frame_1;tail_front_frame_2",
+    "FrameDelay": 400
+  },
+  "TailFront2": {
+    "Name": "TailFront2",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "tail_front2_frame_1;tail_front2_frame_2",
+    "FrameDelay": 400
+  },
+  "Head": {
+    "Name": "Head",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "head_frame_1;head_frame_2",
+    "FrameDelay": 500
+  },
+  "Nose": {
+    "Name": "Nose",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "nose_frame_1;nose_frame_2",
+    "FrameDelay": 500
+  },
+  "Hair": {
+    "Name": "Hair",
+    "Mode": "AnimateSwitchBetween",
+    "LocationTheme": "FightingGame",
+    "MeshNames": "hair_frame_1;hair_frame_2",
+    "FrameDelay": 300
   }
 }

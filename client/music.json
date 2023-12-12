@@ -2,13 +2,13 @@
   "BattleMusic": {
     "Name": "BattleMusic",
     "FileName": [
-      "music/Slugfest_ingame_01.ogg",
-      "music/Slugfest_ingame_03.ogg",
-      "music/Slugfest_ingame_06.ogg",
-      "music/background/Slugfest_ingame_02.ogg",
-      "music/background/Slugfest_ingame_04.ogg",
-      "music/background/Slugfest_ingame_07.ogg",
-      "music/background/Slugfest_ingame_08.ogg"
+      "music/slugfest_ingame_01.ogg",
+      "music/slugfest_ingame_03.ogg",
+      "music/slugfest_ingame_06.ogg",
+      "music/background/slugfest_ingame_02.ogg",
+      "music/background/slugfest_ingame_04.ogg",
+      "music/background/slugfest_ingame_07.ogg",
+      "music/background/slugfest_ingame_08.ogg"
     ],
     "Volume": [
       70,
@@ -75,7 +75,6 @@
   },
   "Footbrawl_menu_muzak": {
     "Name": "Footbrawl_menu_muzak",
-    "Disabled": true,
     "FileName": "music/footbrawl_menu_muzak_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -152,11 +151,10 @@
   },
   "Snow_brawl": {
     "Name": "Snow_brawl",
-    "Disabled": true,
     "FileName": [
-      "music/Snow_brawl_01.ogg",
-      "music/Snow_brawl_02.ogg",
-      "music/Snow_brawl_03.ogg"
+      "music/snow_brawl_01.ogg",
+      "music/snow_brawl_02.ogg",
+      "music/snow_brawl_03.ogg"
     ],
     "Volume": [
       70,
@@ -249,6 +247,7 @@
   },
   "Retropolis_battle": {
     "Name": "Retropolis_battle",
+    "Disabled": true,
     "FileName": "music/retro_brawl_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -256,6 +255,7 @@
   },
   "Retropolis_menu": {
     "Name": "Retropolis_menu",
+    "Disabled": true,
     "FileName": "music/brawl_retro_menu_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -263,6 +263,7 @@
   },
   "Halloween_menu": {
     "Name": "Halloween_menu",
+    "Disabled": true,
     "FileName": "music/brawloween_menu_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -270,6 +271,7 @@
   },
   "Halloween_ingame": {
     "Name": "Halloween_ingame",
+    "Disabled": true,
     "FileName": "music/brawloween_ingame_02.ogg",
     "Volume": 70,
     "Loop": true,
@@ -384,7 +386,7 @@
     "Disabled": true,
     "FileName": "music/background/cny_brawl_menu_01.ogg",
     "BackgroundFile": true,
-    "FallBackMusic": "Circus_Menu",
+    "FallBackMusic": "Snow_brawl",
     "Volume": 60,
     "Loop": true,
     "DurationSec": 178
@@ -407,7 +409,6 @@
   },
   "Xmas_menu": {
     "Name": "Xmas_menu",
-    "Disabled": true,
     "FileName": "music/brawlmass_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -501,7 +502,6 @@
   },
   "Snowtel_Ingame": {
     "Name": "Snowtel_Ingame",
-    "Disabled": true,
     "FileName": "music/snowtel_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -519,7 +519,7 @@
     "Disabled": true,
     "FileName": "music/background/golden_paw_stars_01.ogg",
     "BackgroundFile": true,
-    "FallBackMusic": "Circus_Menu",
+    "FallBackMusic": "Snow_brawl",
     "Volume": 60,
     "Loop": true,
     "DurationSec": 81
@@ -622,7 +622,6 @@
   },
   "Retro_Fight_Menu": {
     "Name": "Retro_Fight_Menu",
-    "Disabled": true,
     "FileName": "music/retro_fighting_menu_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -630,7 +629,6 @@
   },
   "Retro_Fight_Ingame": {
     "Name": "Retro_Fight_Ingame",
-    "Disabled": true,
     "FileName": "music/retro_fight_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -732,7 +730,6 @@
   },
   "Robotfactory_Ingame": {
     "Name": "Robotfactory_Ingame",
-    "Disabled": true,
     "FileName": "music/robot_factory_brawl_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -756,6 +753,7 @@
   },
   "Ghosttrain_Ingame": {
     "Name": "Ghosttrain_Ingame",
+    "Disabled": true,
     "FileName": "music/brawloween_ghost_train_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -875,7 +873,6 @@
   },
   "Highschool_Menu": {
     "Name": "Highschool_Menu",
-    "Disabled": true,
     "FileName": "music/highschool_menu_music_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -891,6 +888,7 @@
   },
   "Wasteland_Ingame": {
     "Name": "Wasteland_Ingame",
+    "Disabled": true,
     "FileName": "music/wasteland_ingame_music_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -898,6 +896,7 @@
   },
   "Circus_Menu": {
     "Name": "Circus_Menu",
+    "Disabled": true,
     "FileName": "music/circus_menu_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -905,6 +904,7 @@
   },
   "Circus_Ingame": {
     "Name": "Circus_Ingame",
+    "Disabled": true,
     "FileName": "music/circus_ingame_01.ogg",
     "Volume": 70,
     "Loop": true,
@@ -912,6 +912,7 @@
   },
   "Hindu_Menu": {
     "Name": "Hindu_Menu",
+    "Disabled": true,
     "FileName": "music/hindu_menu_01.ogg",
     "Volume": 60,
     "Loop": true,
@@ -923,5 +924,19 @@
     "Volume": 70,
     "Loop": true,
     "DurationSec": 61
+  },
+  "Brawly_Toonz_Menu": {
+    "Name": "Brawly_Toonz_Menu",
+    "FileName": "music/brawly_toonz_menu_music.ogg",
+    "Volume": 60,
+    "Loop": true,
+    "DurationSec": 65
+  },
+  "Brawly_Toonz_Ingame": {
+    "Name": "Brawly_Toonz_Ingame",
+    "FileName": "music/brawly_toonz_ingame_01.ogg",
+    "Volume": 70,
+    "Loop": true,
+    "DurationSec": 60
   }
 }

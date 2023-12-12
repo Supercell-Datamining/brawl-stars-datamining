@@ -148,7 +148,7 @@
   },
   "QUEST_REROLL_COUNT": {
     "Name": "QUEST_REROLL_COUNT",
-    "NumberValue": 2
+    "NumberValue": 5
   },
   "QUEST_REROLL_BRAWL_PASS_COUNT": {
     "Name": "QUEST_REROLL_BRAWL_PASS_COUNT",
@@ -177,5 +177,21 @@
   "SEND_KUDOS_LIMIT": {
     "Name": "SEND_KUDOS_LIMIT",
     "NumberValue": 1
+  },
+  "IRONSOURCE_VIDEO_ADS_MINIMUM_OS_VERSION": {
+    "Name": "IRONSOURCE_VIDEO_ADS_MINIMUM_OS_VERSION",
+    "TextValue": "11"
+  },
+  "IRONSOURCE_VIDEO_ADS_MINIMUM_OS_VERSION_ANDROID": {
+    "Name": "IRONSOURCE_VIDEO_ADS_MINIMUM_OS_VERSION_ANDROID",
+    "TextValue": "19"
+  },
+  "VIDEO_AD_AVAILABLE_CHECK_TIME": {
+    "Name": "VIDEO_AD_AVAILABLE_CHECK_TIME",
+    "NumberValue": 750
+  },
+  "WINSTREAK_FLAME_THRESHOLD": {
+    "Name": "WINSTREAK_FLAME_THRESHOLD",
+    "NumberValue": 6
   }
 }

@@ -12,7 +12,8 @@
     "Order": 1,
     "IconExportName": "shop_gem_0",
     "FrameNumber": 0,
-    "RefundGemValue": 30
+    "RefundGemValue": 30,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack1": {
     "Name": "com.supercell.laser.gempack1",
@@ -28,7 +29,8 @@
     "Order": 2,
     "IconExportName": "shop_gem_1",
     "FrameNumber": 1,
-    "RefundGemValue": 80
+    "RefundGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack2": {
     "Name": "com.supercell.laser.gempack2",
@@ -45,7 +47,8 @@
     "IconExportName": "shop_gem_2",
     "FrameNumber": 2,
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
-    "RefundGemValue": 170
+    "RefundGemValue": 170,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack3": {
     "Name": "com.supercell.laser.gempack3",
@@ -61,7 +64,8 @@
     "Order": 4,
     "IconExportName": "shop_gem_3",
     "FrameNumber": 3,
-    "RefundGemValue": 360
+    "RefundGemValue": 360,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack4": {
     "Name": "com.supercell.laser.gempack4",
@@ -77,7 +81,8 @@
     "Order": 5,
     "IconExportName": "shop_gem_4",
     "FrameNumber": 4,
-    "RefundGemValue": 950
+    "RefundGemValue": 950,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack5": {
     "Name": "com.supercell.laser.gempack5",
@@ -94,7 +99,8 @@
     "IconExportName": "shop_gem_5",
     "FrameNumber": 5,
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
-    "RefundGemValue": 2000
+    "RefundGemValue": 2000,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack1": {
     "Name": "com.supercell.laser.starterpack1",
@@ -114,7 +120,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 600,
-    "RefundGemValue": 181
+    "RefundGemValue": 181,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack2": {
     "Name": "com.supercell.laser.starterpack2",
@@ -134,7 +141,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 450,
-    "RefundGemValue": 243
+    "RefundGemValue": 243,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack3": {
     "Name": "com.supercell.laser.starterpack3",
@@ -154,7 +162,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack4": {
     "Name": "com.supercell.laser.starterpack4",
@@ -174,7 +183,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 700,
-    "RefundGemValue": 402
+    "RefundGemValue": 402,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas2018pack": {
     "Name": "com.supercell.laser.xmas2018pack",
@@ -191,7 +201,8 @@
     "ValueFactor": 4,
     "Bg": 3,
     "Decor": 1,
-    "RefundGemValue": 330
+    "RefundGemValue": 330,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpackx": {
     "Name": "com.supercell.laser.starterpackx",
@@ -210,7 +221,8 @@
     "ValueFactor": 4,
     "Bg": 1,
     "Decor": 3,
-    "RefundGemValue": 330
+    "RefundGemValue": 330,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack5": {
     "Name": "com.supercell.laser.starterpack5",
@@ -230,7 +242,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 900,
-    "RefundGemValue": 446
+    "RefundGemValue": 446,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack6": {
     "Name": "com.supercell.laser.starterpack6",
@@ -250,7 +263,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 900,
-    "RefundGemValue": 526
+    "RefundGemValue": 526,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack7": {
     "Name": "com.supercell.laser.starterpack7",
@@ -270,7 +284,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 2000,
-    "RefundGemValue": 625
+    "RefundGemValue": 625,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny2019pack": {
     "Name": "com.supercell.laser.lny2019pack",
@@ -288,7 +303,8 @@
     "Bg": 3,
     "Decor": 2,
     "Coins": 1500,
-    "RefundGemValue": 506
+    "RefundGemValue": 506,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.march2019pack": {
     "Name": "com.supercell.laser.march2019pack",
@@ -306,7 +322,8 @@
     "Bg": 1,
     "Decor": 3,
     "Coins": 1111,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starterpack8": {
     "Name": "com.supercell.laser.starterpack8",
@@ -326,7 +343,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 2000,
-    "RefundGemValue": 705
+    "RefundGemValue": 705,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.goldenweek": {
     "Name": "com.supercell.laser.goldenweek",
@@ -344,7 +362,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 1500,
-    "RefundGemValue": 506
+    "RefundGemValue": 506,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.retropolisgempack": {
     "Name": "com.supercell.laser.retropolisgempack",
@@ -361,7 +380,8 @@
     "ValueFactor": 3,
     "Bg": 4,
     "Decor": 5,
-    "RefundGemValue": 250
+    "RefundGemValue": 250,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.retropoliscoins1": {
     "Name": "com.supercell.laser.retropoliscoins1",
@@ -379,7 +399,8 @@
     "Bg": 3,
     "Decor": 5,
     "Coins": 2100,
-    "RefundGemValue": 247
+    "RefundGemValue": 247,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.retropoliscoins2": {
     "Name": "com.supercell.laser.retropoliscoins2",
@@ -397,7 +418,8 @@
     "Bg": 3,
     "Decor": 5,
     "Coins": 2100,
-    "RefundGemValue": 247
+    "RefundGemValue": 247,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.retropoliscoins3": {
     "Name": "com.supercell.laser.retropoliscoins3",
@@ -415,7 +437,8 @@
     "Bg": 3,
     "Decor": 5,
     "Coins": 2100,
-    "RefundGemValue": 247
+    "RefundGemValue": 247,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle0": {
     "Name": "com.supercell.laser.sprinkle0",
@@ -430,7 +453,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle1": {
     "Name": "com.supercell.laser.sprinkle1",
@@ -445,7 +469,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle2": {
     "Name": "com.supercell.laser.sprinkle2",
@@ -460,7 +485,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle3": {
     "Name": "com.supercell.laser.sprinkle3",
@@ -475,7 +501,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle4": {
     "Name": "com.supercell.laser.sprinkle4",
@@ -490,7 +517,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle5": {
     "Name": "com.supercell.laser.sprinkle5",
@@ -505,7 +533,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle6": {
     "Name": "com.supercell.laser.sprinkle6",
@@ -520,7 +549,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle7": {
     "Name": "com.supercell.laser.sprinkle7",
@@ -535,7 +565,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle8": {
     "Name": "com.supercell.laser.sprinkle8",
@@ -550,7 +581,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sprinkle9": {
     "Name": "com.supercell.laser.sprinkle9",
@@ -565,7 +597,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som1": {
     "Name": "com.supercell.laser.som1",
@@ -583,7 +616,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 1700,
-    "RefundGemValue": 200
+    "RefundGemValue": 200,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som2": {
     "Name": "com.supercell.laser.som2",
@@ -601,7 +635,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 4200,
-    "RefundGemValue": 494
+    "RefundGemValue": 494,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som3": {
     "Name": "com.supercell.laser.som3",
@@ -619,7 +654,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 820
+    "RefundGemValue": 820,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som4": {
     "Name": "com.supercell.laser.som4",
@@ -637,7 +673,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 805
+    "RefundGemValue": 805,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.august1": {
     "Name": "com.supercell.laser.august1",
@@ -655,7 +692,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 605
+    "RefundGemValue": 605,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.august2": {
     "Name": "com.supercell.laser.august2",
@@ -673,7 +711,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 1025
+    "RefundGemValue": 1025,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.flash1": {
     "Name": "com.supercell.laser.flash1",
@@ -692,7 +731,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 100
+    "RefundGemValue": 100,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.flash2": {
     "Name": "com.supercell.laser.flash2",
@@ -710,7 +750,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 8000,
-    "RefundGemValue": 2041
+    "RefundGemValue": 2041,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.moon191": {
     "Name": "com.supercell.laser.moon191",
@@ -728,7 +769,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 495
+    "RefundGemValue": 495,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.moon192": {
     "Name": "com.supercell.laser.moon192",
@@ -747,7 +789,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 1250
+    "RefundGemValue": 1250,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.b2s191": {
     "Name": "com.supercell.laser.b2s191",
@@ -765,7 +808,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1500,
-    "RefundGemValue": 516
+    "RefundGemValue": 516,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.b2s192": {
     "Name": "com.supercell.laser.b2s192",
@@ -783,7 +827,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 3500,
-    "RefundGemValue": 412
+    "RefundGemValue": 412,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.b2s193": {
     "Name": "com.supercell.laser.b2s193",
@@ -802,7 +847,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 45
+    "RefundGemValue": 45,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cw191": {
     "Name": "com.supercell.laser.cw191",
@@ -821,7 +867,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 80
+    "RefundGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cw192": {
     "Name": "com.supercell.laser.cw192",
@@ -839,7 +886,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 2100,
-    "RefundGemValue": 247
+    "RefundGemValue": 247,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cw193": {
     "Name": "com.supercell.laser.cw193",
@@ -857,7 +905,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 500,
-    "RefundGemValue": 249
+    "RefundGemValue": 249,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gstar2019": {
     "Name": "com.supercell.laser.gstar2019",
@@ -875,7 +924,8 @@
     "Bg": 6,
     "Decor": 4,
     "Coins": 12000,
-    "RefundGemValue": 2522
+    "RefundGemValue": 2522,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bow191": {
     "Name": "com.supercell.laser.bow191",
@@ -893,7 +943,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2100,
-    "RefundGemValue": 667
+    "RefundGemValue": 667,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bow192": {
     "Name": "com.supercell.laser.bow192",
@@ -911,7 +962,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 3000,
-    "RefundGemValue": 353
+    "RefundGemValue": 353,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bow193": {
     "Name": "com.supercell.laser.bow193",
@@ -930,7 +982,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 380
+    "RefundGemValue": 380,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.arabic01": {
     "Name": "com.supercell.laser.arabic01",
@@ -948,7 +1001,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 480,
-    "RefundGemValue": 166
+    "RefundGemValue": 166,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.arabic02": {
     "Name": "com.supercell.laser.arabic02",
@@ -966,7 +1020,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 2800,
-    "RefundGemValue": 329
+    "RefundGemValue": 329,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas190": {
     "Name": "com.supercell.laser.xmas190",
@@ -984,7 +1039,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 1200,
-    "RefundGemValue": 501
+    "RefundGemValue": 501,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas191": {
     "Name": "com.supercell.laser.xmas191",
@@ -1002,7 +1058,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 80
+    "RefundGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas192": {
     "Name": "com.supercell.laser.xmas192",
@@ -1020,7 +1077,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 600,
-    "RefundGemValue": 411
+    "RefundGemValue": 411,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas193": {
     "Name": "com.supercell.laser.xmas193",
@@ -1038,7 +1096,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 2700,
-    "RefundGemValue": 828
+    "RefundGemValue": 828,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas194": {
     "Name": "com.supercell.laser.xmas194",
@@ -1056,7 +1115,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 6000,
-    "RefundGemValue": 1636
+    "RefundGemValue": 1636,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cp1119": {
     "Name": "com.supercell.laser.cp1119",
@@ -1074,7 +1134,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 1250,
-    "RefundGemValue": 147
+    "RefundGemValue": 147,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas195": {
     "Name": "com.supercell.laser.xmas195",
@@ -1092,7 +1153,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 160
+    "RefundGemValue": 160,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas196": {
     "Name": "com.supercell.laser.xmas196",
@@ -1110,7 +1172,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 900,
-    "RefundGemValue": 576
+    "RefundGemValue": 576,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas197": {
     "Name": "com.supercell.laser.xmas197",
@@ -1128,7 +1191,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 3500,
-    "RefundGemValue": 1052
+    "RefundGemValue": 1052,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas198": {
     "Name": "com.supercell.laser.xmas198",
@@ -1146,7 +1210,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 8000,
-    "RefundGemValue": 2081
+    "RefundGemValue": 2081,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas199": {
     "Name": "com.supercell.laser.xmas199",
@@ -1164,7 +1229,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas200": {
     "Name": "com.supercell.laser.xmas200",
@@ -1182,7 +1248,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 1700,
-    "RefundGemValue": 670
+    "RefundGemValue": 670,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas201": {
     "Name": "com.supercell.laser.xmas201",
@@ -1200,7 +1267,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 5100,
-    "RefundGemValue": 1240
+    "RefundGemValue": 1240,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.xmas202": {
     "Name": "com.supercell.laser.xmas202",
@@ -1218,7 +1286,8 @@
     "Bg": 7,
     "Decor": 4,
     "Coins": 11500,
-    "RefundGemValue": 2493
+    "RefundGemValue": 2493,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.ny201": {
     "Name": "com.supercell.laser.ny201",
@@ -1236,7 +1305,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 600,
-    "RefundGemValue": 251
+    "RefundGemValue": 251,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cp0120": {
     "Name": "com.supercell.laser.cp0120",
@@ -1254,7 +1324,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 550,
-    "RefundGemValue": 65
+    "RefundGemValue": 65,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.cp0121": {
     "Name": "com.supercell.laser.cp0121",
@@ -1272,7 +1343,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 1400,
-    "RefundGemValue": 165
+    "RefundGemValue": 165,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny201": {
     "Name": "com.supercell.laser.lny201",
@@ -1290,7 +1362,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 800,
-    "RefundGemValue": 254
+    "RefundGemValue": 254,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny202": {
     "Name": "com.supercell.laser.lny202",
@@ -1308,7 +1381,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 201
+    "RefundGemValue": 201,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny203": {
     "Name": "com.supercell.laser.lny203",
@@ -1326,7 +1400,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 900,
-    "RefundGemValue": 336
+    "RefundGemValue": 336,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny204": {
     "Name": "com.supercell.laser.lny204",
@@ -1344,7 +1419,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 1700,
-    "RefundGemValue": 660
+    "RefundGemValue": 660,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny205": {
     "Name": "com.supercell.laser.lny205",
@@ -1362,7 +1438,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 3600,
-    "RefundGemValue": 1324
+    "RefundGemValue": 1324,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny206": {
     "Name": "com.supercell.laser.lny206",
@@ -1380,7 +1457,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 800,
-    "RefundGemValue": 334
+    "RefundGemValue": 334,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny207": {
     "Name": "com.supercell.laser.lny207",
@@ -1398,7 +1476,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 800,
-    "RefundGemValue": 334
+    "RefundGemValue": 334,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny208": {
     "Name": "com.supercell.laser.lny208",
@@ -1416,7 +1495,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 1200,
-    "RefundGemValue": 661
+    "RefundGemValue": 661,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny209": {
     "Name": "com.supercell.laser.lny209",
@@ -1434,7 +1514,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 2100,
-    "RefundGemValue": 997
+    "RefundGemValue": 997,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny2010": {
     "Name": "com.supercell.laser.lny2010",
@@ -1452,7 +1533,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 6000,
-    "RefundGemValue": 2006
+    "RefundGemValue": 2006,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.lny2011": {
     "Name": "com.supercell.laser.lny2011",
@@ -1470,7 +1552,8 @@
     "Bg": 8,
     "Decor": 4,
     "Coins": 300,
-    "RefundGemValue": 165
+    "RefundGemValue": 165,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.tgs201": {
     "Name": "com.supercell.laser.tgs201",
@@ -1488,7 +1571,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 750,
-    "RefundGemValue": 248
+    "RefundGemValue": 248,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.tgs202": {
     "Name": "com.supercell.laser.tgs202",
@@ -1506,7 +1590,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1500,
-    "RefundGemValue": 496
+    "RefundGemValue": 496,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.vd20": {
     "Name": "com.supercell.laser.vd20",
@@ -1524,7 +1609,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 300,
-    "RefundGemValue": 265
+    "RefundGemValue": 265,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.mar20": {
     "Name": "com.supercell.laser.mar20",
@@ -1542,7 +1628,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 200,
-    "RefundGemValue": 494
+    "RefundGemValue": 494,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.brawlpass0": {
     "Name": "com.supercell.laser.brawlpass0",
@@ -1556,7 +1643,8 @@
     "Diamonds": 0,
     "USD": 499,
     "Order": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.brawlpass1": {
     "Name": "com.supercell.laser.brawlpass1",
@@ -1570,7 +1658,8 @@
     "Diamonds": 0,
     "USD": 499,
     "Order": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0320gp": {
     "Name": "com.supercell.laser.0320gp",
@@ -1589,7 +1678,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 415
+    "RefundGemValue": 415,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0320backup": {
     "Name": "com.supercell.laser.0320backup",
@@ -1607,7 +1697,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 270
+    "RefundGemValue": 270,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle099": {
     "Name": "com.supercell.laser.bundle099",
@@ -1620,7 +1711,8 @@
     "Diamonds": 0,
     "USD": 99,
     "Order": 0,
-    "PricePointGemValue": 15
+    "PricePointGemValue": 15,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle199": {
     "Name": "com.supercell.laser.bundle199",
@@ -1633,7 +1725,8 @@
     "Diamonds": 0,
     "USD": 199,
     "Order": 0,
-    "PricePointGemValue": 30
+    "PricePointGemValue": 30,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle299": {
     "Name": "com.supercell.laser.bundle299",
@@ -1646,7 +1739,8 @@
     "Diamonds": 0,
     "USD": 299,
     "Order": 0,
-    "PricePointGemValue": 48
+    "PricePointGemValue": 48,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle399": {
     "Name": "com.supercell.laser.bundle399",
@@ -1659,7 +1753,8 @@
     "Diamonds": 0,
     "USD": 399,
     "Order": 0,
-    "PricePointGemValue": 64
+    "PricePointGemValue": 64,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle499": {
     "Name": "com.supercell.laser.bundle499",
@@ -1672,7 +1767,8 @@
     "Diamonds": 0,
     "USD": 499,
     "Order": 0,
-    "PricePointGemValue": 80
+    "PricePointGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle599": {
     "Name": "com.supercell.laser.bundle599",
@@ -1685,7 +1781,8 @@
     "Diamonds": 0,
     "USD": 599,
     "Order": 0,
-    "PricePointGemValue": 102
+    "PricePointGemValue": 102,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle699": {
     "Name": "com.supercell.laser.bundle699",
@@ -1698,7 +1795,8 @@
     "Diamonds": 0,
     "USD": 699,
     "Order": 0,
-    "PricePointGemValue": 119
+    "PricePointGemValue": 119,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle799": {
     "Name": "com.supercell.laser.bundle799",
@@ -1711,7 +1809,8 @@
     "Diamonds": 0,
     "USD": 799,
     "Order": 0,
-    "PricePointGemValue": 136
+    "PricePointGemValue": 136,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle899": {
     "Name": "com.supercell.laser.bundle899",
@@ -1724,7 +1823,8 @@
     "Diamonds": 0,
     "USD": 899,
     "Order": 0,
-    "PricePointGemValue": 153
+    "PricePointGemValue": 153,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle999": {
     "Name": "com.supercell.laser.bundle999",
@@ -1737,7 +1837,8 @@
     "Diamonds": 0,
     "USD": 999,
     "Order": 0,
-    "PricePointGemValue": 170
+    "PricePointGemValue": 170,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1099": {
     "Name": "com.supercell.laser.bundle1099",
@@ -1750,7 +1851,8 @@
     "Diamonds": 0,
     "USD": 1099,
     "Order": 0,
-    "PricePointGemValue": 198
+    "PricePointGemValue": 198,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1199": {
     "Name": "com.supercell.laser.bundle1199",
@@ -1763,7 +1865,8 @@
     "Diamonds": 0,
     "USD": 1199,
     "Order": 0,
-    "PricePointGemValue": 216
+    "PricePointGemValue": 216,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1299": {
     "Name": "com.supercell.laser.bundle1299",
@@ -1776,7 +1879,8 @@
     "Diamonds": 0,
     "USD": 1299,
     "Order": 0,
-    "PricePointGemValue": 234
+    "PricePointGemValue": 234,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1399": {
     "Name": "com.supercell.laser.bundle1399",
@@ -1789,7 +1893,8 @@
     "Diamonds": 0,
     "USD": 1399,
     "Order": 0,
-    "PricePointGemValue": 252
+    "PricePointGemValue": 252,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1499": {
     "Name": "com.supercell.laser.bundle1499",
@@ -1802,7 +1907,8 @@
     "Diamonds": 0,
     "USD": 1499,
     "Order": 0,
-    "PricePointGemValue": 270
+    "PricePointGemValue": 270,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1599": {
     "Name": "com.supercell.laser.bundle1599",
@@ -1815,7 +1921,8 @@
     "Diamonds": 0,
     "USD": 1599,
     "Order": 0,
-    "PricePointGemValue": 288
+    "PricePointGemValue": 288,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1699": {
     "Name": "com.supercell.laser.bundle1699",
@@ -1828,7 +1935,8 @@
     "Diamonds": 0,
     "USD": 1699,
     "Order": 0,
-    "PricePointGemValue": 306
+    "PricePointGemValue": 306,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1799": {
     "Name": "com.supercell.laser.bundle1799",
@@ -1841,7 +1949,8 @@
     "Diamonds": 0,
     "USD": 1799,
     "Order": 0,
-    "PricePointGemValue": 324
+    "PricePointGemValue": 324,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1899": {
     "Name": "com.supercell.laser.bundle1899",
@@ -1854,7 +1963,8 @@
     "Diamonds": 0,
     "USD": 1899,
     "Order": 0,
-    "PricePointGemValue": 342
+    "PricePointGemValue": 342,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle1999": {
     "Name": "com.supercell.laser.bundle1999",
@@ -1867,7 +1977,8 @@
     "Diamonds": 0,
     "USD": 1999,
     "Order": 0,
-    "PricePointGemValue": 360
+    "PricePointGemValue": 360,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle2999": {
     "Name": "com.supercell.laser.bundle2999",
@@ -1880,7 +1991,8 @@
     "Diamonds": 0,
     "USD": 2999,
     "Order": 0,
-    "PricePointGemValue": 570
+    "PricePointGemValue": 570,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle3999": {
     "Name": "com.supercell.laser.bundle3999",
@@ -1893,7 +2005,8 @@
     "Diamonds": 0,
     "USD": 3999,
     "Order": 0,
-    "PricePointGemValue": 760
+    "PricePointGemValue": 760,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle4999": {
     "Name": "com.supercell.laser.bundle4999",
@@ -1906,7 +2019,8 @@
     "Diamonds": 0,
     "USD": 4999,
     "Order": 0,
-    "PricePointGemValue": 950
+    "PricePointGemValue": 950,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle9999": {
     "Name": "com.supercell.laser.bundle9999",
@@ -1919,7 +2033,8 @@
     "Diamonds": 0,
     "USD": 9999,
     "Order": 0,
-    "PricePointGemValue": 2000
+    "PricePointGemValue": 2000,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.psg1": {
     "Name": "com.supercell.laser.psg1",
@@ -1937,7 +2052,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.psg2": {
     "Name": "com.supercell.laser.psg2",
@@ -1955,7 +2071,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1700,
-    "RefundGemValue": 690
+    "RefundGemValue": 690,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.04200": {
     "Name": "com.supercell.laser.04200",
@@ -1973,7 +2090,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gw200": {
     "Name": "com.supercell.laser.gw200",
@@ -1991,7 +2109,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 402
+    "RefundGemValue": 402,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gw201": {
     "Name": "com.supercell.laser.gw201",
@@ -2009,7 +2128,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2400,
-    "RefundGemValue": 852
+    "RefundGemValue": 852,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gw202": {
     "Name": "com.supercell.laser.gw202",
@@ -2027,7 +2147,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 8200,
-    "RefundGemValue": 2705
+    "RefundGemValue": 2705,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.04201": {
     "Name": "com.supercell.laser.04201",
@@ -2045,7 +2166,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 121
+    "RefundGemValue": 121,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.04202": {
     "Name": "com.supercell.laser.04202",
@@ -2063,7 +2185,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 1100,
-    "RefundGemValue": 129
+    "RefundGemValue": 129,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sc101": {
     "Name": "com.supercell.laser.sc101",
@@ -2081,7 +2204,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1100,
-    "RefundGemValue": 329
+    "RefundGemValue": 329,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.sc102": {
     "Name": "com.supercell.laser.sc102",
@@ -2099,7 +2223,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2400,
-    "RefundGemValue": 682
+    "RefundGemValue": 682,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0620": {
     "Name": "com.supercell.laser.0620",
@@ -2117,7 +2242,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0720": {
     "Name": "com.supercell.laser.0720",
@@ -2135,7 +2261,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0520c": {
     "Name": "com.supercell.laser.0520c",
@@ -2153,7 +2280,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 151
+    "RefundGemValue": 151,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0620c": {
     "Name": "com.supercell.laser.0620c",
@@ -2171,7 +2299,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 250,
-    "RefundGemValue": 234
+    "RefundGemValue": 234,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0620d": {
     "Name": "com.supercell.laser.0620d",
@@ -2189,7 +2318,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 4000,
-    "RefundGemValue": 881
+    "RefundGemValue": 881,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.ms201": {
     "Name": "com.supercell.laser.ms201",
@@ -2207,7 +2337,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 500,
-    "RefundGemValue": 184
+    "RefundGemValue": 184,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.ms202": {
     "Name": "com.supercell.laser.ms202",
@@ -2225,7 +2356,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.ms203": {
     "Name": "com.supercell.laser.ms203",
@@ -2243,7 +2375,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 6000,
-    "RefundGemValue": 1466
+    "RefundGemValue": 1466,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coins0620": {
     "Name": "com.supercell.laser.coins0620",
@@ -2261,7 +2394,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 4000,
-    "RefundGemValue": 471
+    "RefundGemValue": 471,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.0520g": {
     "Name": "com.supercell.laser.0520g",
@@ -2280,7 +2414,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 1200
+    "RefundGemValue": 1200,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack0": {
     "Name": "com.supercell.laser_cn.gempack0",
@@ -2297,7 +2432,8 @@
     "TencentID": "GD2020041015865097539219",
     "IconExportName": "shop_gem_0",
     "FrameNumber": 0,
-    "RefundGemValue": 30
+    "RefundGemValue": 30,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack1": {
     "Name": "com.supercell.laser_cn.gempack1",
@@ -2314,7 +2450,8 @@
     "TencentID": "GD2020041015865097822442",
     "IconExportName": "shop_gem_1",
     "FrameNumber": 1,
-    "RefundGemValue": 80
+    "RefundGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack2": {
     "Name": "com.supercell.laser_cn.gempack2",
@@ -2332,7 +2469,8 @@
     "IconExportName": "shop_gem_2",
     "FrameNumber": 2,
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
-    "RefundGemValue": 170
+    "RefundGemValue": 170,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack3": {
     "Name": "com.supercell.laser_cn.gempack3",
@@ -2349,7 +2487,8 @@
     "TencentID": "GD2020041015865098475583",
     "IconExportName": "shop_gem_3",
     "FrameNumber": 3,
-    "RefundGemValue": 360
+    "RefundGemValue": 360,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack4": {
     "Name": "com.supercell.laser_cn.gempack4",
@@ -2366,7 +2505,8 @@
     "TencentID": "GD2020041015865098866520",
     "IconExportName": "shop_gem_4",
     "FrameNumber": 4,
-    "RefundGemValue": 950
+    "RefundGemValue": 950,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.gempack5": {
     "Name": "com.supercell.laser_cn.gempack5",
@@ -2384,7 +2524,8 @@
     "IconExportName": "shop_gem_5",
     "FrameNumber": 5,
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
-    "RefundGemValue": 2000
+    "RefundGemValue": 2000,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack1": {
     "Name": "com.supercell.laser_cn.starterpack1",
@@ -2406,7 +2547,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 600,
-    "RefundGemValue": 181
+    "RefundGemValue": 181,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack2": {
     "Name": "com.supercell.laser_cn.starterpack2",
@@ -2428,7 +2570,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 450,
-    "RefundGemValue": 243
+    "RefundGemValue": 243,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack3": {
     "Name": "com.supercell.laser_cn.starterpack3",
@@ -2450,7 +2593,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack4": {
     "Name": "com.supercell.laser_cn.starterpack4",
@@ -2472,7 +2616,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 700,
-    "RefundGemValue": 402
+    "RefundGemValue": 402,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack5": {
     "Name": "com.supercell.laser_cn.starterpack5",
@@ -2494,7 +2639,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 900,
-    "RefundGemValue": 446
+    "RefundGemValue": 446,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack6": {
     "Name": "com.supercell.laser_cn.starterpack6",
@@ -2516,7 +2662,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 900,
-    "RefundGemValue": 526
+    "RefundGemValue": 526,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack7": {
     "Name": "com.supercell.laser_cn.starterpack7",
@@ -2538,7 +2685,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 2000,
-    "RefundGemValue": 625
+    "RefundGemValue": 625,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starterpack8": {
     "Name": "com.supercell.laser_cn.starterpack8",
@@ -2560,7 +2708,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 2000,
-    "RefundGemValue": 705
+    "RefundGemValue": 705,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle099": {
     "Name": "com.supercell.laser_cn.bundle099",
@@ -2575,7 +2724,8 @@
     "Order": 0,
     "RMB": 600,
     "TencentID": "GD2020051315893560974566",
-    "PricePointGemValue": 15
+    "PricePointGemValue": 15,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle199": {
     "Name": "com.supercell.laser_cn.bundle199",
@@ -2590,7 +2740,8 @@
     "Order": 0,
     "RMB": 1200,
     "TencentID": "GD2020051315893561777109",
-    "PricePointGemValue": 30
+    "PricePointGemValue": 30,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle299": {
     "Name": "com.supercell.laser_cn.bundle299",
@@ -2605,7 +2756,8 @@
     "Order": 0,
     "RMB": 1800,
     "TencentID": "GD2020051315893562768024",
-    "PricePointGemValue": 48
+    "PricePointGemValue": 48,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle399": {
     "Name": "com.supercell.laser_cn.bundle399",
@@ -2620,7 +2772,8 @@
     "Order": 0,
     "RMB": 2500,
     "TencentID": "GD2020051315893563393233",
-    "PricePointGemValue": 67
+    "PricePointGemValue": 67,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle499": {
     "Name": "com.supercell.laser_cn.bundle499",
@@ -2635,7 +2788,8 @@
     "Order": 0,
     "RMB": 3000,
     "TencentID": "GD2020051315893564519131",
-    "PricePointGemValue": 80
+    "PricePointGemValue": 80,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle599": {
     "Name": "com.supercell.laser_cn.bundle599",
@@ -2650,7 +2804,8 @@
     "Order": 0,
     "RMB": 4000,
     "TencentID": "GD2020051315893565054481",
-    "PricePointGemValue": 100
+    "PricePointGemValue": 100,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle699": {
     "Name": "com.supercell.laser_cn.bundle699",
@@ -2665,7 +2820,8 @@
     "Order": 0,
     "RMB": 4500,
     "TencentID": "GD2020051315893565736928",
-    "PricePointGemValue": 113
+    "PricePointGemValue": 113,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle799": {
     "Name": "com.supercell.laser_cn.bundle799",
@@ -2680,7 +2836,8 @@
     "Order": 0,
     "RMB": 5000,
     "TencentID": "GD2020051315893566861518",
-    "PricePointGemValue": 125
+    "PricePointGemValue": 125,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle899": {
     "Name": "com.supercell.laser_cn.bundle899",
@@ -2695,7 +2852,8 @@
     "Order": 0,
     "RMB": 6000,
     "TencentID": "GD2020051315893567448771",
-    "PricePointGemValue": 150
+    "PricePointGemValue": 150,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle999": {
     "Name": "com.supercell.laser_cn.bundle999",
@@ -2710,7 +2868,8 @@
     "Order": 0,
     "RMB": 6800,
     "TencentID": "GD2020051315893568147279",
-    "PricePointGemValue": 170
+    "PricePointGemValue": 170,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1099": {
     "Name": "com.supercell.laser_cn.bundle1099",
@@ -2725,7 +2884,8 @@
     "Order": 0,
     "RMB": 7300,
     "TencentID": "GD2020051315893568691926",
-    "PricePointGemValue": 205
+    "PricePointGemValue": 205,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1199": {
     "Name": "com.supercell.laser_cn.bundle1199",
@@ -2740,7 +2900,8 @@
     "Order": 0,
     "RMB": 7800,
     "TencentID": "GD2020051315893569305245",
-    "PricePointGemValue": 219
+    "PricePointGemValue": 219,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1299": {
     "Name": "com.supercell.laser_cn.bundle1299",
@@ -2755,7 +2916,8 @@
     "Order": 0,
     "RMB": 8800,
     "TencentID": "GD2020051315893570022200",
-    "PricePointGemValue": 248
+    "PricePointGemValue": 248,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1399": {
     "Name": "com.supercell.laser_cn.bundle1399",
@@ -2770,7 +2932,8 @@
     "Order": 0,
     "RMB": 9300,
     "TencentID": "GD2020051315893570953471",
-    "PricePointGemValue": 262
+    "PricePointGemValue": 262,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1499": {
     "Name": "com.supercell.laser_cn.bundle1499",
@@ -2785,7 +2948,8 @@
     "Order": 0,
     "RMB": 9800,
     "TencentID": "GD2020051315893571525843",
-    "PricePointGemValue": 276
+    "PricePointGemValue": 276,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1599": {
     "Name": "com.supercell.laser_cn.bundle1599",
@@ -2800,7 +2964,8 @@
     "Order": 0,
     "RMB": 10800,
     "TencentID": "GD2020051315893572164344",
-    "PricePointGemValue": 304
+    "PricePointGemValue": 304,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1699": {
     "Name": "com.supercell.laser_cn.bundle1699",
@@ -2815,7 +2980,8 @@
     "Order": 0,
     "RMB": 11300,
     "TencentID": "GD2020051315893573188100",
-    "PricePointGemValue": 318
+    "PricePointGemValue": 318,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1799": {
     "Name": "com.supercell.laser_cn.bundle1799",
@@ -2830,7 +2996,8 @@
     "Order": 0,
     "RMB": 11800,
     "TencentID": "GD2020051315893573675868",
-    "PricePointGemValue": 332
+    "PricePointGemValue": 332,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1899": {
     "Name": "com.supercell.laser_cn.bundle1899",
@@ -2845,7 +3012,8 @@
     "Order": 0,
     "RMB": 12300,
     "TencentID": "GD2020051315893574244963",
-    "PricePointGemValue": 346
+    "PricePointGemValue": 346,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle1999": {
     "Name": "com.supercell.laser_cn.bundle1999",
@@ -2860,7 +3028,8 @@
     "Order": 0,
     "RMB": 12800,
     "TencentID": "GD2020051315893574803116",
-    "PricePointGemValue": 360
+    "PricePointGemValue": 360,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle2999": {
     "Name": "com.supercell.laser_cn.bundle2999",
@@ -2875,7 +3044,8 @@
     "Order": 0,
     "RMB": 19800,
     "TencentID": "GD2020051315893575482563",
-    "PricePointGemValue": 573
+    "PricePointGemValue": 573,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle3999": {
     "Name": "com.supercell.laser_cn.bundle3999",
@@ -2890,7 +3060,8 @@
     "Order": 0,
     "RMB": 25800,
     "TencentID": "GD2020051315893576448461",
-    "PricePointGemValue": 747
+    "PricePointGemValue": 747,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle4999": {
     "Name": "com.supercell.laser_cn.bundle4999",
@@ -2905,7 +3076,8 @@
     "Order": 0,
     "RMB": 32800,
     "TencentID": "GD2020051315893576957327",
-    "PricePointGemValue": 950
+    "PricePointGemValue": 950,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle9999": {
     "Name": "com.supercell.laser_cn.bundle9999",
@@ -2920,7 +3092,8 @@
     "Order": 0,
     "RMB": 64800,
     "TencentID": "GD2020051315893577550063",
-    "PricePointGemValue": 2000
+    "PricePointGemValue": 2000,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.0720": {
     "Name": "com.supercell.laser_cn.0720",
@@ -2940,7 +3113,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.0620c": {
     "Name": "com.supercell.laser_cn.0620c",
@@ -2960,7 +3134,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 250,
-    "RefundGemValue": 234
+    "RefundGemValue": 234,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.0620d": {
     "Name": "com.supercell.laser_cn.0620d",
@@ -2980,7 +3155,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 4000,
-    "RefundGemValue": 881
+    "RefundGemValue": 881,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.ms201": {
     "Name": "com.supercell.laser_cn.ms201",
@@ -3000,7 +3176,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 500,
-    "RefundGemValue": 184
+    "RefundGemValue": 184,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.ms202": {
     "Name": "com.supercell.laser_cn.ms202",
@@ -3020,7 +3197,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.ms203": {
     "Name": "com.supercell.laser_cn.ms203",
@@ -3040,7 +3218,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 6000,
-    "RefundGemValue": 1466
+    "RefundGemValue": 1466,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.coins0620": {
     "Name": "com.supercell.laser_cn.coins0620",
@@ -3060,7 +3239,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 4000,
-    "RefundGemValue": 471
+    "RefundGemValue": 471,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.0520g": {
     "Name": "com.supercell.laser_cn.0520g",
@@ -3081,7 +3261,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 1200
+    "RefundGemValue": 1200,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072001": {
     "Name": "com.supercell.laser.som_072001",
@@ -3099,7 +3280,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072002": {
     "Name": "com.supercell.laser.som_072002",
@@ -3117,7 +3299,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1000,
-    "RefundGemValue": 508
+    "RefundGemValue": 508,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072003": {
     "Name": "com.supercell.laser.som_072003",
@@ -3135,7 +3318,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072004": {
     "Name": "com.supercell.laser.som_072004",
@@ -3153,7 +3337,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 151
+    "RefundGemValue": 151,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072005": {
     "Name": "com.supercell.laser.som_072005",
@@ -3171,7 +3356,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 151
+    "RefundGemValue": 151,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072006": {
     "Name": "com.supercell.laser.som_072006",
@@ -3190,7 +3376,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 600
+    "RefundGemValue": 600,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072007": {
     "Name": "com.supercell.laser.som_072007",
@@ -3209,7 +3396,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 2400
+    "RefundGemValue": 2400,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072008": {
     "Name": "com.supercell.laser.som_072008",
@@ -3227,7 +3415,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 3000,
-    "RefundGemValue": 683
+    "RefundGemValue": 683,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072009": {
     "Name": "com.supercell.laser.som_072009",
@@ -3245,7 +3434,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 565
+    "RefundGemValue": 565,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.som_072010": {
     "Name": "com.supercell.laser.som_072010",
@@ -3263,7 +3453,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 3400,
-    "RefundGemValue": 400
+    "RefundGemValue": 400,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072001": {
     "Name": "com.supercell.laser_cn.som_072001",
@@ -3283,7 +3474,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 322
+    "RefundGemValue": 322,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072002": {
     "Name": "com.supercell.laser_cn.som_072002",
@@ -3303,7 +3495,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1000,
-    "RefundGemValue": 508
+    "RefundGemValue": 508,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072003": {
     "Name": "com.supercell.laser_cn.som_072003",
@@ -3323,7 +3516,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 700,
-    "RefundGemValue": 242
+    "RefundGemValue": 242,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072004": {
     "Name": "com.supercell.laser_cn.som_072004",
@@ -3343,7 +3537,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 151
+    "RefundGemValue": 151,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072005": {
     "Name": "com.supercell.laser_cn.som_072005",
@@ -3363,7 +3558,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 350,
-    "RefundGemValue": 151
+    "RefundGemValue": 151,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072006": {
     "Name": "com.supercell.laser_cn.som_072006",
@@ -3384,7 +3580,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 600
+    "RefundGemValue": 600,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072007": {
     "Name": "com.supercell.laser_cn.som_072007",
@@ -3405,7 +3602,8 @@
     "Bg": 4,
     "Decor": 4,
     "Coins": 0,
-    "RefundGemValue": 2400
+    "RefundGemValue": 2400,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072008": {
     "Name": "com.supercell.laser_cn.som_072008",
@@ -3425,7 +3623,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 3000,
-    "RefundGemValue": 683
+    "RefundGemValue": 683,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072009": {
     "Name": "com.supercell.laser_cn.som_072009",
@@ -3445,7 +3644,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 565
+    "RefundGemValue": 565,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.som_072010": {
     "Name": "com.supercell.laser_cn.som_072010",
@@ -3465,7 +3665,8 @@
     "Bg": 3,
     "Decor": 4,
     "Coins": 3400,
-    "RefundGemValue": 400
+    "RefundGemValue": 400,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09001": {
     "Name": "com.supercell.laser.starr_09001",
@@ -3483,7 +3684,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 725
+    "RefundGemValue": 725,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09002": {
     "Name": "com.supercell.laser.starr_09002",
@@ -3501,7 +3703,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 565
+    "RefundGemValue": 565,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09003": {
     "Name": "com.supercell.laser.starr_09003",
@@ -3519,7 +3722,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1020,
-    "RefundGemValue": 150
+    "RefundGemValue": 150,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09004": {
     "Name": "com.supercell.laser.starr_09004",
@@ -3537,7 +3741,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 340,
-    "RefundGemValue": 150
+    "RefundGemValue": 150,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09005": {
     "Name": "com.supercell.laser.starr_09005",
@@ -3555,7 +3760,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 360,
-    "RefundGemValue": 152
+    "RefundGemValue": 152,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09006": {
     "Name": "com.supercell.laser.starr_09006",
@@ -3573,7 +3779,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 2400,
-    "RefundGemValue": 852
+    "RefundGemValue": 852,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09001": {
     "Name": "com.supercell.laser_cn.starr_09001",
@@ -3593,7 +3800,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 725
+    "RefundGemValue": 725,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09002": {
     "Name": "com.supercell.laser_cn.starr_09002",
@@ -3613,7 +3821,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 2000,
-    "RefundGemValue": 565
+    "RefundGemValue": 565,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09003": {
     "Name": "com.supercell.laser_cn.starr_09003",
@@ -3633,7 +3842,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 1020,
-    "RefundGemValue": 150
+    "RefundGemValue": 150,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09004": {
     "Name": "com.supercell.laser_cn.starr_09004",
@@ -3653,7 +3863,8 @@
     "Bg": 1,
     "Decor": 4,
     "Coins": 340,
-    "RefundGemValue": 150
+    "RefundGemValue": 150,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09005": {
     "Name": "com.supercell.laser_cn.starr_09005",
@@ -3673,7 +3884,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 360,
-    "RefundGemValue": 152
+    "RefundGemValue": 152,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09006": {
     "Name": "com.supercell.laser_cn.starr_09006",
@@ -3693,7 +3905,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 2400,
-    "RefundGemValue": 852
+    "RefundGemValue": 852,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.starr_09007": {
     "Name": "com.supercell.laser_cn.starr_09007",
@@ -3713,7 +3926,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 8800,
-    "RefundGemValue": 1795
+    "RefundGemValue": 1795,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.starr_09007": {
     "Name": "com.supercell.laser.starr_09007",
@@ -3731,7 +3945,8 @@
     "Bg": 12,
     "Decor": 4,
     "Coins": 8800,
-    "RefundGemValue": 1795
+    "RefundGemValue": 1795,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle2499": {
     "Name": "com.supercell.laser.bundle2499",
@@ -3743,7 +3958,8 @@
     "Diamonds": 0,
     "USD": 2499,
     "Order": 0,
-    "PricePointGemValue": 475
+    "PricePointGemValue": 475,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.bundle2799": {
     "Name": "com.supercell.laser.bundle2799",
@@ -3755,7 +3971,8 @@
     "Diamonds": 0,
     "USD": 2799,
     "Order": 0,
-    "PricePointGemValue": 532
+    "PricePointGemValue": 532,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle2499": {
     "Name": "com.supercell.laser_cn.bundle2499",
@@ -3770,7 +3987,8 @@
     "Order": 0,
     "RMB": 16300,
     "TencentID": "GD2021051116207151686700",
-    "PricePointGemValue": 472
+    "PricePointGemValue": 472,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.bundle2799": {
     "Name": "com.supercell.laser_cn.bundle2799",
@@ -3785,7 +4003,8 @@
     "Order": 0,
     "RMB": 18800,
     "TencentID": "GD2021051116207151320041",
-    "PricePointGemValue": 545
+    "PricePointGemValue": 545,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack1": {
     "Name": "com.supercell.laser.newstarterpack1",
@@ -3805,7 +4024,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 100,
-    "RefundGemValue": 112
+    "RefundGemValue": 112,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack2": {
     "Name": "com.supercell.laser.newstarterpack2",
@@ -3825,7 +4045,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 0,
-    "RefundGemValue": 160
+    "RefundGemValue": 160,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack3": {
     "Name": "com.supercell.laser.newstarterpack3",
@@ -3845,7 +4066,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 300,
-    "RefundGemValue": 240
+    "RefundGemValue": 240,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack4": {
     "Name": "com.supercell.laser.newstarterpack4",
@@ -3865,7 +4087,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 400,
-    "RefundGemValue": 447
+    "RefundGemValue": 447,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack5": {
     "Name": "com.supercell.laser.newstarterpack5",
@@ -3885,7 +4108,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 500,
-    "RefundGemValue": 559
+    "RefundGemValue": 559,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack6": {
     "Name": "com.supercell.laser.newstarterpack6",
@@ -3905,7 +4129,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 600,
-    "RefundGemValue": 681
+    "RefundGemValue": 681,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack7": {
     "Name": "com.supercell.laser.newstarterpack7",
@@ -3925,7 +4150,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 1700,
-    "RefundGemValue": 930
+    "RefundGemValue": 930,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.newstarterpack8": {
     "Name": "com.supercell.laser.newstarterpack8",
@@ -3945,7 +4171,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 5000,
-    "RefundGemValue": 1478
+    "RefundGemValue": 1478,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack1": {
     "Name": "com.supercell.laser_cn.newstarterpack1",
@@ -3967,7 +4194,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 100,
-    "RefundGemValue": 112
+    "RefundGemValue": 112,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack2": {
     "Name": "com.supercell.laser_cn.newstarterpack2",
@@ -3989,7 +4217,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 0,
-    "RefundGemValue": 160
+    "RefundGemValue": 160,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack3": {
     "Name": "com.supercell.laser_cn.newstarterpack3",
@@ -4011,7 +4240,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 300,
-    "RefundGemValue": 240
+    "RefundGemValue": 240,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack4": {
     "Name": "com.supercell.laser_cn.newstarterpack4",
@@ -4033,7 +4263,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 400,
-    "RefundGemValue": 447
+    "RefundGemValue": 447,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack5": {
     "Name": "com.supercell.laser_cn.newstarterpack5",
@@ -4055,7 +4286,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 500,
-    "RefundGemValue": 559
+    "RefundGemValue": 559,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack6": {
     "Name": "com.supercell.laser_cn.newstarterpack6",
@@ -4077,7 +4309,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 600,
-    "RefundGemValue": 681
+    "RefundGemValue": 681,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack7": {
     "Name": "com.supercell.laser_cn.newstarterpack7",
@@ -4099,7 +4332,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 1700,
-    "RefundGemValue": 930
+    "RefundGemValue": 930,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.newstarterpack8": {
     "Name": "com.supercell.laser_cn.newstarterpack8",
@@ -4121,7 +4355,8 @@
     "Bg": 1,
     "Decor": 0,
     "Coins": 5000,
-    "RefundGemValue": 1478
+    "RefundGemValue": 1478,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.seasonpass999": {
     "Name": "com.supercell.laser.seasonpass999",
@@ -4132,7 +4367,8 @@
     "Diamonds": 0,
     "USD": 999,
     "Order": 0,
-    "RefundGemValue": 169
+    "RefundGemValue": 169,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser_cn.seasonpass999": {
     "Name": "com.supercell.laser_cn.seasonpass999",
@@ -4147,7 +4383,8 @@
     "USD": 999,
     "Order": 0,
     "RMB": 6800,
-    "RefundGemValue": 169
+    "RefundGemValue": 169,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack0_yt": {
     "Name": "com.supercell.laser.gempack0_yt",
@@ -4162,7 +4399,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack2_yt": {
     "Name": "com.supercell.laser.gempack2_yt",
@@ -4177,7 +4415,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack0": {
     "Name": "com.supercell.laser.scid.gempack0",
@@ -4197,7 +4436,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 30,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack1": {
     "Name": "com.supercell.laser.scid.gempack1",
@@ -4217,7 +4457,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 80,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack2": {
     "Name": "com.supercell.laser.scid.gempack2",
@@ -4238,7 +4479,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 170,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack3": {
     "Name": "com.supercell.laser.scid.gempack3",
@@ -4258,7 +4500,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 360,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack4": {
     "Name": "com.supercell.laser.scid.gempack4",
@@ -4278,7 +4521,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 950,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.gempack5": {
     "Name": "com.supercell.laser.scid.gempack5",
@@ -4299,7 +4543,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2000,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.seasonpass": {
     "Name": "com.supercell.laser.scid.seasonpass",
@@ -4317,7 +4562,8 @@
     "Order": 2,
     "RefundGemValue": 169,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.seasonpassbundle": {
     "Name": "com.supercell.laser.scid.seasonpassbundle",
@@ -4335,7 +4581,8 @@
     "Order": 3,
     "RefundGemValue": 169,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.gempack1_yt": {
     "Name": "com.supercell.laser.gempack1_yt",
@@ -4350,7 +4597,8 @@
     "Order": 9,
     "IsPromotion": true,
     "Coins": 0,
-    "RefundGemValue": 0
+    "RefundGemValue": 0,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid.seasonpassbundle10": {
     "Name": "com.supercell.laser.scid.seasonpassbundle10",
@@ -4369,6 +4617,7 @@
     "RefundGemValue": 469,
     "SCIDStore": true,
     "PremiumPass": true,
+    "PremiumPlusPass": false,
     "BundledTierCount": 10
   },
   "com.supercell.laser.seasonpassbundle5": {
@@ -4387,6 +4636,7 @@
     "Order": 0,
     "RefundGemValue": 319,
     "PremiumPass": true,
+    "PremiumPlusPass": false,
     "BundledTierCount": 5
   },
   "com.supercell.laser.scid10.gempack0": {
@@ -4407,7 +4657,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 33,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid10.gempack1": {
     "Name": "com.supercell.laser.scid10.gempack1",
@@ -4427,7 +4678,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 88,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid10.gempack2": {
     "Name": "com.supercell.laser.scid10.gempack2",
@@ -4448,7 +4700,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 187,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid10.gempack3": {
     "Name": "com.supercell.laser.scid10.gempack3",
@@ -4468,7 +4721,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 396,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid10.gempack4": {
     "Name": "com.supercell.laser.scid10.gempack4",
@@ -4488,7 +4742,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1045,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.scid10.gempack5": {
     "Name": "com.supercell.laser.scid10.gempack5",
@@ -4509,7 +4764,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2200,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer.seasonpassbundle5": {
     "Name": "com.supercell.laser.razer.seasonpassbundle5",
@@ -4527,7 +4783,8 @@
     "Order": 3,
     "RefundGemValue": 319,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack0": {
     "Name": "com.supercell.laser.razer5.gempack0",
@@ -4547,7 +4804,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 32,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack1": {
     "Name": "com.supercell.laser.razer5.gempack1",
@@ -4567,7 +4825,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 84,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack2": {
     "Name": "com.supercell.laser.razer5.gempack2",
@@ -4588,7 +4847,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 179,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack3": {
     "Name": "com.supercell.laser.razer5.gempack3",
@@ -4608,7 +4868,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 378,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack4": {
     "Name": "com.supercell.laser.razer5.gempack4",
@@ -4628,7 +4889,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 998,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer5.gempack5": {
     "Name": "com.supercell.laser.razer5.gempack5",
@@ -4649,7 +4911,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2100,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack0": {
     "Name": "com.supercell.laser.razer10.gempack0",
@@ -4669,7 +4932,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 33,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack1": {
     "Name": "com.supercell.laser.razer10.gempack1",
@@ -4689,7 +4953,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 88,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack2": {
     "Name": "com.supercell.laser.razer10.gempack2",
@@ -4710,7 +4975,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 187,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack3": {
     "Name": "com.supercell.laser.razer10.gempack3",
@@ -4730,7 +4996,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 396,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack4": {
     "Name": "com.supercell.laser.razer10.gempack4",
@@ -4750,7 +5017,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1045,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer10.gempack5": {
     "Name": "com.supercell.laser.razer10.gempack5",
@@ -4771,7 +5039,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2200,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack0": {
     "Name": "com.supercell.laser.razer20.gempack0",
@@ -4791,7 +5060,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 36,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack1": {
     "Name": "com.supercell.laser.razer20.gempack1",
@@ -4811,7 +5081,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 96,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack2": {
     "Name": "com.supercell.laser.razer20.gempack2",
@@ -4832,7 +5103,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 204,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack3": {
     "Name": "com.supercell.laser.razer20.gempack3",
@@ -4852,7 +5124,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 432,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack4": {
     "Name": "com.supercell.laser.razer20.gempack4",
@@ -4872,7 +5145,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1140,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.razer20.gempack5": {
     "Name": "com.supercell.laser.razer20.gempack5",
@@ -4893,7 +5167,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2400,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda.seasonpassbundle5": {
     "Name": "com.supercell.laser.coda.seasonpassbundle5",
@@ -4911,7 +5186,8 @@
     "Order": 3,
     "RefundGemValue": 319,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack0": {
     "Name": "com.supercell.laser.coda5.gempack0",
@@ -4931,7 +5207,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 32,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack1": {
     "Name": "com.supercell.laser.coda5.gempack1",
@@ -4951,7 +5228,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 84,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack2": {
     "Name": "com.supercell.laser.coda5.gempack2",
@@ -4972,7 +5250,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 179,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack3": {
     "Name": "com.supercell.laser.coda5.gempack3",
@@ -4992,7 +5271,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 378,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack4": {
     "Name": "com.supercell.laser.coda5.gempack4",
@@ -5012,7 +5292,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 998,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda5.gempack5": {
     "Name": "com.supercell.laser.coda5.gempack5",
@@ -5033,7 +5314,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2100,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack0": {
     "Name": "com.supercell.laser.coda10.gempack0",
@@ -5053,7 +5335,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 33,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack1": {
     "Name": "com.supercell.laser.coda10.gempack1",
@@ -5073,7 +5356,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 88,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack2": {
     "Name": "com.supercell.laser.coda10.gempack2",
@@ -5094,7 +5378,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 187,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack3": {
     "Name": "com.supercell.laser.coda10.gempack3",
@@ -5114,7 +5399,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 396,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack4": {
     "Name": "com.supercell.laser.coda10.gempack4",
@@ -5134,7 +5420,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1045,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda10.gempack5": {
     "Name": "com.supercell.laser.coda10.gempack5",
@@ -5155,7 +5442,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2200,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack0": {
     "Name": "com.supercell.laser.coda20.gempack0",
@@ -5175,7 +5463,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 36,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack1": {
     "Name": "com.supercell.laser.coda20.gempack1",
@@ -5195,7 +5484,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 96,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack2": {
     "Name": "com.supercell.laser.coda20.gempack2",
@@ -5216,7 +5506,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 204,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack3": {
     "Name": "com.supercell.laser.coda20.gempack3",
@@ -5236,7 +5527,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 432,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack4": {
     "Name": "com.supercell.laser.coda20.gempack4",
@@ -5256,7 +5548,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1140,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coda20.gempack5": {
     "Name": "com.supercell.laser.coda20.gempack5",
@@ -5277,7 +5570,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2400,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas.seasonpassbundle5": {
     "Name": "com.supercell.laser.midas.seasonpassbundle5",
@@ -5295,7 +5589,8 @@
     "Order": 3,
     "RefundGemValue": 319,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack0": {
     "Name": "com.supercell.laser.midas5.gempack0",
@@ -5315,7 +5610,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 32,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack1": {
     "Name": "com.supercell.laser.midas5.gempack1",
@@ -5335,7 +5631,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 84,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack2": {
     "Name": "com.supercell.laser.midas5.gempack2",
@@ -5356,7 +5653,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 179,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack3": {
     "Name": "com.supercell.laser.midas5.gempack3",
@@ -5376,7 +5674,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 378,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack4": {
     "Name": "com.supercell.laser.midas5.gempack4",
@@ -5396,7 +5695,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 998,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas5.gempack5": {
     "Name": "com.supercell.laser.midas5.gempack5",
@@ -5417,7 +5717,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2100,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack0": {
     "Name": "com.supercell.laser.midas10.gempack0",
@@ -5437,7 +5738,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 33,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack1": {
     "Name": "com.supercell.laser.midas10.gempack1",
@@ -5457,7 +5759,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 88,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack2": {
     "Name": "com.supercell.laser.midas10.gempack2",
@@ -5478,7 +5781,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 187,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack3": {
     "Name": "com.supercell.laser.midas10.gempack3",
@@ -5498,7 +5802,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 396,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack4": {
     "Name": "com.supercell.laser.midas10.gempack4",
@@ -5518,7 +5823,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1045,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas10.gempack5": {
     "Name": "com.supercell.laser.midas10.gempack5",
@@ -5539,7 +5845,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2200,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack0": {
     "Name": "com.supercell.laser.midas20.gempack0",
@@ -5559,7 +5866,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 36,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack1": {
     "Name": "com.supercell.laser.midas20.gempack1",
@@ -5579,7 +5887,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 96,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack2": {
     "Name": "com.supercell.laser.midas20.gempack2",
@@ -5600,7 +5909,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 204,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack3": {
     "Name": "com.supercell.laser.midas20.gempack3",
@@ -5620,7 +5930,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 432,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack4": {
     "Name": "com.supercell.laser.midas20.gempack4",
@@ -5640,7 +5951,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1140,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.midas20.gempack5": {
     "Name": "com.supercell.laser.midas20.gempack5",
@@ -5661,7 +5973,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2400,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.coinpack2000_playpoints": {
     "Name": "com.supercell.laser.coinpack2000_playpoints",
@@ -5681,7 +5994,8 @@
     "Coins": 2000,
     "RefundGemValue": 0,
     "SCIDStore": false,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry.seasonpassbundle5": {
     "Name": "com.supercell.laser.carry.seasonpassbundle5",
@@ -5699,7 +6013,8 @@
     "Order": 3,
     "RefundGemValue": 319,
     "SCIDStore": true,
-    "PremiumPass": true
+    "PremiumPass": true,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack0": {
     "Name": "com.supercell.laser.carry5.gempack0",
@@ -5719,7 +6034,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 32,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack1": {
     "Name": "com.supercell.laser.carry5.gempack1",
@@ -5739,7 +6055,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 84,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack2": {
     "Name": "com.supercell.laser.carry5.gempack2",
@@ -5760,7 +6077,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 179,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack3": {
     "Name": "com.supercell.laser.carry5.gempack3",
@@ -5780,7 +6098,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 378,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack4": {
     "Name": "com.supercell.laser.carry5.gempack4",
@@ -5800,7 +6119,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 998,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry5.gempack5": {
     "Name": "com.supercell.laser.carry5.gempack5",
@@ -5821,7 +6141,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2100,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack0": {
     "Name": "com.supercell.laser.carry10.gempack0",
@@ -5841,7 +6162,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 33,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack1": {
     "Name": "com.supercell.laser.carry10.gempack1",
@@ -5861,7 +6183,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 88,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack2": {
     "Name": "com.supercell.laser.carry10.gempack2",
@@ -5882,7 +6205,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 187,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack3": {
     "Name": "com.supercell.laser.carry10.gempack3",
@@ -5902,7 +6226,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 396,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack4": {
     "Name": "com.supercell.laser.carry10.gempack4",
@@ -5922,7 +6247,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1045,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry10.gempack5": {
     "Name": "com.supercell.laser.carry10.gempack5",
@@ -5943,7 +6269,8 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2200,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack0": {
     "Name": "com.supercell.laser.carry20.gempack0",
@@ -5963,7 +6290,8 @@
     "FrameNumber": 0,
     "RefundGemValue": 36,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack1": {
     "Name": "com.supercell.laser.carry20.gempack1",
@@ -5983,7 +6311,8 @@
     "FrameNumber": 1,
     "RefundGemValue": 96,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack2": {
     "Name": "com.supercell.laser.carry20.gempack2",
@@ -6004,7 +6333,8 @@
     "LabelTID": "TID_SHOP_LABEL_POPULAR",
     "RefundGemValue": 204,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack3": {
     "Name": "com.supercell.laser.carry20.gempack3",
@@ -6024,7 +6354,8 @@
     "FrameNumber": 3,
     "RefundGemValue": 432,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack4": {
     "Name": "com.supercell.laser.carry20.gempack4",
@@ -6044,7 +6375,8 @@
     "FrameNumber": 4,
     "RefundGemValue": 1140,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   },
   "com.supercell.laser.carry20.gempack5": {
     "Name": "com.supercell.laser.carry20.gempack5",
@@ -6065,6 +6397,254 @@
     "LabelTID": "TID_SHOP_LABEL_BEST_VALUE",
     "RefundGemValue": 2400,
     "SCIDStore": true,
-    "PremiumPass": false
+    "PremiumPass": false,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.seasonpass.basic": {
+    "Name": "com.supercell.laser.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": false,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.seasonpass.plus": {
+    "Name": "com.supercell.laser.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": false,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.seasonpass.upgrade": {
+    "Name": "com.supercell.laser.seasonpass.upgrade",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 399,
+    "Order": 0,
+    "RefundGemValue": 2200,
+    "SCIDStore": false,
+    "PremiumPass": false,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.razer.seasonpass.basic": {
+    "Name": "com.supercell.laser.razer.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.razer.seasonpass.plus": {
+    "Name": "com.supercell.laser.razer.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.coda.seasonpass.basic": {
+    "Name": "com.supercell.laser.coda.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.coda.seasonpass.plus": {
+    "Name": "com.supercell.laser.coda.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.midas.seasonpass.basic": {
+    "Name": "com.supercell.laser.midas.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.midas.seasonpass.plus": {
+    "Name": "com.supercell.laser.midas.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.carry.seasonpass.basic": {
+    "Name": "com.supercell.laser.carry.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.carry.seasonpass.plus": {
+    "Name": "com.supercell.laser.carry.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
+  },
+  "com.supercell.laser.scid.seasonpass.basic": {
+    "Name": "com.supercell.laser.scid.seasonpass.basic",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 699,
+    "Order": 0,
+    "RefundGemValue": 2800,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": false
+  },
+  "com.supercell.laser.scid.seasonpass.plus": {
+    "Name": "com.supercell.laser.scid.seasonpass.plus",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 7,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 999,
+    "Order": 0,
+    "RefundGemValue": 5000,
+    "SCIDStore": true,
+    "PremiumPass": true,
+    "PremiumPlusPass": true
   }
 }

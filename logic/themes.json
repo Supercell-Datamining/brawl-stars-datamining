@@ -613,6 +613,7 @@
   },
   "Retropolis2023": {
     "Name": "Retropolis2023",
+    "Disabled": true,
     "FileName": "sc/background_retropolis.sc",
     "ExportName": "bgr_retropolis",
     "ThemeMusic": "Retropolis_menu",
@@ -621,6 +622,7 @@
   },
   "WF2023": {
     "Name": "WF2023",
+    "Disabled": true,
     "FileName": "sc/background_wf2023.sc",
     "ExportName": "bgr_wf2023",
     "ThemeMusic": "MenuMusic",
@@ -630,6 +632,7 @@
   },
   "Hindu": {
     "Name": "Hindu",
+    "Disabled": true,
     "FileName": "sc/background_hindu.sc",
     "ExportName": "bgr_hindu",
     "ThemeMusic": "Hindu_Menu",
@@ -639,6 +642,7 @@
   },
   "Halloween2023": {
     "Name": "Halloween2023",
+    "Disabled": true,
     "FileName": "sc/background_brawloween2023.sc",
     "ExportName": "bgr_brawloween",
     "ThemeMusic": "Halloween_menu",
@@ -647,10 +651,55 @@
   },
   "Circus": {
     "Name": "Circus",
+    "Disabled": true,
     "FileName": "sc/background_circus.sc",
     "ExportName": "bgr_circus",
     "ThemeMusic": "Circus_Menu",
     "LoadingJingle": "sfx/hindu_circus_loading_01.ogg",
     "CustomButtonName": "button_cctv"
+  },
+  "Brawlidays2023": {
+    "Name": "Brawlidays2023",
+    "FileName": "sc/background_brawlidays2023.sc",
+    "ExportName": "bgr_brawlidays2023",
+    "ThemeMusic": "Xmas_menu",
+    "LoadingJingle": "sfx/brawl_xmas_load_01.ogg",
+    "CustomButtonName": "button_cctv"
+  },
+  "LNY24": {
+    "Name": "LNY24",
+    "FileName": "sc/background_lny24.sc",
+    "ExportName": "bgr_lny24",
+    "ThemeMusic": "Retro_Fight_Menu",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg",
+    "LoadingScreen": "sc/loading_lny2024.sc"
+  },
+  "Cartoon": {
+    "Name": "Cartoon",
+    "FileName": "sc/background_cartoon.sc",
+    "ExportName": "bgr_cartoon",
+    "ThemeMusic": "Brawly_Toonz_Menu",
+    "LoadingJingle": "sfx/brawly_toonz_loading_01.ogg",
+    "LoadingScreen": "sc/loading_cartoon.sc"
+  },
+  "Superbrawl": {
+    "Name": "Superbrawl",
+    "FileName": "sc/background_superbrawl.sc",
+    "ExportName": "bgr_superbrawl",
+    "ThemeMusic": "Highschool_Menu",
+    "LoadingJingle": "sfx/monster_university_loading_01.ogg",
+    "LoadingScreen": "sc/loading_lny2024.sc"
+  },
+  "Carnaval": {
+    "Name": "Carnaval",
+    "FileName": "sc/background_carnaval.sc",
+    "ExportName": "bgr_carnaval",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_snow_",
+    "ParticleStyle": "Snow",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Footbrawl_menu_muzak",
+    "LoadingJingle": "sfx/brawl_fighting_load_01.ogg",
+    "LoadingScreen": "sc/loading_lny2024.sc"
   }
 }

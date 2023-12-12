@@ -88,5 +88,40 @@
     "Items": "ESPORTS_SPRAYS",
     "ItemPlaceholderNames": "TODO",
     "ItemContextNames": "TODO"
+  },
+  "CHAIN_A": {
+    "Name": "CHAIN_A",
+    "LayoutType": "CHAIN_OFFER",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "chain_offer_shop_panel_group"
+  },
+  "CHAIN_B": {
+    "Name": "CHAIN_B",
+    "LayoutType": "CHAIN_OFFER",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "chain_offer_shop_panel_group"
+  },
+  "CHAIN_C": {
+    "Name": "CHAIN_C",
+    "LayoutType": "CHAIN_OFFER",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "chain_offer_shop_panel_group"
+  },
+  "CHAIN_D": {
+    "Name": "CHAIN_D",
+    "LayoutType": "CHAIN_OFFER",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "chain_offer_shop_panel_group"
+  },
+  "CHAIN_E": {
+    "Name": "CHAIN_E",
+    "LayoutType": "CHAIN_OFFER",
+    "AssetFileName": "sc/ui.sc",
+    "PanelAsset": "panel_offer",
+    "Asset": "chain_offer_shop_panel_group"
   }
 }

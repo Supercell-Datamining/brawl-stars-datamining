@@ -582,5 +582,29 @@
     "RewardTitles": "TitleMasteryCharlie",
     "MasteryIconFile": "sc/ui.sc",
     "MasteryIconExportName": "mastery_brawler_icon_charlotte"
+  },
+  "MasteryLeaper": {
+    "Name": "MasteryLeaper",
+    "RewardEmotes": "emoji_miko_facepalm",
+    "RewardPlayerIcons": "player_icon_miko1",
+    "RewardTitles": "TitleMasteryMiko",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_miko"
+  },
+  "MasteryAttacher": {
+    "Name": "MasteryAttacher",
+    "RewardEmotes": "emoji_kit_facepalm",
+    "RewardPlayerIcons": "player_icon_kit1",
+    "RewardTitles": "TitleMasteryKit",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_kit"
+  },
+  "MasteryTwins": {
+    "Name": "MasteryTwins",
+    "RewardEmotes": "emoji_twin_facepalm",
+    "RewardPlayerIcons": "player_icon_twins1",
+    "RewardTitles": "TitleMasteryTwins",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_twins"
   }
 }

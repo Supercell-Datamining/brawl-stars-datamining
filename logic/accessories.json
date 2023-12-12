@@ -1364,7 +1364,6 @@
     "ActiveTicks": 100000,
     "CustomValue1": 150,
     "CustomValue3": 250,
-    "CustomValue4": 40,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   },
   "Jester_ReRollUlti": {
@@ -1628,5 +1627,74 @@
     "CustomValue1": 50,
     "CustomValue2": 100,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_COCOONED"
+  },
+  "Leaper_Shotgun": {
+    "Name": "Leaper_Shotgun",
+    "Type": "repeat_shot",
+    "SubType": 1,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 5,
+    "AnimationIndex": 1,
+    "SetAttackAngle": true,
+    "AimGuideType": 4,
+    "InterruptsAction": true,
+    "Range": 9,
+    "RequireEnemyInRange": true,
+    "CustomObject": "LeaperShotgunProjectile",
+    "CustomValue1": 5,
+    "CustomValue2": 25,
+    "CustomValue3": 3,
+    "CustomValue4": 40
+  },
+  "Leaper_LongerJump": {
+    "Name": "Leaper_LongerJump",
+    "Type": "next_attack_change",
+    "SubType": 25,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 100000,
+    "CustomValue1": 34,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "Attacher_Cardboardbox": {
+    "Name": "Attacher_Cardboardbox",
+    "Type": "invisible",
+    "SubType": 1,
+    "Cooldown": 100,
+    "UseEffect": "kit_def_gadget",
+    "LoopingEffect": "kit_def_gadget_loop",
+    "ActiveTicks": 100,
+    "AnimationIndex": 1,
+    "CustomValue1": 100,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "Attacher_Cheeseburger": {
+    "Name": "Attacher_Cheeseburger",
+    "Type": "heal_attached_and_self",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "CustomValue1": 40,
+    "MissingTargetText": "TID_ACCESSORY_BLOCKED_NOT_ATTACHED"
+  },
+  "Twins_SwapSkill": {
+    "Name": "Twins_SwapSkill",
+    "Type": "swap_skill_with_pet",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "MissingTargetText": "TID_ACCESSORY_BLOCKED_MISSING_TWIN"
+  },
+  "Twins_Dash": {
+    "Name": "Twins_Dash",
+    "Type": "dash",
+    "SubType": 2,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_max_dash",
+    "ActiveTicks": 8,
+    "CustomValue1": 800,
+    "CustomValue2": 3000,
+    "CustomValue3": 33,
+    "MissingTargetText": "TID_ACCESSORY_BLOCKED_MISSING_TWIN"
   }
 }

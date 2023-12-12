@@ -3,7 +3,7 @@
     "Name": "BRAWLIDAYS",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_1_NOT_AVAILABLE",
     "BgItemName": "bg_campaign_1",
-    "BgOfferPopup": "offer_bgr_brawlidays",
+    "BgOfferPopup": "offer_bgr_xmas23",
     "CampaignIconExportName": "icon_skins_brawlmas",
     "CatalogNameOverrideTID": "TID_CATALOG_NAME_BRAWLIDAYS",
     "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLIDAYS"
@@ -12,7 +12,7 @@
     "Name": "LNY_2019",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2019",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny22",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_lny20",
     "CatalogNameOverrideTID": "TID_CATALOG_NAME_LNY"
   },
@@ -35,7 +35,7 @@
     "Name": "LNY_2020",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2020",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny23",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_lny20",
     "BundledUnderCatalogCategory": "LNY_2019"
   },
@@ -79,7 +79,7 @@
     "Name": "BRAWLPASS",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_11_NOT_AVAILABLE",
     "BgItemName": "bg_campaign_11",
-    "BgOfferPopup": "offer_bgr_rarity_chromatic",
+    "BgOfferPopup": "offer_bgr_blue",
     "CampaignIconExportName": "icon_skins_brawl_pass",
     "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLPASS"
   },
@@ -119,7 +119,7 @@
     "Name": "BRAWLIDAYS_2018",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_BRAWLIDAYS_2018",
     "BgItemName": "bg_campaign_1",
-    "BgOfferPopup": "offer_bgr_brawlidays",
+    "BgOfferPopup": "offer_bgr_xmas23",
     "CampaignIconExportName": "icon_skins_brawlmas",
     "BundledUnderCatalogCategory": "BRAWLIDAYS"
   },
@@ -143,7 +143,7 @@
     "Name": "LNY_2021",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2021",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny23",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_lny20",
     "BundledUnderCatalogCategory": "LNY_2019"
   },
@@ -180,7 +180,7 @@
     "Name": "C1A",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_C1A",
     "BgItemName": "bg_campaign_c1a",
-    "BgOfferPopup": "offer_bgr_lny22",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_mega"
   },
   "RETRO": {
@@ -252,7 +252,7 @@
     "Name": "LNY22",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2022",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny22",
+    "BgOfferPopup": "offer_bgr_lny24",
     "EmoteBundleName": "Lny22",
     "CampaignIconExportName": "icon_skins_lny20",
     "BundledUnderCatalogCategory": "LNY_2019"
@@ -397,7 +397,7 @@
     "Name": "LNY_2023",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL_2023",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny23red",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_lny20",
     "BundledUnderCatalogCategory": "LNY_2019"
   },
@@ -405,7 +405,7 @@
     "Name": "WC_2022",
     "NameTID": "TID_SKIN_INFO_WC_2022",
     "BgItemName": "bg_campaign_15",
-    "BgOfferPopup": "offer_bgr_mf2023",
+    "BgOfferPopup": "offer_bgr_wf2023",
     "CampaignIconExportName": "icon_skins_wf",
     "BundledUnderCatalogCategory": "WF_2020"
   },
@@ -506,7 +506,7 @@
     "Name": "LNY",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LUNAR_BRAWL",
     "BgItemName": "bg_campaign_5",
-    "BgOfferPopup": "offer_bgr_lny23red",
+    "BgOfferPopup": "offer_bgr_lny24",
     "CampaignIconExportName": "icon_skins_lny20"
   },
   "CURSED": {
@@ -571,12 +571,61 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_CIRCUS",
     "BgItemName": "bg_campaign_circus",
     "BgOfferPopup": "offer_bgr_circus",
-    "CampaignIconExportName": "icon_skin_circus",
+    "CampaignIconExportName": "icon_skins_circus",
     "CatalogSortingOrder": -15
   },
   "WF_2023": {
     "Name": "WF_2023",
     "NameTID": "TID_SKIN_INFO_WF_2023",
+    "BgItemName": "bg_campaign_15",
+    "BgOfferPopup": "offer_bgr_wf2023",
+    "CampaignIconExportName": "icon_skins_wf",
+    "BundledUnderCatalogCategory": "WF_2020"
+  },
+  "CARTOON": {
+    "Name": "CARTOON",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_CARTOON",
+    "BgItemName": "bg_campaign_cartoon",
+    "BgOfferPopup": "offer_bgr_cartoon",
+    "CampaignIconExportName": "icon_skins_cartoon"
+  },
+  "CARNAVAL": {
+    "Name": "CARNAVAL",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_CARNAVAL",
+    "BgItemName": "bg_campaign_carnaval",
+    "BgOfferPopup": "offer_bgr_carnaval",
+    "CampaignIconExportName": "icon_skins_carnaval"
+  },
+  "SUPERBOWL": {
+    "Name": "SUPERBOWL",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_SUPERBOWL",
+    "BgItemName": "bg_campaign_superbowl",
+    "BgOfferPopup": "offer_bgr_superbowl",
+    "CampaignIconExportName": "icon_skins_superbowl"
+  },
+  "STARRPARK": {
+    "Name": "STARRPARK",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_STARRPARK",
+    "BgItemName": "bg_campaign_starrpark",
+    "CampaignIconExportName": "icon_skins_starrpark"
+  },
+  "MEAL": {
+    "Name": "MEAL",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_MEAL",
+    "BgItemName": "bg_campaign_meal",
+    "BgOfferPopup": "offer_bgr_meal",
+    "CampaignIconExportName": "icon_skins_meal"
+  },
+  "GIFTSHOP": {
+    "Name": "GIFTSHOP",
+    "NameTID": "TID_SKIN_INFO_CAMPAIGN_GIFTSHOP",
+    "BgItemName": "bg_campaign_giftshop",
+    "BgOfferPopup": "offer_bgr_giftshop",
+    "CampaignIconExportName": "icon_skins_giftshop"
+  },
+  "WC_2023": {
+    "Name": "WC_2023",
+    "NameTID": "TID_SKIN_INFO_WC_2023",
     "BgItemName": "bg_campaign_15",
     "BgOfferPopup": "offer_bgr_wf2023",
     "CampaignIconExportName": "icon_skins_wf",

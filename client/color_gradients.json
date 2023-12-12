@@ -232,5 +232,16 @@
     ],
     "Speed": 50,
     "Scale": 100
+  },
+  "Plus": {
+    "Name": "Plus",
+    "Colors": [
+      "0xFFF9E6FF",
+      "0XFFE2A3FF",
+      "0xFFFFFE98",
+      "0xFFC2F3F2"
+    ],
+    "Speed": 50,
+    "Scale": 100
   }
 }

@@ -2031,7 +2031,6 @@
     "EffectColorG": 39,
     "EffectColorB": 96,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_amazon_frog.png",
     "PriceBling": 1000,
     "PriceGems": 29,
@@ -2088,7 +2087,6 @@
     "EffectColorG": 218,
     "EffectColorB": 0,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_max_jungle.png",
     "PriceBling": 750,
     "PriceGems": 19,
@@ -2105,7 +2103,6 @@
     "EffectColorG": 204,
     "EffectColorB": 0,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_buster_jungle.png",
     "PriceBling": 750,
     "PriceGems": 19,
@@ -2120,7 +2117,6 @@
     "EffectColorG": 219,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_meg_jungle.png",
     "UseShineVFX": true
   },
@@ -2136,7 +2132,6 @@
     "EffectColorG": 213,
     "EffectColorB": 84,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_brock_olympus.png",
     "UseShineVFX": true
   },
@@ -2152,7 +2147,6 @@
     "EffectColorG": 188,
     "EffectColorB": 0,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_nani_olympus.png",
     "UseShineVFX": true
   },
@@ -2168,7 +2162,6 @@
     "EffectColorG": 201,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_tick_olympus.png",
     "UseShineVFX": true
   },
@@ -2183,7 +2176,6 @@
     "EffectColorG": 229,
     "EffectColorB": 194,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_emz_gw.png",
     "PriceBling": 750,
     "PriceGems": 19,
@@ -2200,7 +2192,6 @@
     "EffectColorG": 246,
     "EffectColorB": 0,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_colt_jungle.png",
     "PriceBling": 750,
     "PriceGems": 19,
@@ -2215,7 +2206,6 @@
     "EffectColorG": 252,
     "EffectColorB": 194,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_bling.png",
     "PriceBling": 1000,
     "PriceGems": 29,
@@ -2230,7 +2220,6 @@
     "EffectColorG": 255,
     "EffectColorB": 215,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_gw.png",
     "PriceBling": 1000,
     "PriceGems": 29,
@@ -2256,7 +2245,6 @@
     "EffectColorG": 216,
     "EffectColorB": 73,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_tq.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2270,7 +2258,6 @@
     "EffectColorG": 151,
     "EffectColorB": 133,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_stmn.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2284,7 +2271,6 @@
     "EffectColorG": 52,
     "EffectColorB": 245,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_sk.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2298,7 +2284,6 @@
     "EffectColorG": 254,
     "EffectColorB": 81,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_zeta.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2312,7 +2297,6 @@
     "EffectColorG": 174,
     "EffectColorB": 79,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_totem.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2326,7 +2310,6 @@
     "EffectColorG": 228,
     "EffectColorB": 222,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_qlash.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2340,7 +2323,6 @@
     "EffectColorG": 40,
     "EffectColorB": 53,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_tribe.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2354,7 +2336,6 @@
     "EffectColorG": 237,
     "EffectColorB": 79,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_navi.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2392,7 +2373,6 @@
     "EffectColorG": 48,
     "EffectColorB": 75,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_fut.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2406,7 +2386,6 @@
     "EffectColorG": 185,
     "EffectColorB": 216,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_luminosity.png",
     "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020"
@@ -2422,7 +2401,6 @@
     "EffectColorG": 214,
     "EffectColorB": 179,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_8bit_enchanted.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2438,7 +2416,6 @@
     "EffectColorG": 101,
     "EffectColorB": 129,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_janet_enchanted.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2454,7 +2431,6 @@
     "EffectColorG": 75,
     "EffectColorB": 52,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_chester_enchanted.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2468,7 +2444,6 @@
     "EffectColorG": 215,
     "EffectColorB": 210,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_lou_enchanted.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2485,7 +2460,6 @@
     "EffectColorG": 200,
     "EffectColorB": 19,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_crow_phoenix.png"
   },
   "spray_meg_cursed": {
@@ -2500,7 +2474,6 @@
     "EffectColorG": 50,
     "EffectColorB": 208,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_meg_cursed.png"
   },
   "spray_surge_cursed": {
@@ -2514,7 +2487,6 @@
     "EffectColorG": 122,
     "EffectColorB": 72,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_surge_cursed.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2531,7 +2503,6 @@
     "EffectColorG": 0,
     "EffectColorB": 107,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_bibi_cursed.png"
   },
   "spray_griff_cursed": {
@@ -2545,7 +2516,6 @@
     "EffectColorG": 1,
     "EffectColorB": 68,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_griff_cursed.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2559,10 +2529,10 @@
     "EffectColorG": 74,
     "EffectColorB": 213,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_floaty_donut.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_doug": {
     "Name": "spray_doug",
@@ -2587,10 +2557,10 @@
     "EffectColorG": 154,
     "EffectColorB": 62,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_floaty_hotdog.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_floaty_palmtree": {
     "Name": "spray_floaty_palmtree",
@@ -2601,10 +2571,10 @@
     "EffectColorG": 212,
     "EffectColorB": 81,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_floaty_palmtree.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_floaty_flamingo": {
     "Name": "spray_floaty_flamingo",
@@ -2615,10 +2585,10 @@
     "EffectColorG": 141,
     "EffectColorB": 187,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_floaty_flamingo.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_cordelius": {
     "Name": "spray_cordelius",
@@ -2645,7 +2615,6 @@
     "EffectColorG": 79,
     "EffectColorB": 93,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_cordelius_wasteland.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2662,7 +2631,6 @@
     "EffectColorG": 134,
     "EffectColorB": 178,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_hank_wasteland.png"
   },
   "spray_maisie_wasteland": {
@@ -2674,7 +2642,6 @@
     "EffectColorG": 208,
     "EffectColorB": 52,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_maisie_wasteland.png"
   },
   "spray_willow_wasteland": {
@@ -2686,7 +2653,6 @@
     "EffectColorG": 57,
     "EffectColorB": 234,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_willow_wasteland.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2702,7 +2668,6 @@
     "EffectColorG": 123,
     "EffectColorB": 209,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_mandy_harvest.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2719,7 +2684,6 @@
     "EffectColorG": 255,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_janet_moon.png"
   },
   "spray_rosa_university": {
@@ -2733,7 +2697,6 @@
     "EffectColorG": 127,
     "EffectColorB": 250,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_rosa_university.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2749,7 +2712,6 @@
     "EffectColorG": 106,
     "EffectColorB": 138,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_squeak_university.png",
     "PriceBling": 750,
     "PriceGems": 19
@@ -2766,7 +2728,6 @@
     "EffectColorG": 201,
     "EffectColorB": 118,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_stu_university.png"
   },
   "spray_edgar_mecha": {
@@ -2781,7 +2742,6 @@
     "EffectColorG": 105,
     "EffectColorB": 249,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_edgar_mecha.png"
   },
   "spray_pearl": {
@@ -2821,7 +2781,8 @@
     "EffectColorG": 255,
     "EffectColorB": 137,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_wasteland.png"
+    "Texture": "spray_wasteland.png",
+    "UseShineVFX": true
   },
   "spray_university_equal": {
     "Name": "spray_university_equal",
@@ -2832,8 +2793,10 @@
     "EffectColorG": 255,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
-    "Texture": "spray_university_equal.png"
+    "Texture": "spray_university_equal.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_university_minus": {
     "Name": "spray_university_minus",
@@ -2844,8 +2807,10 @@
     "EffectColorG": 51,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
-    "Texture": "spray_university_minus.png"
+    "Texture": "spray_university_minus.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_university_plus": {
     "Name": "spray_university_plus",
@@ -2856,8 +2821,10 @@
     "EffectColorG": 255,
     "EffectColorB": 0,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
-    "Texture": "spray_university_plus.png"
+    "Texture": "spray_university_plus.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_overcharge_bull": {
     "Name": "spray_overcharge_bull",
@@ -2871,7 +2838,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_bull.png"
+    "Texture": "spray_overcharge_bull.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_colt": {
     "Name": "spray_overcharge_colt",
@@ -2885,7 +2853,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_colt.png"
+    "Texture": "spray_overcharge_colt.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_jacky": {
     "Name": "spray_overcharge_jacky",
@@ -2899,7 +2868,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_jacky.png"
+    "Texture": "spray_overcharge_jacky.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_pearl": {
     "Name": "spray_overcharge_pearl",
@@ -2913,7 +2883,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_pearl.png"
+    "Texture": "spray_overcharge_pearl.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_shelly": {
     "Name": "spray_overcharge_shelly",
@@ -2927,7 +2898,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_shelly.png"
+    "Texture": "spray_overcharge_shelly.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_spike": {
     "Name": "spray_overcharge_spike",
@@ -2941,7 +2913,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_spike.png"
+    "Texture": "spray_overcharge_spike.png",
+    "UseShineVFX": true
   },
   "spray_sad_clown": {
     "Name": "spray_sad_clown",
@@ -2952,7 +2925,8 @@
     "EffectColorG": 255,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_sad_clown.png"
+    "Texture": "spray_sad_clown.png",
+    "UseShineVFX": true
   },
   "spray_lola_circus": {
     "Name": "spray_lola_circus",
@@ -2963,7 +2937,6 @@
     "EffectColorG": 208,
     "EffectColorB": 52,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_lola_circus.png"
   },
   "spray_overcharge_jessie": {
@@ -2978,7 +2951,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_jessie.png"
+    "Texture": "spray_overcharge_jessie.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_rosa": {
     "Name": "spray_overcharge_rosa",
@@ -2992,7 +2966,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_rosa.png"
+    "Texture": "spray_overcharge_rosa.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_colette": {
     "Name": "spray_overcharge_colette",
@@ -3006,7 +2981,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_colette.png"
+    "Texture": "spray_overcharge_colette.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_lou": {
     "Name": "spray_overcharge_lou",
@@ -3020,7 +2996,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_lou.png"
+    "Texture": "spray_overcharge_lou.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_maisie": {
     "Name": "spray_overcharge_maisie",
@@ -3034,7 +3011,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_maisie.png"
+    "Texture": "spray_overcharge_maisie.png",
+    "UseShineVFX": true
   },
   "spray_overcharge_charlie": {
     "Name": "spray_overcharge_charlie",
@@ -3048,7 +3026,8 @@
     "EffectColorG": 80,
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
-    "Texture": "spray_overcharge_charlie.png"
+    "Texture": "spray_overcharge_charlie.png",
+    "UseShineVFX": true
   },
   "spray_charlie": {
     "Name": "spray_charlie",
@@ -3062,7 +3041,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_charlie.png",
     "PriceBling": 750,
-    "PriceGems": 19
+    "PriceGems": 19,
+    "UseShineVFX": true
   },
   "spray_leon_wolf": {
     "Name": "spray_leon_wolf",
@@ -3199,10 +3179,10 @@
     "EffectColorG": 84,
     "EffectColorB": 229,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_saw_robot_01.png",
-    "PriceBling": 750,
-    "PriceGems": 19
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_saw_robot_02": {
     "Name": "spray_saw_robot_02",
@@ -3213,10 +3193,10 @@
     "EffectColorG": 84,
     "EffectColorB": 229,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_saw_robot_02.png",
-    "PriceBling": 750,
-    "PriceGems": 19
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
   },
   "spray_saw_robot_03": {
     "Name": "spray_saw_robot_03",
@@ -3227,9 +3207,319 @@
     "EffectColorG": 84,
     "EffectColorB": 229,
     "FlipSprayForEnemies": true,
-    "LockedForChronos": true,
     "Texture": "spray_saw_robot_03.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
+  },
+  "spray_cartoon_cloud": {
+    "Name": "spray_cartoon_cloud",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_cartoon_cloud",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 255,
+    "EffectColorG": 215,
+    "EffectColorB": 253,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_cartoon_cloud.png",
+    "UseShineVFX": true
+  },
+  "spray_lny_dragon": {
+    "Name": "spray_lny_dragon",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_lny_dragon",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 255,
+    "EffectColorG": 255,
+    "EffectColorB": 0,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_lny_dragon.png",
+    "UseShineVFX": true
+  },
+  "spray_cartoon_starr": {
+    "Name": "spray_cartoon_starr",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_cartoon_starr",
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 241,
+    "EffectColorB": 0,
+    "FlipSprayForEnemies": true,
+    "LockedForChronos": true,
+    "Texture": "spray_cartoon_starr.png"
+  },
+  "spray_overcharge_crow": {
+    "Name": "spray_overcharge_crow",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_crow",
+    "Character": "Crow",
+    "Skin": "CrowDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_crow.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_leon": {
+    "Name": "spray_overcharge_leon",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_leon",
+    "Character": "Ninja",
+    "Skin": "NinjaDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_leon.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_edgar": {
+    "Name": "spray_overcharge_edgar",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_edgar",
+    "Character": "Enrager",
+    "Skin": "EnragerDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_edgar.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_fang": {
+    "Name": "spray_overcharge_fang",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_fang",
+    "Character": "KickerDude",
+    "Skin": "KickerDudeDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_fang.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_dynamike": {
+    "Name": "spray_overcharge_dynamike",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_dynamike",
+    "Character": "TntDude",
+    "Skin": "TntGuyDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_dynamike.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_mico": {
+    "Name": "spray_overcharge_mico",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_mico",
+    "Character": "Leaper",
+    "Skin": "LeaperDefault",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_mico.png",
+    "UseShineVFX": true
+  },
+  "spray_mico": {
+    "Name": "spray_mico",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_mico",
+    "Character": "Leaper",
+    "Rarity": "COMMON",
+    "EffectColorR": 54,
+    "EffectColorG": 123,
+    "EffectColorB": 209,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_mico.png",
     "PriceBling": 750,
     "PriceGems": 19
+  },
+  "spray_kit": {
+    "Name": "spray_kit",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_kit",
+    "Character": "Attacher",
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 255,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_kit.png",
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "spray_twins": {
+    "Name": "spray_twins",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_twins",
+    "Character": "Twins",
+    "Rarity": "COMMON",
+    "EffectColorR": 249,
+    "EffectColorG": 215,
+    "EffectColorB": 79,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_twins.png",
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "spray_wc2023": {
+    "Name": "spray_wc2023",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_wc2023",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 249,
+    "EffectColorG": 215,
+    "EffectColorB": 79,
+    "FlipSprayForEnemies": true,
+    "LockedForChronos": true,
+    "Texture": "spray_wc2023.png",
+    "UseShineVFX": true
+  },
+  "spray_carnaval": {
+    "Name": "spray_carnaval",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_carnaval",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 117,
+    "EffectColorG": 252,
+    "EffectColorB": 230,
+    "FlipSprayForEnemies": true,
+    "LockedForChronos": true,
+    "Texture": "spray_carnaval.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
+  },
+  "spray_xmas_candy": {
+    "Name": "spray_xmas_candy",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_xmas_candy",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 102,
+    "EffectColorG": 221,
+    "EffectColorB": 227,
+    "FlipSprayForEnemies": true,
+    "LockedForChronos": true,
+    "Texture": "spray_xmas_candy.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
+  },
+  "spray_xmas_kiss": {
+    "Name": "spray_xmas_kiss",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_xmas_kiss",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 234,
+    "EffectColorG": 62,
+    "EffectColorB": 75,
+    "FlipSprayForEnemies": true,
+    "LockedForChronos": true,
+    "Texture": "spray_xmas_kiss.png",
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "UseShineVFX": true
+  },
+  "spray_primo_superbowl": {
+    "Name": "spray_primo_superbowl",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_primo_superbowl",
+    "Character": "Luchador",
+    "Skin": "LuchadorSuperbowl",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 239,
+    "EffectColorG": 137,
+    "EffectColorB": 51,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_primo_superbowl.png"
+  },
+  "spray_8bit_virus": {
+    "Name": "spray_8bit_virus",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_8bit_virus",
+    "Character": "Arcade",
+    "Skin": "ArcadeVirusChroma",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 174,
+    "EffectColorG": 35,
+    "EffectColorB": 175,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_8bit_virus.png"
+  },
+  "spray_frank_clash_blue": {
+    "Name": "spray_frank_clash_blue",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_frank_clash_blue",
+    "Character": "HammerDude",
+    "Skin": "HammerDudeClashKingChromaBlue",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 40,
+    "EffectColorG": 89,
+    "EffectColorB": 186,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_frank_clash_blue.png"
+  },
+  "spray_spike_cartoon": {
+    "Name": "spray_spike_cartoon",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_spike_cartoon",
+    "Character": "Cactus",
+    "Skin": "Cactuscartoon",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 124,
+    "EffectColorG": 202,
+    "EffectColorB": 68,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_spike_cartoon.png"
+  },
+  "spray_mico_wukong": {
+    "Name": "spray_mico_wukong",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_mico_wukong",
+    "Character": "Leaper",
+    "Skin": "Leaperwukong",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 252,
+    "EffectColorG": 236,
+    "EffectColorB": 129,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_mico_wukong.png"
+  },
+  "spray_frank_clash_red": {
+    "Name": "spray_frank_clash_red",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_frank_clash_red",
+    "Character": "HammerDude",
+    "Skin": "HammerDudeClashKingChromaRed",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 0,
+    "EffectColorB": 43,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_frank_clash_red.png"
   }
 }

@@ -363,5 +363,30 @@
     "Name": "TitleMasteryCharlie",
     "TitleTID": "TID_TITLE_MASTERY_CHARLIE",
     "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMiko": {
+    "Name": "TitleMasteryMiko",
+    "TitleTID": "TID_TILE_MASTERY_MIKO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryKit": {
+    "Name": "TitleMasteryKit",
+    "TitleTID": "TID_TILE_MASTERY_KIT",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryTwins": {
+    "Name": "TitleMasteryTwins",
+    "TitleTID": "TID_TILE_MASTERY_TWINS",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleBP22": {
+    "Name": "TitleBP22",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON22",
+    "Gradient": "Plus"
+  },
+  "TitleBP23": {
+    "Name": "TitleBP23",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON23",
+    "Gradient": "Plus"
   }
 }

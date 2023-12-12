@@ -4,39 +4,39 @@
     "TicketsInRareDraw": 90,
     "TypeName": "Coins",
     "AmountMin": 50,
-    "AmountMax": 62
+    "AmountMax": 50
   },
   "Coins M": {
     "Name": "Coins M",
     "TicketsInSuperRareDraw": 64,
     "TypeName": "Coins",
     "AmountMin": 100,
-    "AmountMax": 120
+    "AmountMax": 100
   },
   "Coins L": {
     "Name": "Coins L",
-    "TicketsInEpicDraw": 100,
+    "TicketsInEpicDraw": 20,
     "TypeName": "Coins",
     "AmountMin": 200,
-    "AmountMax": 230
+    "AmountMax": 200
   },
   "Coins XL": {
     "Name": "Coins XL",
-    "TicketsInMythicDraw": 30,
+    "TicketsInMythicDraw": 15,
     "TypeName": "Coins",
     "AmountMin": 500,
-    "AmountMax": 610
+    "AmountMax": 500
   },
   "Gadget": {
     "Name": "Gadget",
-    "TicketsInLegendaryDraw": 37,
+    "TicketsInMythicDraw": 25,
     "TypeName": "Gadget",
     "FallbackTypeName": "Coins",
-    "FallbackAmount": 1000
+    "FallbackAmount": 500
   },
   "Star Power": {
     "Name": "Star Power",
-    "TicketsInLegendaryDraw": 22,
+    "TicketsInLegendaryDraw": 25,
     "TypeName": "StarPower",
     "FallbackTypeName": "Coins",
     "FallbackAmount": 1000
@@ -59,59 +59,59 @@
     "Name": "Power Points S",
     "TicketsInRareDraw": 70,
     "TypeName": "PowerPoints",
-    "AmountMin": 20,
-    "AmountMax": 30
+    "AmountMin": 25,
+    "AmountMax": 25
   },
   "Power Points M": {
     "Name": "Power Points M",
     "TicketsInSuperRareDraw": 50,
     "TypeName": "PowerPoints",
     "AmountMin": 50,
-    "AmountMax": 62
+    "AmountMax": 50
   },
   "Power Points L": {
     "Name": "Power Points L",
-    "TicketsInEpicDraw": 55,
+    "TicketsInEpicDraw": 20,
     "TypeName": "PowerPoints",
     "AmountMin": 100,
-    "AmountMax": 120
+    "AmountMax": 100
   },
   "Power Points XL": {
     "Name": "Power Points XL",
     "TicketsInMythicDraw": 30,
     "TypeName": "PowerPoints",
     "AmountMin": 200,
-    "AmountMax": 230
+    "AmountMax": 200
   },
   "Credits S": {
     "Name": "Credits S",
     "TicketsInRareDraw": 5,
     "TypeName": "Credits",
-    "AmountMin": 20,
-    "AmountMax": 28
+    "AmountMin": 10,
+    "AmountMax": 10
   },
   "Credits M": {
     "Name": "Credits M",
-    "TicketsInSuperRareDraw": 4,
+    "TicketsInSuperRareDraw": 5,
     "TypeName": "Credits",
-    "AmountMin": 50,
-    "AmountMax": 60
+    "AmountMin": 30,
+    "AmountMax": 30
   },
   "Credits L": {
     "Name": "Credits L",
     "TypeName": "Credits",
-    "AmountMin": 100,
-    "AmountMax": 140
+    "AmountMin": 75,
+    "AmountMax": 75
   },
   "Credits XL": {
     "Name": "Credits XL",
     "TypeName": "Credits",
-    "AmountMin": 180,
-    "AmountMax": 220
+    "AmountMin": 150,
+    "AmountMax": 150
   },
   "Brawler Rare": {
     "Name": "Brawler Rare",
-    "TicketsInEpicDraw": 7,
+    "TicketsInEpicDraw": 5,
     "TypeName": "Brawler",
     "TypeValue": 1,
     "FallbackTypeName": "Credits",
@@ -119,16 +119,16 @@
   },
   "Brawler Super Rare": {
     "Name": "Brawler Super Rare",
-    "TicketsInEpicDraw": 3,
+    "TicketsInMythicDraw": 15,
     "TypeName": "Brawler",
     "TypeValue": 2,
     "FallbackTypeName": "Credits",
-    "FallbackAmount": 250
+    "FallbackAmount": 200
   },
   "Brawler Epic": {
     "Name": "Brawler Epic",
-    "TicketsInMythicDraw": 7,
-    "TicketsInLegendaryDraw": 9,
+    "TicketsInMythicDraw": 10,
+    "TicketsInLegendaryDraw": 10,
     "TypeName": "Brawler",
     "TypeValue": 3,
     "FallbackTypeName": "Credits",
@@ -136,8 +136,8 @@
   },
   "Brawler Mythic": {
     "Name": "Brawler Mythic",
-    "TicketsInMythicDraw": 2,
-    "TicketsInLegendaryDraw": 3,
+    "TicketsInMythicDraw": 3,
+    "TicketsInLegendaryDraw": 5,
     "TypeName": "Brawler",
     "TypeValue": 4,
     "FallbackTypeName": "Credits",
@@ -149,124 +149,123 @@
     "TypeName": "Brawler",
     "TypeValue": 5,
     "FallbackTypeName": "Credits",
-    "FallbackAmount": 2000
+    "FallbackAmount": 1000
   },
   "Bling S": {
     "Name": "Bling S",
     "TicketsInRareDraw": 5,
     "TypeName": "Bling",
     "AmountMin": 20,
-    "AmountMax": 28
+    "AmountMax": 20
   },
   "Bling M": {
     "Name": "Bling M",
     "TicketsInSuperRareDraw": 5,
     "TypeName": "Bling",
     "AmountMin": 50,
-    "AmountMax": 60
+    "AmountMax": 50
   },
   "Bling L": {
     "Name": "Bling L",
     "TypeName": "Bling",
     "AmountMin": 100,
-    "AmountMax": 140
+    "AmountMax": 100
   },
   "Bling XL": {
     "Name": "Bling XL",
     "TypeName": "Bling",
-    "AmountMin": 180,
-    "AmountMax": 220
+    "AmountMin": 200,
+    "AmountMax": 200
   },
   "Skin 1-29 Gem": {
     "Name": "Skin 1-29 Gem",
-    "TicketsInMythicDraw": 10,
-    "TicketsInLegendaryDraw": 10,
+    "TicketsInEpicDraw": 5,
+    "TicketsInMythicDraw": 25,
     "TypeName": "Skin",
     "TypePriceMin": 1,
     "TypePriceMax": 29,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 200
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 500
   },
   "Skin 30-79 Gem": {
     "Name": "Skin 30-79 Gem",
-    "TicketsInMythicDraw": 2,
-    "TicketsInLegendaryDraw": 6,
+    "TicketsInLegendaryDraw": 33,
     "TypeName": "Skin",
     "TypePriceMin": 30,
     "TypePriceMax": 79,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 250
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 1000
   },
   "Skin 80-149 Gem": {
     "Name": "Skin 80-149 Gem",
-    "TicketsInLegendaryDraw": 4,
+    "TicketsInLegendaryDraw": 2,
     "TypeName": "Skin",
     "TypePriceMin": 80,
     "TypePriceMax": 149,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 300
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 1000
   },
   "Pin 1-9 Gem": {
     "Name": "Pin 1-9 Gem",
-    "TicketsInEpicDraw": 10,
-    "TicketsInMythicDraw": 25,
+    "TicketsInSuperRareDraw": 5,
+    "TicketsInEpicDraw": 15,
     "TypeName": "Pin",
     "TypePriceMin": 1,
     "TypePriceMax": 9,
-    "FallbackTypeName": "Credits",
+    "FallbackTypeName": "Bling",
     "FallbackAmount": 100
   },
   "Pin 10-29 Gem": {
     "Name": "Pin 10-29 Gem",
+    "TicketsInEpicDraw": 5,
     "TicketsInMythicDraw": 10,
     "TypeName": "Pin",
     "TypePriceMin": 10,
     "TypePriceMax": 29,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 150
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
   },
   "Pin 30-39 Gem": {
     "Name": "Pin 30-39 Gem",
-    "TicketsInLegendaryDraw": 12,
+    "TicketsInMythicDraw": 5,
     "TypeName": "Pin",
     "TypePriceMin": 30,
     "TypePriceMax": 999,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 200
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
   },
   "Spray 1-19 Gem": {
     "Name": "Spray 1-19 Gem",
-    "TicketsInEpicDraw": 5,
-    "TicketsInMythicDraw": 5,
+    "TicketsInSuperRareDraw": 2,
+    "TicketsInEpicDraw": 15,
     "TypeName": "Spray",
     "TypePriceMin": 1,
     "TypePriceMax": 19,
-    "FallbackTypeName": "Credits",
+    "FallbackTypeName": "Bling",
     "FallbackAmount": 100
   },
   "Spray 20-29 Gem": {
     "Name": "Spray 20-29 Gem",
-    "TicketsInLegendaryDraw": 5,
+    "TicketsInMythicDraw": 10,
     "TypeName": "Spray",
     "TypePriceMin": 20,
     "TypePriceMax": 999,
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 150
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
   },
   "Profile Pic": {
     "Name": "Profile Pic",
-    "TicketsInEpicDraw": 7,
-    "TicketsInMythicDraw": 14,
+    "TicketsInMythicDraw": 10,
     "TypeName": "ProfilePic",
-    "FallbackTypeName": "Credits",
-    "FallbackAmount": 200
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
   },
   "Token Doubler S": {
     "Name": "Token Doubler S",
     "TicketsInRareDraw": 45,
     "TypeName": "TokenDoubler",
     "AmountMin": 100,
-    "AmountMax": 110,
+    "AmountMax": 100,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
@@ -288,25 +287,25 @@
   },
   "Token Doubler M": {
     "Name": "Token Doubler M",
-    "TicketsInSuperRareDraw": 28,
+    "TicketsInSuperRareDraw": 20,
     "TypeName": "TokenDoubler",
     "AmountMin": 200,
-    "AmountMax": 215,
+    "AmountMax": 200,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
   "Token Doubler L": {
     "Name": "Token Doubler L",
-    "TicketsInEpicDraw": 40,
+    "TicketsInEpicDraw": 10,
     "TypeName": "TokenDoubler",
     "AmountMin": 500,
-    "AmountMax": 610,
+    "AmountMax": 500,
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
   },
   "Overcharge": {
     "Name": "Overcharge",
-    "TicketsInLegendaryDraw": 6,
+    "TicketsInLegendaryDraw": 15,
     "TicketsInOverchargeDraw": 1,
     "TypeName": "Overcharge",
     "FallbackTypeName": "Coins",

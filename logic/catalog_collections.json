@@ -142,5 +142,14 @@
     "CatalogIconExportName": "icon_catalogue_skins_legendary",
     "NameTID": "TID_CATALOG_COLLECTION_SKINS_PREMIUM",
     "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_SKINS_PREMIUM"
+  },
+  "COSMETICS_BANK": {
+    "Name": "COSMETICS_BANK",
+    "SortOrder": 16,
+    "CollectionType": 7,
+    "Rarities": 6,
+    "CatalogIconExportName": "icon_skins_cosmetic_bank",
+    "NameTID": "TID_CATALOG_COLLECTION_COSMETICS_BANK",
+    "CatalogDescriptionTID": "TID_CATALOG_COLLECTION_DESC_COSMETICS_BANK"
   }
 }

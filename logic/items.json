@@ -441,6 +441,17 @@
     "RandomStartFrame": 2,
     "Layer": "Above"
   },
+  "Piper007Bomb": {
+    "Name": "Piper007Bomb",
+    "ParentItemForSkin": "Bomb",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "piper_007_ulti_projectile",
+    "ExportNameEnemy": "piper_007_ulti_projectile_red",
+    "ShadowExportName": "shadow_normal_circle_big",
+    "TriggerAreaEffect": "Piper_007_ulti",
+    "SpawnEffect": "bo_def_ulti2_spawn",
+    "Layer": "Above"
+  },
   "MineHorus": {
     "Name": "MineHorus",
     "ParentItemForSkin": "Mine",
@@ -892,8 +903,8 @@
   "KickerDudeMine": {
     "Name": "KickerDudeMine",
     "FileName": "sc/effects_brawler.sc",
-    "ExportName": "fang_gadget_projectile",
-    "ExportNameEnemy": "fang_gadget_projectile_red",
+    "ExportName": "fang_def_oc_popcorn",
+    "ExportNameEnemy": "fang_def_oc_popcorn_red",
     "ShadowExportName": "shadow_normal_circle",
     "Value": 800,
     "Value2": 2000,
@@ -1004,6 +1015,34 @@
     "FileName": "sc/effects_brawler.sc",
     "ExportName": "otis_003_ulti_mine",
     "ExportNameEnemy": "otis_003_ulti_mine_red",
+    "ShadowExportName": "shadow_normal_circle",
+    "Value2": 1,
+    "TriggerRangeSubTiles": 3,
+    "TriggerAreaEffect": "Otto002MineExplosion",
+    "CanBePickedUp": true,
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
+  "Otis004Hugger": {
+    "Name": "Otis004Hugger",
+    "ParentItemForSkin": "SilencerHugger",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "otis_004_ulti_hugger",
+    "ExportNameEnemy": "otis_004_ulti_hugger_red",
+    "LoopingEffect": "otto_002_ulti_hugger_loop",
+    "Lifetime": 60,
+    "SpawnEffect": "otis_004_ulti_hugger_hit",
+    "ActivateEffect": "sticky_def_atk_hit",
+    "ShowAlways": true,
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
+  "Otis004HuggerMine": {
+    "Name": "Otis004HuggerMine",
+    "ParentItemForSkin": "SilencerHuggerMine",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "otis_004_gadget_mine",
+    "ExportNameEnemy": "otis_004_gadget_mine_red",
     "ShadowExportName": "shadow_normal_circle",
     "Value2": 1,
     "TriggerRangeSubTiles": 3,

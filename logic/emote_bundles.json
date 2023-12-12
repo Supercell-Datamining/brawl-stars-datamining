@@ -230,5 +230,13 @@
     "TID": "TID_EMOTE_BUNDLE_BUSTER_CHAINSAW_PACK",
     "CanBeBought": true,
     "RepresentingHighlightEmote": "emoji_cameron_chainsaw"
+  },
+  "Mandy_lava": {
+    "Name": "Mandy_lava",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_mandy_lava",
+    "TID": "TID_EMOTE_BUNDLE_MANDY_LAVA_PACK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_mandy_lava"
   }
 }

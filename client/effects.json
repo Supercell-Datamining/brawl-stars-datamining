@@ -4622,6 +4622,7 @@
   "amber_def_ingame_fire": {
     "Name": "amber_def_ingame_fire",
     "Loop": true,
+    "MirroringDisabled": true,
     "FollowParent": true,
     "FollowBone": "fire_effect_s",
     "Type": [
@@ -4644,6 +4645,7 @@
   "amber_def_ingame_fire_red": {
     "Name": "amber_def_ingame_fire_red",
     "Loop": true,
+    "MirroringDisabled": true,
     "FollowParent": true,
     "FollowBone": "fire_effect_s",
     "Type": [
@@ -10171,6 +10173,23 @@
       100,
       100
     ]
+  },
+  "arcade_002_kill": {
+    "Name": "arcade_002_kill",
+    "FollowParent": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "arcade_002_kill_ko",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "arcade_002_kill_red"
+  },
+  "arcade_002_kill_red": {
+    "Name": "arcade_002_kill_red",
+    "FollowParent": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "arcade_002_kill_ko_red",
+    "Layer": "Above",
+    "Scale": 100
   },
   "arcade_003_atk": {
     "Name": "arcade_003_atk",
@@ -30449,6 +30468,7 @@
   },
   "colette_005_atk_reached": {
     "Name": "colette_005_atk_reached",
+    "MirroringDisabled": true,
     "Sound": "Colette_Atk_End",
     "Type": [
       "ParticleEmitter",
@@ -30478,6 +30498,7 @@
   },
   "colette_005_atk_reached_red": {
     "Name": "colette_005_atk_reached_red",
+    "MirroringDisabled": true,
     "Type": [
       "ParticleEmitter",
       "ParticleEmitter",
@@ -30734,6 +30755,393 @@
     "FollowParent": true,
     "Type": "ParticleEmitter",
     "ParticleEmitterName": "colette_005_lobby_paper",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "colette_006_atk": {
+    "Name": "colette_006_atk",
+    "FollowParent": true,
+    "Sound": "Colette_Atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_atk",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 120,
+    "EnemyVersion": "colette_006_atk_red",
+    "EffectZ": 400
+  },
+  "colette_006_atk_red": {
+    "Name": "colette_006_atk_red",
+    "FollowParent": true,
+    "Sound": "Colette_Atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_atk_red",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 120,
+    "EffectZ": 400
+  },
+  "colette_006_atk_trail": {
+    "Name": "colette_006_atk_trail",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_atk_trail_smoke",
+      "colette_006_trail_coffeedrop",
+      "colette_006_trail_ground"
+    ],
+    "Layer": [
+      "Object",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      60,
+      100,
+      100
+    ],
+    "EnemyVersion": "colette_006_atk_trail_red",
+    "GroundBasis": [
+      true,
+      true
+    ]
+  },
+  "colette_006_atk_trail_red": {
+    "Name": "colette_006_atk_trail_red",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_atk_trail_smoke_red",
+      "colette_006_trail_coffeedrop",
+      "colette_006_trail_ground"
+    ],
+    "Layer": [
+      "Object",
+      "GroundHigh",
+      "GroundTop"
+    ],
+    "Scale": [
+      60,
+      100,
+      100
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ]
+  },
+  "colette_006_atk_reached": {
+    "Name": "colette_006_atk_reached",
+    "Sound": "Colette_Atk_End",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_reached_ground",
+      "colette_006_reached_smoke",
+      "colette_006_reached_debris",
+      "colette_006_reached"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "Above",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      65,
+      100,
+      100
+    ],
+    "EnemyVersion": "colette_006_atk_reached_red"
+  },
+  "colette_006_atk_reached_red": {
+    "Name": "colette_006_atk_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_reached_ground",
+      "colette_006_reached_smoke_red",
+      "colette_006_reached_debris_red",
+      "colette_006_reached_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "Above",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      65,
+      100,
+      100
+    ]
+  },
+  "colette_006_atkHit": {
+    "Name": "colette_006_atkHit",
+    "Sound": "Colette_Atk_Hit",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_hit",
+    "Layer": "Above",
+    "Scale": 90,
+    "EnemyVersion": "colette_006_atkHit_red"
+  },
+  "colette_006_atkHit_red": {
+    "Name": "colette_006_atkHit_red",
+    "Sound": "Colette_Atk_Hit",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_hit_red",
+    "Layer": "Above",
+    "Scale": 90
+  },
+  "colette_006_ulti": {
+    "Name": "colette_006_ulti",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Colette_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "ground_fragments_continuing",
+      "colette_006_moving_paw_r",
+      "colette_006_moving_paw_l",
+      "colette_006_ulti_trail_base",
+      "colette_006_ulti_trail_top"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "colette_006_ulti_red",
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_ulti_impact"
+  },
+  "colette_006_ulti_red": {
+    "Name": "colette_006_ulti_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Colette_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "ground_fragments_continuing",
+      "colette_006_moving_paw_r",
+      "colette_006_moving_paw_l",
+      "colette_005_ulti_trail_base_red",
+      "colette_005_ulti_trail_top_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_ulti_impact_red"
+  },
+  "colette_006_ulti_cover": {
+    "Name": "colette_006_ulti_cover",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_ulti_glow",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      100
+    ],
+    "EnemyVersion": "colette_006_ulti_cover_red",
+    "EffectZ": 300,
+    "ParticleEmitterName": "colette_006_ulti_trail_paper_01"
+  },
+  "colette_006_ulti_cover_red": {
+    "Name": "colette_006_ulti_cover_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_006_ulti_glow_red",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      100
+    ],
+    "EffectZ": 300,
+    "ParticleEmitterName": "colette_006_ulti_trail_paper_01_red"
+  },
+  "colette_006_ultiHit": {
+    "Name": "colette_006_ultiHit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_ulti_hit_bell",
+      "colette_005_ulti_hit_impect",
+      "colette_006_ulti_paper_02",
+      "colette_006_ulti_hit_paper"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "colette_006_ultiHit_red",
+    "GroundBasis": true
+  },
+  "colette_006_ultiHit_red": {
+    "Name": "colette_006_ultiHit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colette_006_ulti_hit_bell_red",
+      "colette_005_ulti_hit_impect_red",
+      "colette_006_ulti_paper_02_red",
+      "colette_006_ulti_hit_paper_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": true
+  },
+  "colette_006_lobby": {
+    "Name": "colette_006_lobby",
+    "Type": [
+      "Effect",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "Effect": "colette_006_lobby_cat",
+    "Layer": [
+      "Object",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "ParticleEmitterName": [
+      "colette_006_lobby_heart",
+      "colette_006_lobby_heart_impact"
+    ]
+  },
+  "colette_006_lobby_cat": {
+    "Name": "colette_006_lobby_cat",
+    "FollowParent": true,
+    "FollowBone": "paper_s",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "colette_006_lobby_paper",
     "Layer": "Object",
     "Scale": 100
   },
@@ -32330,6 +32738,391 @@
     "Layer": "Object",
     "Scale": 100
   },
+  "colt_008_atk": {
+    "Name": "colt_008_atk",
+    "OwnScreenShake": 100,
+    "Sound": "gunslinger_fire",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "colt_008_atk_gunsmoke",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "colt_008_atk_red"
+  },
+  "colt_008_atk_red": {
+    "Name": "colt_008_atk_red",
+    "OwnScreenShake": 100,
+    "Sound": "gunslinger_fire",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "colt_008_atk_gunsmoke_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "colt_008_atk_trail": {
+    "Name": "colt_008_atk_trail",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "colt_008_ulti_trail_feather",
+    "Layer": "GroundTop",
+    "Scale": 100,
+    "EnemyVersion": "colt_008_atk_trail_red"
+  },
+  "colt_008_atk_trail_red": {
+    "Name": "colt_008_atk_trail_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "colt_008_ulti_trail_feather_red",
+    "Layer": "GroundTop",
+    "Scale": 100
+  },
+  "colt_008_atk_reached": {
+    "Name": "colt_008_atk_reached",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_atk_reached",
+      "colt_008_atk_reached_smoke"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_atk_reached_red"
+  },
+  "colt_008_atk_reached_red": {
+    "Name": "colt_008_atk_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_atk_reached_red",
+      "colt_008_atk_reached_smoke_red"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "colt_008_atk_hit": {
+    "Name": "colt_008_atk_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_atk_hit_ring",
+      "colt_008_atk_hit_main"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_atk_hit_red"
+  },
+  "colt_008_atk_hit_red": {
+    "Name": "colt_008_atk_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_atk_hit_ring_red",
+      "colt_008_atk_hit_main_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "colt_008_atk_hitEnv": {
+    "Name": "colt_008_atk_hitEnv",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_reached_feather",
+      "colt_008_atk_hit_main"
+    ],
+    "Layer": [
+      "Object",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      70
+    ],
+    "EnemyVersion": "colt_008_atk_hitEnv_red"
+  },
+  "colt_008_atk_hitEnv_red": {
+    "Name": "colt_008_atk_hitEnv_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_reached_feather_red",
+      "colt_008_atk_hit_main_red"
+    ],
+    "Layer": [
+      "Object",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      70
+    ]
+  },
+  "colt_008_ulti": {
+    "Name": "colt_008_ulti",
+    "FollowParentAngle": true,
+    "OwnScreenShake": 100,
+    "Sound": "gunslinger_fire",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_gunsmoke",
+      "colt_008_ulti_muzzle"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_ulti_red"
+  },
+  "colt_008_ulti_red": {
+    "Name": "colt_008_ulti_red",
+    "FollowParentAngle": true,
+    "OwnScreenShake": 100,
+    "Sound": "gunslinger_fire",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_gunsmoke_red",
+      "colt_008_ulti_muzzle"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_007_atk_red"
+  },
+  "colt_008_ulti_reached": {
+    "Name": "colt_008_ulti_reached",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_reached",
+      "colt_008_ulti_reached_feather"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_ulti_reached_red"
+  },
+  "colt_008_ulti_reached_red": {
+    "Name": "colt_008_ulti_reached_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_reached_red",
+      "colt_008_ulti_reached_feather_red"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "colt_008_ulti_hit": {
+    "Name": "colt_008_ulti_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_hit_triangle",
+      "colt_008_ulti_hit_main"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_ulti_hit_red"
+  },
+  "colt_008_ulti_hit_red": {
+    "Name": "colt_008_ulti_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_ulti_hit_triangle_red",
+      "colt_008_ulti_hit_main_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "colt_008_moving": {
+    "Name": "colt_008_moving",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "FollowParentAngle": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_moving_footprint_r",
+      "colt_008_moving_footprint_l"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "colt_008_moving_red"
+  },
+  "colt_008_moving_red": {
+    "Name": "colt_008_moving_red",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "FollowParentAngle": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_moving_footprint_r_red",
+      "colt_008_moving_footprint_l_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "colt_008_lobby": {
+    "Name": "colt_008_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "colt_008_lobby_potal",
+      "colt_008_lobby_potal_loop",
+      "colt_008_lobby_potal_dust_loop",
+      "colt_008_lobby_wing_B",
+      "colt_008_lobby_wing_F",
+      "colt_008_lobby_potal_glow",
+      "colt_008_lobby_potal_dust"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
   "crow_attack": {
     "Name": "crow_attack",
     "Sound": "Crow_throw",
@@ -32437,6 +33230,133 @@
     ],
     "Scale": [
       120,
+      100
+    ]
+  },
+  "crow_def_oc_hit": {
+    "Name": "crow_def_oc_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_hit_1",
+      "crow_def_oc_hit_2"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      120,
+      120
+    ],
+    "EnemyVersion": "crow_def_oc_hit_red"
+  },
+  "crow_def_oc_hit_red": {
+    "Name": "crow_def_oc_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_hit_1_red",
+      "crow_def_oc_hit_2_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      120,
+      100
+    ]
+  },
+  "crow_def_oc_trail": {
+    "Name": "crow_def_oc_trail",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_trail_skull",
+      "crow_def_oc_trail_tail"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "crow_def_oc_trail_red"
+  },
+  "crow_def_oc_trail_red": {
+    "Name": "crow_def_oc_trail_red",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_trail_skull_red",
+      "crow_def_oc_trail_tail_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "crow_def_oc_reachaed": {
+    "Name": "crow_def_oc_reachaed",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_elecDagger_reachedSpark",
+      "ground_fragments_small"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "crow_def_oc_reachaed_red"
+  },
+  "crow_def_oc_reachaed_red": {
+    "Name": "crow_def_oc_reachaed_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "crow_def_oc_elecDagger_reachedSpark_red",
+      "ground_fragments_small"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
       100
     ]
   },
@@ -36833,6 +37753,125 @@
       250
     ]
   },
+  "dynamike_overcharge_ulti_explosion": {
+    "Name": "dynamike_overcharge_ulti_explosion",
+    "OwnScreenShake": 450,
+    "OthersScreenShake": 150,
+    "OwnHapticLevel": 3,
+    "Sound": "Sound_TNT_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "dynamike_def_oc_ulti_cloud",
+      "dynamike_def_oc_explode_ground",
+      "dynamike_def_oc_circle",
+      "dynamike_def_oc_lightning_ring_03",
+      "dynamike_def_oc_lightning_ring_02"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      110,
+      100,
+      100,
+      200,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "dynamike_overcharge_ulti_explosion_red",
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "dynamike_def_oc_atk_ground_huge",
+      "dynamike_def_oc_explode_huge"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "EffectZ": [
+      250,
+      250
+    ]
+  },
+  "dynamike_overcharge_ulti_explosion_red": {
+    "Name": "dynamike_overcharge_ulti_explosion_red",
+    "OwnScreenShake": 450,
+    "OthersScreenShake": 150,
+    "OwnHapticLevel": 3,
+    "Sound": "Sound_TNT_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "dynamike_def_oc_ulti_cloud_red",
+      "dynamike_def_oc_explode_ground_red",
+      "dynamike_def_oc_circle_red",
+      "dynamike_def_oc_lightning_ring_03_red",
+      "dynamike_def_oc_lightning_ring_02_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      110,
+      100,
+      100,
+      200,
+      100,
+      100,
+      100
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "dynamike_def_oc_atk_ground_huge_red",
+      "dynamike_def_oc_explode_huge_red"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "EffectZ": [
+      250,
+      250
+    ]
+  },
   "dynamike_007_atk_trail": {
     "Name": "dynamike_007_atk_trail",
     "FollowParent": [
@@ -36975,6 +38014,103 @@
     "FileName": "sc/effects_brawler.sc",
     "ExportName": "dynamike_attack_red",
     "GroundBasis": true
+  },
+  "dynamike_overcharge_explosion": {
+    "Name": "dynamike_overcharge_explosion",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "OwnHapticLevel": 1,
+    "Sound": "Sound_Gen_small_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "dynamike_def_oc_cloud_explode",
+      "dynamike_def_oc_explode_ground",
+      "ground_fragments_lot_100",
+      "dynamike_explode_blue",
+      "fire_spark_purple_short",
+      "dynamike_def_oc_lightning_ring_01"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      60,
+      100
+    ],
+    "EnemyVersion": "dynamike_overcharge_explosion_red",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "dynamike_def_oc_atk_ground_huge",
+    "GroundBasis": [
+      true,
+      true
+    ]
+  },
+  "dynamike_overcharge_explosion_red": {
+    "Name": "dynamike_overcharge_explosion_red",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "OwnHapticLevel": 1,
+    "Sound": "Sound_Gen_small_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "dynamike_def_oc_cloud_explode_red",
+      "dynamike_def_oc_explode_ground_red",
+      "ground_fragments_lot_100",
+      "dynamike_explode_red",
+      "fire_spark_purple_short",
+      "dynamike_def_oc_lightning_ring_01_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      60,
+      100
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "dynamike_def_oc_atk_ground_huge_red",
+    "GroundBasis": [
+      true,
+      true
+    ]
   },
   "dynamike_007_ulti_trail": {
     "Name": "dynamike_007_ulti_trail",
@@ -42658,6 +43794,732 @@
       100,
       100
     ]
+  },
+  "frank_006_atk": {
+    "Name": "frank_006_atk",
+    "OwnScreenShake": 200,
+    "Sound": "Hammer_hit",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "frank_def_atk_smoke",
+      "frank_def_atk_base"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundTop",
+      "Object"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "frank_006_atk_red",
+    "ParticleEmitterName": "frank_006_atk_smoke"
+  },
+  "frank_006_atk_red": {
+    "Name": "frank_006_atk_red",
+    "OwnScreenShake": 200,
+    "Sound": "Hammer_hit",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "frank_def_atk_smoke",
+      "frank_def_atk_base_red"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundTop",
+      "Object"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "ParticleEmitterName": "frank_006_atk_smoke_red"
+  },
+  "frank_006_atk_trail": {
+    "Name": "frank_006_atk_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_atk_ground_impact_03",
+      "frank_006_atk_explode_03",
+      "frank_006_atk_shell_03",
+      "frank_006_atk_impact_03",
+      "frank_006_atk_ground_impact_02",
+      "frank_006_atk_explode_02",
+      "frank_006_atk_shell_02",
+      "frank_006_atk_impact_02",
+      "frank_006_atk_ground_impact_01",
+      "frank_006_atk_explode_01",
+      "frank_006_atk_shell_01",
+      "frank_006_atk_impact_01",
+      "frank_006_atk_trail_particle",
+      "frank_006_atk_trail_stone"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "Object",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "frank_006_atk_trail_red"
+  },
+  "frank_006_atk_trail_red": {
+    "Name": "frank_006_atk_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_atk_ground_impact_03_red",
+      "frank_006_atk_explode_03_red",
+      "frank_006_atk_shell_03_red",
+      "frank_006_atk_impact_03_red",
+      "frank_006_atk_ground_impact_02_red",
+      "frank_006_atk_explode_02_red",
+      "frank_006_atk_shell_02_red",
+      "frank_006_atk_impact_02_red",
+      "frank_006_atk_ground_impact_01_red",
+      "frank_006_atk_explode_01_red",
+      "frank_006_atk_shell_01_red",
+      "frank_006_atk_impact_01_red",
+      "frank_006_atk_trail_particle",
+      "frank_006_atk_trail_stone"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "Object",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "frank_006_atk_hit": {
+    "Name": "frank_006_atk_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_atk_hit_cloud",
+      "frank_006_atk_hit_impact"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "frank_006_atk_hit_red"
+  },
+  "frank_006_atk_hit_red": {
+    "Name": "frank_006_atk_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_atk_hit_cloud_red",
+      "frank_006_atk_hit_impact_red"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "frank_006_ulti": {
+    "Name": "frank_006_ulti",
+    "OwnScreenShake": 200,
+    "Sound": "Hammer_hit",
+    "Type": [
+      "SWF",
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "frank_def_ulti_smoke",
+      "frank_def_ulti_base",
+      "pam_003_atk_hit_ground"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundTop",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Object"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "frank_006_ulti_red",
+    "FollowParentAngle": true,
+    "ParticleEmitterName": [
+      "ground_fragments_lot_80",
+      "frank_006_atk_smoke",
+      "frank_006_ulti_particle_stone"
+    ]
+  },
+  "frank_006_ulti_red": {
+    "Name": "frank_006_ulti_red",
+    "OwnScreenShake": 200,
+    "Sound": "Hammer_hit",
+    "Type": [
+      "SWF",
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "frank_def_ulti_smoke_red",
+      "frank_def_ulti_base_red",
+      "pam_003_atk_hit_ground"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundTop",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Object"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "FollowParentAngle": true,
+    "ParticleEmitterName": [
+      "ground_fragments_lot_80",
+      "frank_006_atk_smoke_red",
+      "frank_006_ulti_particle_stone"
+    ]
+  },
+  "frank_006_ulti_trail": {
+    "Name": "frank_006_ulti_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_ulti_ground_impact_03",
+      "frank_006_ulti_explode_03",
+      "frank_006_ulti_crack_03",
+      "frank_006_ulti_castle_03",
+      "frank_006_ulti_trail_stone_03",
+      "frank_006_ulti_broken_03",
+      "frank_006_ulti_impact_03",
+      "frank_006_ulti_ground_impact_02",
+      "frank_006_ulti_explode_02",
+      "frank_006_ulti_crack_02",
+      "frank_006_ulti_castle_02",
+      "frank_006_ulti_trail_stone_02",
+      "frank_006_ulti_broken_02",
+      "frank_006_ulti_impact_02",
+      "frank_006_ulti_ground_impact_01",
+      "frank_006_ulti_explode_01",
+      "frank_006_ulti_crack_01",
+      "frank_006_ulti_castle_01",
+      "frank_006_ulti_trail_stone_01",
+      "frank_006_ulti_broken_01",
+      "frank_006_ulti_impact_01",
+      "frank_006_ulti_trail_crack"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Object",
+      "GroundTop",
+      "Object",
+      "Object",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Object",
+      "GroundTop",
+      "Object",
+      "Object",
+      "Above",
+      "Above",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "frank_006_ulti_trail_red"
+  },
+  "frank_006_ulti_trail_red": {
+    "Name": "frank_006_ulti_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_ulti_ground_impact_03_red",
+      "frank_006_ulti_explode_03_red",
+      "frank_006_ulti_crack_03",
+      "frank_006_ulti_castle_03_red",
+      "frank_006_ulti_trail_stone_03",
+      "frank_006_ulti_broken_03_red",
+      "frank_006_ulti_impact_03_red",
+      "frank_006_ulti_ground_impact_02_red",
+      "frank_006_ulti_explode_02_red",
+      "frank_006_ulti_crack_02",
+      "frank_006_ulti_castle_02_red",
+      "frank_006_ulti_trail_stone_02",
+      "frank_006_ulti_broken_02_red",
+      "frank_006_ulti_impact_02_red",
+      "frank_006_ulti_ground_impact_01_red",
+      "frank_006_ulti_explode_01_red",
+      "frank_006_ulti_crack_01",
+      "frank_006_ulti_castle_01_red",
+      "frank_006_ulti_trail_stone_01",
+      "frank_006_ulti_broken_01_red",
+      "frank_006_ulti_impact_01_red",
+      "frank_006_ulti_trail_crack"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above",
+      "Object",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Object",
+      "GroundTop",
+      "Object",
+      "Object",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Object",
+      "GroundTop",
+      "Object",
+      "Object",
+      "Above",
+      "Above",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "frank_006_kill": {
+    "Name": "frank_006_kill",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "frank_006_kill_flag",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "frank_006_kill_red"
+  },
+  "frank_006_kill_red": {
+    "Name": "frank_006_kill_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "frank_006_kill_flag_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "frank_006_lobby": {
+    "Name": "frank_006_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_lobby_pole_loop_R",
+      "frank_006_lobby_pole_R",
+      "frank_006_lobby_pole_impact_R",
+      "frank_006_lobby_flag_loop_R",
+      "frank_006_lobby_flag_R",
+      "frank_006_lobby_pole_loop_L",
+      "frank_006_lobby_pole_L",
+      "frank_006_lobby_pole_impact_L",
+      "frank_006_lobby_flag_loop_L",
+      "frank_006_lobby_flag_L",
+      "frank_006_lobby_confetti_01",
+      "frank_006_lobby_confetti_02"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundHigh",
+      "GroundHigh",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "Loop": true
+  },
+  "frank_006_lobby_red": {
+    "Name": "frank_006_lobby_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_lobby_pole_loop_R",
+      "frank_006_lobby_pole_R",
+      "frank_006_lobby_pole_impact_R_red",
+      "frank_006_lobby_flag_loop_R_red",
+      "frank_006_lobby_flag_R_red",
+      "frank_006_lobby_pole_loop_L",
+      "frank_006_lobby_pole_L",
+      "frank_006_lobby_pole_impact_L_red",
+      "frank_006_lobby_flag_loop_L_red",
+      "frank_006_lobby_flag_L_red",
+      "frank_006_lobby_confetti_01",
+      "frank_006_lobby_confetti_02"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow",
+      "GroundTop",
+      "GroundHigh",
+      "GroundHigh",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "Loop": true
+  },
+  "frank_006_lobby_noflag": {
+    "Name": "frank_006_lobby_noflag",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "frank_006_lobby_confetti_01",
+      "frank_006_lobby_confetti_02"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "gen_no_hit": {
+    "Name": "gen_no_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "gen_no_hit",
+    "Layer": "Above",
+    "Scale": 100
   },
   "gale_def_atk": {
     "Name": "gale_def_atk",
@@ -53505,6 +55367,7 @@
   },
   "leon_007_ulti_use": {
     "Name": "leon_007_ulti_use",
+    "MirroringDisabled": true,
     "Sound": "Leon_ulti",
     "Type": [
       "SWF",
@@ -53535,6 +55398,7 @@
   },
   "leon_007_ulti_use_red": {
     "Name": "leon_007_ulti_use_red",
+    "MirroringDisabled": true,
     "Sound": "Leon_ulti",
     "Type": [
       "SWF",
@@ -73095,6 +74959,393 @@
       100
     ]
   },
+  "piper_007_atk": {
+    "Name": "piper_007_atk",
+    "OwnScreenShake": 250,
+    "Sound": "Sniper_atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "piper_def_atk_gunsmoke",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "piper_007_atk_red"
+  },
+  "piper_007_atk_trail": {
+    "Name": "piper_007_atk_trail",
+    "Sound": [
+      "Sniper_trail",
+      "Sniper_trail"
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_trail_feather",
+      "piper_007_atk_trail_power_feather"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": [
+      "piper_007_atk_trail_red",
+      "piper_007_atk_trail_red"
+    ]
+  },
+  "piper_007_hit": {
+    "Name": "piper_007_hit",
+    "Loop": true,
+    "MirroringDisabled": true,
+    "OwnScreenShake": 100,
+    "OthersScreenShake": 50,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_hit",
+      "piper_007_atk_hit_feather"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      100
+    ],
+    "EnemyVersion": "piper_007_hit_red"
+  },
+  "piper_007_atk_reached": {
+    "Name": "piper_007_atk_reached",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_hit_reached",
+      "piper_007_atk_hit_feather"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      80,
+      70
+    ],
+    "EnemyVersion": "piper_007_atk_reached_red"
+  },
+  "piper_007_ulti": {
+    "Name": "piper_007_ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_002_ulti_use",
+      "piper_002_ulti_use_smoke",
+      "ground_fragments_some"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "piper_007_ulti_red"
+  },
+  "piper_007_ulti_trail": {
+    "Name": "piper_007_ulti_trail",
+    "Loop": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_ulti_trail_petal_blue",
+      "piper_007_ulti_trail_petal_yellow",
+      "piper_007_ulti_trail_feather"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "piper_007_ulti_trail_red"
+  },
+  "piper_007_ulti2_explosion": {
+    "Name": "piper_007_ulti2_explosion",
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Sound": "Sound_Gen_small_explosion",
+    "Type": [
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "dynamike_attack_blue",
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "GroundLow",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      135,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "piper_007_ulti2_explosion_red",
+    "ParticleEmitterName": [
+      "cloudExplode_ground_blue",
+      "cloudExplode_blue",
+      "piper_007_ulti_petal_blue",
+      "piper_007_ulti_petal_yellow",
+      "piper_007_ulti_petal_red_00",
+      "ground_fragments_lot_100",
+      "piper_007_ulti_notes_blue",
+      "piper_007_ulti_notes_green",
+      "piper_007_ulti_notes_yellow"
+    ]
+  },
+  "piper_007_atk_red": {
+    "Name": "piper_007_atk_red",
+    "OwnScreenShake": 250,
+    "Sound": "Sniper_atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "piper_007_atk_gunsmoke_red",
+    "Layer": "Above",
+    "Scale": 100,
+    "EffectZ": 650
+  },
+  "piper_007_atk_trail_red": {
+    "Name": "piper_007_atk_trail_red",
+    "Sound": "Sniper_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_trail_feather_red",
+      "piper_007_atk_trail_power_feather_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "piper_007_hit_red": {
+    "Name": "piper_007_hit_red",
+    "Loop": true,
+    "MirroringDisabled": true,
+    "OwnScreenShake": 100,
+    "OthersScreenShake": 50,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_hit_red",
+      "piper_007_atk_hit_feather_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      100
+    ]
+  },
+  "piper_007_atk_reached_red": {
+    "Name": "piper_007_atk_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_atk_hit_reached_red",
+      "piper_007_atk_hit_feather_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      80,
+      70
+    ]
+  },
+  "piper_007_ulti_red": {
+    "Name": "piper_007_ulti_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_002_ulti_use_red",
+      "piper_002_ulti_use_smoke",
+      "ground_fragments_some"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "piper_007_ulti_trail_red": {
+    "Name": "piper_007_ulti_trail_red",
+    "Loop": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_ulti_trail_petal_red",
+      "piper_007_ulti_trail_petal_purple",
+      "piper_007_ulti_trail_feather_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "piper_007_ulti2_explosion_red": {
+    "Name": "piper_007_ulti2_explosion_red",
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Sound": "Sound_Gen_small_explosion",
+    "Type": [
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "dynamike_attack_red",
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "GroundLow",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      135,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "ParticleEmitterName": [
+      "cloudExplode_ground_red",
+      "cloudExplode_red",
+      "piper_007_ulti_petal_red",
+      "piper_007_ulti_petal_yellow",
+      "piper_007_ulti_petal_purple",
+      "ground_fragments_lot_100",
+      "piper_007_ulti_notes_red",
+      "piper_007_ulti_notes_purple",
+      "piper_007_ulti_notes_yellow"
+    ]
+  },
+  "piper_007_lobby": {
+    "Name": "piper_007_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "piper_007_lobby_confetti_temp",
+      "piper_007_lobby_firecracker"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
   "poco_def_atk_direct": {
     "Name": "poco_def_atk_direct",
     "FollowParent": true,
@@ -74219,6 +76470,275 @@
     "ParticleEmitterName": "poco_006_ulti_reached_red",
     "Layer": "Above",
     "Scale": 100
+  },
+  "poco_007_atk_root": {
+    "Name": "poco_007_atk_root",
+    "FollowParent": true,
+    "Sound": "Poco_atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_007_atk_root_blue",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_atk_root_red",
+    "EffectZ": 200
+  },
+  "poco_007_atk_root_red": {
+    "Name": "poco_007_atk_root_red",
+    "FollowParent": true,
+    "Sound": "Poco_atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_007_atk_root_red",
+    "Layer": "Above",
+    "Scale": 100,
+    "EffectZ": 200
+  },
+  "poco_007_atk": {
+    "Name": "poco_007_atk",
+    "FollowParent": true,
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_def_atk_direct_blue",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_atk_red",
+    "EffectZ": 250
+  },
+  "poco_007_atk_red": {
+    "Name": "poco_007_atk_red",
+    "FollowParent": true,
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_def_atk_direct_red",
+    "Layer": "Above",
+    "Scale": 100,
+    "EffectZ": 250
+  },
+  "poco_007_atk_trail": {
+    "Name": "poco_007_atk_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_trail_note",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_atk_trail_red"
+  },
+  "poco_007_atk_trail_red": {
+    "Name": "poco_007_atk_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_trail_note_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "poco_007_atk_hit": {
+    "Name": "poco_007_atk_hit",
+    "Loop": true,
+    "FollowParent": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_hit",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_atk_hit_red"
+  },
+  "poco_007_atk_hit_red": {
+    "Name": "poco_007_atk_hit_red",
+    "Loop": true,
+    "FollowParent": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_hit_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "poco_007_atk_reached": {
+    "Name": "poco_007_atk_reached",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_reached",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_atk_reached_red"
+  },
+  "poco_007_atk_reached_red": {
+    "Name": "poco_007_atk_reached_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "poco_007_atk_reached_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "poco_007_ulti_root": {
+    "Name": "poco_007_ulti_root",
+    "FollowParent": true,
+    "Sound": "Poco_ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_007_atk_root_blue",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "poco_007_ulti_root_red",
+    "EffectZ": 200
+  },
+  "poco_007_ulti_root_red": {
+    "Name": "poco_007_ulti_root_red",
+    "FollowParent": true,
+    "Sound": "Poco_ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "poco_007_atk_root_red",
+    "Layer": "Above",
+    "Scale": 100,
+    "EffectZ": 200
+  },
+  "poco_007_ulti_trail": {
+    "Name": "poco_007_ulti_trail",
+    "Loop": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "poco_007_ulti_cloud_01",
+      "poco_007_ulti_cloud_02",
+      "poco_007_ulti_trail_twinkle_yellow",
+      "poco_007_ulti_trail_twinkle_green",
+      "poco_007_ulti_patches"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "poco_007_ulti_trail_red",
+    "GroundBasis": true
+  },
+  "poco_007_ulti_trail_red": {
+    "Name": "poco_007_ulti_trail_red",
+    "Loop": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "poco_007_ulti_cloud_red_01",
+      "poco_007_ulti_cloud_red_02",
+      "poco_007_ulti_trail_twinkle_yellow",
+      "poco_007_ulti_trail_twinkle_purple",
+      "poco_007_ulti_patches_red"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": true
+  },
+  "poco_007_ultiEnd": {
+    "Name": "poco_007_ultiEnd",
+    "Loop": true,
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "poco_007_ulti_reached_cloud_01",
+      "poco_007_ulti_reached_cloud_02",
+      "poco_007_ulti_reached"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "poco_007_ultiEnd_red"
+  },
+  "poco_007_ultiEnd_red": {
+    "Name": "poco_007_ultiEnd_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "poco_007_ulti_reached_cloud_red_01",
+      "poco_007_ulti_reached_cloud_red_02",
+      "poco_007_ulti_reached_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "poco_007_lobby": {
+    "Name": "poco_007_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "poco_007_lobby_win_note",
+      "poco_007_lobby_jump_smoke",
+      "poco_007_lobby_smoke",
+      "poco_007_lobby_win_notes_sheet"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ]
   },
   "primo_def_atk": {
     "Name": "primo_def_atk",
@@ -76423,6 +78943,373 @@
     "Layer": "Above",
     "Scale": 100
   },
+  "primo_010_atk": {
+    "Name": "primo_010_atk",
+    "FollowParent": true,
+    "FollowBone": "head_s",
+    "Sound": "Lucha_punch",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_atk_grass_particle",
+      "primo_010_atk_smoke",
+      "primo_010_atk_dustDots",
+      "primo_010_atk_grass_particle_fin"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "primo_010_atk_red"
+  },
+  "primo_010_atk_red": {
+    "Name": "primo_010_atk_red",
+    "FollowParent": true,
+    "FollowBone": "head_s",
+    "Sound": "Lucha_punch",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_atk_grass_particle_red",
+      "primo_010_atk_smoke",
+      "primo_010_atk_dustDots",
+      "primo_010_atk_grass_particle_fin_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "primo_010_atk_hit": {
+    "Name": "primo_010_atk_hit",
+    "Sound": "Punch_impact",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "primo_def_atk_hit_impact_red",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "primo_def_atk_hit_red"
+  },
+  "primo_010_move_breath": {
+    "Name": "primo_010_move_breath",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "primo_010_move_breath",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "primo_010_idle_breath": {
+    "Name": "primo_010_idle_breath",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "primo_010_idle_breath",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "primo_010_ulti": {
+    "Name": "primo_010_ulti",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Lucha_ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_ulti_grass_yard_shadow",
+      "primo_010_ulti_grass_yard_back",
+      "primo_010_ulti_grass_idle",
+      "primo_010_ulti_grass_walk",
+      "primo_010_ulti_grass_trail",
+      "primo_010_ulti_grass_particle",
+      "primo_010_ulti_yard_line_30",
+      "primo_010_ulti_yard_line_20",
+      "primo_010_ulti_yard_line_10"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow",
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow",
+      "Above",
+      "GroundLow",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "primo_010_ulti_red"
+  },
+  "primo_010_ulti_red": {
+    "Name": "primo_010_ulti_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Lucha_ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_ulti_grass_yard_shadow_red",
+      "primo_010_ulti_grass_yard_back_red",
+      "primo_010_ulti_grass_idle_red",
+      "primo_010_ulti_grass_walk_red",
+      "primo_010_ulti_grass_trail_red",
+      "primo_010_ulti_grass_particle_red",
+      "primo_010_ulti_yard_line_30",
+      "primo_010_ulti_yard_line_20",
+      "primo_010_ulti_yard_line_10"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow",
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow",
+      "Above",
+      "GroundLow",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "primo_010_ulti_ground_hit": {
+    "Name": "primo_010_ulti_ground_hit",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 200,
+    "Sound": "Sound_Gen_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_ulti_end_touchdown_grass_back",
+      "primo_010_ulti_end_touchdown_grass_front",
+      "primo_010_ulti_end_grass_idle",
+      "primo_010_ulti_end_touchdown_grass_text",
+      "primo_010_ulti_confetti",
+      "primo_010_ulti_smoke",
+      "primo_009_ulti_dust",
+      "primo_010_ulti_ball",
+      "primo_010_ulti_end_grass_particle"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "primo_010_ulti_ground_hit_red"
+  },
+  "primo_010_ulti_ground_hit_red": {
+    "Name": "primo_010_ulti_ground_hit_red",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 200,
+    "Sound": "Sound_Gen_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_ulti_end_touchdown_grass_back_red",
+      "primo_010_ulti_end_touchdown_grass_front_red",
+      "primo_010_ulti_end_grass_idle_red",
+      "primo_010_ulti_end_touchdown_grass_text_red",
+      "primo_010_ulti_confetti_red",
+      "primo_010_ulti_smoke_red",
+      "primo_009_ulti_dust",
+      "primo_010_ulti_ball",
+      "primo_010_ulti_end_grass_particle_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "primo_010_lobby": {
+    "Name": "primo_010_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_010_lobby_grass",
+      "primo_010_lobby_grass_extrude",
+      "primo_010_lobby_walk_dust",
+      "primo_010_lobby_breath",
+      "primo_010_lobby_grass_impact",
+      "primo_010_lobby_dust_particle_1",
+      "primo_010_lobby_fin_dust_particle_l",
+      "primo_010_lobby_fin_dust_particle_r",
+      "primo_010_lobby_fin_smoke"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
   "rico_ulti_trail_twinkles": {
     "Name": "rico_ulti_trail_twinkles",
     "Type": "ParticleEmitter",
@@ -77819,6 +80706,268 @@
     "ParticleEmitterName": "rico_006_ulti_trail_red",
     "Layer": "Above",
     "Scale": 100
+  },
+  "rico_007_atk": {
+    "Name": "rico_007_atk",
+    "FollowParent": true,
+    "OwnScreenShake": 100,
+    "Sound": "Trickshot_fire",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk",
+    "Layer": "GroundLow",
+    "Scale": 100,
+    "EnemyVersion": "rico_007_atk_red"
+  },
+  "rico_007_atk_red": {
+    "Name": "rico_007_atk_red",
+    "FollowParent": true,
+    "OwnScreenShake": 100,
+    "Sound": "Trickshot_fire",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk_red",
+    "Layer": "GroundLow",
+    "Scale": 100
+  },
+  "rico_007_atk_reached": {
+    "Name": "rico_007_atk_reached",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk_reached",
+    "Layer": "Object",
+    "Scale": 100,
+    "EnemyVersion": "rico_007_atk_reached_red"
+  },
+  "rico_007_atk_reached_red": {
+    "Name": "rico_007_atk_reached_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk_reached_red",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "rico_007_atk_trail": {
+    "Name": "rico_007_atk_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk_trail_tail",
+    "Layer": "Object",
+    "Scale": 100,
+    "EnemyVersion": "rico_007_atk_trail_red"
+  },
+  "rico_007_atk_trail_red": {
+    "Name": "rico_007_atk_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_atk_trail_tail_red",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "rico_007_atk_env_hit": {
+    "Name": "rico_007_atk_env_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_no_effect",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "rico_007_atk_hit": {
+    "Name": "rico_007_atk_hit",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_atk_hit_impact",
+      "cordelius_003_atk_hit_bomb",
+      "cordelius_003_atk_hit_bomb_simple"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "rico_007_atk_hit_red"
+  },
+  "rico_007_atk_hit_red": {
+    "Name": "rico_007_atk_hit_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_atk_hit_impact_red",
+      "cordelius_003_atk_hit_bomb_red",
+      "cordelius_003_atk_hit_bomb_simple_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "rico_007_ulti_hit": {
+    "Name": "rico_007_ulti_hit",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_ulti_hit_impact",
+      "cordelius_003_atk_hit_bomb",
+      "cordelius_003_atk_hit_bomb_simple"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "rico_007_ulti_hit_red"
+  },
+  "rico_007_ulti_hit_red": {
+    "Name": "rico_007_ulti_hit_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_ulti_hit_impact_red",
+      "cordelius_003_atk_hit_bomb_red",
+      "cordelius_003_atk_hit_bomb_simple_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "rico_007_ulti_trail": {
+    "Name": "rico_007_ulti_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rico_007_ulti_trail_fire",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "rico_007_ulti_reached": {
+    "Name": "rico_007_ulti_reached",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_ulti_reached_fire",
+      "rico_007_ulti_reached"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "rico_007_ulti_reached_red"
+  },
+  "rico_007_ulti_reached_red": {
+    "Name": "rico_007_ulti_reached_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_ulti_reached_fire",
+      "rico_007_ulti_reached_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "rico_007_lobby": {
+    "Name": "rico_007_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_lobby_fire_01",
+      "rico_007_lobby_speedline"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "Effect": "rico_007_lobby_fire"
+  },
+  "rico_007_lobby_fire": {
+    "Name": "rico_007_lobby_fire",
+    "FollowParent": true,
+    "FollowBone": "chest_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rico_007_lobby_fire_02",
+      "rico_007_lobby_fire_03",
+      "rico_007_lobby_glow"
+    ],
+    "Layer": [
+      "Object",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
   },
   "rosa_def_atk_swoosh": {
     "Name": "rosa_def_atk_swoosh",
@@ -85361,6 +88510,297 @@
       100
     ]
   },
+  "spike_007_atk1_trail": {
+    "Name": "spike_007_atk1_trail",
+    "Sound": "Spike_Cartoon_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "spike_007_atk1_trail_twinkle",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "spike_007_atk1_explosion": {
+    "Name": "spike_007_atk1_explosion",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "Sound": "Spike_Cartoon_Atk_Hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_atk1_explosion",
+      "spike_007_atk1_reached_flower"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      125,
+      100
+    ],
+    "EnemyVersion": "spike_007_atk1_explosion_red"
+  },
+  "spike_007_atk1_explosion_red": {
+    "Name": "spike_007_atk1_explosion_red",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "Sound": "Spike_Cartoon_Atk_Hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_atk1_explosion",
+      "spike_007_atk1_reached_flower_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      125,
+      100
+    ]
+  },
+  "spike_007_atk2_trail": {
+    "Name": "spike_007_atk2_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "spike_007_atk2_trail_twinkle",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "spike_007_atk2_reached": {
+    "Name": "spike_007_atk2_reached",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "spike_007_atk2_reached",
+    "Layer": "Object",
+    "Scale": 100,
+    "EnemyVersion": "spike_007_atk2_reached_red"
+  },
+  "spike_007_atk2_reached_red": {
+    "Name": "spike_007_atk2_reached_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "spike_007_atk2_reached_red",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "spike_007_atk_hit": {
+    "Name": "spike_007_atk_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_atk_hit",
+      "spike_007_atk_hit_star"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      230
+    ],
+    "EnemyVersion": "spike_007_atk_hit_red"
+  },
+  "spike_007_atk_hit_red": {
+    "Name": "spike_007_atk_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_atk_hit_red",
+      "spike_007_atk_hit_star"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      230
+    ]
+  },
+  "spike_007_ulti_trail": {
+    "Name": "spike_007_ulti_trail",
+    "Sound": "Spike_Cartoon_Ulti_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "spike_007_ulti_trail_twinkle",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "spike_007_ulti_explosion": {
+    "Name": "spike_007_ulti_explosion",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "Sound": "Spike_Cartoon_Ulti_Atk_Hit",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_ulti_ground",
+      "ground_fragments_lot_230",
+      "spike_007_ulti_area_twinkle",
+      "spike_007_ulti_area_twinkle_idle"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      230,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "spike_007_ulti_explosion_red",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "spike_006_ulti_cloud"
+  },
+  "spike_007_ulti_explosion_red": {
+    "Name": "spike_007_ulti_explosion_red",
+    "OwnScreenShake": 200,
+    "OthersScreenShake": 50,
+    "Sound": "Spike_Cartoon_Ulti_Atk_Hit",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_ulti_ground_red",
+      "ground_fragments_lot_230",
+      "spike_007_ulti_area_twinkle",
+      "spike_007_ulti_area_twinkle_idle"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      230,
+      100,
+      100,
+      100
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "spike_006_ulti_cloud_red"
+  },
+  "spike_007_kill": {
+    "Name": "spike_007_kill",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_kill",
+      "spike_007_kill_star"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "spike_007_kill_red"
+  },
+  "spike_007_kill_red": {
+    "Name": "spike_007_kill_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_kill_red",
+      "spike_007_kill_star"
+    ],
+    "Layer": [
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "spike_007_lobby": {
+    "Name": "spike_007_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "spike_007_lobby_paper_back",
+      "spike_007_lobby_paper_front",
+      "spike_007_lobby_landing_ring_01",
+      "spike_007_lobby_landing_ring_02",
+      "spike_007_lobby_uppercut",
+      "spike_007_lobby_hit_01",
+      "spike_007_lobby_flying_kick",
+      "spike_007_lobby_hit_02",
+      "spike_007_lobby_hit_03",
+      "spike_007_lobby_hit_04",
+      "spike_007_lobby_dubble_kick"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "GroundLow",
+      "GroundLow",
+      "Above",
+      "GroundLow",
+      "Above",
+      "GroundLow",
+      "GroundLow",
+      "GroundLow",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
   "sprout_def_atk": {
     "Name": "sprout_def_atk",
     "Sound": "Sprout_Atk",
@@ -92090,6 +95530,486 @@
     "Layer": "Above",
     "Scale": 100
   },
+  "stu_004_moving": {
+    "Name": "stu_004_moving",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "stu_004_moving_skid",
+    "Layer": "GroundLow",
+    "Scale": 100
+  },
+  "stu_004_atk": {
+    "Name": "stu_004_atk",
+    "Sound": "Stu_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "gale_def_atk",
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      80,
+      90,
+      90
+    ],
+    "EnemyVersion": "stu_004_atk_red",
+    "EffectZ": 400,
+    "ParticleEmitterName": [
+      "stu_004_ult_snow_chunk",
+      "gale_def_atk_snow_smoke"
+    ]
+  },
+  "stu_004_atk_red": {
+    "Name": "stu_004_atk_red",
+    "Sound": "Stu_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "gale_def_atk_red",
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      80,
+      90,
+      90
+    ],
+    "EffectZ": 400,
+    "ParticleEmitterName": [
+      "stu_004_ult_snow_chunk_red",
+      "gale_def_atk_snow_smoke_red"
+    ]
+  },
+  "stu_004_atkHit": {
+    "Name": "stu_004_atkHit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_atkhit_particle",
+      "stu_def_atkEnd_twinkle",
+      "stu_004_atkHit"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      84
+    ],
+    "EnemyVersion": "stu_004_atkHit_red"
+  },
+  "stu_004_atkHit_red": {
+    "Name": "stu_004_atkHit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_atkhit_particle_red",
+      "stu_def_atkEnd_twinkle_red",
+      "stu_004_atkHit_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      84
+    ]
+  },
+  "stu_004_atk_trail": {
+    "Name": "stu_004_atk_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "amber_002_atk_trail_smoke_2",
+      "nita_007_atk_trail_snowflake2"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      90
+    ],
+    "EnemyVersion": "stu_004_atk_trail_red",
+    "FollowParent": true
+  },
+  "stu_004_atk_trail_red": {
+    "Name": "stu_004_atk_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "amber_002_atk_trail_smoke_2_red",
+      "nita_007_atk_trail_snowflake2_red"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      90
+    ],
+    "FollowParent": true
+  },
+  "stu_004_atkEnv": {
+    "Name": "stu_004_atkEnv",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_def_atkEnd_twinkle",
+      "stu_004_atkEnv",
+      "gale_def_atkEnd_snow"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "stu_004_atkEnv_red"
+  },
+  "stu_004_atkEnv_red": {
+    "Name": "stu_004_atkEnv_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_def_atkEnd_twinkle_red",
+      "stu_004_atkEnv_red",
+      "gale_def_atkEnd_snow_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "stu_004_atk_reached": {
+    "Name": "stu_004_atk_reached",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "gale_def_atkEnd_snow",
+      "stu_004_atk_reached"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "stu_004_atk_reached_red"
+  },
+  "stu_004_atk_reached_red": {
+    "Name": "stu_004_atk_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "gale_def_atkEnd_snow_red",
+      "stu_004_atk_reached_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "stu_004_ulti_trail": {
+    "Name": "stu_004_ulti_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_ulti_particle",
+      "stu_004_ult_snow_chunk",
+      "stu_004_ulti_trail_smoke",
+      "stu_004_atkHit_frags",
+      "stu_004_ulti_snowflake",
+      "stu_004_ulti_snowflake_2",
+      "stu_004_ulti_trail_snow"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      82,
+      100,
+      100,
+      90,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "stu_004_ulti_trail_red",
+    "Sound": "Stu_Ulti"
+  },
+  "stu_004_ulti_trail_red": {
+    "Name": "stu_004_ulti_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_ulti_particle_red",
+      "stu_004_ult_snow_chunk_red",
+      "stu_004_ulti_trail_smoke_red",
+      "stu_004_atkHit_frags_red",
+      "stu_004_ulti_snowflake_red",
+      "stu_004_ulti_snowflake_2_red",
+      "stu_004_ulti_trail_snow_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      82,
+      100,
+      100,
+      90,
+      100,
+      100,
+      100
+    ],
+    "Sound": "Stu_Ulti"
+  },
+  "stu_004_ulti_moving": {
+    "Name": "stu_004_ulti_moving",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "FollowParentAngle": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_moving_ulti_skid",
+      "stu_004_moving_ulti_skid_above"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "stu_004_ulti_moving_red"
+  },
+  "stu_004_ulti_moving_red": {
+    "Name": "stu_004_ulti_moving_red",
+    "FollowParent": [
+      true,
+      true
+    ],
+    "FollowParentAngle": [
+      true,
+      true
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_moving_ulti_skid_red",
+      "stu_004_moving_ulti_skid_above_red"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "stu_004_lobby": {
+    "Name": "stu_004_lobby",
+    "Type": [
+      "Effect",
+      "Effect",
+      "Effect"
+    ],
+    "Effect": [
+      "stu_004_lobby_residual_L",
+      "stu_004_lobby_residual_R",
+      "stu_004_lobby_residual"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "stu_004_lobby_residual_L": {
+    "Name": "stu_004_lobby_residual_L",
+    "FollowParent": true,
+    "FollowBone": "L_index_02_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_lobby_residual_L_glow",
+      "stu_004_lobby_L_frags1",
+      "stu_004_lobby_L_frags2"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "stu_004_lobby_residual_R": {
+    "Name": "stu_004_lobby_residual_R",
+    "FollowParent": true,
+    "FollowBone": "R_index_02_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_lobby_residual_R_glow",
+      "stu_004_lobby_R_frags1",
+      "stu_004_lobby_R_frags2"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "stu_004_lobby_residual": {
+    "Name": "stu_004_lobby_residual",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "stu_004_lobby_snow1",
+      "stu_004_lobby_snow2",
+      "stu_004_lobby_snowflake",
+      "stu_004_lobby_snowtrail",
+      "stu_004_lobby_glow_bag",
+      "stu_004_lobby_twinkle_01"
+    ],
+    "Layer": [
+      "object",
+      "Above",
+      "Object",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
   "surge_def_atk": {
     "Name": "surge_def_atk",
     "OwnScreenShake": 200,
@@ -98324,6 +102244,24 @@
     "Layer": "Above",
     "Scale": 100
   },
+  "Robotwin_Dryfire": {
+    "Name": "Robotwin_Dryfire",
+    "FollowParent": true,
+    "Sound": "Robotwin_Dryfire",
+    "Type": "SWF",
+    "FileName": "sc/effects.sc",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "Mico_Dryfire": {
+    "Name": "Mico_Dryfire",
+    "FollowParent": true,
+    "Sound": "Mico_Dryfire",
+    "Type": "SWF",
+    "FileName": "sc/effects.sc",
+    "Layer": "Above",
+    "Scale": 100
+  },
   "Charlie_Dryfire": {
     "Name": "Charlie_Dryfire",
     "FollowParent": true,
@@ -99375,6 +103313,24 @@
     "Name": "reload_shotgun_girl",
     "FollowParent": true,
     "Sound": "bandit_reload",
+    "Type": "SWF",
+    "FileName": "sc/effects.sc",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "Robotwin_Reload": {
+    "Name": "Robotwin_Reload",
+    "FollowParent": true,
+    "Sound": "Robotwin_Reload",
+    "Type": "SWF",
+    "FileName": "sc/effects.sc",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "Mico_Reload": {
+    "Name": "Mico_Reload",
+    "FollowParent": true,
+    "Sound": "Mico_Reload",
     "Type": "SWF",
     "FileName": "sc/effects.sc",
     "Layer": "Above",
@@ -101994,6 +105950,81 @@
     ],
     "EnemyVersion": "ninja_go_invisible_red"
   },
+  "ninja_go_invisible_overcharged": {
+    "Name": "ninja_go_invisible_overcharged",
+    "Loop": true,
+    "Sound": "Leon_ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "leon_def_oc_lolipop",
+      "leon_def_oc_candy",
+      "leon_def_ulti_twinkle",
+      "leon_def_oc_fire",
+      "leon_def_oc_ground_gas",
+      "leon_def_oc_glow"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      170,
+      50,
+      48
+    ],
+    "EnemyVersion": "ninja_go_invisible_red_overcharged"
+  },
+  "ninja_go_invisible_red_overcharged": {
+    "Name": "ninja_go_invisible_red_overcharged",
+    "Loop": true,
+    "Sound": "Leon_ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "leon_def_oc_lolipop_red",
+      "leon_def_oc_candy_red",
+      "leon_def_oc_twinkle_red",
+      "leon_def_oc_fire_red",
+      "leon_def_oc_ground_gas_red",
+      "leon_def_oc_glow_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      170,
+      50,
+      48
+    ]
+  },
   "ninja_out_from_invisible": {
     "Name": "ninja_out_from_invisible",
     "Loop": true,
@@ -103547,7 +107578,7 @@
       "splinters_mortuary",
       "planks_mortuary",
       "planks_fly_mortuary",
-      "fire_after_explosion_green",
+      "Gems_flying",
       "Explo_dust_100",
       "ground_explosion_small_100"
     ],
@@ -108079,17 +112110,191 @@
     "FileName": "sc/effects_brawler.sc",
     "ExportName": "fang_def_ulti_impact"
   },
-  "fang_def_ulti_cover": {
-    "Name": "fang_def_ulti_cover",
+  "fang_def_ulti_overcharged": {
+    "Name": "fang_def_ulti_overcharged",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Fang_Atk_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "fang_fragments_continuing",
+      "fang_def_oc_trail_top"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      120,
+      100
+    ],
+    "EnemyVersion": "fang_def_ulti_overcharged_red",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "fang_def_oc_impact",
+    "GroundBasis": true
+  },
+  "fang_def_ulti_overcharged_red": {
+    "Name": "fang_def_ulti_overcharged_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Fang_Atk_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "fang_fragments_continuing",
+      "fang_def_oc_trail_top_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      120,
+      100
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "fang_def_oc_impact_red",
+    "GroundBasis": true
+  },
+  "fang_def_ocExp_blue": {
+    "Name": "fang_def_ocExp_blue",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "fang_def_oc_explosion_smoke",
+      "cloudExplode_ground_purple",
+      "fang_def_oc_explosion_elec",
+      "fang_def_oc_explosion_hit",
+      "fang_def_oc_explosion_glow"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      60,
+      90,
+      90,
+      90
+    ],
+    "EnemyVersion": "fang_def_ocExp_red",
+    "ChinaReplacement": "nuts_bolts_metal_explosion_CN",
+    "GroundBasis": true
+  },
+  "fang_def_ocExp_red": {
+    "Name": "fang_def_ocExp_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "fang_def_oc_explosion_smoke_red",
+      "cloudExplode_ground_red",
+      "fang_def_oc_explosion_elec_red",
+      "fang_def_oc_explosion_hit_red",
+      "fang_def_oc_explosion_glow_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      90,
+      60,
+      90,
+      90,
+      90
+    ],
+    "ChinaReplacement": "nuts_bolts_metal_explosion_CN",
+    "GroundBasis": true
+  },
+  "fang_def_ulti_cover_overcharged": {
+    "Name": "fang_def_ulti_cover_overcharged",
     "FollowParent": true,
     "FollowParentAngle": true,
     "Type": "SWF",
     "FileName": "sc/effects_brawler.sc",
-    "ExportName": "colette_def_ulti_glow",
+    "ExportName": "fang_def_oc_cover",
     "Layer": "Above",
     "Scale": 90,
-    "EnemyVersion": "fang_def_ulti_cover_red",
+    "EnemyVersion": "fang_def_ulti_cover_overcharged_red",
     "EffectZ": 300
+  },
+  "fang_def_ulti_cover_overcharged_red": {
+    "Name": "fang_def_ulti_cover_overcharged_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "fang_def_oc_cover_red",
+    "Layer": "Above",
+    "Scale": 90,
+    "EffectZ": 300
+  },
+  "fang_def_oc_explode": {
+    "Name": "fang_def_oc_explode",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "fang_def_oc_trail_cloud",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      60,
+      70
+    ],
+    "EnemyVersion": "fang_def_atk_explode_red",
+    "ParticleEmitterName": "fang_def_oc_elec"
+  },
+  "fang_def_oc_explode_red": {
+    "Name": "fang_def_oc_explode_red",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "fang_def_oc_trail_cloud_red",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      60,
+      70
+    ],
+    "ParticleEmitterName": "fang_def_oc_elec_red"
   },
   "fang_def_atk_red": {
     "Name": "fang_def_atk_red",
@@ -108190,6 +112395,18 @@
     ],
     "FileName": "sc/effects_brawler.sc",
     "ExportName": "fang_def_ulti_impact_red"
+  },
+  "fang_def_ulti_cover": {
+    "Name": "fang_def_ulti_cover",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "colette_def_ulti_glow",
+    "Layer": "Above",
+    "Scale": 90,
+    "EnemyVersion": "fang_def_ulti_cover_red",
+    "EffectZ": 300
   },
   "fang_def_ulti_cover_red": {
     "Name": "fang_def_ulti_cover_red",
@@ -117322,6 +121539,453 @@
       100
     ]
   },
+  "otis_004_atk": {
+    "Name": "otis_004_atk",
+    "FollowParent": true,
+    "OwnScreenShake": 100,
+    "Sound": "Otis_Atk_Sfx",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "otis_004_atk_pixel",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "otis_004_atk_red"
+  },
+  "otis_004_atk_red": {
+    "Name": "otis_004_atk_red",
+    "FollowParent": true,
+    "OwnScreenShake": 100,
+    "Sound": "Otis_Atk_Sfx",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "otis_004_atk_pixel_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "otis_004_atk_trail": {
+    "Name": "otis_004_atk_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "otis_004_atk_trail_pixel",
+    "Layer": "GroundTop",
+    "GroundBasis": true,
+    "Scale": 100,
+    "EnemyVersion": "otis_004_atk_trail_red"
+  },
+  "otis_004_atk_trail_red": {
+    "Name": "otis_004_atk_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "otis_004_atk_trail_pixel_red",
+    "Layer": "GroundLow",
+    "GroundBasis": true,
+    "Scale": 100
+  },
+  "otis_004_atk_hit": {
+    "Name": "otis_004_atk_hit",
+    "Sound": "Otis_Atk_Hit_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact",
+      "otis_004_atk_hit_pp",
+      "otis_004_atkHit_twinkle"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      95,
+      1,
+      100
+    ],
+    "EnemyVersion": "otis_004_atk_hit_red"
+  },
+  "otis_004_atk_hit_red": {
+    "Name": "otis_004_atk_hit_red",
+    "Sound": "Otis_Atk_Hit_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact_red",
+      "otis_004_atk_hit_pp_red",
+      "otis_004_atkHit_twinkle_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      95,
+      100,
+      100
+    ]
+  },
+  "otis_004_atk_hitEnv": {
+    "Name": "otis_004_atk_hitEnv",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact",
+      "otis_004_atkHit_twinkle"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      80,
+      90
+    ],
+    "EnemyVersion": "otis_004_atk_hitEnv_red"
+  },
+  "otis_004_atk_hitEnv_red": {
+    "Name": "otis_004_atk_hitEnv_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact_red",
+      "otis_004_atkHit_twinkle_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      80,
+      90
+    ]
+  },
+  "otis_004_atk_hit_reached": {
+    "Name": "otis_004_atk_hit_reached",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact",
+      "otis_004_atk_hit_pp",
+      "otis_004_reached_smoke"
+    ],
+    "Layer": [
+      "GroundLow",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      1,
+      100,
+      90
+    ],
+    "EnemyVersion": "otis_004_atk_hit_reached_red"
+  },
+  "otis_004_atk_hit_reached_red": {
+    "Name": "otis_004_atk_hit_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_hit_impact_red",
+      "otis_004_atk_hit_pp_red",
+      "otis_004_reached_smoke_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      1,
+      100,
+      90
+    ]
+  },
+  "otis_004_ulti": {
+    "Name": "otis_004_ulti",
+    "OwnScreenShake": 200,
+    "Sound": "Otis_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_pixel",
+      "bea_def_atk_pixel"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "otis_004_ulti_red"
+  },
+  "otis_004_ulti_red": {
+    "Name": "otis_004_ulti_red",
+    "OwnScreenShake": 200,
+    "Sound": "Otis_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_pixel_red",
+      "bea_def_atk_pixel_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "otis_004_ulti_trail": {
+    "Name": "otis_004_ulti_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_trail_blink",
+      "otis_004_ulti_trail_pixel",
+      "otis_004_atk1_trail_glow"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Above",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "otis_004_ulti_trail_red"
+  },
+  "otis_004_ulti_trail_red": {
+    "Name": "otis_004_ulti_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atk_trail_blink_red",
+      "otis_004_ulti_trail_pixel_red",
+      "otis_004_atk1_trail_glow_red"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Above",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "otis_004_ulti_reached": {
+    "Name": "otis_004_ulti_reached",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_ulti_reached_star",
+      "otis_004_ulti_reached_star_base",
+      "otis_004_ulti_reached_pixel",
+      "otis_004_ulti_reached_twinkles"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "otis_004_ulti_reached_red"
+  },
+  "otis_004_ulti_reached_red": {
+    "Name": "otis_004_ulti_reached_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_ulti_reached_star_red",
+      "otis_004_ulti_reached_star_base_red",
+      "otis_004_ulti_reached_pixel_red",
+      "otis_004_ulti_reached_twinkles_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "otis_004_ulti_hugger_hit": {
+    "Name": "otis_004_ulti_hugger_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atkHit_twinkle",
+      "otis_004_ulti_hit_pixelBig"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "otis_004_ulti_hugger_hit_red"
+  },
+  "otis_004_ulti_hugger_hit_red": {
+    "Name": "otis_004_ulti_hugger_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_atkHit_twinkle_red",
+      "otis_004_ulti_hit_pixelBig_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "otis_004_ulti_hugger_hitEnv": {
+    "Name": "otis_004_ulti_hugger_hitEnv",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_ulti_reached_twinkles",
+      "otis_004_ulti_hitenv_star"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "otis_004_ulti_hugger_hitEnv_red"
+  },
+  "otis_004_ulti_hugger_hitEnv_red": {
+    "Name": "otis_004_ulti_hugger_hitEnv_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_ulti_reached_twinkles_red",
+      "otis_004_ulti_hitenv_star_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "otis_004_lobby": {
+    "Name": "otis_004_lobby",
+    "Type": [
+      "Effect",
+      "Effect"
+    ],
+    "Effect": [
+      "otis_004_lobby_star",
+      "otis_004_lobby_hit_star"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "otis_004_lobby_star": {
+    "Name": "otis_004_lobby_star",
+    "FollowParent": true,
+    "FollowBone": "star_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "otis_004_lobby_twinkle",
+      "otis_004_lobby_twinkle2",
+      "otis_004_lobby_glow"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "otis_004_lobby_hit_star": {
+    "Name": "otis_004_lobby_hit_star",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "otis_004_lobby_hit_star",
+    "Layer": "Above",
+    "Scale": 100
+  },
   "deepsea_Rock_hit_fx": {
     "Name": "deepsea_Rock_hit_fx",
     "Sound": "Bullet_rico_rock",
@@ -125648,6 +130312,9 @@
   },
   "maisie_def_ulti_ground": {
     "Name": "maisie_def_ulti_ground",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "FollowParentAngle": true,
     "OwnScreenShake": 150,
     "OthersScreenShake": 150,
     "Time": 50,
@@ -125691,6 +130358,7 @@
   },
   "maisie_def_ulti_ground_red": {
     "Name": "maisie_def_ulti_ground_red",
+    "MirroringDisabled": true,
     "OwnScreenShake": 150,
     "OthersScreenShake": 150,
     "Time": 50,
@@ -133715,6 +138383,7 @@
   },
   "charlie_002_ulti_loop": {
     "Name": "charlie_002_ulti_loop",
+    "MirroringDisabled": true,
     "Type": [
       "ParticleEmitter",
       "ParticleEmitter"
@@ -133735,6 +138404,7 @@
   },
   "charlie_002_ulti_loop_red": {
     "Name": "charlie_002_ulti_loop_red",
+    "MirroringDisabled": true,
     "Type": [
       "ParticleEmitter",
       "ParticleEmitter"
@@ -134083,6 +138753,7 @@
   },
   "charlie_def_ulti_cocoon_loop": {
     "Name": "charlie_def_ulti_cocoon_loop",
+    "MirroringDisabled": true,
     "Type": [
       "SWF",
       "ParticleEmitter"
@@ -134103,6 +138774,7 @@
   },
   "charlie_def_ulti_cocoon_loop_red": {
     "Name": "charlie_def_ulti_cocoon_loop_red",
+    "MirroringDisabled": true,
     "Type": [
       "SWF",
       "ParticleEmitter"
@@ -134773,6 +139445,3207 @@
     "Scale": [
       150,
       150
+    ]
+  },
+  "leaper_def_atk_area": {
+    "Name": "leaper_def_atk_area",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mortis_atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "mortis_def_atk",
+    "Layer": "Above",
+    "Scale": 80,
+    "EnemyVersion": "leaper_def_atk_area_red",
+    "EffectZ": 300
+  },
+  "leaper_def_atk_area_red": {
+    "Name": "leaper_def_atk_area_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mortis_Gadget",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "gadget_mortis_shovel_red",
+    "Layer": "Above",
+    "Scale": 80,
+    "EffectZ": 300
+  },
+  "kit_def_atk_left": {
+    "Name": "kit_def_atk_left",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_def_atk_l",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100,
+    "EnemyVersion": "kit_def_atk_left_red"
+  },
+  "kit_def_atk_left_red": {
+    "Name": "kit_def_atk_left_red",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_def_atk_l_red",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100
+  },
+  "kit_def_atk_right": {
+    "Name": "kit_def_atk_right",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_def_atk_r",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100,
+    "EnemyVersion": "kit_def_atk_right_red"
+  },
+  "kit_def_atk_right_red": {
+    "Name": "kit_def_atk_right_red",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_def_atk_r_red",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100
+  },
+  "kit_def_atk_hit": {
+    "Name": "kit_def_atk_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_atk_hit_circle",
+      "kit_def_atk_hit"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_def_atk_hit_red"
+  },
+  "kit_def_atk_hit_red": {
+    "Name": "kit_def_atk_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_atk_hit_circle_red",
+      "kit_def_atk_hit_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "kit_def_ulti_fight": {
+    "Name": "kit_def_ulti_fight",
+    "Sound": "Kit_Fight_Ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "kit_def_ulti_fight_smoke",
+    "Layer": "Above",
+    "Scale": 40,
+    "EnemyVersion": "kit_def_ulti_fight_red"
+  },
+  "kit_def_ulti_fight_red": {
+    "Name": "kit_def_ulti_fight_red",
+    "Sound": "Kit_Fight_Ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "kit_def_ulti_fight_smoke_red",
+    "Layer": "Above",
+    "Scale": 40
+  },
+  "kit_def_ulti": {
+    "Name": "kit_def_ulti",
+    "Sound": "Kit_Ulti",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "ash_002_atk_slash",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "kit_def_ulti_red"
+  },
+  "kit_def_ulti_red": {
+    "Name": "kit_def_ulti_red",
+    "FollowParentAngle": true,
+    "Sound": "Kit_Ulti",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "ash_002_atk_slash_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "kit_def_ulti_trail": {
+    "Name": "kit_def_ulti_trail",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_ulti_trail_hair",
+      "bronson_004_ulti_trail_twinkles"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      140,
+      100
+    ],
+    "EnemyVersion": "kit_def_ulti_trail_red"
+  },
+  "kit_def_ulti_trail_red": {
+    "Name": "kit_def_ulti_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_ulti_trail_hair_red",
+      "bronson_004_ulti_trail_twinkles_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      140,
+      100
+    ]
+  },
+  "kit_def_ulti_hit": {
+    "Name": "kit_def_ulti_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "sprout_003_atk1_hit",
+      "ground_fragments_small"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_def_ulti_hit_red"
+  },
+  "kit_def_ulti_hit_red": {
+    "Name": "kit_def_ulti_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "sprout_def_atk1_hit_red",
+      "ground_fragments_small"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundLow"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "kit_def_ulti_explosion": {
+    "Name": "kit_def_ulti_explosion",
+    "Sound": "Sprout_Atk_Ulti_Explo",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_def_ulti_explode",
+      "kit_def_ulti_ground"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      110,
+      100,
+      125,
+      100
+    ],
+    "EnemyVersion": "kit_def_ulti_explosion_red",
+    "GroundBasis": true,
+    "ParticleEmitterName": [
+      "kit_def_ulti_explode_hair",
+      "kit_def_ulti_explo_ground",
+      "kit_def_ulti_woolball"
+    ]
+  },
+  "kit_def_ulti_explosion_red": {
+    "Name": "kit_def_ulti_explosion_red",
+    "Sound": "Sprout_Atk_Ulti_Explo",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_def_ulti_explode_red",
+      "kit_def_ulti_ground_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      110,
+      100,
+      125,
+      100
+    ],
+    "GroundBasis": true,
+    "ParticleEmitterName": [
+      "kit_def_ulti_explode_hair_red",
+      "kit_def_ulti_explo_ground_red",
+      "kit_def_ulti_woolball_red"
+    ]
+  },
+  "kit_def_gadget": {
+    "Name": "kit_def_gadget",
+    "MirroringDisabled": [
+      true,
+      true
+    ],
+    "FollowParent": true,
+    "Type": [
+      "SWF",
+      "SWF"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_def_gadget_box",
+      "kit_def_gadget_smoke"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_def_gadget_red"
+  },
+  "kit_def_gadget_red": {
+    "Name": "kit_def_gadget_red",
+    "MirroringDisabled": [
+      true,
+      true
+    ],
+    "FollowParent": true,
+    "Type": [
+      "SWF",
+      "SWF"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_def_gadget_box_red",
+      "kit_def_gadget_smoke_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "kit_def_gadget_loop": {
+    "Name": "kit_def_gadget_loop",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "Time": 1000,
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "kit_def_gadget_box_loop",
+    "Layer": "GroundTop",
+    "Scale": 100,
+    "EnemyVersion": "kit_def_gadget_loop_red"
+  },
+  "kit_def_gadget_loop_red": {
+    "Name": "kit_def_gadget_loop_red",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "Type": "Effect",
+    "Effect": "Dummy_effect",
+    "Layer": "GroundTop",
+    "Scale": 100
+  },
+  "kit_def_lobby": {
+    "Name": "kit_def_lobby",
+    "Type": [
+      "Effect",
+      "Effect",
+      "Effect"
+    ],
+    "Effect": [
+      "kit_def_lobby_thread",
+      "kit_def_lobby_smoke",
+      "kit_def_lobby_twinkle"
+    ],
+    "Layer": [
+      "Object",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "kit_def_lobby_smoke": {
+    "Name": "kit_def_lobby_smoke",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "FollowBone": "L_wrist_s",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_def_lobby_smoke",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "kit_def_lobby_thread": {
+    "Name": "kit_def_lobby_thread",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "FollowBone": "R_gunbone_01_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_lobby_thread_01",
+      "kit_def_lobby_thread_02",
+      "kit_def_lobby_thread_03",
+      "kit_def_lobby_thread_04",
+      "kit_def_lobby_thread_05"
+    ],
+    "Layer": [
+      "Object",
+      "Object",
+      "Object",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "kit_def_lobby_twinkle": {
+    "Name": "kit_def_lobby_twinkle",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "FollowBone": "Ball_s",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_def_lobby_glow_01",
+      "kit_def_lobby_glow_02",
+      "kit_def_lobby_twinkle"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "kit_002_atk_left": {
+    "Name": "kit_002_atk_left",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_002_atk_l",
+      "kit_002_atk_flower"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_002_atk_left_red"
+  },
+  "kit_002_atk_left_red": {
+    "Name": "kit_002_atk_left_red",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_002_atk_l_red",
+      "kit_002_atk_flower_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "kit_002_atk_right": {
+    "Name": "kit_002_atk_right",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_002_atk_r",
+      "kit_002_atk_flower"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_002_atk_right_red"
+  },
+  "kit_002_atk_right_red": {
+    "Name": "kit_002_atk_right_red",
+    "FollowParent": true,
+    "Sound": "Kit_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_002_atk_r_red",
+      "kit_002_atk_flower_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "kit_002_atk_hit": {
+    "Name": "kit_002_atk_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_002_atk_hit",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "kit_002_atk_hit_red"
+  },
+  "kit_002_atk_hit_red": {
+    "Name": "kit_002_atk_hit_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "kit_002_atk_hit_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "kit_002_ulti_fight": {
+    "Name": "kit_002_ulti_fight",
+    "Sound": "Kit_Fight_Ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "kit_002_ulti_fight_smoke",
+    "Layer": "Above",
+    "Scale": 40,
+    "EnemyVersion": "kit_002_ulti_fight_red"
+  },
+  "kit_002_ulti_fight_red": {
+    "Name": "kit_002_ulti_fight_red",
+    "Sound": "Kit_Fight_Ulti",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "kit_002_ulti_fight_smoke_red",
+    "Layer": "Above",
+    "Scale": 40
+  },
+  "kit_002_ulti": {
+    "Name": "kit_002_ulti",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "ash_002_atk_slash",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "kit_002_ulti_red"
+  },
+  "kit_002_ulti_red": {
+    "Name": "kit_002_ulti_red",
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "ash_002_atk_slash_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "kit_002_ulti_trail": {
+    "Name": "kit_002_ulti_trail",
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "gus_002_ulti_trail_twinkles",
+      "kit_002_ulti_trail_twinkle1",
+      "kit_002_ulti_trail_twinkle2"
+    ],
+    "Layer": [
+      "Above",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_002_ulti_trail_red"
+  },
+  "kit_002_ulti_trail_red": {
+    "Name": "kit_002_ulti_trail_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "gus_002_ulti_trail_twinkles_red",
+      "kit_002_ulti_trail_twinkle1_red",
+      "kit_002_ulti_trail_twinkle2_red"
+    ],
+    "Layer": [
+      "Above",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "kit_002_ulti_explosion": {
+    "Name": "kit_002_ulti_explosion",
+    "Sound": "Sprout_Atk_Ulti_Explo",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_002_ulti_explode",
+      "kit_def_ulti_ground"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      110,
+      90,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "kit_002_ulti_explosion_red",
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "ParticleEmitterName": [
+      "kit_002_ulti_explode_bell",
+      "kit_002_ulti_explode_ground_flower",
+      "kit_002_ulti_explode_explosion",
+      "kit_002_ulti_explode_explosion2"
+    ]
+  },
+  "kit_002_ulti_explosion_red": {
+    "Name": "kit_002_ulti_explosion_red",
+    "Sound": "Sprout_Atk_Ulti_Explo",
+    "Type": [
+      "SWF",
+      "SWF",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects_brawler.sc",
+      "sc/effects_brawler.sc"
+    ],
+    "ExportName": [
+      "kit_002_ulti_explode_red",
+      "kit_def_ulti_ground_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Object"
+    ],
+    "Scale": [
+      110,
+      90,
+      100,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "ParticleEmitterName": [
+      "kit_002_ulti_explode_bell_red",
+      "kit_002_ulti_explode_ground_flower_red",
+      "kit_002_ulti_explode_explosion_red",
+      "kit_002_ulti_explode_explosion2_red"
+    ]
+  },
+  "kit_002_lobby": {
+    "Name": "kit_002_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "kit_002_lobby_smoke",
+      "kit_002_lobby_slash_01",
+      "kit_002_lobby_slash_02",
+      "kit_002_lobby_jump",
+      "kit_002_lobby_jump_rotation_line"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Object",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_def_atk": {
+    "Name": "mico_def_atk",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "mico_def_atk_slash",
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      90,
+      90
+    ],
+    "EnemyVersion": "mico_def_atk_red",
+    "EffectZ": 300,
+    "ParticleEmitterName": "mico_def_atk_jump_landing",
+    "GroundBasis": true
+  },
+  "mico_def_atk_red": {
+    "Name": "mico_def_atk_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "mico_def_atk_slash_red",
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "Scale": [
+      90,
+      90
+    ],
+    "EffectZ": 300,
+    "ParticleEmitterName": "mico_def_atk_jump_landing_red",
+    "GroundBasis": true
+  },
+  "mico_def_atk_jump": {
+    "Name": "mico_def_atk_jump",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_atk_jump",
+    "Layer": "Object",
+    "GroundBasis": true,
+    "Scale": 100
+  },
+  "mico_def_ulti_casting": {
+    "Name": "mico_def_ulti_casting",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "maisie_def_ulti_twirl",
+      "maisie_def_ulti_ready",
+      "maisie_def_ulti_glow",
+      "mico_def_ulti_jump_impact",
+      "mico_def_ulti_jump_wind"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      150
+    ],
+    "EnemyVersion": "mico_def_ulti_casting_red"
+  },
+  "mico_def_ulti_landing": {
+    "Name": "mico_def_ulti_landing",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": "mico_def_ulti_jump_wind_down",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150,
+    "EnemyVersion": "mico_def_ulti_landing_red",
+    "Effect": "mico_def_ulti_explo"
+  },
+  "mico_def_ulti_explo": {
+    "Name": "mico_def_ulti_explo",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_def_ulti_groundCrack",
+      "mico_def_ulti_land_impact",
+      "mico_def_ulti_smoke",
+      "mico_def_ulti_explo_impact"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      175,
+      160,
+      80,
+      150
+    ],
+    "EnemyVersion": "mico_def_ulti_explo_red"
+  },
+  "mico_def_ulti_casting_red": {
+    "Name": "mico_def_ulti_casting_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "maisie_def_ulti_twirl_red",
+      "maisie_def_ulti_ready_red",
+      "maisie_def_ulti_glow_red",
+      "mico_def_ulti_jump_impact_red",
+      "mico_def_ulti_jump_wind_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      150
+    ]
+  },
+  "mico_def_ulti_landing_red": {
+    "Name": "mico_def_ulti_landing_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": "mico_def_ulti_jump_wind_down_red",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150,
+    "Effect": "mico_def_ulti_explo_red"
+  },
+  "mico_def_ulti_explo_red": {
+    "Name": "mico_def_ulti_explo_red",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "primo_def_ulti_groundCrack_red",
+      "mico_def_ulti_land_impact_red",
+      "mico_def_ulti_smoke_red",
+      "mico_def_ulti_explo_impact_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      175,
+      160,
+      80,
+      150
+    ]
+  },
+  "mico_def_atk_hit": {
+    "Name": "mico_def_atk_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_atk_hit",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "mico_def_atk_hit_red"
+  },
+  "mico_def_atk_hit_red": {
+    "Name": "mico_def_atk_hit_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_atk_hit",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "mico_def_gadget_trail": {
+    "Name": "mico_def_gadget_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_gadget_trail",
+    "Layer": "GroundTop",
+    "Scale": 100,
+    "EnemyVersion": "mico_def_gadget_trail_red"
+  },
+  "mico_def_gadget_trail_red": {
+    "Name": "mico_def_gadget_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_gadget_trail_red",
+    "Layer": "GroundTop",
+    "Scale": 100
+  },
+  "mico_def_gadget_reached": {
+    "Name": "mico_def_gadget_reached",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_gadget_reached",
+    "Layer": "Object",
+    "Scale": 100,
+    "EnemyVersion": "mico_def_gadget_reached_red"
+  },
+  "mico_def_gadget_reached_red": {
+    "Name": "mico_def_gadget_reached_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_def_gadget_reached_red",
+    "Layer": "Object",
+    "Scale": 100
+  },
+  "mico_def_oc_landing": {
+    "Name": "mico_def_oc_landing",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_oc_jump_wind_down",
+      "mico_def_oc_trail_fire"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      150,
+      100
+    ],
+    "EnemyVersion": "mico_def_oc_landing_red",
+    "Effect": "mico_def_oc_explo"
+  },
+  "mico_def_oc_explo": {
+    "Name": "mico_def_oc_explo",
+    "OwnScreenShake": 450,
+    "OthersScreenShake": 150,
+    "OwnHapticLevel": 3,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Sound": "Pearl_Overcharge",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_explosion",
+      "edgar_def_oc_explosion_fire_lightning",
+      "explosion_debris_strong",
+      "pearl_def_ulti_ground_burn"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      120,
+      120,
+      100,
+      100
+    ]
+  },
+  "mico_def_oc_landing_red": {
+    "Name": "mico_def_oc_landing_red",
+    "Type": [
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": "mico_def_oc_jump_wind_down_red",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150,
+    "Effect": "mico_def_oc_explo_red"
+  },
+  "mico_def_oc_explo_red": {
+    "Name": "mico_def_oc_explo_red",
+    "OwnScreenShake": 450,
+    "OthersScreenShake": 150,
+    "OwnHapticLevel": 3,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Sound": "Pearl_Overcharge",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_explosion_red",
+      "edgar_def_oc_explosion_fire_lightning_red",
+      "explosion_debris_strong",
+      "pearl_def_ulti_ground_burn_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "GroundHigh",
+      "GroundHigh"
+    ],
+    "Scale": [
+      120,
+      120
+    ]
+  },
+  "mico_def_oc_casting": {
+    "Name": "mico_def_oc_casting",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_oc_casting_twirl",
+      "mico_def_oc_casting_ready",
+      "mico_def_oc_casting_glow",
+      "mico_def_oc_jump_impact",
+      "mico_def_oc_jump_wind"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      150
+    ],
+    "EnemyVersion": "mico_def_oc_casting_red"
+  },
+  "mico_def_oc_casting_red": {
+    "Name": "mico_def_oc_casting_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_oc_casting_twirl_red",
+      "mico_def_oc_casting_ready_red",
+      "mico_def_oc_casting_glow_red",
+      "mico_def_oc_jump_impact_red",
+      "mico_def_oc_jump_wind_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "GroundTop",
+      "Above"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      150
+    ]
+  },
+  "mico_def_lobby": {
+    "Name": "mico_def_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_lobby_win_star_trail_merged",
+      "mico_def_lobby_win_wink",
+      "mico_def_lobby_win_feather",
+      "mico_def_lobby_win_impact"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_def_lobby_rare": {
+    "Name": "mico_def_lobby_rare",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_lobby_win_star_trail_merged",
+      "mico_def_lobby_win_wink",
+      "mico_def_lobby_win_impact"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_def_lobby_lose": {
+    "Name": "mico_def_lobby_lose",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_lobby_lose_smoke",
+      "mico_def_lobby_lose_feather"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "mico_002_atk_jump": {
+    "Name": "mico_002_atk_jump",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_def_atk_jump",
+      "mico_002_basic_atk_jump_leaf"
+    ],
+    "Layer": [
+      "Object",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "mico_002_atk": {
+    "Name": "mico_002_atk",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_basic_atk_slash",
+      "mico_002_atk_jump_landing",
+      "mico_002_basic_atk_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      90,
+      100
+    ],
+    "EnemyVersion": "mico_002_atk_red",
+    "EffectZ": 300
+  },
+  "mico_002_atk_red": {
+    "Name": "mico_002_atk_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_basic_atk_slash_red",
+      "mico_002_atk_jump_landing_red",
+      "mico_002_basic_atk_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      90,
+      100
+    ],
+    "EffectZ": 300
+  },
+  "mico_002_ulti_jump": {
+    "Name": "mico_002_ulti_jump",
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_ulti_jump",
+      "mico_002_ulti_casting_leaf",
+      "mico_002_ulti_jump_leaf_1",
+      "mico_002_ulti_jump_leaf_2",
+      "mico_002_ulti_jump_leaf_3",
+      "mico_002_ulti_jump_particle_rock",
+      "mico_002_ulti_jump_landing"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      150,
+      100,
+      100,
+      100,
+      100,
+      100,
+      90
+    ],
+    "EnemyVersion": "mico_002_ulti_jump_red",
+    "GroundBasis": true
+  },
+  "mico_002_ulti_jump_red": {
+    "Name": "mico_002_ulti_jump_red",
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_ulti_jump_red",
+      "mico_002_ulti_casting_leaf",
+      "mico_002_ulti_jump_leaf_1",
+      "mico_002_ulti_jump_leaf_2",
+      "mico_002_ulti_jump_leaf_3",
+      "mico_002_ulti_jump_particle_rock",
+      "mico_002_ulti_jump_landing_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "Scale": [
+      150,
+      100,
+      100,
+      100,
+      100,
+      100,
+      90
+    ],
+    "GroundBasis": true
+  },
+  "mico_002_ulti_landing": {
+    "Name": "mico_002_ulti_landing",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_ulti_landing_weapon",
+      "mico_002_ulti_landing_rock",
+      "mico_002_ulti_landing_leaf",
+      "primo_def_ulti_groundCrack",
+      "mico_def_ulti_land_impact",
+      "mico_def_ulti_explo_impact",
+      "mico_002_ulti_landing_extrude"
+    ],
+    "Layer": [
+      "Object",
+      "GroundTop",
+      "Above",
+      "GroundLow",
+      "GroundTop",
+      "Above",
+      "GroundHigh"
+    ],
+    "Scale": [
+      150,
+      100,
+      100,
+      175,
+      160,
+      150,
+      100
+    ],
+    "EnemyVersion": "mico_002_ulti_landing_red",
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Time": [
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_002_ulti_landing_red": {
+    "Name": "mico_002_ulti_landing_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_ulti_landing_weapon_red",
+      "mico_002_ulti_landing_rock",
+      "mico_002_ulti_landing_leaf",
+      "primo_def_ulti_groundCrack_red",
+      "mico_def_ulti_land_impact_red",
+      "mico_def_ulti_explo_impact_red",
+      "mico_002_ulti_landing_extrude_red"
+    ],
+    "Layer": [
+      "Object",
+      "GroundTop",
+      "Above",
+      "GroundLow",
+      "GroundTop",
+      "Above",
+      "GroundHigh"
+    ],
+    "Scale": [
+      150,
+      100,
+      100,
+      175,
+      160,
+      150,
+      100
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Time": [
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_002_basic_atk_hit": {
+    "Name": "mico_002_basic_atk_hit",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_basic_atk_hit",
+      "mico_002_basic_atk_hit_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "mico_002_basic_atk_hit_red"
+  },
+  "mico_002_basic_atk_hit_red": {
+    "Name": "mico_002_basic_atk_hit_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_basic_atk_hit_red",
+      "mico_002_basic_atk_hit_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "mico_002_kill": {
+    "Name": "mico_002_kill",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_kill_weapon",
+      "mico_002_kill_smoke",
+      "mico_002_kill_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "mico_002_kill_red"
+  },
+  "mico_002_kill_red": {
+    "Name": "mico_002_kill_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_kill_weapon_red",
+      "mico_002_kill_smoke",
+      "mico_002_kill_leaf"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_002_lobby": {
+    "Name": "mico_002_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_002_lobby_rock_back",
+      "mico_002_lobby_cloud_back",
+      "mico_002_lobby_cloud_smoke",
+      "mico_002_lobby_slash_01",
+      "mico_002_lobby_slash_02",
+      "mico_002_lobby_leaf",
+      "mico_002_lobby_impact",
+      "mico_002_lobby_win_dust_particle_2",
+      "mico_002_lobby_win_dust_particle_1",
+      "mico_002_lobby_rock_front",
+      "mico_002_lobby_cloud_front"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_003_atk": {
+    "Name": "mico_003_atk",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "mico_003_atk_slash",
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      85,
+      90
+    ],
+    "EnemyVersion": "mico_003_atk_red",
+    "EffectZ": 300,
+    "ParticleEmitterName": "mico_003_atk_jump_end"
+  },
+  "mico_003_atk_trail": {
+    "Name": "mico_003_atk_trail",
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_atk_trail_snow",
+      "mico_003_atk_trail_snow_particle",
+      "mico_003_atk_trail_snowcrystal"
+    ],
+    "Layer": [
+      "GroundLow",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "mico_003_atk_trail_red"
+  },
+  "mico_003_atk_hit": {
+    "Name": "mico_003_atk_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_003_atk_hit",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "mico_003_atk_hit_red"
+  },
+  "mico_003_ulti_jump": {
+    "Name": "mico_003_ulti_jump",
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_ulti_casting",
+      "mico_003_ulti_box_jump",
+      "mico_003_ulti_ground_snow_casting",
+      "mico_003_ulti_snow_splash",
+      "mico_003_ulti_casting_snowcrystal"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "GroundLow",
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "mico_003_ulti_jump_red",
+    "GroundBasis": true
+  },
+  "mico_003_ulti_landing": {
+    "Name": "mico_003_ulti_landing",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": "mico_003_ulti_down",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150,
+    "EnemyVersion": "mico_003_ulti_landing_red",
+    "Effect": "mico_003_ulti_explode"
+  },
+  "mico_003_ulti_explode": {
+    "Name": "mico_003_ulti_explode",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_ulti_snow_flowerImpact",
+      "mico_def_ulti_land_impact",
+      "mico_003_ulti_smoke",
+      "mico_ulti_explo_impact",
+      "mico_003_ulti_extrude_snow_particle",
+      "mico_003_ulti_extrude_snow_particle_slow"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      175,
+      160,
+      80,
+      150,
+      100,
+      100
+    ],
+    "EnemyVersion": "mico_003_ulti_explode_red"
+  },
+  "mico_003_atk_red": {
+    "Name": "mico_003_atk_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Mico_Atk",
+    "Type": [
+      "SWF",
+      "ParticleEmitter"
+    ],
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "mico_003_atk_slash_red",
+    "Layer": [
+      "Above",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      85,
+      90
+    ],
+    "EffectZ": 300,
+    "ParticleEmitterName": "mico_003_atk_jump_end_red"
+  },
+  "mico_003_atk_trail_red": {
+    "Name": "mico_003_atk_trail_red",
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_atk_trail_snow_red",
+      "mico_003_atk_trail_snow_particle_red",
+      "mico_003_atk_trail_snowcrystal_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_003_atk_hit_red": {
+    "Name": "mico_003_atk_hit_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "mico_003_atk_hit_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "mico_003_ulti_jump_red": {
+    "Name": "mico_003_ulti_jump_red",
+    "Sound": "Mico_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_ulti_casting_red",
+      "mico_003_ulti_box_jump_red",
+      "mico_003_ulti_ground_snow_casting_red",
+      "mico_003_ulti_snow_splash_red",
+      "mico_003_ulti_casting_snowcrystal_red"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "GroundLow",
+      "GroundTop",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": true
+  },
+  "mico_003_ulti_landing_red": {
+    "Name": "mico_003_ulti_landing_red",
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "Sound": "Maisie_Ulti_Sfx",
+    "Type": [
+      "ParticleEmitter",
+      "Effect"
+    ],
+    "ParticleEmitterName": "mico_003_ulti_down_red",
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150,
+    "Effect": "mico_003_ulti_explode_red"
+  },
+  "mico_003_ulti_explode_red": {
+    "Name": "mico_003_ulti_explode_red",
+    "MirroringDisabled": true,
+    "FollowParent": true,
+    "FollowParentAngle": true,
+    "OwnScreenShake": 150,
+    "OthersScreenShake": 150,
+    "Time": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_ulti_snow_flowerImpact_red",
+      "mico_def_ulti_land_impact_red",
+      "mico_003_ulti_smoke_red",
+      "mico_ulti_explo_impact_red",
+      "mico_003_ulti_extrude_snow_particle_red",
+      "mico_003_ulti_extrude_snow_particle_slow_red"
+    ],
+    "Layer": [
+      "GroundLow",
+      "GroundTop",
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "GroundBasis": true,
+    "Scale": [
+      175,
+      160,
+      80,
+      150,
+      100,
+      100
+    ]
+  },
+  "mico_003_lobby": {
+    "Name": "mico_003_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_lobby_ice_smoke",
+      "mico_003_lobby_ice_smoke_02",
+      "mico_003_lobby_win_spiral_dust_flip",
+      "mico_003_lobby_win_spiral_dust",
+      "mico_003_lobby_win_smoke_r",
+      "mico_003_lobby_win_smoke_l"
+    ],
+    "Layer": [
+      "GroundTop",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "mico_003_lobby_lose": {
+    "Name": "mico_003_lobby_lose",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "mico_003_lobby_lose_slash",
+      "mico_003_lobby_lose_bite"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "iceisland_Grass_explo_fx": {
+    "Name": "iceisland_Grass_explo_fx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "Explo_dust_120_white",
+      "Grass_hit_big_snowtel"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ]
+  },
+  "iceisland_Grass_hit_fx": {
+    "Name": "iceisland_Grass_hit_fx",
+    "Sound": "Bullet_rico_grass",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "Grass_hit_snowtel",
+    "Layer": "Above"
+  },
+  "iceisland_Grass_explo_fx_yellow": {
+    "Name": "iceisland_Grass_explo_fx_yellow",
+    "Type": "Effect",
+    "Effect": "snowtel_Grass_explo_fx",
+    "Layer": "Above"
+  },
+  "iceisland_Grass_hit_fx_yellow": {
+    "Name": "iceisland_Grass_hit_fx_yellow",
+    "Type": "Effect",
+    "Effect": "snowtel_Grass_hit_fx",
+    "Layer": "Above"
+  },
+  "iceisland_barrel_hit": {
+    "Name": "iceisland_barrel_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "splinters_small_blue",
+    "Layer": "Above"
+  },
+  "iceisland_barrel_explosion": {
+    "Name": "iceisland_barrel_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "splinters_blue",
+      "planks_fly_blue",
+      "planks_blue",
+      "Explo_dust_100",
+      "ground_explosion_small_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "GroundLow",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      125,
+      125
+    ],
+    "GroundBasis": false
+  },
+  "iceisland_crate_hit": {
+    "Name": "iceisland_crate_hit",
+    "Type": "Effect",
+    "Effect": "iceisland_barrel_hit",
+    "Layer": "Above"
+  },
+  "iceisland_crate_explosion": {
+    "Name": "iceisland_crate_explosion",
+    "Type": "Effect",
+    "Effect": "iceisland_barrel_explosion",
+    "Layer": "Above"
+  },
+  "iceisland_fence_hit": {
+    "Name": "iceisland_fence_hit",
+    "Type": "Effect",
+    "Effect": "iceisland_barrel_hit",
+    "Layer": "Above"
+  },
+  "iceisland_fence_explosion": {
+    "Name": "iceisland_fence_explosion",
+    "Type": "Effect",
+    "Effect": "iceisland_barrel_explosion",
+    "Layer": "Above"
+  },
+  "iceisland_blocking2_explosion": {
+    "Name": "iceisland_blocking2_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "tree_debris_1_iceisland",
+      "snow_explo_debris1_iceisland",
+      "snow_explo_debris2_iceisland",
+      "Explo_dust_100",
+      "ground_explosion_small_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ]
+  },
+  "iceisland_blocking2_hit": {
+    "Name": "iceisland_blocking2_hit",
+    "Sound": "Bullet_rico_grass",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "tree_hit_iceisland",
+      "snow_hit_iceisland"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 150
+  },
+  "iceisland_Green_explo_fx": {
+    "Name": "iceisland_Green_explo_fx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "snow_explo_debris1_iceisland",
+      "snow_explo_debris2_iceisland",
+      "Explo_dust_100",
+      "ground_explosion_small_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      125,
+      150
+    ]
+  },
+  "iceisland_Green_hit_fx": {
+    "Name": "iceisland_Green_hit_fx",
+    "Sound": "Bullet_rico_grass",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "snow_hit_iceisland",
+    "Layer": "Above",
+    "Scale": 150
+  },
+  "iceisland_Rock_explo_fx": {
+    "Name": "iceisland_Rock_explo_fx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "rock_explo_debris1_iceisland",
+      "rock_explo_debris2_iceisland",
+      "Explo_dust_100",
+      "ground_explosion_small_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      125,
+      150
+    ]
+  },
+  "iceisland_Rock_hit_fx": {
+    "Name": "iceisland_Rock_hit_fx",
+    "Sound": "Bullet_rico_grass",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "rock_hit_iceisland",
+    "Layer": "Above",
+    "Scale": 150
+  },
+  "iceisland_fragile_explo_debris": {
+    "Name": "iceisland_fragile_explo_debris",
+    "Type": "Effect",
+    "Effect": "iceisland_Green_explo_fx",
+    "Layer": "Above"
+  },
+  "iceisland_Rope_explo_fx": {
+    "Name": "iceisland_Rope_explo_fx",
+    "OwnScreenShake": 300,
+    "OthersScreenShake": 300,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "planks_fly_blue",
+      "planks_blue",
+      "Explo_dust_100"
+    ],
+    "Layer": [
+      "Above",
+      "GroundLow",
+      "Above"
+    ],
+    "Scale": [
+      50,
+      85
+    ],
+    "GroundBasis": false
+  },
+  "edgar_overcharged_ultiEnd": {
+    "Name": "edgar_overcharged_ultiEnd",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_ground",
+      "edgar_def_oc_gas",
+      "primo_003_ulti_fragments",
+      "edgar_def_oc_explosion",
+      "edgar_def_oc_explosion_fire_lightning"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundHigh",
+      "GroundLow",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "edgar_overcharged_ultiEnd_red"
+  },
+  "edgar_overcharged_ultiEnd_red": {
+    "Name": "edgar_overcharged_ultiEnd_red",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_ground_red",
+      "edgar_def_oc_gas_red",
+      "primo_003_ulti_fragments",
+      "edgar_def_oc_explosion_red",
+      "edgar_def_oc_explosion_fire_lightning_red"
+    ],
+    "Layer": [
+      "GroundTop",
+      "GroundHigh",
+      "GroundLow",
+      "GroundTop",
+      "GroundTop"
+    ],
+    "GroundBasis": [
+      true,
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "edgar_def_oc_jump": {
+    "Name": "edgar_def_oc_jump",
+    "FollowParent": true,
+    "Sound": "Edgar_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_ulti_use",
+      "edgar_def_oc_ulti_use_smoke",
+      "ground_fragments_some"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ],
+    "EnemyVersion": "edgar_def_oc_jump_red"
+  },
+  "edgar_def_oc_jump_red": {
+    "Name": "edgar_def_oc_jump_red",
+    "FollowParent": true,
+    "Sound": "Edgar_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "edgar_def_oc_ulti_use_red",
+      "edgar_def_oc_ulti_use_smoke_red",
+      "ground_fragments_some"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "GroundLow",
+      "GroundLow"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "ice_tile": {
+    "Name": "ice_tile",
+    "Loop": true,
+    "Type": "SWF",
+    "FileName": "sc/effects.sc",
+    "ExportName": "fx_ice_tile",
+    "Layer": "GroundLow",
+    "GroundBasis": true,
+    "Scale": 100
+  },
+  "starrtoons_Rock_hit_fx": {
+    "Name": "starrtoons_Rock_hit_fx",
+    "Sound": "Bullet_rico_rock",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "Rock_hit_debris1b_candystand",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "starrtoons_Rock_explo_fx": {
+    "Name": "starrtoons_Rock_explo_fx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "Rock_explo_debris2b_candystand",
+      "Explo_dust_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      150
+    ]
+  },
+  "starrtoons_blocking2_hit": {
+    "Name": "starrtoons_blocking2_hit",
+    "Sound": "Bullet_rico_rock",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "barrel_hit_debris1_candystand",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "starrtoons_blocking2_explosion": {
+    "Name": "starrtoons_blocking2_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "barrel_explo_debris2_candystand",
+      "Explo_dust_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "starrtoons_crate_hit": {
+    "Name": "starrtoons_crate_hit",
+    "Sound": "Bullet_rico_rock",
+    "Type": "ParticleEmitter",
+    "FileName": "sc/effects.sc",
+    "ParticleEmitterName": "sprout_002_wall_explo_debris_small",
+    "Layer": "Above"
+  },
+  "starrtoons_crate_explosion": {
+    "Name": "starrtoons_crate_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects.sc",
+      "sc/effects.sc"
+    ],
+    "ParticleEmitterName": [
+      "Rock_explo_debris2_pocos_yellow",
+      "sprout_002_wall_explo_debris"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 170
+  },
+  "starrtoons_barrel_hit": {
+    "Name": "starrtoons_barrel_hit",
+    "Sound": "Bullet_rico_rock",
+    "Type": "Effect",
+    "Effect": "Box_hit_fx",
+    "Layer": "Above",
+    "Scale": 133
+  },
+  "starrtoons_barrel_explosion": {
+    "Name": "starrtoons_barrel_explosion",
+    "OwnScreenShake": 300,
+    "OthersScreenShake": 300,
+    "Type": "Effect",
+    "Effect": "Gen_wood_explosion",
+    "Layer": "Above",
+    "Scale": 188
+  },
+  "starrtoons_Green_hit_fx": {
+    "Name": "starrtoons_Green_hit_fx",
+    "Sound": "Bullet_rico_rock",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "tire_hit",
+    "Layer": "Above",
+    "Scale": 65
+  },
+  "starrtoons_Green_explo_fx": {
+    "Name": "starrtoons_Green_explo_fx",
+    "OwnScreenShake": 300,
+    "OthersScreenShake": 300,
+    "Sound": [
+      "Bullet_rico_rock",
+      "Bullet_rico_rock"
+    ],
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "tire_explo",
+      "Explo_dust_100",
+      "ground_explosion_small_100",
+      "maisie_003_ulti_ground_explode_red",
+      "minion_explosion_soot",
+      "Crate_explo_debris1_brawlywood"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      50
+    ],
+    "FileName": [
+      "sc/effects.sc",
+      "sc/effects.sc",
+      "sc/effects.sc"
+    ]
+  },
+  "starrtoons_fragile_explo_debris": {
+    "Name": "starrtoons_fragile_explo_debris",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects.sc",
+      "sc/effects.sc"
+    ],
+    "ParticleEmitterName": [
+      "Green_explo_debris2_stuntshow",
+      "Explo_dust_100"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": 85
+  },
+  "starrtoons_fence_hit": {
+    "Name": "starrtoons_fence_hit",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "sprout_002_wall_explo_debris_small",
+    "Layer": "Above",
+    "Scale": 115
+  },
+  "starrtoons_fence_explosion": {
+    "Name": "starrtoons_fence_explosion",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "Explo_dust_100",
+      "Grass_hit_candystand",
+      "yellow_barrel_fly",
+      "sprout_002_atk1_debris"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      50,
+      190
+    ]
+  },
+  "starrtoons_Rope_explo_fx": {
+    "Name": "starrtoons_Rope_explo_fx",
+    "OwnScreenShake": 300,
+    "OthersScreenShake": 300,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "FileName": [
+      "sc/effects.sc",
+      "sc/effects.sc",
+      "sc/effects.sc",
+      "sc/effects.sc"
+    ],
+    "ParticleEmitterName": [
+      "amber_002_atk_hit_leaf_red",
+      "Explo_dust_100",
+      "barrel_explo_debris1_candystand",
+      "barley_004_shards_gold"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      150,
+      70,
+      90
+    ],
+    "EffectZ": 200
+  },
+  "starrtoons_Grass_hit_fx": {
+    "Name": "starrtoons_Grass_hit_fx",
+    "Sound": "Bullet_rico_grass",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "Grass_hit_starrtoons",
+    "Layer": "Above"
+  },
+  "starrtoons_Grass_explo_fx": {
+    "Name": "starrtoons_Grass_explo_fx",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "Explo_dust_100",
+      "Grass_hit_big_starrtoons"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ]
+  },
+  "starrtoons_Grass_hit_fx_yellow": {
+    "Name": "starrtoons_Grass_hit_fx_yellow",
+    "Type": "Effect",
+    "Effect": "starrtoons_Grass_hit_fx",
+    "Layer": "Above"
+  },
+  "starrtoons_Grass_explo_fx_yellow": {
+    "Name": "starrtoons_Grass_explo_fx_yellow",
+    "Type": "Effect",
+    "Effect": "starrtoons_Grass_explo_fx",
+    "Layer": "Above"
+  },
+  "starrtoons_bubbles": {
+    "Name": "starrtoons_bubbles",
+    "Loop": true,
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "starrtoons_bubbles",
+    "Layer": "GroundHigh",
+    "GroundBasis": true,
+    "Scale": 70
+  },
+  "twin_def_atk": {
+    "Name": "twin_def_atk",
+    "OwnScreenShake": 200,
+    "Sound": "Robotwin_Atk",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_atk",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "darryl_006_atk_red"
+  },
+  "twin_def_atk_red": {
+    "Name": "twin_def_atk_red",
+    "OwnScreenShake": 200,
+    "Sound": "Robotwin_Atk",
+    "Type": "SWF",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "twin_def_ulti2_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "twin_def_atk_trail": {
+    "Name": "twin_def_atk_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_atk_trail_frags",
+    "Layer": "Above",
+    "Scale": 100,
+    "EnemyVersion": "twin_def_atk_trail_red"
+  },
+  "twin_def_atk_trail_red": {
+    "Name": "twin_def_atk_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_atk_trail_frags_red",
+    "Layer": "Above",
+    "Scale": 100
+  },
+  "twin_def_atk_explode": {
+    "Name": "twin_def_atk_explode",
+    "OwnScreenShake": [
+      200,
+      150
+    ],
+    "OthersScreenShake": [
+      50,
+      150
+    ],
+    "OwnHapticLevel": 1,
+    "Sound": "Robotwin_Explo",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "cloudExplode_blue",
+      "twin_def_atk_exp_cloud",
+      "twin_def_atk_exp_ground_01",
+      "twin_def_atk_exp_frags_01",
+      "leon_004_ulti_twinkle",
+      "twin_def_atk_paper",
+      "dynamike_explode_blue"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Above",
+      "Object",
+      "Above"
+    ],
+    "EnemyVersion": "twin_def_atk_explode_red",
+    "Scale": [
+      120,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": true
+  },
+  "twin_def_atk_explode_red": {
+    "Name": "twin_def_atk_explode_red",
+    "OwnScreenShake": [
+      200,
+      150
+    ],
+    "OthersScreenShake": [
+      50,
+      150
+    ],
+    "OwnHapticLevel": 1,
+    "Sound": "Robotwin_Explo",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "cloudExplode_red",
+      "twin_def_atk_exp_cloud_red",
+      "twin_def_atk_exp_ground_01_red",
+      "twin_def_atk_exp_frags_01_red",
+      "leon_004_ulti_twinkle_red",
+      "twin_def_atk_paper_red",
+      "dynamike_explode_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundLow",
+      "GroundHigh",
+      "Object",
+      "Above",
+      "Object",
+      "Above"
+    ],
+    "Scale": [
+      120,
+      100,
+      100,
+      100
+    ],
+    "GroundBasis": true
+  },
+  "twin_def_atk_explode2": {
+    "Name": "twin_def_atk_explode2",
+    "OwnScreenShake": [
+      150,
+      150
+    ],
+    "OthersScreenShake": [
+      150,
+      150
+    ],
+    "Sound": "Robotwin_Explo",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "cloudExplode_blue",
+      "twin_def_atk_exp_cloud",
+      "twin_def_atk_exp_ground_02",
+      "twin_def_atk_exp_frags_02",
+      "leon_004_ulti_twinkle",
+      "twin_def_atk_paper2",
+      "dynamike_explode_blue"
+    ],
+    "Layer": [
+      "Above",
+      "GroundLow",
+      "GroundHigh",
+      "Object",
+      "Above",
+      "Object",
+      "Above"
+    ],
+    "EnemyVersion": "twin_def_atk_explode2_red",
+    "Scale": [
+      165,
+      100,
+      100,
+      100,
+      135
+    ],
+    "GroundBasis": true
+  },
+  "twin_def_atk_explode2_red": {
+    "Name": "twin_def_atk_explode2_red",
+    "OwnScreenShake": [
+      150,
+      150
+    ],
+    "OthersScreenShake": [
+      150,
+      150
+    ],
+    "Sound": "Robotwin_Explo",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "cloudExplode_redpurple",
+      "twin_def_atk_exp_cloud_red",
+      "twin_def_atk_exp_ground_02_red",
+      "twin_def_atk_exp_frags_02_red",
+      "leon_004_ulti_twinkle_red",
+      "twin_def_atk_paper2_red",
+      "dynamike_explode_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "GroundLow",
+      "Object",
+      "Above",
+      "Object",
+      "Above"
+    ],
+    "Scale": [
+      165,
+      100,
+      100,
+      100,
+      135
+    ],
+    "GroundBasis": true
+  },
+  "twin_def_ulti_trail": {
+    "Name": "twin_def_ulti_trail",
+    "Loop": true,
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "twin_def_ulti_trail",
+      "twin_def_ulti_trail_twinkle"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ],
+    "EnemyVersion": "twin_def_ulti_trail_red"
+  },
+  "twin_def_ulti_trail_red": {
+    "Name": "twin_def_ulti_trail_red",
+    "Loop": true,
+    "FollowParent": true,
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "twin_def_ulti_trail_red",
+      "twin_def_ulti_trail_twinkle"
+    ],
+    "Layer": [
+      "GroundHigh",
+      "Object"
+    ],
+    "Scale": [
+      100,
+      100
+    ]
+  },
+  "twin_def_ulti_spawn": {
+    "Name": "twin_def_ulti_spawn",
+    "FollowParent": [
+      true,
+      true,
+      true
+    ],
+    "Sound": "Robotwin_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "jessie_def_spawnCloud_blue",
+      "jessie_def_spawnCloudGround_blue",
+      "twin_def_ulti_spawn_wave",
+      "lolla_def_ulti_spawnLight_1",
+      "twinkle_vertical",
+      "twin_def_ulti_spawn"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Object"
+    ],
+    "EnemyVersion": "twin_def_ulti_spawn_red",
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "twin_def_ulti_spawn_red": {
+    "Name": "twin_def_ulti_spawn_red",
+    "FollowParent": [
+      true,
+      true,
+      true
+    ],
+    "Sound": "Robotwin_Ulti",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "jessie_def_spawnCloud_red",
+      "jessie_def_spawnCloudGround_red",
+      "twin_def_ulti_spawn_wave_red",
+      "lolla_def_ulti_spawnLight_1_red",
+      "twinkle_vertical",
+      "twin_def_ulti_spawn_red"
+    ],
+    "Layer": [
+      "Above",
+      "GroundHigh",
+      "Above",
+      "GroundHigh",
+      "Above",
+      "Object"
+    ],
+    "GroundBasis": [
+      true,
+      true
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "twin_def_still": {
+    "Name": "twin_def_still",
+    "Loop": true,
+    "FollowParent": true,
+    "FollowBone": "head_s",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_still_blue",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100,
+    "EffectZ": 350
+  },
+  "twin_def_still_red": {
+    "Name": "twin_def_still_red",
+    "Loop": true,
+    "FollowParent": true,
+    "FollowBone": "head_s",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_still_red",
+    "Layer": "Above",
+    "GroundBasis": true,
+    "Scale": 100,
+    "EffectZ": 350
+  },
+  "twin_def_ulti_prj_trail": {
+    "Name": "twin_def_ulti_prj_trail",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_ulti_prj_spark",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "EnemyVersion": "twin_def_ulti_prj_trail_red"
+  },
+  "twin_def_ulti_prj_trail_red": {
+    "Name": "twin_def_ulti_prj_trail_red",
+    "Type": "ParticleEmitter",
+    "ParticleEmitterName": "twin_def_ulti_prj_spark_red",
+    "Layer": "GroundHigh",
+    "Scale": 100
+  },
+  "twin_def_lobby": {
+    "Name": "twin_def_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "twin_def_lobby_speed_line",
+      "twin_def_lobby_smoke",
+      "twin_def_lobby_twinkle"
+    ],
+    "Layer": [
+      "Above",
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100,
+      100
+    ]
+  },
+  "twin_pet_def_lobby": {
+    "Name": "twin_pet_def_lobby",
+    "Type": [
+      "ParticleEmitter",
+      "ParticleEmitter"
+    ],
+    "ParticleEmitterName": [
+      "twin_pet_def_lobby_speed_line",
+      "twin_pet_def_lobby_smoke"
+    ],
+    "Layer": [
+      "Above",
+      "Above"
+    ],
+    "Scale": [
+      100,
+      100
     ]
   }
 }

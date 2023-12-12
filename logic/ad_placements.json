@@ -1,0 +1,14 @@
+{
+  "BattleTokens": {
+    "Name": "BattleTokens",
+    "PlacementType": 1
+  },
+  "ExtraQuests": {
+    "Name": "ExtraQuests",
+    "PlacementType": 2
+  },
+  "DailyFreebies": {
+    "Name": "DailyFreebies",
+    "PlacementType": 3
+  }
+}

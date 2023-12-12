@@ -38268,6 +38268,1930 @@
       6000
     ]
   },
+  "Mico_Wukong_Start_VO": {
+    "Name": "Mico_Wukong_Start_VO",
+    "FileNames": [
+      "sfx/mico_wuk_start_vo_01.ogg",
+      "sfx/mico_wuk_start_vo_02.ogg",
+      "sfx/mico_wuk_start_vo_04.ogg",
+      "sfx/mico_wuk_start_vo_03.ogg",
+      "sfx/mico_wuk_start_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  "Mico_Wukong_Hurt_VO": {
+    "Name": "Mico_Wukong_Hurt_VO",
+    "FileNames": [
+      "sfx/mico_wuk_hurt_vo_01.ogg",
+      "sfx/mico_wuk_hurt_vo_02.ogg",
+      "sfx/mico_wuk_hurt_vo_03.ogg",
+      "sfx/mico_wuk_hurt_vo_04.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      10000,
+      10000,
+      10000,
+      10000
+    ]
+  },
+  "Mico_Wukong_Kill_VO": {
+    "Name": "Mico_Wukong_Kill_VO",
+    "FileNames": [
+      "sfx/mico_wuk_kill_vo_01.ogg",
+      "sfx/mico_wuk_kill_vo_02.ogg",
+      "sfx/mico_wuk_kill_vo_03.ogg",
+      "sfx/mico_wuk_kill_vo_04.ogg",
+      "sfx/mico_wuk_kill_vo_05.ogg",
+      "sfx/mico_wuk_kill_vo_06.ogg",
+      "sfx/mico_wuk_kill_vo_07.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Mico_Wukong_Die_VO": {
+    "Name": "Mico_Wukong_Die_VO",
+    "FileNames": [
+      "sfx/mico_wuk_die_vo_01.ogg",
+      "sfx/mico_wuk_die_vo_02.ogg",
+      "sfx/mico_wuk_die_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Mico_Wukong_Lead_VO": {
+    "Name": "Mico_Wukong_Lead_VO",
+    "FileNames": [
+      "sfx/mico_wuk_lead_vo_01.ogg",
+      "sfx/mico_wuk_lead_vo_02.ogg",
+      "sfx/mico_wuk_lead_vo_03.ogg",
+      "sfx/mico_wuk_lead_vo_04.ogg",
+      "sfx/mico_wuk_lead_vo_05.ogg",
+      "sfx/mico_wuk_lead_vo_06.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000
+    ]
+  },
+  "Mico_Wukong_Ulti_VO": {
+    "Name": "Mico_Wukong_Ulti_VO",
+    "FileNames": [
+      "sfx/mico_wuk_ulti_vo_01.ogg",
+      "sfx/mico_wuk_ulti_vo_02.ogg",
+      "sfx/mico_wuk_ulti_vo_03.ogg",
+      "sfx/mico_wuk_ulti_vo_04.ogg",
+      "sfx/mico_wuk_ulti_vo_05.ogg",
+      "sfx/mico_wuk_ulti_vo_06.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Mico_Start_VO": {
+    "Name": "Mico_Start_VO",
+    "FileNames": [
+      "sfx/mico_start_vo_01.ogg",
+      "sfx/mico_start_vo_02.ogg",
+      "sfx/mico_start_vo_03.ogg",
+      "sfx/mico_start_vo_04.ogg",
+      "sfx/mico_start_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Mico_Hurt_VO": {
+    "Name": "Mico_Hurt_VO",
+    "FileNames": [
+      "sfx/mico_hurt_vo_01.ogg",
+      "sfx/mico_hurt_vo_02.ogg",
+      "sfx/mico_hurt_vo_03.ogg",
+      "sfx/mico_hurt_vo_04.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      12000,
+      12000,
+      12000,
+      12000
+    ]
+  },
+  "Mico_Kill_VO": {
+    "Name": "Mico_Kill_VO",
+    "FileNames": [
+      "sfx/mico_kill_vo_01.ogg",
+      "sfx/mico_kill_vo_02.ogg",
+      "sfx/mico_kill_vo_03.ogg",
+      "sfx/mico_kill_vo_04.ogg",
+      "sfx/mico_kill_vo_05.ogg",
+      "sfx/mico_kill_vo_06.ogg",
+      "sfx/mico_kill_vo_07.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Mico_Die_VO": {
+    "Name": "Mico_Die_VO",
+    "FileNames": [
+      "sfx/mico_die_vo_01.ogg",
+      "sfx/mico_die_vo_02.ogg",
+      "sfx/mico_die_vo_03.ogg",
+      "sfx/mico_die_vo_04.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Mico_Lead_VO": {
+    "Name": "Mico_Lead_VO",
+    "FileNames": [
+      "sfx/mico_lead_vo_01.ogg",
+      "sfx/mico_lead_vo_02.ogg",
+      "sfx/mico_lead_vo_03.ogg",
+      "sfx/mico_lead_vo_04.ogg",
+      "sfx/mico_lead_vo_05.ogg",
+      "sfx/mico_lead_vo_06.ogg",
+      "sfx/mico_lead_vo_07.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000
+    ]
+  },
+  "Mico_Ulti_VO": {
+    "Name": "Mico_Ulti_VO",
+    "FileNames": [
+      "sfx/mico_ulti_vo_01.ogg",
+      "sfx/mico_ulti_vo_02.ogg",
+      "sfx/mico_ulti_vo_03.ogg",
+      "sfx/mico_ulti_vo_04.ogg",
+      "sfx/mico_ulti_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "King_Frank_Start_VO": {
+    "Name": "King_Frank_Start_VO",
+    "FileNames": [
+      "sfx/frank_king_start_vo_01.ogg",
+      "sfx/frank_king_start_vo_02.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000
+    ]
+  },
+  "King_Frank_Hurt_VO": {
+    "Name": "King_Frank_Hurt_VO",
+    "FileNames": [
+      "sfx/frank_king_hurt_vo_01.ogg",
+      "sfx/frank_king_hurt_vo_02.ogg",
+      "sfx/frank_king_hurt_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      12000,
+      12000,
+      12000
+    ]
+  },
+  "King_Frank_Kill_VO": {
+    "Name": "King_Frank_Kill_VO",
+    "FileNames": [
+      "sfx/frank_king_kill_vo_01.ogg",
+      "sfx/frank_king_kill_vo_02.ogg",
+      "sfx/frank_king_kill_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "King_Frank_Die_VO": {
+    "Name": "King_Frank_Die_VO",
+    "FileNames": [
+      "sfx/frank_king_die_vo_01.ogg",
+      "sfx/frank_king_die_vo_02.ogg",
+      "sfx/frank_king_die_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "King_Frank_Lead_VO": {
+    "Name": "King_Frank_Lead_VO",
+    "FileNames": [
+      "sfx/frank_king_lead_vo_01.ogg",
+      "sfx/frank_king_lead_vo_02.ogg",
+      "sfx/frank_king_lead_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      22000,
+      22000,
+      22000
+    ]
+  },
+  "King_Frank_Ulti_VO": {
+    "Name": "King_Frank_Ulti_VO",
+    "FileNames": [
+      "sfx/frank_king_lead_vo_01.ogg",
+      "sfx/frank_king_lead_vo_02.ogg",
+      "sfx/frank_king_lead_vo_03.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Kit_Start_VO": {
+    "Name": "Kit_Start_VO",
+    "FileNames": [
+      "sfx/kit_start_vo_01.ogg",
+      "sfx/kit_start_vo_02.ogg",
+      "sfx/kit_start_vo_03.ogg",
+      "sfx/kit_start_vo_04.ogg",
+      "sfx/kit_start_vo_05.ogg",
+      "sfx/kit_start_vo_06.ogg",
+      "sfx/kit_start_vo_07.ogg",
+      "sfx/kit_start_vo_08.ogg",
+      "sfx/kit_start_vo_09.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Kit_Hurt_VO": {
+    "Name": "Kit_Hurt_VO",
+    "FileNames": [
+      "sfx/kit_hurt_vo_01.ogg",
+      "sfx/kit_hurt_vo_02.ogg",
+      "sfx/kit_hurt_vo_03.ogg",
+      "sfx/kit_hurt_vo_04.ogg",
+      "sfx/kit_hurt_vo_05.ogg",
+      "sfx/kit_hurt_vo_06.ogg",
+      "sfx/kit_hurt_vo_07.ogg",
+      "sfx/kit_hurt_vo_08.ogg",
+      "sfx/kit_hurt_vo_09.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000,
+      10000
+    ]
+  },
+  "Kit_Kill_VO": {
+    "Name": "Kit_Kill_VO",
+    "FileNames": [
+      "sfx/kit_kill_vo_01.ogg",
+      "sfx/kit_kill_vo_02.ogg",
+      "sfx/kit_kill_vo_03.ogg",
+      "sfx/kit_kill_vo_04.ogg",
+      "sfx/kit_kill_vo_05.ogg",
+      "sfx/kit_kill_vo_06.ogg",
+      "sfx/kit_kill_vo_07.ogg",
+      "sfx/kit_kill_vo_08.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Kit_Die_VO": {
+    "Name": "Kit_Die_VO",
+    "FileNames": [
+      "sfx/kit_die_vo_01.ogg",
+      "sfx/kit_die_vo_02.ogg",
+      "sfx/kit_die_vo_03.ogg",
+      "sfx/kit_die_vo_04.ogg",
+      "sfx/kit_die_vo_05.ogg",
+      "sfx/kit_die_vo_06.ogg",
+      "sfx/kit_die_vo_07.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Kit_Lead_VO": {
+    "Name": "Kit_Lead_VO",
+    "FileNames": [
+      "sfx/kit_lead_vo_01.ogg",
+      "sfx/kit_lead_vo_02.ogg",
+      "sfx/kit_lead_vo_03.ogg",
+      "sfx/kit_lead_vo_04.ogg",
+      "sfx/kit_lead_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      22000,
+      22000,
+      22000,
+      22000,
+      22000
+    ]
+  },
+  "Kit_Ulti_VO": {
+    "Name": "Kit_Ulti_VO",
+    "FileNames": [
+      "sfx/kit_ulti_vo_01.ogg",
+      "sfx/kit_ulti_vo_02.ogg",
+      "sfx/kit_ulti_vo_03.ogg",
+      "sfx/kit_ulti_vo_04.ogg",
+      "sfx/kit_ulti_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Kit_Atk_VO": {
+    "Name": "Kit_Atk_VO",
+    "FileNames": [
+      "sfx/kit_atk_vo_01.ogg",
+      "sfx/kit_atk_vo_02.ogg",
+      "sfx/kit_atk_vo_03.ogg",
+      "sfx/kit_atk_vo_04.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      18000,
+      18000,
+      18000,
+      18000
+    ]
+  },
+  "Robotwin_Start_VO": {
+    "Name": "Robotwin_Start_VO",
+    "FileNames": [
+      "sfx/robo_twin_start_vo_01.ogg",
+      "sfx/robo_twin_start_vo_02.ogg",
+      "sfx/robo_twin_start_vo_03.ogg",
+      "sfx/robo_twin_start_vo_04.ogg",
+      "sfx/robo_twin_start_vo_05.ogg",
+      "sfx/robo_twin_start_vo_06.ogg",
+      "sfx/robo_twin_start_vo_07.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Robotwin_Hurt_VO": {
+    "Name": "Robotwin_Hurt_VO",
+    "FileNames": [
+      "sfx/robo_twin_hurt_vo_01.ogg",
+      "sfx/robo_twin_hurt_vo_02.ogg",
+      "sfx/robo_twin_hurt_vo_03.ogg",
+      "sfx/robo_twin_hurt_vo_04.ogg",
+      "sfx/robo_twin_hurt_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      10000,
+      10000,
+      10000,
+      10000,
+      10000
+    ]
+  },
+  "Robotwin_Kill_VO": {
+    "Name": "Robotwin_Kill_VO",
+    "FileNames": [
+      "sfx/robo_twin_kill_vo_01.ogg",
+      "sfx/robo_twin_kill_vo_02.ogg",
+      "sfx/robo_twin_kill_vo_03.ogg",
+      "sfx/robo_twin_kill_vo_04.ogg",
+      "sfx/robo_twin_kill_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Robotwin_Die_VO": {
+    "Name": "Robotwin_Die_VO",
+    "FileNames": [
+      "sfx/robo_twin_die_vo_01.ogg",
+      "sfx/robo_twin_die_vo_02.ogg",
+      "sfx/robo_twin_die_vo_03.ogg",
+      "sfx/robo_twin_die_vo_04.ogg",
+      "sfx/robo_twin_die_vo_05.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "MaxRepeatMs": [
+      15000,
+      15000,
+      15000,
+      15000,
+      15000
+    ]
+  },
+  "Robotwin_Lead_VO": {
+    "Name": "Robotwin_Lead_VO",
+    "FileNames": [
+      "sfx/robo_twin_lead_vo_01.ogg",
+      "sfx/robo_twin_lead_vo_02.ogg",
+      "sfx/robo_twin_lead_vo_03.ogg",
+      "sfx/robo_twin_lead_vo_04.ogg",
+      "sfx/robo_twin_lead_vo_05.ogg",
+      "sfx/robo_twin_lead_vo_06.ogg",
+      "sfx/robo_twin_lead_vo_07.ogg",
+      "sfx/robo_twin_lead_vo_08.ogg"
+    ],
+    "MinVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MaxVolume": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000,
+      22000
+    ]
+  },
+  "Robotwin_Ulti_VO": {
+    "Name": "Robotwin_Ulti_VO",
+    "FileNames": [
+      "sfx/robo_twin_ulti_vo_01.ogg",
+      "sfx/robo_twin_ulti_vo_02.ogg",
+      "sfx/robo_twin_ulti_vo_03.ogg",
+      "sfx/robo_twin_ulti_vo_04.ogg",
+      "sfx/robo_twin_ulti_vo_05.ogg",
+      "sfx/robo_twin_ulti_vo_06.ogg",
+      "sfx/robo_twin_ulti_vo_07.ogg",
+      "sfx/robo_twin_ulti_vo_08.ogg"
+    ],
+    "MinVolume": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "MaxVolume": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "MinPitch": [
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98,
+      98
+    ],
+    "MaxPitch": [
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102,
+      102
+    ],
+    "Priority": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "MaximumByType": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "MaxRepeatMs": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ]
+  },
+  "Mico_Dryfire": {
+    "Name": "Mico_Dryfire",
+    "FileNames": "sfx/mico_dryfire_01.ogg",
+    "MinVolume": 20,
+    "MaxVolume": 30,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 100
+  },
+  "Mico_Reload": {
+    "Name": "Mico_Reload",
+    "FileNames": "sfx/mico_reload_01.ogg",
+    "MinVolume": 20,
+    "MaxVolume": 30,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 100
+  },
   "Willow_Atk": {
     "Name": "Willow_Atk",
     "FileNames": "sfx/willow_atk_01.ogg",
@@ -41394,6 +43318,171 @@
     "MaxPitch": 110,
     "Priority": 1,
     "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Spike_Cartoon_Atk": {
+    "Name": "Spike_Cartoon_Atk",
+    "FileNames": "sfx/cartoon_cactus_atk_01.ogg",
+    "MinVolume": 30,
+    "MaxVolume": 50,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Spike_Cartoon_Ulti_Atk": {
+    "Name": "Spike_Cartoon_Ulti_Atk",
+    "FileNames": "sfx/cartoon_cactus_ulti_atk_01.ogg",
+    "MinVolume": 30,
+    "MaxVolume": 50,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Spike_Cartoon_Ulti_Atk_Hit": {
+    "Name": "Spike_Cartoon_Ulti_Atk_Hit",
+    "FileNames": "sfx/cartoon_cactus_ulti_atk_hit_01.ogg",
+    "MinVolume": 40,
+    "MaxVolume": 60,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Spike_Cartoon_Atk_Hit": {
+    "Name": "Spike_Cartoon_Atk_Hit",
+    "FileNames": "sfx/cartoon_cactus_atk_hit_01.ogg",
+    "MinVolume": 40,
+    "MaxVolume": 60,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Mico_Atk": {
+    "Name": "Mico_Atk",
+    "FileNames": "sfx/mico_atk_01.ogg",
+    "MinVolume": 50,
+    "MaxVolume": 60,
+    "MinPitch": 90,
+    "MaxPitch": 100,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Mico_Jump": {
+    "Name": "Mico_Jump",
+    "FileNames": "sfx/mico_jump_01.ogg",
+    "MinVolume": 20,
+    "MaxVolume": 40,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Mico_Ulti": {
+    "Name": "Mico_Ulti",
+    "FileNames": "sfx/mico_ulti_atk_01.ogg",
+    "MinVolume": 80,
+    "MaxVolume": 80,
+    "MinPitch": 100,
+    "MaxPitch": 100,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 300
+  },
+  "Kit_Atk": {
+    "Name": "Kit_Atk",
+    "FileNames": "sfx/kit_atk_01.ogg",
+    "MinVolume": 30,
+    "MaxVolume": 40,
+    "MinPitch": 95,
+    "MaxPitch": 105,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Kit_Ulti": {
+    "Name": "Kit_Ulti",
+    "FileNames": "sfx/kit_ulti_atk_01.ogg",
+    "MinVolume": 60,
+    "MaxVolume": 60,
+    "MinPitch": 100,
+    "MaxPitch": 100,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Robotwin_Atk": {
+    "Name": "Robotwin_Atk",
+    "FileNames": "sfx/robotwin_atk_01.ogg",
+    "MinVolume": 40,
+    "MaxVolume": 60,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Robotwin_Ulti": {
+    "Name": "Robotwin_Ulti",
+    "FileNames": "sfx/robotwin_ulti_sfx_01.ogg",
+    "MinVolume": 70,
+    "MaxVolume": 70,
+    "MinPitch": 100,
+    "MaxPitch": 100,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Robotwin_Reload": {
+    "Name": "Robotwin_Reload",
+    "FileNames": "sfx/robotwin_reload_01.ogg",
+    "MinVolume": 20,
+    "MaxVolume": 40,
+    "MinPitch": 95,
+    "MaxPitch": 105,
+    "Priority": 1,
+    "MaximumByType": 3,
+    "MaxRepeatMs": 200
+  },
+  "Robotwin_Dryfire": {
+    "Name": "Robotwin_Dryfire",
+    "FileNames": "sfx/robotwin_dryfire_01.ogg",
+    "MinVolume": 30,
+    "MaxVolume": 40,
+    "MinPitch": 95,
+    "MaxPitch": 105,
+    "Priority": 1,
+    "MaximumByType": 2,
+    "MaxRepeatMs": 200
+  },
+  "Robotwin_Explo": {
+    "Name": "Robotwin_Explo",
+    "FileNames": "sfx/robotwin_explo_01.ogg",
+    "MinVolume": 40,
+    "MaxVolume": 70,
+    "MinPitch": 90,
+    "MaxPitch": 110,
+    "Priority": 1,
+    "MaximumByType": 2,
+    "MaxRepeatMs": 200
+  },
+  "Kit_Fight_Ulti": {
+    "Name": "Kit_Fight_Ulti",
+    "FileNames": "sfx/kit_fight_ulti_01.ogg",
+    "MinVolume": 80,
+    "MaxVolume": 80,
+    "MinPitch": 100,
+    "MaxPitch": 100,
+    "Priority": 1,
+    "MaximumByType": 2,
     "MaxRepeatMs": 200
   }
 }

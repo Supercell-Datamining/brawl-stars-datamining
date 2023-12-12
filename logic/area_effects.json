@@ -250,6 +250,30 @@
     "Effect": "spike_006_ulti_explosion",
     "Scale": 170
   },
+  "Spike_007_atk1_explosion": {
+    "Name": "Spike_007_atk1_explosion",
+    "ParentAreaEffectForSkin": "CactusExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "spike_007_atk1_explosion",
+    "Scale": 100
+  },
+  "Spike_007_atk2": {
+    "Name": "Spike_007_atk2",
+    "ParentAreaEffectForSkin": "CactusSpikeExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "BulletExplosionBullet": "Spike007Frag"
+  },
+  "Spike_007_ulti_explosion": {
+    "Name": "Spike_007_ulti_explosion",
+    "ParentAreaEffectForSkin": "CactusUltiExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "spike_007_ulti_explosion",
+    "Scale": 170
+  },
   "Barley_def_atk": {
     "Name": "Barley_def_atk",
     "FileName": "sc/effects.sc",
@@ -611,6 +635,20 @@
     "DestroysEnvironment": true,
     "PushbackStrength": 70
   },
+  "Piper_007_ulti": {
+    "Name": "Piper_007_ulti",
+    "ParentAreaEffectForSkin": "Bo_def_ulti2_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "piper_007_ulti2_explosion",
+    "Scale": 133,
+    "TimeMs": 700,
+    "Radius": 600,
+    "Damage": 99,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 70
+  },
   "BarkeepExplosion": {
     "Name": "BarkeepExplosion",
     "FileName": "sc/effects.sc",
@@ -862,6 +900,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": -10,
+    "DamageScaleType": 2,
     "Type": "Hot"
   },
   "HealingStationHeal2": {
@@ -874,6 +913,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": -10,
+    "DamageScaleType": 2,
     "Type": "Hot"
   },
   "HealingStationHeal3": {
@@ -886,6 +926,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": -10,
+    "DamageScaleType": 2,
     "Type": "Hot"
   },
   "Heal": {
@@ -899,6 +940,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": -560,
+    "DamageScaleType": 2,
     "Type": "Heal"
   },
   "MineExplosion": {
@@ -1508,6 +1550,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": 35,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "DamageBoost_larger": {
@@ -1520,6 +1563,7 @@
     "TimeMs": 600000,
     "Radius": 1500,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "BurnMainAttackWater": {
@@ -1834,6 +1878,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade002Ulti_larger": {
@@ -1847,6 +1892,7 @@
     "TimeMs": 600000,
     "Radius": 1500,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade003Ulti": {
@@ -1860,6 +1906,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade003Ulti_larger": {
@@ -1873,6 +1920,7 @@
     "TimeMs": 600000,
     "Radius": 1500,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade004Ulti": {
@@ -1886,6 +1934,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade004Ulti_larger": {
@@ -1899,6 +1948,7 @@
     "TimeMs": 600000,
     "Radius": 1500,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade005Ulti": {
@@ -1912,6 +1962,7 @@
     "TimeMs": 600000,
     "Radius": 1000,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "Arcade005Ulti_larger": {
@@ -1925,6 +1976,7 @@
     "TimeMs": 600000,
     "Radius": 1500,
     "Damage": 50,
+    "DamageScaleType": 1,
     "Type": "DamageBoost"
   },
   "WallyUltiArea": {
@@ -1952,6 +2004,7 @@
   },
   "Sprout_002_atk": {
     "Name": "Sprout_002_atk",
+    "ParentAreaEffectForSkin": "WallyExplosion",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
     "Effect": "sprout_002_atk2_explosion",
@@ -1976,6 +2029,7 @@
   },
   "Sprout_003_atk": {
     "Name": "Sprout_003_atk",
+    "ParentAreaEffectForSkin": "WallyExplosion",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
     "Effect": "sprout_003_atk_explosion",
@@ -2180,6 +2234,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": 700,
+    "DamageScaleType": 1,
     "CustomValue": 1,
     "Type": "BulletExplosion",
     "BulletExplosionBulletDistance": 0,
@@ -2194,6 +2249,7 @@
     "TimeMs": 250,
     "Radius": 1000,
     "Damage": -20,
+    "DamageScaleType": 2,
     "Type": "Heal"
   },
   "WhirlwindTrail": {
@@ -2205,6 +2261,7 @@
     "TimeMs": 3900,
     "Radius": 300,
     "Damage": 200,
+    "DamageScaleType": 1,
     "Type": "SetOnFire"
   },
   "MummyAccessoryPushback": {
@@ -2216,6 +2273,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": 65,
+    "DamageScaleType": 1,
     "Type": "Damage",
     "PushbackStrength": 100
   },
@@ -2228,6 +2286,7 @@
     "TimeMs": 250,
     "Radius": 1000,
     "Damage": -8,
+    "DamageScaleType": 2,
     "CustomValue": 100,
     "Type": "HealRegen"
   },
@@ -2800,6 +2859,7 @@
     "TimeMs": 500,
     "Radius": 900,
     "Damage": 125,
+    "DamageScaleType": 1,
     "Type": "Damage"
   },
   "RuffsSupplySpawn": {
@@ -2932,6 +2992,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": 100,
+    "DamageScaleType": 1,
     "Type": "Damage",
     "PushbackStrength": 150,
     "PushbackStrengthSelf": 250
@@ -3030,6 +3091,17 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "stu_003_ulti_trail",
+    "Scale": 100,
+    "TimeMs": 3000,
+    "Radius": 300,
+    "Type": "SetOnFire"
+  },
+  "Roller004Fire": {
+    "Name": "Roller004Fire",
+    "ParentAreaEffectForSkin": "RollerFire",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "stu_004_ulti_trail",
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
@@ -3459,6 +3531,7 @@
     "TimeMs": 250,
     "Radius": 1000,
     "Damage": -30,
+    "DamageScaleType": 2,
     "CustomValue2": 1,
     "Type": "Heal"
   },
@@ -3534,6 +3607,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": 400,
+    "DamageScaleType": 1,
     "Type": "Damage",
     "PushbackStrength": 150,
     "PushbackStrengthSelf": 250
@@ -3581,7 +3655,7 @@
     "Name": "KickerDudeMineExplosion",
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
-    "Effect": "fang_def_ultiExp_blue",
+    "Effect": "fang_def_ocExp_blue",
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 468,
@@ -3686,6 +3760,7 @@
     "TimeMs": 600000,
     "Radius": 2400,
     "Damage": 10,
+    "DamageScaleType": 1,
     "Type": "Dot"
   },
   "JetpackGirlUltiExplosion": {
@@ -3950,6 +4025,7 @@
     "TimeMs": 700,
     "Radius": 600,
     "Damage": 100,
+    "DamageScaleType": 1,
     "Type": "Damage"
   },
   "ShieldTankSuperChargeArea": {
@@ -4526,5 +4602,267 @@
     "Type": "BulletExplosion",
     "BulletExplosionBullet": "hank002UltiProjectile",
     "BulletExplosionBulletDistance": 60
+  },
+  "LeaperWeaponArea": {
+    "Name": "LeaperWeaponArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_def_atk",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 450,
+    "Type": "Damage",
+    "RequireLineOfSight": true
+  },
+  "LeaperUltiArea": {
+    "Name": "LeaperUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "mico_def_ulti_indicator",
+    "BlueExportName": "mico_def_ulti_indicator",
+    "RedExportName": "mico_def_ulti_indicator_red",
+    "Layer": "GroundHigh",
+    "Scale": 80,
+    "TimeMs": 6000,
+    "Radius": 800,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "LeaperUltiAreaExplosion"
+  },
+  "LeaperUltiAreaExplosion": {
+    "Name": "LeaperUltiAreaExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_def_ulti_landing",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 700,
+    "Damage": 1190,
+    "Type": "Damage",
+    "PushbackStrength": 50
+  },
+  "LeaperOverchargedUltiArea": {
+    "Name": "LeaperOverchargedUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "mico_def_ulti_indicator",
+    "BlueExportName": "mico_def_ulti_indicator",
+    "RedExportName": "mico_def_ulti_indicator_red",
+    "Layer": "GroundHigh",
+    "Scale": 80,
+    "TimeMs": 6000,
+    "Radius": 800,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "LeaperOverchargedUltiAreaExplosion"
+  },
+  "LeaperOverchargedUltiAreaExplosion": {
+    "Name": "LeaperOverchargedUltiAreaExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_def_oc_landing",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 700,
+    "Damage": 1190,
+    "Type": "Damage",
+    "PushbackStrength": 50,
+    "StunTicks": 30
+  },
+  "Mico_002_WeaponArea": {
+    "Name": "Mico_002_WeaponArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_002_atk",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 450,
+    "Type": "Damage",
+    "RequireLineOfSight": true
+  },
+  "Mico_002_UltiArea": {
+    "Name": "Mico_002_UltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "mico_def_ulti_indicator",
+    "BlueExportName": "mico_def_ulti_indicator",
+    "RedExportName": "mico_def_ulti_indicator_red",
+    "Layer": "GroundHigh",
+    "Scale": 80,
+    "TimeMs": 6000,
+    "Radius": 800,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "Mico_002_UltiAreaExplosion"
+  },
+  "Mico_002_UltiAreaExplosion": {
+    "Name": "Mico_002_UltiAreaExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_002_ulti_landing",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 700,
+    "Damage": 1190,
+    "Type": "Damage",
+    "PushbackStrength": 50
+  },
+  "Leaper003WeaponArea": {
+    "Name": "Leaper003WeaponArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_003_atk",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 450,
+    "Type": "Damage",
+    "RequireLineOfSight": true
+  },
+  "Leaper003UltiArea": {
+    "Name": "Leaper003UltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "mico_def_ulti_indicator",
+    "BlueExportName": "mico_def_ulti_indicator",
+    "RedExportName": "mico_def_ulti_indicator_red",
+    "Layer": "GroundHigh",
+    "Scale": 80,
+    "TimeMs": 6000,
+    "Radius": 800,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "Leaper003UltiAreaExplosion"
+  },
+  "Leaper003UltiAreaExplosion": {
+    "Name": "Leaper003UltiAreaExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mico_003_ulti_landing",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 700,
+    "Damage": 1190,
+    "Type": "Damage",
+    "PushbackStrength": 50
+  },
+  "CrowOverchargedUltiKnifes": {
+    "Name": "CrowOverchargedUltiKnifes",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "crow_def_oc_ult_jump",
+    "BlueExportName": "crow_def_oc_ult_jump",
+    "RedExportName": "crow_def_oc_ult_jump_red",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 300,
+    "CustomValue": 14,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "CrowOverchargedUltiProjectile",
+    "BulletExplosionBulletDistance": 22
+  },
+  "TntDudeOverchargedExplosion": {
+    "Name": "TntDudeOverchargedExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "dynamike_overcharge_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 450,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150,
+    "DamageScaleDistanceNear": 30,
+    "DamageScaleDistanceFar": 30
+  },
+  "TntDudeOverchargedUltiExplosion": {
+    "Name": "TntDudeOverchargedUltiExplosion",
+    "ParentAreaEffectForSkin": "TntDudeUltiExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "dynamike_overcharge_ulti_explosion",
+    "Scale": 165,
+    "TimeMs": 700,
+    "Radius": 800,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 150,
+    "PushbackStrengthSelf": 250
+  },
+  "TntDudeOverchargedUltiClusterBombs": {
+    "Name": "TntDudeOverchargedUltiClusterBombs",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Scale": 165,
+    "TimeMs": 700,
+    "Radius": 800,
+    "CustomValue": 8,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "TntDudeOverchargedProjectile",
+    "BulletExplosionBulletDistance": 22
+  },
+  "KickerDudeMineTrail": {
+    "Name": "KickerDudeMineTrail",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "fang_def_atk_explode",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 800,
+    "CustomValue": 1,
+    "Type": "BulletExplosion",
+    "BulletExplosionBulletDistance": 1,
+    "BulletExplosionItem": "KickerDudeMine"
+  },
+  "EnragerOverchargedUlti": {
+    "Name": "EnragerOverchargedUlti",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "edgar_def_oc_jump",
+    "Scale": 100,
+    "TimeMs": 7000,
+    "Radius": 500,
+    "Damage": 200,
+    "CustomValue": 50,
+    "CustomValue2": 150,
+    "Type": "EnragerOverchargeSuper"
+  },
+  "TwinsThrowerExplosion": {
+    "Name": "TwinsThrowerExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "twin_def_atk_explode",
+    "Scale": 100,
+    "TimeMs": 600,
+    "Radius": 450,
+    "Type": "Damage",
+    "ChainAreaEffect": "TwinsThrowerExplosion2"
+  },
+  "TwinsThrowerExplosion2": {
+    "Name": "TwinsThrowerExplosion2",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "twin_def_atk_explode2",
+    "Scale": 150,
+    "TimeMs": 100,
+    "Radius": 800,
+    "Type": "Damage"
+  },
+  "AttacherExplosion": {
+    "Name": "AttacherExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "kit_def_ulti_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 450,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150
+  },
+  "Attacher002Explosion": {
+    "Name": "Attacher002Explosion",
+    "ParentAreaEffectForSkin": "AttacherExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "kit_002_ulti_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 450,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150
   }
 }
