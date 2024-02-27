@@ -310,5 +310,47 @@
     "TypeName": "Overcharge",
     "FallbackTypeName": "Coins",
     "FallbackAmount": 1000
+  },
+  "RankedStarSkin": {
+    "Name": "RankedStarSkin",
+    "TicketsInRankedDraw": 100,
+    "TypeName": "RankedStarSkin",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 500
+  },
+  "RankedStarSpray": {
+    "Name": "RankedStarSpray",
+    "TicketsInRankedDraw": 200,
+    "TypeName": "RankedStarSpray",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 170
+  },
+  "RankedStarProfilePic": {
+    "Name": "RankedStarProfilePic",
+    "TicketsInRankedDraw": 200,
+    "TypeName": "RankedStarProfilePic",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 130
+  },
+  "Bling Ranked S": {
+    "Name": "Bling Ranked S",
+    "TicketsInRankedDraw": 400,
+    "TypeName": "Bling",
+    "AmountMin": 100,
+    "AmountMax": 100
+  },
+  "Bling Ranked M": {
+    "Name": "Bling Ranked M",
+    "TicketsInRankedDraw": 90,
+    "TypeName": "Bling",
+    "AmountMin": 250,
+    "AmountMax": 250
+  },
+  "Bling Ranked L": {
+    "Name": "Bling Ranked L",
+    "TicketsInRankedDraw": 10,
+    "TypeName": "Bling",
+    "AmountMin": 1000,
+    "AmountMax": 1000
   }
 }

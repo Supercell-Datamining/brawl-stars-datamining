@@ -247,5 +247,38 @@
       19,
       69
     ]
+  },
+  "RankedStar": {
+    "Name": "RankedStar",
+    "TID": "TID_SHOP_STARR_DROP_RANKED",
+    "IsRankedDraw": true,
+    "SCW": "sc3d/ranked_rng_reward.glb",
+    "BackgroundFrameLabel": "ranked",
+    "TapEffectClip": "gacha_vfx_tap",
+    "FinalContainerEffectClip": "gacha_vfx_mythic",
+    "FinalContainerEffectClipBg": "gacha_vfx_mythic_bg",
+    "OpeningEffectClip": "gacha_vfx_open",
+    "OpeningEffectClipBg": "gacha_vfx_open_bg",
+    "Intro3DAnimStart": 0,
+    "Intro3DAnimEnd": 29,
+    "Idle3DAnimStart": 39,
+    "Idle3DAnimEnd": 73,
+    "Miss3DAnimStart": 75,
+    "Miss3DAnimEnd": 94,
+    "Upgrade3DAnimStart": 75,
+    "Upgrade3DAnimEnd": 94,
+    "Open3DAnimStart": 119,
+    "Open3DAnimEnd": 152,
+    "SoundMiss": "UI_Meta_Star_Tap_No_Upgrade",
+    "SoundUpgrade": "UI_Meta_Star_Tap_Upgrade",
+    "SoundReadyToOpen": "UI_Meta_Star_Mythic_VO",
+    "SoundReadyToOpen2": "Reveal_epic",
+    "SoundOpen": "UI_Meta_Star_Tap_Explode",
+    "FaceFileName": "characters.sc",
+    "FaceIdleExportName": "ranked_reward_idle",
+    "FaceOpenExportName": "ranked_reward_final",
+    "SoloOfferDefaultBgFrameName": "offer_rarity_mythic",
+    "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_MYTHIC",
+    "RarityFrameLabel": "mythic"
   }
 }

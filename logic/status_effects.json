@@ -1,0 +1,33 @@
+{
+  "DebugDefault": {
+    "Name": "DebugDefault",
+    "DurationTicks": 100,
+    "TriggerRate": 20,
+    "TriggerOnFirstTick": false,
+    "Stacking": false,
+    "Refreshable": true,
+    "Damage": 100,
+    "ServerOnly": false,
+    "UseColorMod": true,
+    "RedAdd": 0,
+    "GreenAdd": 100,
+    "BlueAdd": 0,
+    "LoopedEffect": "poisoned_001"
+  },
+  "Debug": {
+    "Name": "Debug",
+    "DurationTicks": 100,
+    "TriggerRate": 20,
+    "TriggerOnFirstTick": true,
+    "Stacking": false,
+    "Refreshable": false,
+    "Damage": 100,
+    "ServerOnly": false,
+    "UseColorMod": true,
+    "RedAdd": 0,
+    "GreenAdd": 100,
+    "BlueAdd": 0,
+    "LoopedEffect": "poisoned_001",
+    "TriggerEffect": "brock_def_explosion_blue"
+  }
+}

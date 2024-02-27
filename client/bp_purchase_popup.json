@@ -149,5 +149,41 @@
     "Jingle": "sfx/brawl_fighting_load_01.ogg",
     "Multiplier": 18,
     "PlusMultiplier": 20
+  },
+  "season24": {
+    "Name": "season24",
+    "Season": 23,
+    "HeroArea1": "ShotgunGirlDancer",
+    "HeroArea2": "ShotgunGirlDancerBlue",
+    "HeroArea3": "ShotgunGirlDancerPurple",
+    "FrameName": "24",
+    "Skin": "ShotgunGirlDancer",
+    "SkinChroma": "ShotgunGirlDancerBlue",
+    "Pin": "emoji_sandclock",
+    "Icon": "player_icon_bp_sandsoftime",
+    "Spray": "spray_sandsoftime",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
+  },
+  "season25": {
+    "Name": "season25",
+    "Season": 24,
+    "HeroArea1": "RopeDudeFenrir",
+    "HeroArea2": "RopeDudeFenrirRed",
+    "HeroArea3": "RopeDudeFenrirBlack",
+    "FrameName": "25",
+    "Skin": "RopeDudeFenrir",
+    "SkinChroma": "RopeDudeFenrirRed",
+    "Pin": "emoji_skull_ragnarock",
+    "Icon": "player_icon_bp_ragnarok",
+    "Spray": "spray_ragnarok",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
   }
 }

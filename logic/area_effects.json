@@ -68,6 +68,22 @@
     "Effect": "brock_007_explosion_blue",
     "Scale": 100
   },
+  "Brock_008_atk_area": {
+    "Name": "Brock_008_atk_area",
+    "ParentAreaEffectForSkin": "Brock_def_atk_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "brock_008_atk_ground",
+    "Scale": 70
+  },
+  "Brock_008_ulti_area": {
+    "Name": "Brock_008_ulti_area",
+    "ParentAreaEffectForSkin": "Brock_def_ulti_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "brock_008_ulti",
+    "Scale": 100
+  },
   "RocketGirlExplosion": {
     "Name": "RocketGirlExplosion",
     "FileName": "sc/effects.sc",
@@ -272,6 +288,30 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "spike_007_ulti_explosion",
+    "Scale": 170
+  },
+  "Spike_008_atk1_explosion": {
+    "Name": "Spike_008_atk1_explosion",
+    "ParentAreaEffectForSkin": "CactusExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "spike_008_atk1_explosion",
+    "Scale": 100
+  },
+  "Spike_008_atk2": {
+    "Name": "Spike_008_atk2",
+    "ParentAreaEffectForSkin": "CactusSpikeExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "BulletExplosionBullet": "Spike008Frag"
+  },
+  "Spike_008_ulti_explosion": {
+    "Name": "Spike_008_ulti_explosion",
+    "ParentAreaEffectForSkin": "CactusUltiExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "spike_008_ulti_explosion",
     "Scale": 170
   },
   "Barley_def_atk": {
@@ -865,6 +905,32 @@
     "PushbackStrength": 150,
     "PushbackStrengthSelf": 250
   },
+  "Mike_009_explosion": {
+    "Name": "Mike_009_explosion",
+    "ParentAreaEffectForSkin": "TntDudeExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "dynamike_009_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 450,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150
+  },
+  "Mike_009_ulti_explosion": {
+    "Name": "Mike_009_ulti_explosion",
+    "ParentAreaEffectForSkin": "TntDudeUltiExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "dynamike_009_ulti_explosion",
+    "Scale": 165,
+    "TimeMs": 700,
+    "Radius": 800,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 150,
+    "PushbackStrengthSelf": 250
+  },
   "BowDudeExplosion": {
     "Name": "BowDudeExplosion",
     "FileName": "sc/effects.sc",
@@ -1125,6 +1191,18 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "brock_007_dot",
+    "Scale": 28,
+    "TimeMs": 2900,
+    "Radius": 300,
+    "Type": "Dot",
+    "DelayFirstTick": true
+  },
+  "BurnMainAttackAngry": {
+    "Name": "BurnMainAttackAngry",
+    "ParentAreaEffectForSkin": "BurnMainAttack",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "brock_008_atk_area",
     "Scale": 28,
     "TimeMs": 2900,
     "Radius": 300,
@@ -2002,6 +2080,30 @@
     "Type": "Damage",
     "PushbackStrengthSelf": 150
   },
+  "WallyOverchargedUltiArea": {
+    "Name": "WallyOverchargedUltiArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "sprout_overcharged_ulti_explosion",
+    "Scale": 170,
+    "TimeMs": 500,
+    "Radius": 400,
+    "Damage": 800,
+    "CustomValue": 1,
+    "Type": "WallSpawn",
+    "OverchargedChainAreaEffect": "WallyOverchargedUltiWallDamageArea",
+    "SkinnedCustomValue": 1
+  },
+  "WallyOverchargedUltiWallDamageArea": {
+    "Name": "WallyOverchargedUltiWallDamageArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 50,
+    "TimeMs": 10000,
+    "Radius": 400,
+    "Damage": 500,
+    "Type": "Dot"
+  },
   "Sprout_002_atk": {
     "Name": "Sprout_002_atk",
     "ParentAreaEffectForSkin": "WallyExplosion",
@@ -2135,6 +2237,7 @@
     "TimeMs": 700,
     "Radius": 800,
     "Damage": 25,
+    "DamageScaleType": 1,
     "Type": "Damage",
     "PushbackStrength": 150
   },
@@ -2146,6 +2249,7 @@
     "TimeMs": 700,
     "Radius": 600,
     "Damage": 160,
+    "DamageScaleType": 1,
     "CustomValue": 8,
     "Type": "BulletExplosion",
     "BulletExplosionBullet": "TrickshotDudeGadgetProjectile",
@@ -2159,6 +2263,7 @@
     "TimeMs": 700,
     "Radius": 600,
     "Damage": 100,
+    "DamageScaleType": 1,
     "CustomValue": 10,
     "Type": "BulletExplosion",
     "BulletExplosionBullet": "CactusSpikeGadget",
@@ -2299,6 +2404,7 @@
     "TimeMs": 300,
     "Radius": 1000,
     "Damage": 100,
+    "DamageScaleType": 1,
     "Type": "Damage",
     "RequireLineOfSight": true
   },
@@ -3098,14 +3204,13 @@
   },
   "Roller004Fire": {
     "Name": "Roller004Fire",
-    "ParentAreaEffectForSkin": "RollerFire",
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "stu_004_ulti_trail",
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
-    "Type": "SetOnFire"
+    "Type": "SetOnFireIce"
   },
   "StickyBombClusterExplosion": {
     "Name": "StickyBombClusterExplosion",
@@ -3362,6 +3467,32 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "buzz_002_ulti_explosion",
+    "Scale": 150,
+    "TimeMs": 700,
+    "Radius": 700,
+    "CustomValue": 30,
+    "CustomValue2": 10,
+    "Type": "Stun"
+  },
+  "PullRopeStun006": {
+    "Name": "PullRopeStun006",
+    "ParentAreaEffectForSkin": "PullRopeStun",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "buzz_006_ulti_exp",
+    "Scale": 150,
+    "TimeMs": 700,
+    "Radius": 700,
+    "CustomValue": 30,
+    "CustomValue2": 10,
+    "Type": "Stun"
+  },
+  "PullRopeStunOvercharge": {
+    "Name": "PullRopeStunOvercharge",
+    "ParentAreaEffectForSkin": "PullRopeStun",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "buzz_overcharged_ulti_explosion",
     "Scale": 150,
     "TimeMs": 700,
     "Radius": 700,
@@ -3655,12 +3786,24 @@
     "Name": "KickerDudeMineExplosion",
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
-    "Effect": "fang_def_ocExp_blue",
+    "Effect": "fang_def_ultiExp_blue",
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 468,
     "Damage": 99,
     "Type": "Damage"
+  },
+  "KickerDudeMineExplosionOC": {
+    "Name": "KickerDudeMineExplosionOC",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "fang_def_ocExp_blue",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 468,
+    "Damage": 99,
+    "Type": "Damage",
+    "SourceType": 8
   },
   "DuplicatorDuplicateArea": {
     "Name": "DuplicatorDuplicateArea",
@@ -4073,7 +4216,6 @@
     "Name": "JesterUltiDamageArea",
     "FileName": "sc/effects_brawler.sc",
     "OwnExportName": "particle_dummy",
-    "BlueExportName": "chester_def_ulti_damageArea",
     "Layer": "GroundHigh",
     "Effect": "chester_def_ulti_damageArea",
     "Scale": 250,
@@ -4103,9 +4245,37 @@
     "ParentAreaEffectForSkin": "JesterUltiDamageArea",
     "FileName": "sc/effects_brawler.sc",
     "OwnExportName": "particle_dummy",
-    "BlueExportName": "chester_def_ulti_damageArea",
     "Layer": "GroundHigh",
     "Effect": "chester_002_ulti_area",
+    "Scale": 250,
+    "TimeMs": 10000,
+    "Radius": 1100,
+    "Damage": 160,
+    "Type": "Dot",
+    "SlowStrength": 350,
+    "FreezeTicks": 21
+  },
+  "Chester003UltiExplosion": {
+    "Name": "Chester003UltiExplosion",
+    "ParentAreaEffectForSkin": "JesterUltiExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "chester_003_ulti_explode",
+    "Scale": 165,
+    "TimeMs": 700,
+    "Radius": 800,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 150,
+    "PushbackStrengthSelf": 250
+  },
+  "Chester003UltiDamageArea": {
+    "Name": "Chester003UltiDamageArea",
+    "ParentAreaEffectForSkin": "JesterUltiDamageArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "particle_dummy",
+    "Layer": "GroundHigh",
+    "Effect": "chester_003_ulti_area",
     "Scale": 250,
     "TimeMs": 10000,
     "Radius": 1100,
@@ -4354,9 +4524,7 @@
     "Radius": 1000,
     "Damage": 1200,
     "CustomValue": 50,
-    "Type": "HealAndDamage",
-    "DamageScaleDistanceNear": 100,
-    "DamageScaleDistanceFar": 50
+    "Type": "HealAndDamage"
   },
   "ReviverDamageAreaDoubleHeal": {
     "Name": "ReviverDamageAreaDoubleHeal",
@@ -4367,9 +4535,7 @@
     "TimeMs": 300,
     "Radius": 1000,
     "Damage": -2400,
-    "Type": "Heal",
-    "DamageScaleDistanceNear": 100,
-    "DamageScaleDistanceFar": 50
+    "Type": "Heal"
   },
   "ReviverDamageAreaDoubleDamage": {
     "Name": "ReviverDamageAreaDoubleDamage",
@@ -4380,9 +4546,7 @@
     "TimeMs": 300,
     "Radius": 1000,
     "Damage": 2400,
-    "Type": "Damage",
-    "DamageScaleDistanceNear": 100,
-    "DamageScaleDistanceFar": 50
+    "Type": "Damage"
   },
   "DuelistSuperChargeArea": {
     "Name": "DuelistSuperChargeArea",
@@ -4502,6 +4666,30 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "chuck_def_ulti_destroy",
+    "Scale": 70,
+    "TimeMs": 700,
+    "Radius": 300,
+    "Type": "Effect"
+  },
+  "Conductor002SignArea": {
+    "Name": "Conductor002SignArea",
+    "ParentAreaEffectForSkin": "ConductorSignArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "chuck_002_ulti_spawn",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 550,
+    "CustomValue": 10,
+    "Type": "Damage",
+    "PushbackStrength": 100
+  },
+  "Conductor002SignAreaDestroy": {
+    "Name": "Conductor002SignAreaDestroy",
+    "ParentAreaEffectForSkin": "ConductorSignAreaDestroy",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "chuck_002_ulti_destroy",
     "Scale": 70,
     "TimeMs": 700,
     "Radius": 300,
@@ -4803,10 +4991,12 @@
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 800,
+    "Damage": -50,
+    "DamageScaleType": 3,
     "CustomValue": 1,
     "Type": "BulletExplosion",
     "BulletExplosionBulletDistance": 1,
-    "BulletExplosionItem": "KickerDudeMine"
+    "BulletExplosionItem": "KickerDudeMineOC"
   },
   "EnragerOverchargedUlti": {
     "Name": "EnragerOverchargedUlti",
@@ -4863,6 +5053,41 @@
     "TimeMs": 700,
     "Radius": 450,
     "Type": "Damage",
+    "PushbackStrengthSelf": 150
+  },
+  "InsectManUltiDamageArea": {
+    "Name": "InsectManUltiDamageArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "angelo_def_ulti",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Damage": 500,
+    "Type": "Dot"
+  },
+  "InsectManUltiSwitchSkillArea": {
+    "Name": "InsectManUltiSwitchSkillArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "angelo_def_ulti",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Type": "SwitchSkill",
+    "IsPersonal": true
+  },
+  "InsectManGadgetDamageArea": {
+    "Name": "InsectManGadgetDamageArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "angelo_def_gadget1",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 700,
+    "Damage": 2200,
+    "CustomValue": 15,
+    "Type": "DamageDrain",
     "PushbackStrengthSelf": 150
   }
 }

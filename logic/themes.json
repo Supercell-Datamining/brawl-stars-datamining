@@ -660,6 +660,7 @@
   },
   "Brawlidays2023": {
     "Name": "Brawlidays2023",
+    "Disabled": true,
     "FileName": "sc/background_brawlidays2023.sc",
     "ExportName": "bgr_brawlidays2023",
     "ThemeMusic": "Xmas_menu",
@@ -668,6 +669,7 @@
   },
   "LNY24": {
     "Name": "LNY24",
+    "Disabled": true,
     "FileName": "sc/background_lny24.sc",
     "ExportName": "bgr_lny24",
     "ThemeMusic": "Retro_Fight_Menu",
@@ -676,6 +678,7 @@
   },
   "Cartoon": {
     "Name": "Cartoon",
+    "Disabled": true,
     "FileName": "sc/background_cartoon.sc",
     "ExportName": "bgr_cartoon",
     "ThemeMusic": "Brawly_Toonz_Menu",
@@ -684,6 +687,7 @@
   },
   "Superbrawl": {
     "Name": "Superbrawl",
+    "Disabled": true,
     "FileName": "sc/background_superbrawl.sc",
     "ExportName": "bgr_superbrawl",
     "ThemeMusic": "Highschool_Menu",
@@ -692,6 +696,7 @@
   },
   "Carnaval": {
     "Name": "Carnaval",
+    "Disabled": true,
     "FileName": "sc/background_carnaval.sc",
     "ExportName": "bgr_carnaval",
     "ParticleFileName": "sc/ui.sc",
@@ -701,5 +706,52 @@
     "ThemeMusic": "Footbrawl_menu_muzak",
     "LoadingJingle": "sfx/brawl_fighting_load_01.ogg",
     "LoadingScreen": "sc/loading_lny2024.sc"
+  },
+  "Sands": {
+    "Name": "Sands",
+    "FileName": "sc/background_sands.sc",
+    "ExportName": "bgr_sands",
+    "ThemeMusic": "Brawzaar_menu_muzak",
+    "LoadingJingle": "sfx/hindu_brawl_loading_01.ogg",
+    "LoadingScreen": "sc/loading_sands.sc"
+  },
+  "Ragnarok": {
+    "Name": "Ragnarok",
+    "FileName": "sc/background_ragnarok.sc",
+    "ExportName": "bgr_ragnarok",
+    "ThemeMusic": "Ragnarok_Menu",
+    "LoadingJingle": "sfx/ragnarok_load_01.ogg",
+    "LoadingScreen": "sc/loading_ragnarok.sc"
+  },
+  "LoveSwamp": {
+    "Name": "LoveSwamp",
+    "FileName": "sc/background_love_swamp.sc",
+    "ExportName": "bgr_loveswamp",
+    "ThemeMusic": "Loveswamp_Menu",
+    "LoadingJingle": "sfx/swampoflove_load_01.ogg"
+  },
+  "Melody": {
+    "Name": "Melody",
+    "FileName": "sc/background_melody.sc",
+    "ExportName": "bgr_melody",
+    "ThemeMusic": "Kpop_Menu",
+    "LoadingJingle": "sfx/kpop_load_01.ogg",
+    "LoadingScreen": "sc/loading_melodie.sc"
+  },
+  "BabyShark": {
+    "Name": "BabyShark",
+    "FileName": "sc/background_babyshark.sc",
+    "ExportName": "bgr_babyshark",
+    "ThemeMusic": "Babyshark_Menu",
+    "LoadingJingle": "sfx/babyshark_load_01.ogg",
+    "LoadingScreen": "sc/loading_babyshark.sc"
+  },
+  "MechaLeon": {
+    "Name": "MechaLeon",
+    "FileName": "sc/background_mecha_leon.sc",
+    "ExportName": "bgr_mecha_leon",
+    "ThemeMusic": "MechMenuMusic",
+    "LoadingJingle": "sfx/brawl_robotfactory_load_01.ogg",
+    "LoadingScreen": "sc/loading_leon_mecha.sc"
   }
 }

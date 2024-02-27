@@ -1522,7 +1522,6 @@
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "InterruptsAction": true,
-    "UsableInShadowRealm": true,
     "CustomValue1": 150,
     "CustomValue2": 50
   },
@@ -1631,14 +1630,13 @@
   "Leaper_Shotgun": {
     "Name": "Leaper_Shotgun",
     "Type": "repeat_shot",
-    "SubType": 1,
+    "SubType": 5,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
     "ActiveTicks": 5,
     "AnimationIndex": 1,
     "SetAttackAngle": true,
     "AimGuideType": 4,
-    "InterruptsAction": true,
     "Range": 9,
     "RequireEnemyInRange": true,
     "CustomObject": "LeaperShotgunProjectile",
@@ -1696,5 +1694,50 @@
     "CustomValue2": 3000,
     "CustomValue3": 33,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_MISSING_TWIN"
+  },
+  "AxeJuggler_ProjectileSpeed": {
+    "Name": "AxeJuggler_ProjectileSpeed",
+    "Type": "chained_proj_speed",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_on_loop",
+    "ActiveTicks": 100,
+    "CustomValue1": 25,
+    "CustomValue2": 60,
+    "MissingTargetText": "TID_AXE_JUGGLER_ACCESSORY_BLOCKED_MISSING_NOTES",
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "AxeJuggler_Shield": {
+    "Name": "AxeJuggler_Shield",
+    "Type": "consumable_shield",
+    "SubType": 1,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "CustomValue1": 15,
+    "CustomValue2": 140,
+    "MissingTargetText": "TID_AXE_JUGGLER_ACCESSORY_BLOCKED_MISSING_NOTES",
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_SHIELD_ALREADY_ACTIVE"
+  },
+  "InsectMan_Fly": {
+    "Name": "InsectMan_Fly",
+    "Type": "activate_skill",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_on_loop",
+    "ActiveTicks": 20,
+    "CustomObject": "InsectManChargeGadget",
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "InsectMan_Pierce": {
+    "Name": "InsectMan_Pierce",
+    "Type": "next_attack_change",
+    "SubType": 16,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_on_loop",
+    "ActiveTicks": 100000,
+    "CustomValue1": 1,
+    "CustomValue2": 1,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   }
 }

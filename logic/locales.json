@@ -73,7 +73,8 @@
     "TermsAndServiceUrl_Yoozoo": "https://m.youzu.com/about/services.html?noheader=100&cid=m_bs_service",
     "PrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "OlderPrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
-    "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/en/account/index.html"
+    "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/en/account/index.html",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "CN": {
     "Name": "CN",
@@ -148,7 +149,8 @@
     "TermsAndServiceUrl_Yoozoo": "https://m.youzu.com/about/services.html?noheader=100&cid=m_bs_service",
     "PrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "OlderPrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
-    "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/zh_cn/account/index.html"
+    "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/zh_cn/account/index.html",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/zh_cn/articles/starr-drops-3.html"
   },
   "AR": {
     "Name": "AR",
@@ -199,7 +201,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ar/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ar/articles/starr-drops-3.html"
   },
   "FR": {
     "Name": "FR",
@@ -251,7 +254,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/fr/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fr/articles/starr-drops-3.html"
   },
   "DOUBLE": {
     "Name": "DOUBLE",
@@ -301,7 +305,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "EMPTY": {
     "Name": "EMPTY",
@@ -351,7 +356,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "DOUBLEDOUBLE": {
     "Name": "DOUBLEDOUBLE",
@@ -401,7 +407,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "TEXT": {
     "Name": "TEXT",
@@ -460,7 +467,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "WORD": {
     "Name": "WORD",
@@ -519,7 +527,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "DE": {
     "Name": "DE",
@@ -570,7 +579,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/de/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/de/articles/starr-drops-3.html"
   },
   "ES": {
     "Name": "ES",
@@ -620,7 +630,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/es/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/es/articles/starr-drops-3.html"
   },
   "IT": {
     "Name": "IT",
@@ -670,7 +681,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/it/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/it/articles/starr-drops-3.html"
   },
   "JP": {
     "Name": "JP",
@@ -721,7 +733,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ja/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/jp/articles/starr-drops-3.html"
   },
   "CNT": {
     "Name": "CNT",
@@ -770,7 +783,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "FALSE",
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/zh/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/cnt/articles/starr-drops-3.html"
   },
   "KR": {
     "Name": "KR",
@@ -820,7 +834,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ko/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ko/articles/starr-drops-3.html"
   },
   "NL": {
     "Name": "NL",
@@ -870,7 +885,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/nl/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/nl/articles/starr-drops-3.html"
   },
   "PT": {
     "Name": "PT",
@@ -920,7 +936,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/pt/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/pt/articles/starr-drops-3.html"
   },
   "RU": {
     "Name": "RU",
@@ -971,7 +988,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ru/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ru/articles/starr-drops-3.html"
   },
   "TR": {
     "Name": "TR",
@@ -1021,7 +1039,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/tr/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/tr/articles/starr-drops-3.html"
   },
   "ID": {
     "Name": "ID",
@@ -1071,7 +1090,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/id/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/id/articles/starr-drops-3.html"
   },
   "MS": {
     "Name": "MS",
@@ -1121,7 +1141,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ms/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ms/articles/starr-drops-3.html"
   },
   "VI": {
     "Name": "VI",
@@ -1171,7 +1192,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "TH": {
     "Name": "TH",
@@ -1222,7 +1244,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "FI": {
     "Name": "FI",
@@ -1273,7 +1296,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/fi/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fi/articles/starr-drops-3.html"
   },
   "TEXT_ASIA": {
     "Name": "TEXT_ASIA",
@@ -1338,7 +1362,8 @@
     "UseWhiteSpaceToReplaceLineBreak": "TRUE",
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "WORD_ASIA": {
     "Name": "WORD_ASIA",
@@ -1404,7 +1429,8 @@
     "SinglePageAppEsportLaserboxStagingUrl": "https://brawlstars.inbox-staging.supercell.com/index.html#/en/esport",
     "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/esport/manifest.json",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "PL": {
     "Name": "PL",
@@ -1452,7 +1478,8 @@
     "SinglePageAppEsportLaserboxStagingUrl": "https://brawlstars.inbox-staging.supercell.com/index.html#/pl/esport",
     "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/pl/esport/manifest.json",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   },
   "HE": {
     "Name": "HE",
@@ -1501,6 +1528,7 @@
     "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/esport/manifest.json",
     "IsRTL": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
-    "FallbackToHelpshiftCN": "TRUE"
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
   }
 }

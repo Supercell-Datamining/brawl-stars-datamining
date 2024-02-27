@@ -388,5 +388,25 @@
     "Name": "TitleBP23",
     "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON23",
     "Gradient": "Plus"
+  },
+  "TitleMasteryAngelo": {
+    "Name": "TitleMasteryAngelo",
+    "TitleTID": "TID_TITLE_MASTERY_ANGELO",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryMelody": {
+    "Name": "TitleMasteryMelody",
+    "TitleTID": "TID_TITLE_MASTERY_MELODY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleBP24": {
+    "Name": "TitleBP24",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON24",
+    "Gradient": "Plus"
+  },
+  "TitleBP25": {
+    "Name": "TitleBP25",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON25",
+    "Gradient": "Plus"
   }
 }

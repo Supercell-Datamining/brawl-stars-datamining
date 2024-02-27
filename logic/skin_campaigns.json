@@ -112,7 +112,6 @@
     "BgItemName": "bg_campaign_15",
     "BgOfferPopup": "offer_bgr_wf2023",
     "CampaignIconExportName": "icon_skins_wf",
-    "CatalogSortingOrder": -20,
     "CatalogNameOverrideTID": "TID_CATALOG_NAME_BSC"
   },
   "BRAWLIDAYS_2018": {
@@ -202,8 +201,7 @@
     "NameTID": "TID_SKIN_INFO_BRAWLOWEEN",
     "BgItemName": "bg_campaign_3",
     "BgOfferPopup": "offer_bgr_brawloween",
-    "CampaignIconExportName": "icon_skins_brawloween",
-    "CatalogSortingOrder": -5
+    "CampaignIconExportName": "icon_skins_brawloween"
   },
   "LEGENDARYSET": {
     "Name": "LEGENDARYSET",
@@ -302,7 +300,8 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LANTERN",
     "BgItemName": "bg_campaign_lantern",
     "BgOfferPopup": "offer_bgr_ramadan2023",
-    "CampaignIconExportName": "icon_skins_lantern"
+    "CampaignIconExportName": "icon_skins_lantern",
+    "CatalogSortingOrder": -25
   },
   "DEEPSEA": {
     "Name": "DEEPSEA",
@@ -330,9 +329,9 @@
     "Name": "MECHA",
     "NameTID": "TID_SKIN_INFO_MECHA",
     "BgItemName": "bg_campaign_mecha",
-    "BgOfferPopup": "offer_bgr_mecha_edgar",
+    "BgOfferPopup": "offer_bgr_mecha_leon",
     "CampaignIconExportName": "icon_skins_mecha",
-    "CatalogSortingOrder": -30
+    "CatalogSortingOrder": -20
   },
   "GHOST_TRAIN": {
     "Name": "GHOST_TRAIN",
@@ -369,8 +368,7 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_RETRO",
     "BgItemName": "bg_campaign_retro",
     "BgOfferPopup": "offer_bgr_retro2023",
-    "CampaignIconExportName": "icon_skins_retro",
-    "CatalogSortingOrder": -25
+    "CampaignIconExportName": "icon_skins_retro"
   },
   "LASTBOX": {
     "Name": "LASTBOX",
@@ -444,7 +442,8 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_BUNNY",
     "BgItemName": "bg_campaign_bunny_brigade",
     "BgOfferPopup": "offer_bgr_easter2023",
-    "CampaignIconExportName": "icon_skins_bunny_brigade"
+    "CampaignIconExportName": "icon_skins_bunny_brigade",
+    "CatalogSortingOrder": -5
   },
   "JUNGLE": {
     "Name": "JUNGLE",
@@ -563,16 +562,14 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_HINDU",
     "BgItemName": "bg_campaign_hindu",
     "BgOfferPopup": "offer_bgr_hindu",
-    "CampaignIconExportName": "icon_skins_hindu",
-    "CatalogSortingOrder": -10
+    "CampaignIconExportName": "icon_skins_hindu"
   },
   "CIRCUS": {
     "Name": "CIRCUS",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_CIRCUS",
     "BgItemName": "bg_campaign_circus",
     "BgOfferPopup": "offer_bgr_circus",
-    "CampaignIconExportName": "icon_skins_circus",
-    "CatalogSortingOrder": -15
+    "CampaignIconExportName": "icon_skins_circus"
   },
   "WF_2023": {
     "Name": "WF_2023",
@@ -630,5 +627,29 @@
     "BgOfferPopup": "offer_bgr_wf2023",
     "CampaignIconExportName": "icon_skins_wf",
     "BundledUnderCatalogCategory": "WF_2020"
+  },
+  "NORSEGODS": {
+    "Name": "NORSEGODS",
+    "NameTID": "TID_SKIN_INFO_NORSEGODS",
+    "BgItemName": "bg_campaign_ragnarok",
+    "BgOfferPopup": "offer_bgr_ragnarok",
+    "CampaignIconExportName": "icon_skins_ragnarok",
+    "CatalogSortingOrder": -30
+  },
+  "BABYSHARK": {
+    "Name": "BABYSHARK",
+    "NameTID": "TID_SKIN_INFO_BABYSHARK",
+    "BgItemName": "bg_campaign_babyshark",
+    "BgOfferPopup": "offer_bgr_babyshark",
+    "CampaignIconExportName": "icon_skins_babyshark",
+    "CatalogSortingOrder": -15
+  },
+  "APRILFOOLS": {
+    "Name": "APRILFOOLS",
+    "NameTID": "TID_SKIN_INFO_APRILFOOLS",
+    "BgItemName": "bg_campaign_aprilfools",
+    "BgOfferPopup": "offer_bgr_blue",
+    "CampaignIconExportName": "icon_skins_aprilfools",
+    "CatalogSortingOrder": -10
   }
 }

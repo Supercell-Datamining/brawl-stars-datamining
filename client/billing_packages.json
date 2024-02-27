@@ -4563,7 +4563,7 @@
     "RefundGemValue": 169,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.scid.seasonpassbundle": {
     "Name": "com.supercell.laser.scid.seasonpassbundle",
@@ -4582,7 +4582,7 @@
     "RefundGemValue": 169,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.gempack1_yt": {
     "Name": "com.supercell.laser.gempack1_yt",
@@ -4617,8 +4617,7 @@
     "RefundGemValue": 469,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false,
-    "BundledTierCount": 10
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.seasonpassbundle5": {
     "Name": "com.supercell.laser.seasonpassbundle5",
@@ -4636,8 +4635,7 @@
     "Order": 0,
     "RefundGemValue": 319,
     "PremiumPass": true,
-    "PremiumPlusPass": false,
-    "BundledTierCount": 5
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.scid10.gempack0": {
     "Name": "com.supercell.laser.scid10.gempack0",
@@ -4784,7 +4782,7 @@
     "RefundGemValue": 319,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.razer5.gempack0": {
     "Name": "com.supercell.laser.razer5.gempack0",
@@ -5187,7 +5185,7 @@
     "RefundGemValue": 319,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.coda5.gempack0": {
     "Name": "com.supercell.laser.coda5.gempack0",
@@ -5590,7 +5588,7 @@
     "RefundGemValue": 319,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.midas5.gempack0": {
     "Name": "com.supercell.laser.midas5.gempack0",
@@ -6014,7 +6012,7 @@
     "RefundGemValue": 319,
     "SCIDStore": true,
     "PremiumPass": true,
-    "PremiumPlusPass": false
+    "PremiumPlusPass": true
   },
   "com.supercell.laser.carry5.gempack0": {
     "Name": "com.supercell.laser.carry5.gempack0",

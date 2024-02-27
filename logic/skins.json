@@ -40,9 +40,9 @@
   "RocketGirlDefault": {
     "Name": "RocketGirlDefault",
     "Conf": "RocketGirlDefault",
-    "BlueTexture": "brock_tex.pvr+hue(masks/brock/brock_ammo_msk.png,230.233002)",
+    "BlueTexture": "brock_tex.pvr",
     "RedTexture": "brock_tex.pvr",
-    "BlueSpecular": "brock_tex.pvr+hue(masks/brock/brock_ammo_msk.png,213.488007)",
+    "BlueSpecular": "brock_tex.pvr",
     "RedSpecular": "brock_tex.pvr"
   },
   "RocketGirlBeach": {
@@ -56,17 +56,17 @@
     "TID": "TID_ROCKET_BEACH_SKIN",
     "ShopTID": "TID_ROCKET_BEACH_SKIN_SHOP",
     "Features": "MODEL,VFX,SFX",
-    "BlueTexture": "brock_beach_tex.pvr+hue(masks/brock/brock_ammo_beach_msk.png,230.233002)",
+    "BlueTexture": "brock_beach_tex.pvr",
     "RedTexture": "brock_beach_tex.pvr",
-    "BlueSpecular": "brock_beach_tex.pvr+hue(masks/brock/brock_ammo_beach_msk.png,213.488007)",
+    "BlueSpecular": "brock_beach_tex.pvr",
     "RedSpecular": "brock_beach_tex.pvr"
   },
   "TntGuyDefault": {
     "Name": "TntGuyDefault",
     "Conf": "TntGuyDefault",
-    "BlueTexture": "dynamike_tex.pvr+hue(masks/dynamike/dynamike_red_blue_msk.png,221.860001)",
+    "BlueTexture": "dynamike_tex.pvr",
     "RedTexture": "dynamike_tex.pvr",
-    "BlueSpecular": "dynamike_tex.pvr+hue(masks/dynamike/dynamike_red_blue_msk.png,213.488007)",
+    "BlueSpecular": "dynamike_tex.pvr",
     "RedSpecular": "dynamike_tex.pvr"
   },
   "LuchadorDefault": {
@@ -239,6 +239,7 @@
   "BullGuyHair": {
     "Name": "BullGuyHair",
     "Conf": "BullGuyHair",
+    "Campaigns": "NORSEGODS",
     "PriceBling": 2750,
     "PriceGems": 79,
     "DiscountPriceGems": 69,
@@ -344,9 +345,9 @@
     "Name": "HealstationDefault",
     "Conf": "HealstationDefault",
     "BlueTexture": "pam_turret_blue_tex.pvr",
-    "RedTexture": "pam_turret_red_tex.pvr",
+    "RedTexture": "pam_turret_blue_tex.pvr",
     "BlueSpecular": "pam_turret_blue_tex.pvr",
-    "RedSpecular": "pam_turret_red_tex.pvr"
+    "RedSpecular": "pam_turret_blue_tex.pvr"
   },
   "BarrelbotDefault": {
     "Name": "BarrelbotDefault",
@@ -354,7 +355,7 @@
     "BlueTexture": "darryl_tex.pvr",
     "RedTexture": "darryl_tex.pvr",
     "BlueSpecular": "darryl_tex.pvr",
-    "RedSpecular": "darryl_tex.pvr+value(masks/darryl/darryl_msk.png,0.698000)"
+    "RedSpecular": "darryl_tex.pvr"
   },
   "BlackholePetDefault": {
     "Name": "BlackholePetDefault",
@@ -570,9 +571,9 @@
     "TID": "TID_DYNAMIKE_SANTA_SKIN",
     "ShopTID": "TID_DYNAMIKE_SANTA_SKIN_SHOP",
     "Features": "MODEL,VFX",
-    "BlueTexture": "dynamike_santa_tex.pvr+hue(masks/dynamike/dynamike_santa_msk.png,221.860001)",
+    "BlueTexture": "dynamike_santa_tex.pvr",
     "RedTexture": "dynamike_santa_tex.pvr",
-    "BlueSpecular": "dynamike_santa_tex.pvr+hue(masks/dynamike/dynamike_santa_msk.png,213.488007)",
+    "BlueSpecular": "dynamike_santa_tex.pvr",
     "RedSpecular": "dynamike_santa_tex.pvr"
   },
   "TntGuyChef": {
@@ -586,9 +587,9 @@
     "TID": "TID_DYNAMIKE_CHEF_SKIN",
     "ShopTID": "TID_DYNAMIKE_CHEF_SKIN_SHOP",
     "Features": "MODEL,VFX",
-    "BlueTexture": "dynamike_chef_tex.pvr+hue(masks/dynamike/dynamike_chef_msk.png,221.860001)",
+    "BlueTexture": "dynamike_chef_tex.pvr",
     "RedTexture": "dynamike_chef_tex.pvr",
-    "BlueSpecular": "dynamike_chef_tex.pvr+hue(masks/dynamike/dynamike_chef_msk.png,213.488007)",
+    "BlueSpecular": "dynamike_chef_tex.pvr",
     "RedSpecular": "dynamike_chef_tex.pvr"
   },
   "RocketGirlBoombox": {
@@ -601,9 +602,9 @@
     "TID": "TID_BROCK_BOOMBOX_SKIN",
     "ShopTID": "TID_BROCK_BOOMBOX_SKIN_SHOP",
     "Features": "MODEL",
-    "BlueTexture": "brock_boombox_tex.pvr+hue(masks/brock/brock_ammo_boombox_msk.png,230.233002)",
+    "BlueTexture": "brock_boombox_tex.pvr",
     "RedTexture": "brock_boombox_tex.pvr",
-    "BlueSpecular": "brock_boombox_tex.pvr+hue(masks/brock/brock_ammo_boombox_msk.png,213.488007)",
+    "BlueSpecular": "brock_boombox_tex.pvr",
     "RedSpecular": "brock_boombox_tex.pvr"
   },
   "BarkeepWizard": {
@@ -836,7 +837,9 @@
     "Name": "RoboWarsBaseDefault",
     "Conf": "RoboWarsBaseDefault",
     "BlueTexture": "siege_base.pvr",
-    "RedTexture": "siege_base_red.pvr"
+    "RedTexture": "siege_base.pvr",
+    "BlueSpecular": "siege_base.pvr",
+    "RedSpecular": "siege_base.pvr"
   },
   "RosaDefault": {
     "Name": "RosaDefault",
@@ -1019,10 +1022,10 @@
     "TID": "TID_BO_MECHA_SKIN",
     "ShopTID": "TID_BO_MECHA_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "bo_mecha_tex.png+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedTexture": "bo_mecha_tex.png",
-    "BlueSpecular": "bo_mecha_tex.png+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedSpecular": "bo_mecha_tex.png"
+    "BlueTexture": "bo_mecha_tex.pvr",
+    "RedTexture": "bo_mecha_tex.pvr",
+    "BlueSpecular": "bo_mecha_tex.pvr",
+    "RedSpecular": "bo_mecha_tex.pvr"
   },
   "CrowMecha": {
     "Name": "CrowMecha",
@@ -1035,10 +1038,10 @@
     "TID": "TID_CROW_MECHA_SKIN",
     "ShopTID": "TID_CROW_MECHA_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "crow_mecha_tex.png",
-    "RedTexture": "crow_mecha_tex.png",
-    "BlueSpecular": "crow_mecha_tex.png",
-    "RedSpecular": "crow_mecha_tex.png"
+    "BlueTexture": "crow_mecha_tex.pvr",
+    "RedTexture": "crow_mecha_tex.pvr",
+    "BlueSpecular": "crow_mecha_tex.pvr",
+    "RedSpecular": "crow_mecha_tex.pvr"
   },
   "Cactusmecha": {
     "Name": "Cactusmecha",
@@ -1066,9 +1069,9 @@
     "TID": "TID_MIKE_ROBO_SKIN",
     "ShopTID": "TID_MIKE_ROBO_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "dynamike_mecha_tex.pvr+hue(masks/dynamike/dynamike_mecha_ammo_msk.png,198.000000)+value(masks/dynamike/dynamike_mecha_ammo_msk.png,1.279000)",
+    "BlueTexture": "dynamike_mecha_tex.pvr",
     "RedTexture": "dynamike_mecha_tex.pvr",
-    "BlueSpecular": "dynamike_mecha_tex.pvr+hue(masks/dynamike/dynamike_mecha_ammo_msk.png,198.000000)",
+    "BlueSpecular": "dynamike_mecha_tex.pvr",
     "RedSpecular": "dynamike_mecha_tex.pvr"
   },
   "BowDudeMechaWhite": {
@@ -1082,10 +1085,10 @@
     "TID": "TID_BO_MECHA_LIGHT_SKIN",
     "ShopTID": "TID_BO_MECHA_LIGHT_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "bo_mecha_tex.png+saturation(masks/bo/bo_mecha_colour02_msk.png,0.000000)+saturation(masks/bo/bo_mecha_colour01_msk.png,2.674000)+value(masks/bo/bo_mecha_colour01_msk.png,2.442000)+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+saturation(masks/bo/bo_mecha_seams_msk.png,0.000000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,20.930000)+value(masks/bo/bo_mecha_colour02_msk.png,0.800000)+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedTexture": "bo_mecha_tex.png+saturation(masks/bo/bo_mecha_colour02_msk.png,0.000000)+saturation(masks/bo/bo_mecha_colour01_msk.png,2.674000)+value(masks/bo/bo_mecha_colour01_msk.png,2.442000)+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+saturation(masks/bo/bo_mecha_seams_msk.png,0.000000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,20.930000)+value(masks/bo/bo_mecha_colour02_msk.png,0.800000)",
-    "BlueSpecular": "bo_mecha_tex.png+saturation(masks/bo/bo_mecha_colour02_msk.png,0.000000)+saturation(masks/bo/bo_mecha_colour01_msk.png,5.349000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,20.930000)+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedSpecular": "bo_mecha_tex.png+saturation(masks/bo/bo_mecha_colour02_msk.png,0.000000)+saturation(masks/bo/bo_mecha_colour01_msk.png,5.349000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,20.930000)+hue(masks/bo/bo_mecha_colour02_msk.png,0.000000)",
+    "BlueTexture": "bo_mecha_white_tex.pvr",
+    "RedTexture": "bo_mecha_white_tex.pvr",
+    "BlueSpecular": "bo_mecha_white_tex.pvr",
+    "RedSpecular": "bo_mecha_white_tex.pvr",
     "CatalogPreRequirementSkin": "BoMecha"
   },
   "BowDudeMechaGold": {
@@ -1099,10 +1102,10 @@
     "TID": "TID_BO_MECHA_GOLD_SKIN",
     "ShopTID": "TID_BO_MECHA_GOLD_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "bo_mecha_tex.png+value(masks/bo/bo_mecha_colour01_msk.png,1.047000)+saturation(masks/bo/bo_mecha_colour01_msk.png,8.721000)+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+hue(masks/bo/bo_mecha_colour02_msk.png,16.000000)+value(masks/bo/bo_mecha_colour02_msk.png,3.605000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,213.488007)+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedTexture": "bo_mecha_tex.png+value(masks/bo/bo_mecha_colour01_msk.png,1.047000)+saturation(masks/bo/bo_mecha_colour01_msk.png,8.721000)+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+hue(masks/bo/bo_mecha_colour02_msk.png,16.000000)+value(masks/bo/bo_mecha_colour02_msk.png,3.605000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,213.488007)",
-    "BlueSpecular": "bo_mecha_tex.png+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+hue(masks/bo/bo_mecha_colour01_msk.png,1.047000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,221.860001)+hue(masks/bo/bo_mecha_colour02_msk.png,8.372000)+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)",
-    "RedSpecular": "bo_mecha_tex.png+hue(masks/bo/bo_mecha_colour01_msk.png,12.558000)+hue(masks/bo/bo_mecha_colour01_msk.png,1.047000)+hue(masks/bo/bo_mecha_eyesvisor_msk.png,221.860001)+hue(masks/bo/bo_mecha_colour02_msk.png,8.372000)",
+    "BlueTexture": "bo_mecha_gold_tex.pvr",
+    "RedTexture": "bo_mecha_gold_tex.pvr",
+    "BlueSpecular": "bo_mecha_gold_tex.pvr",
+    "RedSpecular": "bo_mecha_gold_tex.pvr",
     "CatalogPreRequirementSkin": "BoMecha"
   },
   "CrowMechaGold": {
@@ -1115,10 +1118,10 @@
     "TID": "TID_CROW_MECHA_GOLD_SKIN",
     "ShopTID": "TID_CROW_MECHA_GOLD_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "crow_mechagold_tex.png",
-    "RedTexture": "crow_mechagold_tex.png",
-    "BlueSpecular": "crow_mechagold_tex.png",
-    "RedSpecular": "crow_mechagold_tex.png",
+    "BlueTexture": "crow_mechagold_tex.pvr",
+    "RedTexture": "crow_mechagold_tex.pvr",
+    "BlueSpecular": "crow_mechagold_tex.pvr",
+    "RedSpecular": "crow_mechagold_tex.pvr",
     "CatalogPreRequirementSkin": "CrowMecha"
   },
   "CrowMechaNight": {
@@ -1131,10 +1134,10 @@
     "TID": "TID_CROW_MECHA_NIGHT_SKIN",
     "ShopTID": "TID_CROW_MECHA_NIGHT_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM,SFX,VOICE",
-    "BlueTexture": "crow_mecha_tex.png+saturation(masks/crow/crow_mecha_colour01_msk.png,0.000000)+value(masks/crow/crow_mecha_colour01_msk.png,0.200000)+value(masks/crow/crow_mecha_colour02_msk.png,0.500000)+saturation(masks/crow/crow_mecha_colour02_msk.png,2.093000)+hue(masks/crow/crow_mecha_colour03_msk.png,209.302002)+value(masks/crow/crow_mecha_colour03_msk.png,1.400000)",
-    "RedTexture": "crow_mecha_tex.png+saturation(masks/crow/crow_mecha_colour01_msk.png,0.000000)+value(masks/crow/crow_mecha_colour01_msk.png,0.200000)+value(masks/crow/crow_mecha_colour02_msk.png,0.500000)+saturation(masks/crow/crow_mecha_colour02_msk.png,2.093000)+hue(masks/crow/crow_mecha_colour03_msk.png,209.302002)+value(masks/crow/crow_mecha_colour03_msk.png,1.400000)",
-    "BlueSpecular": "crow_mecha_tex.png+saturation(masks/crow/crow_mecha_colour01_msk.png,1.047000)+value(masks/crow/crow_mecha_colour01_msk.png,0.233000)+value(masks/crow/crow_mecha_colour02_msk.png,0.814000)+hue(masks/crow/crow_mecha_colour03_msk.png,209.302002)",
-    "RedSpecular": "crow_mecha_tex.png+saturation(masks/crow/crow_mecha_colour01_msk.png,1.047000)+value(masks/crow/crow_mecha_colour01_msk.png,0.233000)+value(masks/crow/crow_mecha_colour02_msk.png,0.814000)+hue(masks/crow/crow_mecha_colour03_msk.png,209.302002)",
+    "BlueTexture": "crow_mecha_night_tex.pvr",
+    "RedTexture": "crow_mecha_night_tex.pvr",
+    "BlueSpecular": "crow_mecha_night_tex.pvr",
+    "RedSpecular": "crow_mecha_night_tex.pvr",
     "CatalogPreRequirementSkin": "CrowMecha"
   },
   "BullDudeFootbullBlue": {
@@ -1147,10 +1150,10 @@
     "TID": "TID_BULL_LINEBACKER_SKIN",
     "ShopTID": "TID_BULL_LINEBACKER_SKIN_SHOP",
     "Features": "MODEL",
-    "BlueTexture": "bull_footbull_tex.pvr+hue(masks/bull/bull_footbull_colour01_msk.png,217.673996)+value(masks/bull/bull_footbull_colour01_msk.png,1.744000)+saturation(masks/bull/bull_footbull_colour01_msk.png,2.558000)+value(masks/bull/bull_footbull_helmet_msk.png,0.465000)+value(masks/bull/bull_footbull_metal_msk.png,0.233000)",
-    "RedTexture": "bull_footbull_tex.pvr+hue(masks/bull/bull_footbull_colour01_msk.png,217.673996)+value(masks/bull/bull_footbull_colour01_msk.png,1.744000)+saturation(masks/bull/bull_footbull_colour01_msk.png,2.558000)+value(masks/bull/bull_footbull_helmet_msk.png,0.465000)+value(masks/bull/bull_footbull_metal_msk.png,0.233000)",
-    "BlueSpecular": "bull_footbull_tex.pvr+hue(masks/bull/bull_footbull_colour01_msk.png,217.673996)",
-    "RedSpecular": "bull_footbull_tex.pvr+hue(masks/bull/bull_footbull_colour01_msk.png,217.673996)",
+    "BlueTexture": "bull_footbull_blue_tex.pvr",
+    "RedTexture": "bull_footbull_blue_tex.pvr",
+    "BlueSpecular": "bull_footbull_blue_tex.pvr",
+    "RedSpecular": "bull_footbull_blue_tex.pvr",
     "CatalogPreRequirementSkin": "BullGuyFootbull"
   },
   "GunslingerOutlaw": {
@@ -1193,17 +1196,17 @@
     "Conf": "ArcadeDefault",
     "PetSkin": "DamageBoosterDefault",
     "BlueTexture": "8bit_tex.pvr",
-    "RedTexture": "8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)",
+    "RedTexture": "8bit_tex.pvr",
     "BlueSpecular": "8bit_tex.pvr",
-    "RedSpecular": "8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+    "RedSpecular": "8bit_tex.pvr"
   },
   "DamageBoosterDefault": {
     "Name": "DamageBoosterDefault",
     "Conf": "DamageBoosterDefault",
     "BlueTexture": "8bit_tex.pvr",
-    "RedTexture": "8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)",
+    "RedTexture": "8bit_tex.pvr",
     "BlueSpecular": "8bit_tex.pvr",
-    "RedSpecular": "8bit_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+    "RedSpecular": "8bit_tex.pvr"
   },
   "SniperPink": {
     "Name": "SniperPink",
@@ -1230,9 +1233,9 @@
     "ShopTID": "TID_8BIT_CLASSIC_SKIN_SHOP",
     "Features": "MODEL",
     "BlueTexture": "8bit_classic_tex.pvr",
-    "RedTexture": "8bit_classic_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)",
+    "RedTexture": "8bit_classic_tex.pvr",
     "BlueSpecular": "8bit_classic_tex.pvr",
-    "RedSpecular": "8bit_classic_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+    "RedSpecular": "8bit_classic_tex.pvr"
   },
   "NinjaShark": {
     "Name": "NinjaShark",
@@ -1304,10 +1307,10 @@
     "TID": "TID_BARLEY_RED_WIZARD_SKIN",
     "ShopTID": "TID_BARLEY_RED_WIZARD_SKIN_SHOP",
     "Features": "MODEL",
-    "BlueTexture": "barley_wizard_tex.pvr+hue(masks/barley/coat_msk.png,133.953003)+value(masks/barley/coat_msk.png,0.698000)",
-    "RedTexture": "barley_wizard_tex.pvr+hue(masks/barley/coat_msk.png,133.953003)+value(masks/barley/coat_msk.png,0.698000)",
-    "BlueSpecular": "barley_wizard_tex.pvr+hue(masks/barley/coat_msk.png,133.953003)+value(masks/barley/coat_msk.png,0.698000)",
-    "RedSpecular": "barley_wizard_tex.pvr+hue(masks/barley/coat_msk.png,133.953003)+value(masks/barley/coat_msk.png,0.698000)",
+    "BlueTexture": "barley_wizard_red_tex.pvr",
+    "RedTexture": "barley_wizard_red_tex.pvr",
+    "BlueSpecular": "barley_wizard_red_tex.pvr",
+    "RedSpecular": "barley_wizard_red_tex.pvr",
     "CatalogPreRequirementSkin": "BarkeepWizard"
   },
   "HookPirate": {
@@ -1432,8 +1435,8 @@
     "Features": "MODEL,TEXTURE,VFX",
     "BlueTexture": "frank_dj_tex.pvr",
     "RedTexture": "frank_dj_tex.pvr",
-    "BlueSpecular": "frank_dj_tex.pvr+value(masks/frank/frank_dj_coat_msk.png,0.200000)",
-    "RedSpecular": "frank_dj_tex.pvr+value(masks/frank/frank_dj_coat_msk.png,0.200000)"
+    "BlueSpecular": "frank_dj_tex.pvr",
+    "RedSpecular": "frank_dj_tex.pvr"
   },
   "NinjaWolf": {
     "Name": "NinjaWolf",
@@ -1532,9 +1535,9 @@
   "TntDudeSantaRope": {
     "Name": "TntDudeSantaRope",
     "Conf": "TntDudeSantaRope",
-    "BlueTexture": "dynamike_santa_tex.pvr+hue(masks/dynamike/dynamike_santa_msk.png,221.860001)",
+    "BlueTexture": "dynamike_santa_tex.pvr",
     "RedTexture": "dynamike_santa_tex.pvr",
-    "BlueSpecular": "dynamike_santa_tex.pvr+hue(masks/dynamike/dynamike_santa_msk.png,213.488007)",
+    "BlueSpecular": "dynamike_santa_tex.pvr",
     "RedSpecular": "dynamike_santa_tex.pvr"
   },
   "WhirlwindPirate": {
@@ -1549,10 +1552,10 @@
     "TID": "TID_CARL_CAPTAIN_SKIN",
     "ShopTID": "TID_CARL_CAPTAIN_SKIN_SHOP",
     "Features": "MODEL,VFX,ANIM",
-    "BlueTexture": "carl_pirate_tex.pvr+value(masks/carl/carl_flag_msk.png,0.000000)",
-    "RedTexture": "carl_pirate_tex.pvr+value(masks/carl/carl_flag_msk.png,0.000000)",
-    "BlueSpecular": "carl_pirate_tex.pvr+value(masks/carl/carl_flag_msk.png,0.000000)",
-    "RedSpecular": "carl_pirate_tex.pvr+value(masks/carl/carl_flag_msk.png,0.000000)",
+    "BlueTexture": "carl_pirate_tex.pvr",
+    "RedTexture": "carl_pirate_tex.pvr",
+    "BlueSpecular": "carl_pirate_tex.pvr",
+    "RedSpecular": "carl_pirate_tex.pvr",
     "BattleIntroXOffset": -250,
     "BattleIntroZOffset": -500
   },
@@ -1577,7 +1580,9 @@
     "Name": "CtfGift",
     "Conf": "CtfGift",
     "BlueTexture": "item_pumpkin_blue.pvr",
-    "RedTexture": "item_pumpkin_red.pvr"
+    "RedTexture": "item_pumpkin_blue.pvr",
+    "BlueSpecular": "item_pumpkin_blue.pvr",
+    "RedSpecular": "item_pumpkin_blue.pvr"
   },
   "SpeedyGT": {
     "Name": "SpeedyGT",
@@ -1671,9 +1676,9 @@
     "Name": "DamageBoosterVirus",
     "Conf": "DamageBoosterVirus",
     "BlueTexture": "8bit_virus_tex.pvr",
-    "RedTexture": "8bit_virus_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)",
+    "RedTexture": "8bit_virus_tex.pvr",
     "BlueSpecular": "8bit_virus_tex.pvr",
-    "RedSpecular": "8bit_virus_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+    "RedSpecular": "8bit_virus_tex.pvr"
   },
   "BlackHoleStreetNinja": {
     "Name": "BlackHoleStreetNinja",
@@ -1819,8 +1824,8 @@
     "Conf": "WallyDefault",
     "BlueTexture": "sprout_tex.pvr",
     "RedTexture": "sprout_tex.pvr",
-    "BlueSpecular": "sprout_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)",
-    "RedSpecular": "sprout_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)"
+    "BlueSpecular": "sprout_tex.pvr",
+    "RedSpecular": "sprout_tex.pvr"
   },
   "BarrelBotFootball": {
     "Name": "BarrelBotFootball",
@@ -2080,8 +2085,8 @@
     "Features": "MODEL,TEXTURE",
     "BlueTexture": "sprout_hawaii_tex.pvr",
     "RedTexture": "sprout_hawaii_tex.pvr",
-    "BlueSpecular": "sprout_hawaii_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)",
-    "RedSpecular": "sprout_hawaii_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)"
+    "BlueSpecular": "sprout_hawaii_tex.pvr",
+    "RedSpecular": "sprout_hawaii_tex.pvr"
   },
   "BullDudeBarbking": {
     "Name": "BullDudeBarbking",
@@ -2142,9 +2147,9 @@
   "HealingStationSummer": {
     "Name": "HealingStationSummer",
     "Conf": "HealingStationSummer",
-    "BlueTexture": "pam_summer_gun_tex.pvr+hue(masks/pam/pam_summer_gun_msk.png,238.604996)",
+    "BlueTexture": "pam_summer_gun_tex.pvr",
     "RedTexture": "pam_summer_gun_tex.pvr",
-    "BlueSpecular": "pam_summer_gun_tex.pvr+hue(masks/pam/pam_summer_gun_msk.png,238.604996)",
+    "BlueSpecular": "pam_summer_gun_tex.pvr",
     "RedSpecular": "pam_summer_gun_tex.pvr"
   },
   "LuchadorGold": {
@@ -2409,6 +2414,7 @@
   "SpeedyTracksuit": {
     "Name": "SpeedyTracksuit",
     "Conf": "SpeedyTracksuit",
+    "Campaigns": "ROBOTSMONSTERS",
     "PriceBling": 2750,
     "PriceGems": 79,
     "DiscountPriceGems": 69,
@@ -2563,7 +2569,7 @@
     "BlueTexture": "primo_atomico_tex.pvr",
     "RedTexture": "primo_atomico_tex.pvr",
     "BlueSpecular": "primo_atomico_tex.pvr",
-    "RedSpecular": "primo_atomico_tex.pvr+hue(masks/primo/primo_atomico_msk.png,339.070007)"
+    "RedSpecular": "primo_atomico_tex.pvr"
   },
   "PocoStarr": {
     "Name": "PocoStarr",
@@ -2642,10 +2648,10 @@
     "ShopTID": "TID_TRUE_GOLD_BULL_SKIN_SHOP",
     "Features": "MODEL,TEXTURE",
     "MaterialsFile": "gold_materials.scw",
-    "BlueTexture": "bull_gold_tex.pvr",
-    "RedTexture": "bull_gold_tex.pvr",
-    "BlueSpecular": "bull_gold_tex.pvr",
-    "RedSpecular": "bull_gold_tex.pvr"
+    "BlueTexture": "bull_redux_gold_face_tex.pvr",
+    "RedTexture": "bull_redux_gold_face_tex.pvr",
+    "BlueSpecular": "bull_redux_gold_face_tex.pvr",
+    "RedSpecular": "bull_redux_gold_face_tex.pvr"
   },
   "BullDudeSilver": {
     "Name": "BullDudeSilver",
@@ -2657,10 +2663,10 @@
     "ShopTID": "TID_TRUE_SILVER_BULL_SKIN_SHOP",
     "Features": "MODEL,TEXTURE",
     "MaterialsFile": "silver_materials.scw",
-    "BlueTexture": "bull_silver_tex.pvr",
-    "RedTexture": "bull_silver_tex.pvr",
-    "BlueSpecular": "bull_silver_tex.pvr",
-    "RedSpecular": "bull_silver_tex.pvr"
+    "BlueTexture": "bull_redux_silver_face_tex.pvr",
+    "RedTexture": "bull_redux_silver_face_tex.pvr",
+    "BlueSpecular": "bull_redux_silver_face_tex.pvr",
+    "RedSpecular": "bull_redux_silver_face_tex.pvr"
   },
   "BarkeepTrueGold": {
     "Name": "BarkeepTrueGold",
@@ -4325,13 +4331,17 @@
     "Name": "Trophy",
     "Conf": "Trophy",
     "BlueTexture": "item_trophy.pvr",
-    "RedTexture": "item_trophy.pvr"
+    "RedTexture": "item_trophy.pvr",
+    "BlueSpecular": "item_trophy.pvr",
+    "RedSpecular": "item_trophy.pvr"
   },
   "TrophyBlueRed": {
     "Name": "TrophyBlueRed",
     "Conf": "TrophyBlueRed",
     "BlueTexture": "item_trophy_blue.pvr",
-    "RedTexture": "item_trophy_red.pvr"
+    "RedTexture": "item_trophy_blue.pvr",
+    "BlueSpecular": "item_trophy_blue.pvr",
+    "RedSpecular": "item_trophy_blue.pvr"
   },
   "Volleyball": {
     "Name": "Volleyball",
@@ -6203,7 +6213,9 @@
     "Name": "PayloadDefault",
     "Conf": "PayloadDefault",
     "BlueTexture": "payload.pvr",
-    "RedTexture": "payload_red.pvr"
+    "RedTexture": "payload.pvr",
+    "BlueSpecular": "payload.pvr",
+    "RedSpecular": "payload.pvr"
   },
   "WallyWeirdPlant": {
     "Name": "WallyWeirdPlant",
@@ -6284,8 +6296,8 @@
     "MaterialsFile": "gold_materials.scw",
     "BlueTexture": "sprout_gold_tex.pvr",
     "RedTexture": "sprout_gold_tex.pvr",
-    "BlueSpecular": "sprout_gold_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)",
-    "RedSpecular": "sprout_gold_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)"
+    "BlueSpecular": "sprout_gold_tex.pvr",
+    "RedSpecular": "sprout_gold_tex.pvr"
   },
   "Wallysilver": {
     "Name": "Wallysilver",
@@ -6299,8 +6311,8 @@
     "MaterialsFile": "silver_materials.scw",
     "BlueTexture": "sprout_silver_tex.pvr",
     "RedTexture": "sprout_silver_tex.pvr",
-    "BlueSpecular": "sprout_silver_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)",
-    "RedSpecular": "sprout_silver_tex.pvr+value(masks/sprout/sprout_glass_msk.png,1.000000)+hue(masks/sprout/sprout_glass_msk.png,347.441986)"
+    "BlueSpecular": "sprout_silver_tex.pvr",
+    "RedSpecular": "sprout_silver_tex.pvr"
   },
   "RopeDudeGold": {
     "Name": "RopeDudeGold",
@@ -6521,7 +6533,7 @@
     "BlueTexture": "darryl_crashtest_tex.pvr",
     "RedTexture": "darryl_crashtest_tex.pvr",
     "BlueSpecular": "darryl_crashtest_tex.pvr",
-    "RedSpecular": "darryl_crashtest_tex.pvr+value(masks/darryl/darryl_msk.png,0.698000)"
+    "RedSpecular": "darryl_crashtest_tex.pvr"
   },
   "SnakeOilVillain": {
     "Name": "SnakeOilVillain",
@@ -6900,9 +6912,9 @@
     "TID": "TID_POSTAL_BROCK_SKIN",
     "ShopTID": "TID_POSTAL_BROCK_SKIN_SHOP",
     "Features": "MODEL,TEXTURE,ANIM,VFX",
-    "BlueTexture": "brock_delivery_tex.pvr+hue(masks/brock/brock_ammo_msk.png,230.233002)",
+    "BlueTexture": "brock_delivery_tex.pvr",
     "RedTexture": "brock_delivery_tex.pvr",
-    "BlueSpecular": "brock_delivery_tex.pvr+hue(masks/brock/brock_ammo_msk.png,213.488007)",
+    "BlueSpecular": "brock_delivery_tex.pvr",
     "RedSpecular": "brock_delivery_tex.pvr"
   },
   "MummyDj": {
@@ -7743,7 +7755,7 @@
     "BlueTexture": "darryl_cupcake_tex.pvr",
     "RedTexture": "darryl_cupcake_tex.pvr",
     "BlueSpecular": "darryl_cupcake_tex.pvr",
-    "RedSpecular": "darryl_cupcake_tex.pvr+value(masks/darryl/darryl_msk.png,0.698000)"
+    "RedSpecular": "darryl_cupcake_tex.pvr"
   },
   "FireDudeFrost": {
     "Name": "FireDudeFrost",
@@ -7773,8 +7785,6 @@
     "Name": "KnightPinata",
     "Conf": "KnightPinata",
     "Campaigns": "RANKED_OLD",
-    "ObtainType": 3,
-    "ObtainTypeCN": 3,
     "PetSkin": "KnightPetPinata",
     "PriceBling": 5000,
     "PriceGems": 149,
@@ -7867,8 +7877,6 @@
       "CANDYLAND"
     ],
     "IconOverride": "emoji_nita_gummy",
-    "ObtainType": 3,
-    "ObtainTypeCN": 3,
     "PetSkin": "ShamanPetGummybear",
     "PriceBling": 2750,
     "PriceGems": 79,
@@ -7893,8 +7901,6 @@
     "Name": "BeamerLavaQueen",
     "Conf": "BeamerLavaQueen",
     "Campaigns": "BRAWLPASS",
-    "ObtainType": 3,
-    "ObtainTypeCN": 3,
     "PriceBling": 5000,
     "PriceGems": 149,
     "Rarity": "EPIC",
@@ -8109,9 +8115,9 @@
     "TID": "TID_TENGU_MIKE_SKIN",
     "ShopTID": "TID_TENGU_MIKE_SKIN_SHOP",
     "Features": "MODEL,TEXTURE,ANIM,VFX",
-    "BlueTexture": "dynamike_tengu_tex.pvr+hue(masks/dynamike/dynamike_red_blue_msk.png,221.860001)",
+    "BlueTexture": "dynamike_tengu_tex.pvr",
     "RedTexture": "dynamike_tengu_tex.pvr",
-    "BlueSpecular": "dynamike_tengu_tex.pvr+hue(masks/dynamike/dynamike_red_blue_msk.png,213.488007)",
+    "BlueSpecular": "dynamike_tengu_tex.pvr",
     "RedSpecular": "dynamike_tengu_tex.pvr"
   },
   "SilencerOniAddonStarfish": {
@@ -8158,7 +8164,9 @@
   "SniperMariposa": {
     "Name": "SniperMariposa",
     "Conf": "SniperMariposa",
-    "Campaigns": "RANKED",
+    "Campaigns": "RANKED_OLD",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
     "PriceBling": 5000,
     "PriceGems": 149,
     "Rarity": "EPIC",
@@ -8205,8 +8213,8 @@
       "HUB"
     ],
     "IconOverride": "emoji_primo_waiter",
-    "ObtainType": 7,
-    "ObtainTypeCN": 7,
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
     "PriceBling": 2750,
     "PriceGems": 79,
     "Rarity": "SUPER_RARE",
@@ -8294,8 +8302,8 @@
     "Name": "SplitterCultist",
     "Conf": "SplitterCultist",
     "Campaigns": "BRAWLPASS",
-    "ObtainType": 7,
-    "ObtainTypeCN": 7,
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
     "PetSkin": "SplitterLegsCultist",
     "PriceBling": 5000,
     "PriceGems": 149,
@@ -9497,7 +9505,8 @@
     "Rarity": "MYTHIC",
     "TID": "TID_HOOT_HOOT_SHELLY_SKIN",
     "ShopTID": "TID_HOOT_HOOT_SHELLY_SKIN_SHOP",
-    "Features": "MODEL,TEXTURE,ANIM,VFX"
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "MaterialsFile": "shelly_witch_redux_portrait.glb"
   },
   "ShamanDarkcircus": {
     "Name": "ShamanDarkcircus",
@@ -9819,7 +9828,6 @@
     "RedTexture": "mico_wukong_tex.pvr",
     "BlueSpecular": "mico_wukong_tex.pvr",
     "RedSpecular": "mico_wukong_tex.pvr",
-    "OutlineShader": "impostor_outline_normalbugfix",
     "BattleIntroZOffset": -200
   },
   "LeaperRare": {
@@ -10002,7 +10010,7 @@
     "ObtainTypeCN": 3,
     "PriceBling": 5000,
     "PriceGems": 149,
-    "Rarity": "MYTHIC",
+    "Rarity": "EPIC",
     "TID": "TID_CCTV_POCO_SKIN",
     "ShopTID": "TID_CCTV_POCO_SKIN_SHOP",
     "Features": "MODEL,TEXTURE,ANIM,VFX",
@@ -10201,8 +10209,758 @@
     "Name": "DamageBoosterVirusChroma",
     "Conf": "DamageBoosterVirusChroma",
     "BlueTexture": "8bit_chroma_virus_tex.pvr",
-    "RedTexture": "8bit_chroma_virus_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)",
+    "RedTexture": "8bit_chroma_virus_tex.pvr",
     "BlueSpecular": "8bit_chroma_virus_tex.pvr",
-    "RedSpecular": "8bit_chroma_virus_tex.pvr+hue(masks/8bit/8bit_msk.png,138.000000)+saturation(masks/8bit/8bit_msk.png,3.000000)+hue(masks/8bit/8bit_light_msk.png,146.000000)"
+    "RedSpecular": "8bit_chroma_virus_tex.pvr"
+  },
+  "EnragerThief": {
+    "Name": "EnragerThief",
+    "Conf": "EnragerThief",
+    "Campaigns": "LANTERN",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 199,
+    "Rarity": "MYTHIC",
+    "TID": "TID_THIEF_EDGAR_SKIN",
+    "ShopTID": "TID_THIEF_EDGAR_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "edgar_thief_tex.pvr",
+    "RedTexture": "edgar_thief_tex.pvr",
+    "BlueSpecular": "edgar_thief_tex.pvr",
+    "RedSpecular": "edgar_thief_tex.pvr",
+    "BattleIntroXOffset": 150,
+    "BattleIntroZOffset": 200
+  },
+  "ShotgunGirlDancer": {
+    "Name": "ShotgunGirlDancer",
+    "Conf": "ShotgunGirlDancer",
+    "Campaigns": [
+      "BRAWLPASS",
+      "LANTERN"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_SHELLY_DANCER_SKIN",
+    "ShopTID": "TID_SHELLY_DANCER_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "shelly_noble_tex.pvr",
+    "RedTexture": "shelly_noble_tex.pvr",
+    "BlueSpecular": "shelly_noble_tex.pvr",
+    "RedSpecular": "shelly_noble_tex.pvr"
+  },
+  "NinjaMecha": {
+    "Name": "NinjaMecha",
+    "Conf": "NinjaMecha",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_MECHA_LEON_SKIN",
+    "ShopTID": "TID_MECHA_LEON_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "leon_mecha_tex.pvr",
+    "RedTexture": "leon_mecha_tex.pvr",
+    "BlueSpecular": "leon_mecha_tex.pvr",
+    "RedSpecular": "leon_mecha_tex.pvr",
+    "BattleIntroXOffset": -250,
+    "BattleIntroZOffset": 400
+  },
+  "StickyBombOffice": {
+    "Name": "StickyBombOffice",
+    "Conf": "StickyBombOffice",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "Rarity": "RARE",
+    "TID": "TID_SQUEAKY_NOTE_SKIN",
+    "ShopTID": "TID_SQUEAKY_NOTE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "BlueTexture": "squeak_office_tex_hd.pvr",
+    "RedTexture": "squeak_office_tex_hd.pvr",
+    "BlueSpecular": "squeak_office_tex_hd.pvr",
+    "RedSpecular": "squeak_office_tex_hd.pvr"
+  },
+  "AxeJugglerDefault": {
+    "Name": "AxeJugglerDefault",
+    "Conf": "AxeJugglerDefault",
+    "BlueTexture": "melodie_tex.pvr",
+    "RedTexture": "melodie_tex.pvr",
+    "BlueSpecular": "melodie_tex.pvr",
+    "RedSpecular": "melodie_tex.pvr"
+  },
+  "LuchadorBabyShark": {
+    "Name": "LuchadorBabyShark",
+    "Conf": "LuchadorBabyShark",
+    "Campaigns": "BABYSHARK",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_EL_BABY_SHARK_SKIN",
+    "ShopTID": "TID_EL_BABY_SHARK_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "primo_baby_shark_tex.pvr",
+    "RedTexture": "primo_baby_shark_tex.pvr",
+    "BlueSpecular": "primo_baby_shark_tex.pvr",
+    "RedSpecular": "primo_baby_shark_tex.pvr",
+    "BattleIntroXOffset": 250
+  },
+  "TntDudeDynastic": {
+    "Name": "TntDudeDynastic",
+    "Conf": "TntDudeDynastic",
+    "Campaigns": [
+      "RANKED",
+      "LANTERN"
+    ],
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_DYNASTY_MIKE_SKIN",
+    "ShopTID": "TID_DYNASTY_MIKE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "dynamike_dynastic_tex.pvr",
+    "RedTexture": "dynamike_dynastic_tex.pvr",
+    "BlueSpecular": "dynamike_dynastic_tex.pvr",
+    "RedSpecular": "dynamike_dynastic_tex.pvr",
+    "BattleIntroXOffset": 200,
+    "BattleIntroZOffset": 200
+  },
+  "InsectManDefault": {
+    "Name": "InsectManDefault",
+    "Conf": "InsectManDefault",
+    "BlueTexture": "angelo_tex.pvr",
+    "RedTexture": "angelo_tex.pvr",
+    "BlueSpecular": "angelo_tex.pvr",
+    "RedSpecular": "angelo_tex.pvr"
+  },
+  "CactusPoop": {
+    "Name": "CactusPoop",
+    "Conf": "CactusPoop",
+    "Campaigns": "APRILFOOLS",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 199,
+    "Rarity": "MYTHIC",
+    "TID": "TID_POOP_SPIKE_SKIN",
+    "ShopTID": "TID_POOP_SPIKE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "spike_poop_tex.pvr",
+    "RedTexture": "spike_poop_tex.pvr",
+    "BlueSpecular": "spike_poop_tex.pvr",
+    "RedSpecular": "spike_poop_tex.pvr",
+    "BattleIntroXOffset": 70
+  },
+  "MechanicSkadi": {
+    "Name": "MechanicSkadi",
+    "Conf": "MechanicSkadi",
+    "Campaigns": "NORSEGODS",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PetSkin": "MechanicTurretSkadi",
+    "PriceGems": 199,
+    "Rarity": "MYTHIC",
+    "TID": "TID_SKADI_JESSIE_SKIN",
+    "ShopTID": "TID_SKADI_JESSIE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "jessie_skadi_tex.pvr",
+    "RedTexture": "jessie_skadi_tex.pvr",
+    "BlueSpecular": "jessie_skadi_tex.pvr",
+    "RedSpecular": "jessie_skadi_tex.pvr",
+    "BattleIntroXOffset": 300
+  },
+  "MechanicTurretSkadi": {
+    "Name": "MechanicTurretSkadi",
+    "Conf": "MechanicTurretSkadi",
+    "BlueTexture": "jessie_skadi_turret_tex.pvr",
+    "RedTexture": "jessie_skadi_turret_tex.pvr",
+    "BlueSpecular": "jessie_skadi_turret_tex.pvr",
+    "RedSpecular": "jessie_skadi_turret_tex.pvr"
+  },
+  "SoulCollectorSally": {
+    "Name": "SoulCollectorSally",
+    "Conf": "SoulCollectorSally",
+    "Campaigns": "LINE",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 79,
+    "Rarity": "SUPER_RARE",
+    "TID": "TID_BALLOON_SALLY_SKIN",
+    "ShopTID": "TID_BALLOON_SALLY_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "gus_sally_tex.pvr",
+    "RedTexture": "gus_sally_tex.pvr",
+    "BlueSpecular": "gus_sally_tex.pvr",
+    "RedSpecular": "gus_sally_tex.pvr",
+    "BattleIntroXOffset": 600,
+    "BattleIntroZOffset": 300
+  },
+  "RocketGirlBrown": {
+    "Name": "RocketGirlBrown",
+    "Conf": "RocketGirlBrown",
+    "Campaigns": "LINE",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_ROCKET_BROWN_SKIN",
+    "ShopTID": "TID_ROCKET_BROWN_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "brock_brown_tex.pvr",
+    "RedTexture": "brock_brown_tex.pvr",
+    "BlueSpecular": "brock_brown_tex.pvr",
+    "RedSpecular": "brock_brown_tex.pvr",
+    "BattleIntroXOffset": 50,
+    "BattleIntroZOffset": -150
+  },
+  "BaseballThor": {
+    "Name": "BaseballThor",
+    "Conf": "BaseballThor",
+    "Campaigns": "NORSEGODS",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_THOR_BIBI_SKIN",
+    "ShopTID": "TID_THOR_BIBI_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "bibi_thor_tex.pvr",
+    "RedTexture": "bibi_thor_tex.pvr",
+    "BlueSpecular": "bibi_thor_tex.pvr",
+    "RedSpecular": "bibi_thor_tex.pvr"
+  },
+  "PowerLevelerGenie": {
+    "Name": "PowerLevelerGenie",
+    "Conf": "PowerLevelerGenie",
+    "Campaigns": "LANTERN",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_SURGENIE_SKIN",
+    "ShopTID": "TID_SURGENIE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "surge_genie_tex.pvr",
+    "RedTexture": "surge_genie_tex.pvr",
+    "BlueSpecular": "surge_genie_tex.pvr",
+    "RedSpecular": "surge_genie_tex.pvr"
+  },
+  "ConductorScorpion": {
+    "Name": "ConductorScorpion",
+    "Conf": "ConductorScorpion",
+    "Campaigns": "LANTERN",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_DESERT_SCORPION_CHUCK_SKIN",
+    "ShopTID": "TID_DESERT_SCORPION_CHUCK_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "chuck_pincer_tex.pvr",
+    "RedTexture": "chuck_pincer_tex.pvr",
+    "BlueSpecular": "chuck_pincer_tex.pvr",
+    "RedSpecular": "chuck_pincer_tex.pvr",
+    "BattleIntroXOffset": 250
+  },
+  "ShotgunGirlDancerBlue": {
+    "Name": "ShotgunGirlDancerBlue",
+    "Conf": "ShotgunGirlDancerBlue",
+    "Campaigns": [
+      "BRAWLPASS",
+      "LANTERN"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_SHELLY_DANCER_IRIS_SKIN",
+    "ShopTID": "TID_SHELLY_DANCER_IRIS_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "shelly_noble_chroma_01_tex.pvr",
+    "RedTexture": "shelly_noble_chroma_01_tex.pvr",
+    "BlueSpecular": "shelly_noble_chroma_01_tex.pvr",
+    "RedSpecular": "shelly_noble_chroma_01_tex.pvr",
+    "CatalogPreRequirementSkin": "ShotgunGirlDancer"
+  },
+  "ShotgunGirlDancerPurple": {
+    "Name": "ShotgunGirlDancerPurple",
+    "Conf": "ShotgunGirlDancerPurple",
+    "Campaigns": [
+      "BRAWLPASS",
+      "LANTERN"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_SHELLY_DANCER_DAHLIA_SKIN",
+    "ShopTID": "TID_SHELLY_DANCER_DAHLIA_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "shelly_noble_chroma_02_tex.pvr",
+    "RedTexture": "shelly_noble_chroma_02_tex.pvr",
+    "BlueSpecular": "shelly_noble_chroma_02_tex.pvr",
+    "RedSpecular": "shelly_noble_chroma_02_tex.pvr",
+    "CatalogPreRequirementSkin": "ShotgunGirlDancer"
+  },
+  "RopeDudeFenrir": {
+    "Name": "RopeDudeFenrir",
+    "Conf": "RopeDudeFenrir",
+    "Campaigns": [
+      "BRAWLPASS",
+      "NORSEGODS"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_FENRIR_BUZZ_SKIN",
+    "ShopTID": "TID_FENRIR_BUZZ_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "buzz_fenrir_tex.pvr",
+    "RedTexture": "buzz_fenrir_tex.pvr",
+    "BlueSpecular": "buzz_fenrir_tex.pvr",
+    "RedSpecular": "buzz_fenrir_tex.pvr",
+    "BattleIntroXOffset": 100,
+    "BattleIntroZOffset": 200
+  },
+  "KickerDudeBaseballRed": {
+    "Name": "KickerDudeBaseballRed",
+    "Conf": "KickerDudeBaseballRed",
+    "Campaigns": "SUPERBOWL",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_RED_PITCHER_FANG_SKIN",
+    "ShopTID": "TID_RED_PITCHER_FANG_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "fang_baseball_tex.pvr",
+    "RedTexture": "fang_baseball_tex.pvr",
+    "BlueSpecular": "fang_baseball_tex.pvr",
+    "RedSpecular": "fang_baseball_tex.pvr",
+    "BattleIntroXOffset": 200
+  },
+  "GunslingerMecha": {
+    "Name": "GunslingerMecha",
+    "Conf": "GunslingerMecha",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_MECHA_COLT_SKIN",
+    "ShopTID": "TID_MECHA_COLT_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "colt_mecha_tex.pvr",
+    "RedTexture": "colt_mecha_tex.pvr",
+    "BlueSpecular": "colt_mecha_tex.pvr",
+    "RedSpecular": "colt_mecha_tex.pvr"
+  },
+  "PercenterCony": {
+    "Name": "PercenterCony",
+    "Conf": "PercenterCony",
+    "Campaigns": "LINE",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PetSkin": "MechanicTurretTanuki",
+    "PriceGems": 79,
+    "Rarity": "SUPER_RARE",
+    "TID": "TID_FANGIRL_CONY_SKIN",
+    "ShopTID": "TID_FANGIRL_CONY_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "colette_cony_tex.pvr",
+    "RedTexture": "colette_cony_tex.pvr",
+    "BlueSpecular": "colette_cony_tex.pvr",
+    "RedSpecular": "colette_cony_tex.pvr",
+    "BattleIntroXOffset": -150
+  },
+  "RopeDudeFenrirRed": {
+    "Name": "RopeDudeFenrirRed",
+    "Conf": "RopeDudeFenrirRed",
+    "Campaigns": [
+      "BRAWLPASS",
+      "NORSEGODS"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_ELDR_FENRIR_BUZZ_SKIN",
+    "ShopTID": "TID_ELDR_FENRIR_BUZZ_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "buzz_fenrir_tex_chroma_01_tex.pvr",
+    "RedTexture": "buzz_fenrir_tex_chroma_01_tex.pvr",
+    "BlueSpecular": "buzz_fenrir_tex_chroma_01_tex.pvr",
+    "RedSpecular": "buzz_fenrir_tex_chroma_01_tex.pvr",
+    "BattleIntroXOffset": 100,
+    "BattleIntroZOffset": 200,
+    "CatalogPreRequirementSkin": "RopeDudeFenrir"
+  },
+  "DuelistOdin": {
+    "Name": "DuelistOdin",
+    "Conf": "DuelistOdin",
+    "Campaigns": "NORSEGODS",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_ODIN_CORDELIUS_SKIN",
+    "ShopTID": "TID_ODIN_CORDELIUS_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "cordelius_odin_tex.pvr",
+    "RedTexture": "cordelius_odin_tex.pvr",
+    "BlueSpecular": "cordelius_odin_tex.pvr",
+    "RedSpecular": "cordelius_odin_tex.pvr",
+    "BattleIntroXOffset": -50,
+    "BattleIntroZOffset": -50
+  },
+  "MaisieGold": {
+    "Name": "MaisieGold",
+    "Conf": "MaisieGold",
+    "Campaigns": "GOLD",
+    "PriceCoins": 25000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_GOLD_MAISIE_SKIN",
+    "ShopTID": "TID_TRUE_GOLD_MAISIE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "gold_materials.scw",
+    "BlueTexture": "maisie_face_gold_tex.pvr",
+    "RedTexture": "maisie_face_gold_tex.pvr",
+    "BlueSpecular": "maisie_face_gold_tex.pvr",
+    "RedSpecular": "maisie_face_gold_tex.pvr"
+  },
+  "MaisieSilver": {
+    "Name": "MaisieSilver",
+    "Conf": "MaisieSilver",
+    "Campaigns": "SILVER",
+    "PriceCoins": 10000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_SILVER_MAISIE_SKIN",
+    "ShopTID": "TID_TRUE_SILVER_MAISIE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "silver_materials.scw",
+    "BlueTexture": "maisie_face_silver_tex.pvr",
+    "RedTexture": "maisie_face_silver_tex.pvr",
+    "BlueSpecular": "maisie_face_silver_tex.pvr",
+    "RedSpecular": "maisie_face_silver_tex.pvr"
+  },
+  "CookerGold": {
+    "Name": "CookerGold",
+    "Conf": "CookerGold",
+    "Campaigns": "GOLD",
+    "PriceCoins": 25000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_GOLD_PEARL_SKIN",
+    "ShopTID": "TID_TRUE_GOLD_PEARL_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "gold_materials.scw",
+    "BlueTexture": "pearl_gold_face_tex.pvr",
+    "RedTexture": "pearl_gold_face_tex.pvr",
+    "BlueSpecular": "pearl_gold_face_tex.pvr",
+    "RedSpecular": "pearl_gold_face_tex.pvr"
+  },
+  "CookerSilver": {
+    "Name": "CookerSilver",
+    "Conf": "CookerSilver",
+    "Campaigns": "SILVER",
+    "PriceCoins": 10000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_SILVER_PEARL_SKIN",
+    "ShopTID": "TID_TRUE_SILVER_PEARL_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "silver_materials.scw",
+    "BlueTexture": "pearl_silver_face_tex.pvr",
+    "RedTexture": "pearl_silver_face_tex.pvr",
+    "BlueSpecular": "pearl_silver_face_tex.pvr",
+    "RedSpecular": "pearl_silver_face_tex.pvr"
+  },
+  "SplitterGold": {
+    "Name": "SplitterGold",
+    "Conf": "SplitterGold",
+    "Campaigns": "GOLD",
+    "PetSkin": "SplitterLegsGold",
+    "PriceCoins": 25000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_GOLD_R-T_SKIN",
+    "ShopTID": "TID_TRUE_GOLD_R-T_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "gold_materials_clip.scw",
+    "BlueTexture": "rt_gold_face_tex.pvr",
+    "RedTexture": "rt_gold_face_tex.pvr",
+    "BlueSpecular": "rt_gold_face_tex.pvr",
+    "RedSpecular": "rt_gold_face_tex.pvr"
+  },
+  "SplitterSilver": {
+    "Name": "SplitterSilver",
+    "Conf": "SplitterSilver",
+    "Campaigns": "SILVER",
+    "PetSkin": "SplitterLegsSilver",
+    "PriceCoins": 10000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_SILVER_R-T_SKIN",
+    "ShopTID": "TID_TRUE_SILVER_R-T_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "silver_materials_clip.scw",
+    "BlueTexture": "rt_silver_face_tex.pvr",
+    "RedTexture": "rt_silver_face_tex.pvr",
+    "BlueSpecular": "rt_silver_face_tex.pvr",
+    "RedSpecular": "rt_silver_face_tex.pvr"
+  },
+  "DuelistGold": {
+    "Name": "DuelistGold",
+    "Conf": "DuelistGold",
+    "Campaigns": "GOLD",
+    "PriceCoins": 25000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_GOLD_CORDELIUS_SKIN",
+    "ShopTID": "TID_TRUE_GOLD_CORDELIUS_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "gold_materials.scw",
+    "BlueTexture": "cordelius_gold_face_tex.pvr",
+    "RedTexture": "cordelius_gold_face_tex.pvr",
+    "BlueSpecular": "cordelius_gold_face_tex.pvr",
+    "RedSpecular": "cordelius_gold_face_tex.pvr"
+  },
+  "DuelistSilver": {
+    "Name": "DuelistSilver",
+    "Conf": "DuelistSilver",
+    "Campaigns": "SILVER",
+    "PriceCoins": 10000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_SILVER_CORDELIUS_SKIN",
+    "ShopTID": "TID_TRUE_SILVER_CORDELIUS_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "silver_materials.scw",
+    "BlueTexture": "cordelius_silver_face_tex.pvr",
+    "RedTexture": "cordelius_silver_face_tex.pvr",
+    "BlueSpecular": "cordelius_silver_face_tex.pvr",
+    "RedSpecular": "cordelius_silver_face_tex.pvr"
+  },
+  "NinjaMechaLight": {
+    "Name": "NinjaMechaLight",
+    "Conf": "NinjaMechaLight",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_RADIANT_MECHA_LEON_SKIN",
+    "ShopTID": "TID_RADIANT_MECHA_LEON_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "leon_mecha_croma_tex.pvr",
+    "RedTexture": "leon_mecha_croma_tex.pvr",
+    "BlueSpecular": "leon_mecha_croma_tex.pvr",
+    "RedSpecular": "leon_mecha_croma_tex.pvr",
+    "BattleIntroXOffset": -250,
+    "BattleIntroZOffset": 400,
+    "CatalogPreRequirementSkin": "NinjaMecha"
+  },
+  "RopeDudeFenrirBlack": {
+    "Name": "RopeDudeFenrirBlack",
+    "Conf": "RopeDudeFenrirBlack",
+    "Campaigns": [
+      "BRAWLPASS",
+      "NORSEGODS"
+    ],
+    "ObtainType": 7,
+    "ObtainTypeCN": 7,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_M\u00d8RK_FENRIR_BUZZ_SKIN",
+    "ShopTID": "TID_M\u00d8RK_FENRIR_BUZZ_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "buzz_fenrir_tex_chroma_02_tex.pvr",
+    "RedTexture": "buzz_fenrir_tex_chroma_02_tex.pvr",
+    "BlueSpecular": "buzz_fenrir_tex_chroma_02_tex.pvr",
+    "RedSpecular": "buzz_fenrir_tex_chroma_02_tex.pvr",
+    "BattleIntroXOffset": 100,
+    "BattleIntroZOffset": 200,
+    "CatalogPreRequirementSkin": "RopeDudeFenrir"
+  },
+  "KickerDudeBaseballBlue": {
+    "Name": "KickerDudeBaseballBlue",
+    "Conf": "KickerDudeBaseballBlue",
+    "Campaigns": "SUPERBOWL",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_BLUE_PITCHER_FANG_SKIN",
+    "ShopTID": "TID_BLUE_PITCHER_FANG_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "fang_baseball_croma_tex.pvr",
+    "RedTexture": "fang_baseball_croma_tex.pvr",
+    "BlueSpecular": "fang_baseball_croma_tex.pvr",
+    "RedSpecular": "fang_baseball_croma_tex.pvr",
+    "BattleIntroXOffset": 200
+  },
+  "NinjaMechaDark": {
+    "Name": "NinjaMechaDark",
+    "Conf": "NinjaMechaDark",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_SHADOW_MECHA_LEON_SKIN",
+    "ShopTID": "TID_SHADOW_MECHA_LEON_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "leon_mecha_chroma_02_tex.pvr",
+    "RedTexture": "leon_mecha_chroma_02_tex.pvr",
+    "BlueSpecular": "leon_mecha_chroma_02_tex.pvr",
+    "RedSpecular": "leon_mecha_chroma_02_tex.pvr",
+    "BattleIntroXOffset": -250,
+    "BattleIntroZOffset": 400,
+    "CatalogPreRequirementSkin": "NinjaMecha"
+  },
+  "GunslingerMechaGold": {
+    "Name": "GunslingerMechaGold",
+    "Conf": "GunslingerMechaGold",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_PARAGON_MECHA_COLT_SKIN",
+    "ShopTID": "TID_PARAGON_MECHA_COLT_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "colt_mecha_chroma_02_tex.pvr",
+    "RedTexture": "colt_mecha_chroma_02_tex.pvr",
+    "BlueSpecular": "colt_mecha_chroma_02_tex.pvr",
+    "RedSpecular": "colt_mecha_chroma_02_tex.pvr",
+    "CatalogPreRequirementSkin": "GunslingerMecha"
+  },
+  "GunslingerMechaPurple": {
+    "Name": "GunslingerMechaPurple",
+    "Conf": "GunslingerMechaPurple",
+    "Campaigns": "MECHA",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceGems": 299,
+    "Rarity": "LEGENDARY",
+    "TID": "TID_RENEGADE_MECHA_COLT_SKIN",
+    "ShopTID": "TID_RENEGADE_MECHA_COLT_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX,VOICE,TAKEDOWN",
+    "BlueTexture": "colt_mecha_chorma_01_tex.pvr",
+    "RedTexture": "colt_mecha_chorma_01_tex.pvr",
+    "BlueSpecular": "colt_mecha_chorma_01_tex.pvr",
+    "RedSpecular": "colt_mecha_chorma_01_tex.pvr",
+    "CatalogPreRequirementSkin": "GunslingerMecha"
+  },
+  "JesterLoki": {
+    "Name": "JesterLoki",
+    "Conf": "JesterLoki",
+    "Campaigns": "RANKED",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 5000,
+    "PriceGems": 149,
+    "Rarity": "EPIC",
+    "TID": "TID_LOKI_CHESTER_SKIN",
+    "ShopTID": "TID_LOKI_CHESTER_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE,ANIM,VFX",
+    "BlueTexture": "chester_loki_tex.pvr",
+    "RedTexture": "chester_loki_tex.pvr",
+    "BlueSpecular": "chester_loki_tex.pvr",
+    "RedSpecular": "chester_loki_tex.pvr"
+  },
+  "ReviverGold": {
+    "Name": "ReviverGold",
+    "Conf": "ReviverGold",
+    "Campaigns": "GOLD",
+    "PriceCoins": 25000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_GOLD_DOUG_SKIN",
+    "ShopTID": "TID_TRUE_GOLD_DOUG_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "gold_materials.scw",
+    "BlueTexture": "doug_gold_face_tex.pvr",
+    "RedTexture": "doug_gold_face_tex.pvr",
+    "BlueSpecular": "doug_gold_face_tex.pvr",
+    "RedSpecular": "doug_gold_face_tex.pvr"
+  },
+  "ReviverSilver": {
+    "Name": "ReviverSilver",
+    "Conf": "ReviverSilver",
+    "Campaigns": "SILVER",
+    "PriceCoins": 10000,
+    "Rarity": "COLLECTORS",
+    "TID": "TID_TRUE_SILVER_DOUG_SKIN",
+    "ShopTID": "TID_TRUE_SILVER_DOUG_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "MaterialsFile": "silver_materials.scw",
+    "BlueTexture": "doug_silver_face_tex.pvr",
+    "RedTexture": "doug_silver_face_tex.pvr",
+    "BlueSpecular": "doug_silver_face_tex.pvr",
+    "RedSpecular": "doug_silver_face_tex.pvr"
+  },
+  "AxeJugglerRare": {
+    "Name": "AxeJugglerRare",
+    "Conf": "AxeJugglerRare",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "Rarity": "RARE",
+    "TID": "TID_SIF_MELODIE_SKIN",
+    "ShopTID": "TID_SIF_MELODIE_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "BlueTexture": "melodie_sif_tex.pvr",
+    "RedTexture": "melodie_sif_tex.pvr",
+    "BlueSpecular": "melodie_sif_tex.pvr",
+    "RedSpecular": "melodie_sif_tex.pvr"
+  },
+  "InsectManRare": {
+    "Name": "InsectManRare",
+    "Conf": "InsectManRare",
+    "ObtainType": 3,
+    "ObtainTypeCN": 3,
+    "PriceBling": 1000,
+    "PriceGems": 29,
+    "Rarity": "RARE",
+    "TID": "TID_ELF_ANGELO_SKIN",
+    "ShopTID": "TID_ELF_ANGELO_SKIN_SHOP",
+    "Features": "MODEL,TEXTURE",
+    "BlueTexture": "angelo_elf_tex.pvr",
+    "RedTexture": "angelo_elf_tex.pvr",
+    "BlueSpecular": "angelo_elf_tex.pvr",
+    "RedSpecular": "angelo_elf_tex.pvr"
+  },
+  "SplitterLegsSilver": {
+    "Name": "SplitterLegsSilver",
+    "Conf": "SplitterLegsSilver",
+    "MaterialsFile": "gold_materials_clip.scw",
+    "BlueTexture": "rt_silver_face_tex.pvr",
+    "RedTexture": "rt_silver_face_tex.pvr",
+    "BlueSpecular": "rt_silver_face_tex.pvr",
+    "RedSpecular": "rt_silver_face_tex.pvr"
+  },
+  "SplitterLegsGold": {
+    "Name": "SplitterLegsGold",
+    "Conf": "SplitterLegsGold",
+    "MaterialsFile": "silver_materials_clip.scw",
+    "BlueTexture": "rt_gold_face_tex.pvr",
+    "RedTexture": "rt_gold_face_tex.pvr",
+    "BlueSpecular": "rt_gold_face_tex.pvr",
+    "RedSpecular": "rt_gold_face_tex.pvr"
+  },
+  "TrophyCritterDefault": {
+    "Name": "TrophyCritterDefault",
+    "Conf": "TrophyCritterDefault"
   }
 }

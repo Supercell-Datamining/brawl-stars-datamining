@@ -7,7 +7,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_1_1",
     "IconBigExportName": "fame_big_tier_1",
-    "IconStarsExportName": "fame_stars_tier_1_1"
+    "IconStarsExportName": "fame_stars_tier_1_1",
+    "Reward": "globalFrame"
   },
   "Global2": {
     "Name": "Global2",
@@ -17,7 +18,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_1_2",
     "IconBigExportName": "fame_big_tier_1",
-    "IconStarsExportName": "fame_stars_tier_1_2"
+    "IconStarsExportName": "fame_stars_tier_1_2",
+    "Reward": "player_icon_fame_earth",
+    "RewardType": 25
   },
   "Global3": {
     "Name": "Global3",
@@ -27,7 +30,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_1_3",
     "IconBigExportName": "fame_big_tier_1",
-    "IconStarsExportName": "fame_stars_tier_1_3"
+    "IconStarsExportName": "fame_stars_tier_1_3",
+    "Reward": "emoji_fame_earth",
+    "RewardType": 19
   },
   "Lunar1": {
     "Name": "Lunar1",
@@ -37,7 +42,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_2_1",
     "IconBigExportName": "fame_big_tier_2",
-    "IconStarsExportName": "fame_stars_tier_2_1"
+    "IconStarsExportName": "fame_stars_tier_2_1",
+    "Reward": "lunarFrame"
   },
   "Lunar2": {
     "Name": "Lunar2",
@@ -47,7 +53,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_2_2",
     "IconBigExportName": "fame_big_tier_2",
-    "IconStarsExportName": "fame_stars_tier_2_2"
+    "IconStarsExportName": "fame_stars_tier_2_2",
+    "Reward": "player_icon_fame_moon",
+    "RewardType": 25
   },
   "Lunar3": {
     "Name": "Lunar3",
@@ -57,7 +65,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_2_3",
     "IconBigExportName": "fame_big_tier_2",
-    "IconStarsExportName": "fame_stars_tier_2_3"
+    "IconStarsExportName": "fame_stars_tier_2_3",
+    "Reward": "emoji_fame_moon",
+    "RewardType": 19
   },
   "Martial1": {
     "Name": "Martial1",
@@ -67,7 +77,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_3_1",
     "IconBigExportName": "fame_big_tier_3",
-    "IconStarsExportName": "fame_stars_tier_3_1"
+    "IconStarsExportName": "fame_stars_tier_3_1",
+    "Reward": "martialFrame"
   },
   "Martial2": {
     "Name": "Martial2",
@@ -77,7 +88,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_3_2",
     "IconBigExportName": "fame_big_tier_3",
-    "IconStarsExportName": "fame_stars_tier_3_2"
+    "IconStarsExportName": "fame_stars_tier_3_2",
+    "Reward": "player_icon_fame_mars",
+    "RewardType": 25
   },
   "Martial3": {
     "Name": "Martial3",
@@ -87,7 +100,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_3_3",
     "IconBigExportName": "fame_big_tier_3",
-    "IconStarsExportName": "fame_stars_tier_3_3"
+    "IconStarsExportName": "fame_stars_tier_3_3",
+    "Reward": "emoji_fame_mars",
+    "RewardType": 19
   },
   "Saturnal1": {
     "Name": "Saturnal1",
@@ -97,7 +112,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_4_1",
     "IconBigExportName": "fame_big_tier_4",
-    "IconStarsExportName": "fame_stars_tier_4_1"
+    "IconStarsExportName": "fame_stars_tier_4_1",
+    "Reward": "saturnalFrame"
   },
   "Saturnal2": {
     "Name": "Saturnal2",
@@ -107,7 +123,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_4_2",
     "IconBigExportName": "fame_big_tier_4",
-    "IconStarsExportName": "fame_stars_tier_4_2"
+    "IconStarsExportName": "fame_stars_tier_4_2",
+    "Reward": "player_icon_fame_saturn",
+    "RewardType": 25
   },
   "Saturnal3": {
     "Name": "Saturnal3",
@@ -117,7 +135,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_4_3",
     "IconBigExportName": "fame_big_tier_4",
-    "IconStarsExportName": "fame_stars_tier_4_3"
+    "IconStarsExportName": "fame_stars_tier_4_3",
+    "Reward": "emoji_fame_saturn",
+    "RewardType": 19
   },
   "Solar1": {
     "Name": "Solar1",
@@ -127,7 +147,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_5_1",
     "IconBigExportName": "fame_big_tier_5",
-    "IconStarsExportName": "fame_stars_tier_5_1"
+    "IconStarsExportName": "fame_stars_tier_5_1",
+    "Reward": "solarFrame"
   },
   "Solar2": {
     "Name": "Solar2",
@@ -137,7 +158,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_5_2",
     "IconBigExportName": "fame_big_tier_5",
-    "IconStarsExportName": "fame_stars_tier_5_2"
+    "IconStarsExportName": "fame_stars_tier_5_2",
+    "Reward": "player_icon_fame_sun",
+    "RewardType": 25
   },
   "Solar3": {
     "Name": "Solar3",
@@ -147,7 +170,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_5_3",
     "IconBigExportName": "fame_big_tier_5",
-    "IconStarsExportName": "fame_stars_tier_5_3"
+    "IconStarsExportName": "fame_stars_tier_5_3",
+    "Reward": "emoji_fame_sun",
+    "RewardType": 19
   },
   "Meteor1": {
     "Name": "Meteor1",
@@ -157,7 +182,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_6_1",
     "IconBigExportName": "fame_big_tier_6",
-    "IconStarsExportName": "fame_stars_tier_6_1"
+    "IconStarsExportName": "fame_stars_tier_6_1",
+    "Reward": "meteorFrame"
   },
   "Meteor2": {
     "Name": "Meteor2",
@@ -167,7 +193,9 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_6_2",
     "IconBigExportName": "fame_big_tier_6",
-    "IconStarsExportName": "fame_stars_tier_6_2"
+    "IconStarsExportName": "fame_stars_tier_6_2",
+    "Reward": "player_icon_fame_meteor",
+    "RewardType": 25
   },
   "Meteor3": {
     "Name": "Meteor3",
@@ -177,6 +205,8 @@
     "IconSWF": "sc/ui.sc",
     "IconExportName": "icon_fame_tier_6_3",
     "IconBigExportName": "fame_big_tier_6",
-    "IconStarsExportName": "fame_stars_tier_6_3"
+    "IconStarsExportName": "fame_stars_tier_6_3",
+    "Reward": "emoji_fame_meteor",
+    "RewardType": 19
   }
 }

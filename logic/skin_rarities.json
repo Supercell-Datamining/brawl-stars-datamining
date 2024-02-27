@@ -1,0 +1,32 @@
+{
+  "Rare": {
+    "Name": "Rare",
+    "Price": 29,
+    "Rarity": "RARE",
+    "ChromaPrice": 0
+  },
+  "SuperRare": {
+    "Name": "SuperRare",
+    "Price": 79,
+    "Rarity": "SUPER_RARE",
+    "ChromaPrice": 29
+  },
+  "Epic": {
+    "Name": "Epic",
+    "Price": 149,
+    "Rarity": "EPIC",
+    "ChromaPrice": 39
+  },
+  "Mythic": {
+    "Name": "Mythic",
+    "Price": 199,
+    "Rarity": "MYTHIC",
+    "ChromaPrice": 49
+  },
+  "Legendary": {
+    "Name": "Legendary",
+    "Price": 299,
+    "Rarity": "LEGENDARY",
+    "ChromaPrice": 49
+  }
+}

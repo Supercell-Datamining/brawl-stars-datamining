@@ -606,5 +606,21 @@
     "RewardTitles": "TitleMasteryTwins",
     "MasteryIconFile": "sc/ui.sc",
     "MasteryIconExportName": "mastery_brawler_icon_twins"
+  },
+  "MasteryAxeJuggler": {
+    "Name": "MasteryAxeJuggler",
+    "RewardEmotes": "emoji_melodie_facepalm",
+    "RewardPlayerIcons": "player_icon_melody1",
+    "RewardTitles": "TitleMasteryMelody",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_melodie"
+  },
+  "MasteryInsectMan": {
+    "Name": "MasteryInsectMan",
+    "RewardEmotes": "emoji_angelo_facepalm",
+    "RewardPlayerIcons": "player_icon_angelo1",
+    "RewardTitles": "TitleMasteryAngelo",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_angelo"
   }
 }

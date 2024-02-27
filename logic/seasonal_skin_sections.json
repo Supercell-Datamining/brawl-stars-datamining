@@ -77,7 +77,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_retro",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Whirlwind",
       "Undertaker",
@@ -98,7 +98,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_brawloween",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "CheckDataFromOffers": true,
     "PurchasePopupBg": "brawloween"
   },
@@ -111,7 +111,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_scmake",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "CheckDataFromOffers": true,
     "PurchasePopupBg": "scmake"
   },
@@ -125,7 +125,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_legendary",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "CheckDataFromOffers": true,
     "PurchasePopupBg": "legendary"
   },
@@ -142,7 +142,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_brawlywood",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Blower",
       "PowerLeveler",
@@ -163,7 +163,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_brawlidays",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "AssaultShotgun",
       "Driller",
@@ -186,7 +186,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_brawlentines",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Luchador",
       "Sniper",
@@ -207,7 +207,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_lny22",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Luchador",
       "Enrager",
@@ -229,7 +229,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_biodome",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "CheckDataFromOffers": true,
     "PurchasePopupBg": "biodome",
     "EmotesBundle": "Biodome"
@@ -244,7 +244,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_stuntshow",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "MechaDude",
       "Whirlwind",
@@ -264,7 +264,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_goldenweek",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "SpawnerDude",
       "BeeSniper",
@@ -285,7 +285,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_villains",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Duplicator",
       "CannonGirl",
@@ -305,7 +305,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_deepsea",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "ElectroSniper",
       "Gunslinger",
@@ -325,7 +325,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_brawloween",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "CheckDataFromOffers": true,
     "PurchasePopupBg": "brawloween"
   },
@@ -339,7 +339,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_retro",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Whirlwind",
       "Undertaker",
@@ -360,7 +360,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_darkmas",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "WeaponThrower",
       "FireDude",
@@ -379,7 +379,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_candyland",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "RopeDude",
       "Shaman",
@@ -398,7 +398,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_masks",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Silencer",
       "TntDude",
@@ -417,7 +417,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_hub",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Luchador",
       "BullDude",
@@ -436,7 +436,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_jungle",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Speedy",
       "Gunslinger",
@@ -455,7 +455,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_olympus",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "Controller",
       "RocketGirl",
@@ -474,7 +474,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_cursed",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "AssaultShotgun",
       "MechaDude",
@@ -494,7 +494,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_goldenball",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "BarrelBot",
       "TntDude",
@@ -513,7 +513,7 @@
     "LastChanceSectionSeparately": "FALSE",
     "LastChanceSectionTID": "TID_SHOP_LAST_CHANCE_SKINS",
     "GroupCampaign": true,
-    "GroupShopItem": "offer_1_item_skin_pack_enchanted",
+    "GroupShopItem": "offer_1_item_skin_pack_punk",
     "ShopItemCharacters": [
       "IceDude",
       "Arcade",

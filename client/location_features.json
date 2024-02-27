@@ -474,5 +474,12 @@
     "LocationTheme": "FightingGame",
     "MeshNames": "hair_frame_1;hair_frame_2",
     "FrameDelay": 300
+  },
+  "LoveSwampWillow": {
+    "Name": "LoveSwampWillow",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "LoveSwamp",
+    "MeshNames": "willow_stuff",
+    "Character": "Puppeteer"
   }
 }

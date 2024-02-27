@@ -1,0 +1,182 @@
+{
+  "YearOfDragon": {
+    "Name": "YearOfDragon",
+    "PowerLeagueSeasonId": 18,
+    "SkinsInRankedStar": [
+      "TntDudeDynastic",
+      "TrickshotDudeDevil",
+      "DuplicatorDarkcircus",
+      "MaisieWasteland",
+      "IceDudeStonetroll",
+      "MechaDudeJaguar",
+      "SniperMariposa"
+    ],
+    "TicketsInSkinDraw": [
+      50,
+      8,
+      8,
+      8,
+      8,
+      9,
+      9
+    ],
+    "SpraysInRankedStar": [
+      "spray_ranked_sandsoftime",
+      "spray_cartoon_starr",
+      "spray_lola_circus",
+      "spray_maisie_wasteland",
+      "spray_lou_enchanted",
+      "spray_meg_jungle"
+    ],
+    "TicketsInSprayDraw": [
+      100,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "ProfilePicsInRankedStar": [
+      "player_icon_ranked_sandsoftime",
+      "rank31",
+      "rank30",
+      "rank29",
+      "rank28",
+      "rank27",
+      "rank25",
+      "rank26"
+    ],
+    "TicketsInProfilePicDraw": [
+      100,
+      15,
+      15,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  },
+  "SandsOfTime": {
+    "Name": "SandsOfTime",
+    "PowerLeagueSeasonId": 19,
+    "SkinsInRankedStar": [
+      "TntDudeDynastic",
+      "TrickshotDudeDevil",
+      "DuplicatorDarkcircus",
+      "MaisieWasteland",
+      "IceDudeStonetroll",
+      "MechaDudeJaguar",
+      "SniperMariposa"
+    ],
+    "TicketsInSkinDraw": [
+      50,
+      8,
+      8,
+      8,
+      8,
+      9,
+      9
+    ],
+    "SpraysInRankedStar": [
+      "spray_ranked_sandsoftime",
+      "spray_cartoon_starr",
+      "spray_lola_circus",
+      "spray_maisie_wasteland",
+      "spray_lou_enchanted",
+      "spray_meg_jungle"
+    ],
+    "TicketsInSprayDraw": [
+      100,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "ProfilePicsInRankedStar": [
+      "player_icon_ranked_sandsoftime",
+      "rank31",
+      "rank30",
+      "rank29",
+      "rank28",
+      "rank27",
+      "rank25",
+      "rank26"
+    ],
+    "TicketsInProfilePicDraw": [
+      100,
+      15,
+      15,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  },
+  "Ragnarok": {
+    "Name": "Ragnarok",
+    "PowerLeagueSeasonId": 20,
+    "SkinsInRankedStar": [
+      "JesterLoki",
+      "TntDudeDynastic",
+      "TrickshotDudeDevil",
+      "DuplicatorDarkcircus",
+      "MaisieWasteland",
+      "IceDudeStonetroll",
+      "MechaDudeJaguar",
+      "SniperMariposa"
+    ],
+    "TicketsInSkinDraw": [
+      50,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      8
+    ],
+    "SpraysInRankedStar": [
+      "spray_ranked_ragnarok",
+      "spray_ranked_sandsoftime",
+      "spray_cartoon_starr",
+      "spray_lola_circus",
+      "spray_maisie_wasteland",
+      "spray_lou_enchanted",
+      "spray_meg_jungle"
+    ],
+    "TicketsInSprayDraw": [
+      100,
+      17,
+      17,
+      17,
+      17,
+      16,
+      16
+    ],
+    "ProfilePicsInRankedStar": [
+      "player_icon_ranked_ragnarok",
+      "player_icon_ranked_sandsoftime",
+      "rank31",
+      "rank30",
+      "rank29",
+      "rank28",
+      "rank27",
+      "rank25",
+      "rank26"
+    ],
+    "TicketsInProfilePicDraw": [
+      100,
+      13,
+      13,
+      13,
+      13,
+      12,
+      12,
+      12,
+      12
+    ]
+  }
+}

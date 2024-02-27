@@ -1,0 +1,113 @@
+{
+  "battle_card_frame_ranked_bronze_bg": {
+    "Name": "battle_card_frame_ranked_bronze_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_bronze_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_bronze_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_bronze_levels",
+    "Tier": 1,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_silver_bg": {
+    "Name": "battle_card_frame_ranked_silver_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_silver_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_silver_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_silver_levels",
+    "Tier": 2,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_gold_bg": {
+    "Name": "battle_card_frame_ranked_gold_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_gold_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_gold_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_gold_levels",
+    "Tier": 3,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_diamond_bg": {
+    "Name": "battle_card_frame_ranked_diamond_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_diamond_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_diamond_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_diamond_levels",
+    "Tier": 4,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_mythic_bg": {
+    "Name": "battle_card_frame_ranked_mythic_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_mythic_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_mythic_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_mythic_levels",
+    "Tier": 5,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_legendary_bg": {
+    "Name": "battle_card_frame_ranked_legendary_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_legendary_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_legendary_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_legendary_levels",
+    "Tier": 6,
+    "DelayMilliseconds": 200
+  },
+  "battle_card_frame_ranked_masters_bg": {
+    "Name": "battle_card_frame_ranked_masters_bg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_ranked_masters_bg",
+    "IconExportNameFront": "battle_card_frame_ranked_masters_front",
+    "IconExportNameLevels": "battle_card_frame_ranked_masters_levels",
+    "Tier": 7,
+    "DelayMilliseconds": 200
+  },
+  "globalFrame": {
+    "Name": "globalFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_earth_bg",
+    "Tier": 1,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  },
+  "lunarFrame": {
+    "Name": "lunarFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_moon_bg",
+    "Tier": 2,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  },
+  "martialFrame": {
+    "Name": "martialFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_mars_bg",
+    "Tier": 3,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  },
+  "saturnalFrame": {
+    "Name": "saturnalFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_saturn_bg",
+    "Tier": 4,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  },
+  "solarFrame": {
+    "Name": "solarFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_sun_bg",
+    "Tier": 5,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  },
+  "meteorFrame": {
+    "Name": "meteorFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_meteor_bg",
+    "Tier": 6,
+    "IsFame": true,
+    "DelayMilliseconds": 900
+  }
+}

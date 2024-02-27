@@ -28,15 +28,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      60,
-      90,
-      75,
-      60,
-      57,
-      71,
-      57
-    ],
     "BackgroundFile": [
       true,
       true,
@@ -58,10 +49,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      59,
-      62
-    ],
     "Disabled": true,
     "BackgroundFile": true
   },
@@ -70,31 +57,27 @@
     "Disabled": true,
     "FileName": "music/scrapyard_lvl_music_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 63
+    "Loop": true
   },
   "Footbrawl_menu_muzak": {
     "Name": "Footbrawl_menu_muzak",
+    "Disabled": true,
     "FileName": "music/footbrawl_menu_muzak_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 70
+    "Loop": true
   },
   "Brawzaar_menu_muzak": {
     "Name": "Brawzaar_menu_muzak",
-    "Disabled": true,
     "FileName": "music/brawzaar_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 126
+    "Loop": true
   },
   "Monsterbrawl_menu_muzak": {
     "Name": "Monsterbrawl_menu_muzak",
     "Disabled": true,
     "FileName": "music/bm_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 68
+    "Loop": true
   },
   "Monsterbrawl_ingame_muzak": {
     "Name": "Monsterbrawl_ingame_muzak",
@@ -114,10 +97,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      70,
-      53
-    ],
     "BackgroundFile": true
   },
   "Monsterbrawl_boss": {
@@ -125,12 +104,10 @@
     "Disabled": true,
     "FileName": "music/brawlzilla_boss_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 48
+    "Loop": true
   },
   "Brawzaar_ingame_muzak": {
     "Name": "Brawzaar_ingame_muzak",
-    "Disabled": true,
     "FileName": [
       "music/brawzaar_ingame_01.ogg",
       "music/background/brawzaar_ingame_02.ogg"
@@ -142,10 +119,6 @@
     "Loop": [
       true,
       true
-    ],
-    "DurationSec": [
-      59,
-      63
     ],
     "BackgroundFile": true
   },
@@ -165,11 +138,6 @@
       true,
       true,
       true
-    ],
-    "DurationSec": [
-      57,
-      65,
-      57
     ]
   },
   "Cny_levels": {
@@ -186,10 +154,6 @@
     "Loop": [
       true,
       true
-    ],
-    "DurationSec": [
-      64,
-      56
     ]
   },
   "Elprimo_fire_menu": {
@@ -197,8 +161,7 @@
     "Disabled": true,
     "FileName": "music/primo_fire_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 105
+    "Loop": true
   },
   "Poco_Band_Ingame": {
     "Name": "Poco_Band_Ingame",
@@ -215,10 +178,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      62,
-      62
-    ],
     "BackgroundFile": true
   },
   "Starpark_Menu_Music": {
@@ -226,68 +185,59 @@
     "Disabled": true,
     "FileName": "music/braw_themepark_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 59
+    "Loop": true
   },
   "Giftshop_Level_Music": {
     "Name": "Giftshop_Level_Music",
     "Disabled": true,
     "FileName": "music/brawl_shop_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 73
+    "Loop": true
   },
   "Lunar_Menu_Music": {
     "Name": "Lunar_Menu_Music",
     "Disabled": true,
     "FileName": "music/lunar_brawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 63
+    "Loop": true
   },
   "Retropolis_battle": {
     "Name": "Retropolis_battle",
     "Disabled": true,
     "FileName": "music/retro_brawl_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 55
+    "Loop": true
   },
   "Retropolis_menu": {
     "Name": "Retropolis_menu",
     "Disabled": true,
     "FileName": "music/brawl_retro_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 66
+    "Loop": true
   },
   "Halloween_menu": {
     "Name": "Halloween_menu",
     "Disabled": true,
     "FileName": "music/brawloween_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 80
+    "Loop": true
   },
   "Halloween_ingame": {
     "Name": "Halloween_ingame",
     "Disabled": true,
     "FileName": "music/brawloween_ingame_02.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 56
+    "Loop": true
   },
   "Brawlcade_Menu": {
     "Name": "Brawlcade_Menu",
     "Disabled": true,
     "FileName": "music/brawlcade_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 57
+    "Loop": true
   },
   "Brawlcade_Ingame": {
     "Name": "Brawlcade_Ingame",
-    "Disabled": true,
     "FileName": [
       "music/brawlcade_ingame_01.ogg",
       "music/background/brawlcade_ingame_02.ogg"
@@ -300,10 +250,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      57,
-      62
-    ],
     "BackgroundFile": true
   },
   "Space_Brawl_Menu": {
@@ -311,16 +257,14 @@
     "Disabled": true,
     "FileName": "music/military_lase_tag_ingame_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 93
+    "Loop": true
   },
   "Space_Brawl_LNY_Menu": {
     "Name": "Space_Brawl_LNY_Menu",
     "Disabled": true,
     "FileName": "music/brawl_lunarnewyear_space_lazer_military_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 84
+    "Loop": true
   },
   "Space_Brawl_Ingame": {
     "Name": "Space_Brawl_Ingame",
@@ -343,11 +287,6 @@
       true,
       true,
       true
-    ],
-    "DurationSec": [
-      60,
-      60,
-      60
     ]
   },
   "Xmas_Pirate_Menu": {
@@ -355,31 +294,26 @@
     "Disabled": true,
     "FileName": "music/brawl_pirate_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 67
+    "Loop": true
   },
   "Pirate_Brawl_Ingame": {
     "Name": "Pirate_Brawl_Ingame",
     "Disabled": true,
     "FileName": "music/pirate_brawl_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 63
+    "Loop": true
   },
   "MenuMusic": {
     "Name": "MenuMusic",
     "FileName": "music/brawl_stars_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 153
+    "Loop": true
   },
   "MechMenuMusic": {
     "Name": "MechMenuMusic",
-    "Disabled": true,
     "FileName": "music/mech_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 78
+    "Loop": true
   },
   "Cnymenu_music": {
     "Name": "Cnymenu_music",
@@ -388,39 +322,35 @@
     "BackgroundFile": true,
     "FallBackMusic": "Snow_brawl",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 178
+    "Loop": true
   },
   "Brawl_royale_menu_music": {
     "Name": "Brawl_royale_menu_music",
     "Disabled": true,
     "FileName": "music/royale_brawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 91
+    "Loop": true
   },
   "Brawl_dawgs_menu": {
     "Name": "Brawl_dawgs_menu",
     "Disabled": true,
     "FileName": "music/brawl_dawgs_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 95
+    "Loop": true
   },
   "Xmas_menu": {
     "Name": "Xmas_menu",
+    "Disabled": true,
     "FileName": "music/brawlmass_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 85
+    "Loop": true
   },
   "10th_Anniversary_Menu": {
     "Name": "10th_Anniversary_Menu",
     "Disabled": true,
     "FileName": "music/brawl_original_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 124
+    "Loop": true
   },
   "WinJingle": {
     "Name": "WinJingle",
@@ -444,22 +374,19 @@
     "Name": "Win_loop",
     "FileName": "music/win_screen_loop_4x_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 30
+    "Loop": true
   },
   "Draw_loop": {
     "Name": "Draw_loop",
     "FileName": "music/draw_screen_loop_4x_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 34
+    "Loop": true
   },
   "Lose_loop": {
     "Name": "Lose_loop",
     "FileName": "music/lose_screen_loop_4x_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 28
+    "Loop": true
   },
   "Brawlbawl_goal": {
     "Name": "Brawlbawl_goal",
@@ -477,8 +404,7 @@
     "Name": "30_sec_panic",
     "FileName": "music/brawl_panic_time_01.ogg",
     "Volume": 75,
-    "Loop": true,
-    "DurationSec": 30
+    "Loop": true
   },
   "Brawl_xmas_flag_win": {
     "Name": "Brawl_xmas_flag_win",
@@ -497,22 +423,20 @@
     "Disabled": true,
     "FileName": "music/snowtel_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 60
+    "Loop": true
   },
   "Snowtel_Ingame": {
     "Name": "Snowtel_Ingame",
+    "Disabled": true,
     "FileName": "music/snowtel_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 69
+    "Loop": true
   },
   "Ranked_pick": {
     "Name": "Ranked_pick",
     "FileName": "music/bs_nerd_mode_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 67
+    "Loop": true
   },
   "Golden_Week_Menu": {
     "Name": "Golden_Week_Menu",
@@ -521,24 +445,21 @@
     "BackgroundFile": true,
     "FallBackMusic": "Snow_brawl",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 81
+    "Loop": true
   },
   "Action_Western_Menu": {
     "Name": "Action_Western_Menu",
     "Disabled": true,
     "FileName": "music/action_western_stars_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 72
+    "Loop": true
   },
   "Action_Western_Ingame": {
     "Name": "Action_Western_Ingame",
     "Disabled": true,
     "FileName": "music/rooty_tooty_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 61
+    "Loop": true
   },
   "Basketbrawl_goal": {
     "Name": "Basketbrawl_goal",
@@ -569,102 +490,91 @@
     "Disabled": true,
     "FileName": "music/brawl_dinobeach_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 54
+    "Loop": true
   },
   "Summer_Brawl_Ingame_Music": {
     "Name": "Summer_Brawl_Ingame_Music",
     "Disabled": true,
     "FileName": "music/brawl_dinobeach_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 72
+    "Loop": true
   },
   "Punk_Brawl_Menu": {
     "Name": "Punk_Brawl_Menu",
     "Disabled": true,
     "FileName": "music/brawl_punk_menu_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 75
+    "Loop": true
   },
   "Fairytale_Menu": {
     "Name": "Fairytale_Menu",
     "Disabled": true,
     "FileName": "music/brawl_fairytale_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 57
+    "Loop": true
   },
   "Courtyard_Ingame": {
     "Name": "Courtyard_Ingame",
     "Disabled": true,
     "FileName": "music/brawl_castle_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 67
+    "Loop": true
   },
   "Brawlywood_Ingame": {
     "Name": "Brawlywood_Ingame",
     "Disabled": true,
     "FileName": "music/brawlywood_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 82
+    "Loop": true
   },
   "Brawlywood_Menu": {
     "Name": "Brawlywood_Menu",
     "Disabled": true,
     "FileName": "music/brawlywood_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 52
+    "Loop": true
   },
   "Retro_Fight_Menu": {
     "Name": "Retro_Fight_Menu",
+    "Disabled": true,
     "FileName": "music/retro_fighting_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 90
+    "Loop": true
   },
   "Retro_Fight_Ingame": {
     "Name": "Retro_Fight_Ingame",
+    "Disabled": true,
     "FileName": "music/retro_fight_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 62
+    "Loop": true
   },
   "Biodome_Menu": {
     "Name": "Biodome_Menu",
     "Disabled": true,
     "FileName": "music/biodome_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 66
+    "Loop": true
   },
   "Biodome_Ingame": {
     "Name": "Biodome_Ingame",
     "Disabled": true,
     "FileName": "music/biodome_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 66
+    "Loop": true
   },
   "Pinstuntbrawl_Menu": {
     "Name": "Pinstuntbrawl_Menu",
     "Disabled": true,
     "FileName": "music/pinstuntbrawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 83
+    "Loop": true
   },
   "Pinstuntbrawl_Ingame": {
     "Name": "Pinstuntbrawl_Ingame",
     "Disabled": true,
     "FileName": "music/pinstuntbrawl_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 65
+    "Loop": true
   },
   "Bad_Randoms_Music": {
     "Name": "Bad_Randoms_Music",
@@ -692,12 +602,6 @@
       true,
       true
     ],
-    "DurationSec": [
-      133,
-      119,
-      135,
-      141
-    ],
     "BackgroundFile": [
       true,
       true,
@@ -709,234 +613,252 @@
     "Disabled": true,
     "FileName": "music/deepsea_beastieboys_brawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 64
+    "Loop": true
   },
   "Underwater_Braw_Ingame": {
     "Name": "Underwater_Braw_Ingame",
     "Disabled": true,
     "FileName": "music/underwater_brawl_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 67
+    "Loop": true
   },
   "Robotfactory_Menu": {
     "Name": "Robotfactory_Menu",
     "Disabled": true,
     "FileName": "music/robot_factory_brawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 90
+    "Loop": true
   },
   "Robotfactory_Ingame": {
     "Name": "Robotfactory_Ingame",
+    "Disabled": true,
     "FileName": "music/robot_factory_brawl_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 58
+    "Loop": true
   },
   "TopGun_Action_Menu": {
     "Name": "TopGun_Action_Menu",
     "Disabled": true,
     "FileName": "music/top_gun_action_brawl_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 102
+    "Loop": true
   },
   "Ghosttrain_Menu": {
     "Name": "Ghosttrain_Menu",
     "Disabled": true,
     "FileName": "music/brawloween_2022_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 65
+    "Loop": true
   },
   "Ghosttrain_Ingame": {
     "Name": "Ghosttrain_Ingame",
     "Disabled": true,
     "FileName": "music/brawloween_ghost_train_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 91
+    "Loop": true
   },
   "Candyland_Ingame": {
     "Name": "Candyland_Ingame",
     "Disabled": true,
     "FileName": "music/brawl_candy_level_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 76
+    "Loop": true
   },
   "Krampus_Menu": {
     "Name": "Krampus_Menu",
     "Disabled": true,
     "FileName": "music/brawl_krampus_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 59
+    "Loop": true
   },
   "Brawlentines_Menu": {
     "Name": "Brawlentines_Menu",
     "Disabled": true,
     "FileName": "music/brawlentine_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 96
+    "Loop": true
   },
   "Mandy_Candy_Menu": {
     "Name": "Mandy_Candy_Menu",
     "Disabled": true,
     "FileName": "music/mandy_candy_meny_muzak_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 71
+    "Loop": true
   },
   "Scifi_Noir_Menu": {
     "Name": "Scifi_Noir_Menu",
     "Disabled": true,
     "FileName": "music/brawl_scifi_noir_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 84
+    "Loop": true
   },
   "Mask_Dance_Menu": {
     "Name": "Mask_Dance_Menu",
     "Disabled": true,
     "FileName": "music/brawl_mask_dance_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 96
+    "Loop": true
   },
   "Lounge_Hub_Ingame": {
     "Name": "Lounge_Hub_Ingame",
     "Disabled": true,
     "FileName": "music/brawl_lounge_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 76
+    "Loop": true
   },
   "Brawlympus_Menu": {
     "Name": "Brawlympus_Menu",
     "Disabled": true,
     "FileName": "music/brawlympus_menu_music_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 86
+    "Loop": true
   },
   "Brawl_Jungle_Menu": {
     "Name": "Brawl_Jungle_Menu",
     "Disabled": true,
     "FileName": "music/brawl_jungle_menu_music_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 50
+    "Loop": true
   },
   "Brawl_Jungle_Ingame": {
     "Name": "Brawl_Jungle_Ingame",
     "Disabled": true,
     "FileName": "music/brawl_jungle_ingame_music_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 45
+    "Loop": true
   },
   "BasketbrawL_Ingame": {
     "Name": "BasketbrawL_Ingame",
     "Disabled": true,
     "FileName": "music/basket_brawl_ingame_music_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 172
+    "Loop": true
   },
   "Brawl_Enchanted_Forest_Menu": {
     "Name": "Brawl_Enchanted_Forest_Menu",
     "Disabled": true,
     "FileName": "music/brawl_enchanted_forest_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 79
+    "Loop": true
   },
   "Brawl_Enchanted_Forest_Ingame": {
     "Name": "Brawl_Enchanted_Forest_Ingame",
     "Disabled": true,
     "FileName": "music/brawl_enchanted_forest_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 96
+    "Loop": true
   },
   "Brawl_Cursed_Pirates_Menu": {
     "Name": "Brawl_Cursed_Pirates_Menu",
     "Disabled": true,
     "FileName": "music/brawl_cursed_pirate_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 59
+    "Loop": true
   },
   "Highschool_Menu": {
     "Name": "Highschool_Menu",
+    "Disabled": true,
     "FileName": "music/highschool_menu_music_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 89
+    "Loop": true
   },
   "Wasteland_Menu": {
     "Name": "Wasteland_Menu",
     "Disabled": true,
     "FileName": "music/wasteland_menu_muzak_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 72
+    "Loop": true
   },
   "Wasteland_Ingame": {
     "Name": "Wasteland_Ingame",
     "Disabled": true,
     "FileName": "music/wasteland_ingame_music_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 103
+    "Loop": true
   },
   "Circus_Menu": {
     "Name": "Circus_Menu",
     "Disabled": true,
     "FileName": "music/circus_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 80
+    "Loop": true
   },
   "Circus_Ingame": {
     "Name": "Circus_Ingame",
     "Disabled": true,
     "FileName": "music/circus_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 48
+    "Loop": true
   },
   "Hindu_Menu": {
     "Name": "Hindu_Menu",
     "Disabled": true,
     "FileName": "music/hindu_menu_01.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 80
+    "Loop": true
   },
   "Piggybank_Ingame": {
     "Name": "Piggybank_Ingame",
     "FileName": "music/piggybank_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 61
+    "Loop": true
   },
   "Brawly_Toonz_Menu": {
     "Name": "Brawly_Toonz_Menu",
+    "Disabled": true,
     "FileName": "music/brawly_toonz_menu_music.ogg",
     "Volume": 60,
-    "Loop": true,
-    "DurationSec": 65
+    "Loop": true
   },
   "Brawly_Toonz_Ingame": {
     "Name": "Brawly_Toonz_Ingame",
     "FileName": "music/brawly_toonz_ingame_01.ogg",
     "Volume": 70,
-    "Loop": true,
-    "DurationSec": 60
+    "Loop": true
+  },
+  "Loveswamp_Ingame": {
+    "Name": "Loveswamp_Ingame",
+    "FileName": "music/love_swamp_ingame_01.ogg",
+    "Volume": 70,
+    "Loop": true
+  },
+  "Loveswamp_Menu": {
+    "Name": "Loveswamp_Menu",
+    "FileName": [
+      "music/love_swamp_menu_01.ogg",
+      "music/love_swamp_menu_02.ogg"
+    ],
+    "Volume": [
+      60,
+      60
+    ],
+    "Loop": [
+      true,
+      true
+    ]
+  },
+  "Kpop_Menu": {
+    "Name": "Kpop_Menu",
+    "FileName": "music/kpop_menu_01.ogg",
+    "Volume": 60,
+    "Loop": true
+  },
+  "Extraction_panic_music": {
+    "Name": "Extraction_panic_music",
+    "FileName": "music/brawzaar_ingame_02.ogg",
+    "Volume": 70,
+    "Loop": true
+  },
+  "Ragnarok_Menu": {
+    "Name": "Ragnarok_Menu",
+    "FileName": "music/ragnarok_menu_01.ogg",
+    "Volume": 60,
+    "Loop": true
+  },
+  "Babyshark_Menu": {
+    "Name": "Babyshark_Menu",
+    "FileName": "music/babyshark_menu_01.ogg",
+    "Volume": 60,
+    "Loop": true
   }
 }
