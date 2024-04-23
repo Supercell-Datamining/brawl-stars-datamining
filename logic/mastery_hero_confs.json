@@ -622,5 +622,21 @@
     "RewardTitles": "TitleMasteryAngelo",
     "MasteryIconFile": "sc/ui.sc",
     "MasteryIconExportName": "mastery_brawler_icon_angelo"
+  },
+  "MasteryDragonRider": {
+    "Name": "MasteryDragonRider",
+    "RewardEmotes": "emoji_draco_facepalm",
+    "RewardPlayerIcons": "player_icon_draco1",
+    "RewardTitles": "TitleMasteryDraco",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_draco"
+  },
+  "MasteryAmbusher": {
+    "Name": "MasteryAmbusher",
+    "RewardEmotes": "emoji_lili_facepalm",
+    "RewardPlayerIcons": "player_icon_lily1",
+    "RewardTitles": "TitleMasteryLily",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_lili"
   }
 }

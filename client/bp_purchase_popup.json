@@ -185,5 +185,41 @@
     "AnimChromas": "HAPPY",
     "Multiplier": 18,
     "PlusMultiplier": 20
+  },
+  "season26": {
+    "Name": "season26",
+    "Season": 25,
+    "HeroArea1": "ClusterBombDudeGodzilla",
+    "HeroArea2": "ClusterBombDudeGodzillaGold",
+    "HeroArea3": "ClusterBombDudeGodzillaDark",
+    "FrameName": "26",
+    "Skin": "ClusterBombDudeGodzilla",
+    "SkinChroma": "ClusterBombDudeGodzillaGold",
+    "Pin": "emoji_godzilla_egg",
+    "Icon": "player_icon_bp_godzilla",
+    "Spray": "spray_bp_godzilla",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
+  },
+  "season27": {
+    "Name": "season27",
+    "Season": 26,
+    "HeroArea1": "RocketGirlVirus",
+    "HeroArea2": "RocketGirlVirusRGB",
+    "HeroArea3": "RocketGirlVirusGold",
+    "FrameName": "27",
+    "Skin": "RocketGirlVirus",
+    "SkinChroma": "RocketGirlVirusGold",
+    "Pin": "emoji_hacker",
+    "Icon": "player_icon_bp_hackers",
+    "Spray": "spray_bp_hackers",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
   }
 }

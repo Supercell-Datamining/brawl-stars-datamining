@@ -238,5 +238,93 @@
     "TID": "TID_EMOTE_BUNDLE_MANDY_LAVA_PACK",
     "CanBeBought": true,
     "RepresentingHighlightEmote": "emoji_mandy_lava"
+  },
+  "Crimson_rt": {
+    "Name": "Crimson_rt",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_rt_cult",
+    "TID": "TID_EMOTE_BUNDLE_RT_CULT",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_rt_cult"
+  },
+  "Jungle_maisie": {
+    "Name": "Jungle_maisie",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_maisie_jungle",
+    "TID": "TID_EMOTE_BUNDLE_MAISIE_JUNGLE",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_maisie_jungle"
+  },
+  "Sporemind_cordelius": {
+    "Name": "Sporemind_cordelius",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_tox_space",
+    "TID": "TID_EMOTE_BUNDLE_SPOREMIND_CORDELIUS",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_tox_space"
+  },
+  "Periscope_pearl": {
+    "Name": "Periscope_pearl",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_pearl_submarine",
+    "TID": "TID_EMOTE_BUNDLE_PERISCOPE_PEARL",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_pearl_submarine"
+  },
+  "Rosie_charlie": {
+    "Name": "Rosie_charlie",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_charlotte_rose",
+    "TID": "TID_EMOTE_BUNDLE_ROSIE_CHARLIE",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_charlotte_rose"
+  },
+  "Skulltoon": {
+    "Name": "Skulltoon",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_skulltoon",
+    "TID": "TID_EMOTE_BUNDLE_SKULLTOON",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_skulltoon"
+  },
+  "LNYdragon": {
+    "Name": "LNYdragon",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_dragon",
+    "TID": "TID_EMOTE_BUNDLE_LNY_DRAGON",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_dragon"
+  },
+  "Sandclock": {
+    "Name": "Sandclock",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_sandclock",
+    "TID": "TID_EMOTE_BUNDLE_SANDCLOCK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_sandclock"
+  },
+  "Ragnarok": {
+    "Name": "Ragnarok",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_skull_ragnarock",
+    "TID": "TID_EMOTE_BUNDLE_SKULL_RAGNAROK",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_skull_ragnarock"
+  },
+  "Godzillaegg": {
+    "Name": "Godzillaegg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_godzilla_egg",
+    "TID": "TID_EMOTE_BUNDLE_GODZILLA_EGG",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_godzilla_egg"
+  },
+  "Hackers": {
+    "Name": "Hackers",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_hacker",
+    "TID": "TID_EMOTE_BUNDLE_SKULL_HACKER",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_hacker"
   }
 }

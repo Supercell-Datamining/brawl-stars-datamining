@@ -709,6 +709,7 @@
   },
   "Sands": {
     "Name": "Sands",
+    "Disabled": true,
     "FileName": "sc/background_sands.sc",
     "ExportName": "bgr_sands",
     "ThemeMusic": "Brawzaar_menu_muzak",
@@ -717,6 +718,7 @@
   },
   "Ragnarok": {
     "Name": "Ragnarok",
+    "Disabled": true,
     "FileName": "sc/background_ragnarok.sc",
     "ExportName": "bgr_ragnarok",
     "ThemeMusic": "Ragnarok_Menu",
@@ -725,6 +727,7 @@
   },
   "LoveSwamp": {
     "Name": "LoveSwamp",
+    "Disabled": true,
     "FileName": "sc/background_love_swamp.sc",
     "ExportName": "bgr_loveswamp",
     "ThemeMusic": "Loveswamp_Menu",
@@ -732,6 +735,7 @@
   },
   "Melody": {
     "Name": "Melody",
+    "Disabled": true,
     "FileName": "sc/background_melody.sc",
     "ExportName": "bgr_melody",
     "ThemeMusic": "Kpop_Menu",
@@ -740,6 +744,7 @@
   },
   "BabyShark": {
     "Name": "BabyShark",
+    "Disabled": true,
     "FileName": "sc/background_babyshark.sc",
     "ExportName": "bgr_babyshark",
     "ThemeMusic": "Babyshark_Menu",
@@ -748,10 +753,54 @@
   },
   "MechaLeon": {
     "Name": "MechaLeon",
+    "Disabled": true,
     "FileName": "sc/background_mecha_leon.sc",
     "ExportName": "bgr_mecha_leon",
     "ThemeMusic": "MechMenuMusic",
     "LoadingJingle": "sfx/brawl_robotfactory_load_01.ogg",
     "LoadingScreen": "sc/loading_leon_mecha.sc"
+  },
+  "Enchanted2024": {
+    "Name": "Enchanted2024",
+    "FileName": "sc/background_enchantedforest.sc",
+    "ExportName": "bgr_enchanted",
+    "ThemeMusic": "Brawl_Enchanted_Forest_Menu",
+    "LoadingJingle": "sfx/enchanted_forest_loading_01.ogg"
+  },
+  "Godzilla": {
+    "Name": "Godzilla",
+    "FileName": "sc/background_godzilla.sc",
+    "ExportName": "bgr_godzilla",
+    "ThemeMusic": "Godzilla_Menu",
+    "LoadingJingle": "sfx/brawl_godzilla_load_01.ogg",
+    "LoadingScreen": "sc/loading_godzilla.sc"
+  },
+  "Hackers": {
+    "Name": "Hackers",
+    "FileName": "sc/background_hackers.sc",
+    "ExportName": "bgr_hackers",
+    "ThemeMusic": "Brawl_Haxx0r_M3nu",
+    "LoadingJingle": "sfx/brawl_cyberhax_load_01.ogg",
+    "LoadingScreen": "sc/loading_hackers.sc"
+  },
+  "Madevil": {
+    "Name": "Madevil",
+    "FileName": "sc/background_madevil.sc",
+    "ExportName": "bgr_madevil",
+    "ParticleFileName": "sc/ui.sc",
+    "ParticleExportName": "particle_ember_",
+    "ParticleStyle": "Ember",
+    "ParticleVariations": 2,
+    "ThemeMusic": "Draco_Madevil_Menu",
+    "LoadingJingle": "sfx/brawl_metal_load_01.ogg",
+    "LoadingScreen": "sc/loading_draco.sc"
+  },
+  "Velocirapids2024": {
+    "Name": "Velocirapids2024",
+    "FileName": "sc/background_velocirapids2023.sc",
+    "ExportName": "bgr_velocirapids2023",
+    "ThemeMusic": "Summer_Brawl_Menu_Muzak",
+    "LoadingJingle": "sfx/brawl_jungle_loading_01.ogg",
+    "LoadingScreen": "sc/loading_velocirapids.sc"
   }
 }

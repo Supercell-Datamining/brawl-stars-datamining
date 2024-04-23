@@ -6644,5 +6644,24 @@
     "SCIDStore": true,
     "PremiumPass": true,
     "PremiumPlusPass": true
+  },
+  "com.supercell.laser.scid.specialoffertier0.free": {
+    "Name": "com.supercell.laser.scid.specialoffertier0.free",
+    "TID": "TID_SHOP_SPECIAL_OFFER",
+    "Type": 6,
+    "Disabled": false,
+    "ExistsApple": true,
+    "ExistsAndroid": true,
+    "ExistsCN": false,
+    "DisabledCN": true,
+    "ExistsAppleCN": false,
+    "ExistsAndroidCN": false,
+    "Diamonds": 0,
+    "USD": 0,
+    "Order": 0,
+    "RefundGemValue": 0,
+    "SCIDStore": true,
+    "PremiumPass": false,
+    "PremiumPlusPass": false
   }
 }

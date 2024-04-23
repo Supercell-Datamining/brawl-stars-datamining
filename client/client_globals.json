@@ -480,10 +480,6 @@
     "Name": "KAKAO_ENABLED",
     "BooleanValue": true
   },
-  "LINE_ENABLED": {
-    "Name": "LINE_ENABLED",
-    "BooleanValue": false
-  },
   "SELFHELP_ENABLED": {
     "Name": "SELFHELP_ENABLED",
     "BooleanValue": true

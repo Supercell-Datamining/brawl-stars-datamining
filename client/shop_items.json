@@ -56,6 +56,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_12",
     "RankedGoalAsset": "offer_item_power_points_small",
     "RankedGoalQuestAsset": "offer_item_power_points_small",
+    "ClubCollabAsset": "offer_item_power_points_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_12",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_powerpoints"
@@ -85,6 +86,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_9",
     "RankedGoalAsset": "offer_item_token_doubler_small",
     "RankedGoalQuestAsset": "offer_item_token_doubler_small",
+    "ClubCollabAsset": "offer_item_token_doubler_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_9",
     "ChallengeRewardAsset": "reward_profilebutton_9"
   },
@@ -161,6 +163,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_1",
     "RankedGoalAsset": "offer_item_coins_small",
     "RankedGoalQuestAsset": "offer_item_coins_small",
+    "ClubCollabAsset": "offer_item_coins_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_1",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_coin"
@@ -205,6 +208,7 @@
     "TrophyRankRewardSmall": "reward_popupitem_small_16",
     "RankedGoalAsset": "offer_item_gems_small",
     "RankedGoalQuestAsset": "offer_item_gems_small",
+    "ClubCollabAsset": "offer_item_gems_simple",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_16",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_gem"
@@ -261,6 +265,7 @@
     "TrophyRankRewardProfile": "reward_profilebutton_16",
     "RankedGoalAsset": "offer_item_gems_small",
     "RankedGoalQuestAsset": "offer_item_gems_small",
+    "ClubCollabAsset": "offer_item_gems_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_16",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_key"
@@ -285,6 +290,7 @@
     "TrophyRankRewardSmall": "reward_popupitem_small_19",
     "RankedGoalAsset": "offer_item_emote_small",
     "RankedGoalQuestAsset": "offer_item_emote_small",
+    "ClubCollabAsset": "offer_item_emote_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_19",
     "ChallengeRewardFrame": "pin",
     "ChallengeRewardAsset": "reward_profilebutton_3"
@@ -314,6 +320,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_small_20",
     "RankedGoalAsset": "offer_item_emote_bundle_small",
     "RankedGoalQuestAsset": "offer_item_emote_bundle_small",
+    "ClubCollabAsset": "offer_item_emote_bundle_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_20",
     "ChallengeRewardFrame": "box",
     "ChallengeRewardAsset": "reward_popupitem_small_20"
@@ -336,6 +343,7 @@
     "TrophyRankRewardSmall": "reward_popupitem_small_21",
     "RankedGoalAsset": "offer_item_random_emotes_small",
     "RankedGoalQuestAsset": "offer_item_random_emotes_small",
+    "ClubCollabAsset": "offer_item_random_emotes_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_21",
     "ChallengeRewardFrame": "box"
   },
@@ -354,6 +362,7 @@
     "TrophyRankRewardSmall": "reward_popupitem_small_22",
     "RankedGoalAsset": "offer_item_random_emotes_for_brawler_small",
     "RankedGoalQuestAsset": "offer_item_random_emotes_for_brawler_small",
+    "ClubCollabAsset": "offer_item_random_emotes_for_brawler_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_22",
     "ChallengeRewardFrame": "box"
   },
@@ -375,6 +384,7 @@
     ],
     "RankedGoalAsset": "offer_item_random_emote_of_rarity_small",
     "RankedGoalQuestAsset": "offer_item_random_emote_of_rarity_small",
+    "ClubCollabAsset": "offer_item_random_rarity_emote_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_23",
     "ChallengeRewardFrame": "pin"
   },
@@ -407,6 +417,7 @@
     "RankedRewardAsset": "item_player_thumbnail",
     "RankedGoalAsset": "item_player_thumbnail",
     "RankedGoalQuestAsset": "item_player_thumbnail",
+    "ClubCollabAsset": "offer_item_profilepic_small",
     "RewardDescTID": "TID_REWARD_DESC_PLAYER_ICON_REGULAR",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "reward_profilebutton_3"
@@ -426,7 +437,8 @@
     "OfferAssetQuarter": "offer_item_guarantee_brawler_small",
     "OfferAssetHeroLayout": "offer_item_guarantee_brawler_big",
     "RankedGoalAsset": "offer_item_guarantee_brawler_small",
-    "RankedGoalQuestAsset": "offer_item_guarantee_brawler_small"
+    "RankedGoalQuestAsset": "offer_item_guarantee_brawler_small",
+    "ClubCollabAsset": "offer_item_guarantee_brawler_small"
   },
   "GuaranteedHero": {
     "Name": "GuaranteedHero",
@@ -449,6 +461,7 @@
     "ChainOfferMiniItemLarge": "offer_item_portrait_big",
     "RankedGoalAsset": "offer_item_skin_small",
     "RankedGoalQuestAsset": "offer_item_skin_small",
+    "ClubCollabAsset": "collab_offer_item_skin_small",
     "ChallengeRewardFrame": "brawler",
     "ChallengeRewardAsset": "reward_profilebutton_3"
   },
@@ -477,6 +490,7 @@
     "ChainOfferMiniItemLarge": "chain_offer_item_brawler_big",
     "RankedGoalAsset": "offer_item_skin_small",
     "RankedGoalQuestAsset": "offer_item_skin_small",
+    "ClubCollabAsset": "collab_offer_item_skin_small",
     "ChallengeRewardFrame": "skin",
     "ChallengeRewardAsset": "reward_profilebutton_3"
   },
@@ -505,6 +519,7 @@
     "ChainOfferMiniItemLarge": "chain_offer_item_brawler_big",
     "RankedGoalAsset": "offer_item_skin_small",
     "RankedGoalQuestAsset": "offer_item_skin_small",
+    "ClubCollabAsset": "collab_offer_item_skin_small",
     "ChallengeRewardFrame": "skin",
     "ChallengeRewardAsset": "reward_profilebutton_3"
   },
@@ -531,6 +546,7 @@
     "OfferAssetHeroLayout": "offer_item_star_power_big",
     "RankedGoalAsset": "offer_item_star_power_small",
     "RankedGoalQuestAsset": "offer_item_star_power_small",
+    "ClubCollabAsset": "offer_item_star_power_small",
     "ChallengeRewardFrame": "resource"
   },
   "ClubFeature": {
@@ -564,6 +580,7 @@
     "ChainOfferMiniItemLarge": "offer_item_portrait_big",
     "RankedGoalAsset": "offer_item_skin_small",
     "RankedGoalQuestAsset": "offer_item_skin_small",
+    "ClubCollabAsset": "offer_item_skin_small",
     "ChallengeRewardFrame": "brawler",
     "ChallengeRewardAsset": "reward_profilebutton_3"
   },
@@ -582,7 +599,8 @@
     "OfferAssetQuarter": "offer_item_guarantee_brawler_small",
     "OfferAssetHeroLayout": "offer_item_guarantee_brawler_big",
     "RankedGoalAsset": "offer_item_guarantee_brawler_small",
-    "RankedGoalQuestAsset": "offer_item_guarantee_brawler_small"
+    "RankedGoalQuestAsset": "offer_item_guarantee_brawler_small",
+    "ClubCollabAsset": "offer_item_guarantee_brawler_small"
   },
   "GearToken": {
     "Name": "GearToken",
@@ -627,6 +645,7 @@
     "MasterySmallRewardAsset": "mastery_reward_small_spray",
     "RankedGoalAsset": "offer_item_spray_small",
     "RankedGoalQuestAsset": "offer_item_spray_small",
+    "ClubCollabAsset": "offer_item_spray_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_35",
     "ChallengeRewardFrame": "spray"
   },
@@ -706,6 +725,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_38",
     "RankedGoalAsset": "offer_item_recruit_tokens_small",
     "RankedGoalQuestAsset": "offer_item_recruit_tokens_small",
+    "ClubCollabAsset": "offer_item_recruit_tokens_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_38",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_recruit_token"
@@ -750,6 +770,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_39",
     "RankedGoalAsset": "offer_item_chromatic_coins_small",
     "RankedGoalQuestAsset": "offer_item_chromatic_coins_small",
+    "ClubCollabAsset": "offer_item_chromatic_coins_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_39",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_chromatic_coin"
@@ -786,6 +807,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_12",
     "RankedGoalAsset": "offer_item_generic_power_points_small",
     "RankedGoalQuestAsset": "offer_item_generic_power_points_small",
+    "ClubCollabAsset": "offer_item_generic_power_points_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_41",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_powerpoints"
@@ -814,6 +836,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_10",
     "RankedGoalAsset": "brawlpass_reward_premium_tail_rewards",
     "RankedGoalQuestAsset": "brawlpass_reward_premium_tail_rewards",
+    "ClubCollabAsset": "brawlpass_reward_premium_tail_rewards",
     "ChallengeRewardFrame": "box",
     "ChallengeRewardAsset": "reward_profilebutton_42"
   },
@@ -876,6 +899,7 @@
     "RankedRewardAsset": "rank_reward_cosmetic_coins",
     "RankedGoalAsset": "offer_item_cosmetic_coins_small",
     "RankedGoalQuestAsset": "offer_item_cosmetic_coins_small",
+    "ClubCollabAsset": "offer_item_cosmetic_coins_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_45",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_cosmetic_coins"
@@ -908,6 +932,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_45",
     "RankedGoalAsset": "offer_item_cosmetic_coins_small",
     "RankedGoalQuestAsset": "offer_item_cosmetic_coins_small",
+    "ClubCollabAsset": "offer_item_cosmetic_coins_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_46",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_cosmetic_coins"
@@ -935,6 +960,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_50",
     "RankedGoalAsset": "offer_item_overcharge_star_small",
     "RankedGoalQuestAsset": "offer_item_overcharge_star_small",
+    "ClubCollabAsset": "offer_item_overcharge_star_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_47",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_random_reward_overcharge"
@@ -972,6 +998,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_50",
     "RankedGoalAsset": "offer_item_random_reward_small",
     "RankedGoalQuestAsset": "offer_item_random_reward_small",
+    "ClubCollabAsset": "collab_club_reward_milestone_random_reward",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_49",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_random_reward"
@@ -999,6 +1026,7 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_50",
     "RankedGoalAsset": "offer_item_random_reward_small",
     "RankedGoalQuestAsset": "offer_item_random_reward_small",
+    "ClubCollabAsset": "collab_club_reward_milestone_random_reward",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_50",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_random_reward"
@@ -1046,8 +1074,40 @@
     "TrophyRankRewardLarge": "reward_popupitem_large_45",
     "RankedGoalAsset": "offer_item_cosmetic_coins_small",
     "RankedGoalQuestAsset": "offer_item_cosmetic_coins_small",
+    "ClubCollabAsset": "offer_item_cosmetic_coins_small",
     "RewardDescTID": "TID_SHOP_OFFER_TITLE_52",
     "ChallengeRewardFrame": "resource",
     "ChallengeRewardAsset": "icon_resource_cosmetic_coins"
+  },
+  "RandomCollabDrop": {
+    "Name": "RandomCollabDrop",
+    "OfferType": 53,
+    "AcceptToOffers": true,
+    "AcceptToChallengeRewards": false,
+    "AcceptToQuestRewards": false,
+    "IconFrameNumber": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "MaxResourcePerFrame": [
+      1,
+      2,
+      5,
+      11,
+      23,
+      -1
+    ],
+    "PopupItemAsset": "shop_popupitem_53",
+    "OfferAssetSolo": "offer_item_collab_gacha_big",
+    "OfferAssetHalf": "offer_item_collab_gacha_big",
+    "OfferAssetQuarter": "offer_item_collab_gacha_big",
+    "OfferAssetHeroLayout": "offer_item_collab_gacha_big",
+    "RewardDescTID": "TID_SHOP_OFFER_TITLE_53",
+    "ChallengeRewardFrame": "resource",
+    "ChallengeRewardAsset": "icon_resource_random_reward"
   }
 }

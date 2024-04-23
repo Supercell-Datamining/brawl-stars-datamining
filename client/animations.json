@@ -5368,7 +5368,7 @@
   },
   "CarlHogriderProfile": {
     "Name": "CarlHogriderProfile",
-    "FileName": "carl_hogrider_cam.scw",
+    "FileName": "carl_hogrider_portrait.glb",
     "EndFrame": -1,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
@@ -19387,7 +19387,7 @@
   },
   "EveBabyIdle": {
     "Name": "EveBabyIdle",
-    "FileName": "eve_baby_idle.glb",
+    "FileName": "eve_baby_mothra_idle.glb",
     "EndFrame": -1,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
@@ -19396,7 +19396,7 @@
   },
   "EveBabyWalk": {
     "Name": "EveBabyWalk",
-    "FileName": "eve_baby_walk.glb",
+    "FileName": "eve_baby_mothra_walk.glb",
     "EndFrame": -1,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
@@ -19405,7 +19405,7 @@
   },
   "EveBabyAttack": {
     "Name": "EveBabyAttack",
-    "FileName": "eve_baby_attack.glb",
+    "FileName": "eve_baby_mothra_attack.glb",
     "EndFrame": -1,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
@@ -19414,7 +19414,7 @@
   },
   "EveEggIdle": {
     "Name": "EveEggIdle",
-    "FileName": "eve_egg_idle.glb",
+    "FileName": "eve_egg_mothra_idle.glb",
     "EndFrame": -1,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
@@ -29735,7 +29735,7 @@
     "Name": "SplitterCultistIdle_transform",
     "FileName": "rt_cultist_move_transform.glb",
     "StartFrame": 1,
-    "EndFrame": 20,
+    "EndFrame": 29,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
     "Looping": true,
@@ -29833,7 +29833,7 @@
     "Name": "SplitterPoliceIdle_transform",
     "FileName": "rt_police_move_transform.glb",
     "StartFrame": 1,
-    "EndFrame": 20,
+    "EndFrame": 29,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
     "Looping": true,
@@ -30000,7 +30000,7 @@
     "Name": "SplitterDefaultIdle_transform",
     "FileName": "rt_move_transform.glb",
     "StartFrame": 1,
-    "EndFrame": 20,
+    "EndFrame": 29,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
     "Looping": true,
@@ -35563,7 +35563,7 @@
   "CocoonerPetDefaultIdle": {
     "Name": "CocoonerPetDefaultIdle",
     "FileName": "charlie_spider_idle.glb",
-    "EndFrame": -1,
+    "EndFrame": 13,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
@@ -35572,7 +35572,7 @@
   "CocoonerPetDefaultWalk": {
     "Name": "CocoonerPetDefaultWalk",
     "FileName": "charlie_spider_walk.glb",
-    "EndFrame": -1,
+    "EndFrame": 15,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
@@ -35580,9 +35580,8 @@
   },
   "CocoonerPetDefaultAttack": {
     "Name": "CocoonerPetDefaultAttack",
-    "FileName": "charlie_spider_walk.glb",
-    "StartFrame": 15,
-    "EndFrame": -1,
+    "FileName": "charlie_spider_attack.glb",
+    "EndFrame": 8,
     "FaceFreezeFrame": -1,
     "TransitionInMs": 100,
     "TransitionOutMs": 100
@@ -37179,8 +37178,6 @@
   "PercenteranimePortrait": {
     "Name": "PercenteranimePortrait",
     "FileName": "colette_catmaid_portrait.glb",
-    "StartFrame": 1,
-    "EndFrame": 1,
     "Looping": true
   },
   "AttacherBoxerIdle": {
@@ -37276,8 +37273,6 @@
   "AttacherBoxerProfile": {
     "Name": "AttacherBoxerProfile",
     "FileName": "kit_t70_portrait.glb",
-    "StartFrame": 88,
-    "EndFrame": 88,
     "Priority": "5"
   },
   "DeadMariachioriginsIdle": {
@@ -37474,7 +37469,8 @@
   "AttacherDefaultIdle_transform": {
     "Name": "AttacherDefaultIdle_transform",
     "FileName": "kit_idle_transform.glb",
-    "EndFrame": -1,
+    "StartFrame": 1,
+    "EndFrame": 19,
     "TransitionInMs": 100,
     "TransitionOutMs": 100,
     "Looping": true
@@ -37482,7 +37478,8 @@
   "AttacherDefaultAttack_transform": {
     "Name": "AttacherDefaultAttack_transform",
     "FileName": "kit_attack_transform.glb",
-    "EndFrame": -1,
+    "StartFrame": 2,
+    "EndFrame": 19,
     "AutoFadeMs": 200,
     "Priority": "spine_lower_s#4"
   },
@@ -39335,14 +39332,14 @@
     "Name": "DuelistOdinLose",
     "FileName": "cordelius_odin_lose.glb",
     "StartFrame": 1,
-    "EndFrame": 729,
+    "EndFrame": 58,
     "Priority": "5"
   },
   "DuelistOdinLoseloop": {
     "Name": "DuelistOdinLoseloop",
     "FileName": "cordelius_odin_lose.glb",
-    "StartFrame": 254,
-    "EndFrame": 729,
+    "StartFrame": 1,
+    "EndFrame": 58,
     "Looping": true,
     "Priority": "1"
   },
@@ -39989,5 +39986,2407 @@
     "EndFrame": 98,
     "FaceFreezeFrame": -1,
     "Looping": true
+  },
+  "CocoonerVirusIdle": {
+    "Name": "CocoonerVirusIdle",
+    "FileName": "charlie_virus_idle.glb",
+    "EndFrame": 59,
+    "Speed": 120,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerVirusWalk": {
+    "Name": "CocoonerVirusWalk",
+    "FileName": "charlie_virus_walk.glb",
+    "EndFrame": 19,
+    "Speed": 90,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerVirusPrimary": {
+    "Name": "CocoonerVirusPrimary",
+    "FileName": "charlie_virus_attack.glb",
+    "StartFrame": 7,
+    "EndFrame": 23,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerVirusSecondary": {
+    "Name": "CocoonerVirusSecondary",
+    "FileName": "charlie_virus_super.glb",
+    "StartFrame": 1,
+    "EndFrame": 22,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerVirusRecoil": {
+    "Name": "CocoonerVirusRecoil",
+    "FileName": "charlie_virus_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 47,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "CocoonerVirusWin": {
+    "Name": "CocoonerVirusWin",
+    "FileName": "charlie_virus_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 69,
+    "Priority": "5"
+  },
+  "CocoonerVirusWinloop": {
+    "Name": "CocoonerVirusWinloop",
+    "FileName": "charlie_virus_win.glb",
+    "StartFrame": 70,
+    "EndFrame": 118,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerVirusLose": {
+    "Name": "CocoonerVirusLose",
+    "FileName": "charlie_virus_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 204,
+    "Priority": "5"
+  },
+  "CocoonerVirusLoseloop": {
+    "Name": "CocoonerVirusLoseloop",
+    "FileName": "charlie_virus_lose.glb",
+    "StartFrame": 116,
+    "EndFrame": 204,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "CocoonerVirusProfile": {
+    "Name": "CocoonerVirusProfile",
+    "FileName": "charlie_virus_portrait.glb",
+    "Looping": true
+  },
+  "CocoonerVirusIntro": {
+    "Name": "CocoonerVirusIntro",
+    "FileName": "charlie_virus_idle.glb",
+    "StartFrame": 250,
+    "EndFrame": 250
+  },
+  "RocketGirlVirusIdle": {
+    "Name": "RocketGirlVirusIdle",
+    "FileName": "brock_hacker_idle.glb",
+    "EndFrame": -1,
+    "Speed": 135,
+    "TransitionInMs": 74,
+    "TransitionOutMs": 74,
+    "Looping": true
+  },
+  "RocketGirlVirusWalk": {
+    "Name": "RocketGirlVirusWalk",
+    "FileName": "brock_hacker_run.glb",
+    "EndFrame": -1,
+    "Speed": 150,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "RocketGirlVirusPrimary": {
+    "Name": "RocketGirlVirusPrimary",
+    "FileName": "brock_hacker_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 300,
+    "AutoFadeMs": 300,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlVirusSecondary": {
+    "Name": "RocketGirlVirusSecondary",
+    "FileName": "brock_hacker_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlVirusRecoil": {
+    "Name": "RocketGirlVirusRecoil",
+    "FileName": "brock_hacker_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlVirusRecoil2": {
+    "Name": "RocketGirlVirusRecoil2",
+    "FileName": "brock_hacker_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlVirusPushback": {
+    "Name": "RocketGirlVirusPushback",
+    "FileName": "brock_pushback1.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "RocketGirlVirusWin": {
+    "Name": "RocketGirlVirusWin",
+    "FileName": "brock_hacker_win.glb",
+    "EndFrame": 225,
+    "TransitionOutMs": 150,
+    "AutoFadeMs": 500,
+    "Priority": "5"
+  },
+  "RocketGirlVirusWinloop": {
+    "Name": "RocketGirlVirusWinloop",
+    "FileName": "brock_hacker_win.glb",
+    "StartFrame": 188,
+    "EndFrame": 225,
+    "TransitionInMs": 150,
+    "AutoFadeMs": 500,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RocketGirlVirusLose": {
+    "Name": "RocketGirlVirusLose",
+    "FileName": "brock_hacker_lose.glb",
+    "EndFrame": 180,
+    "Priority": "5"
+  },
+  "RocketGirlVirusLoseloop": {
+    "Name": "RocketGirlVirusLoseloop",
+    "FileName": "brock_hacker_lose.glb",
+    "EndFrame": 179,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RocketGirlVirusProfile": {
+    "Name": "RocketGirlVirusProfile",
+    "FileName": "brock_hacker_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Priority": "5"
+  },
+  "TwinsVirusIdle": {
+    "Name": "TwinsVirusIdle",
+    "FileName": "twins_good_hacker_idle.glb",
+    "EndFrame": 28,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 250,
+    "Looping": true
+  },
+  "TwinsVirusWalk": {
+    "Name": "TwinsVirusWalk",
+    "FileName": "twins_good_hacker_walk.glb",
+    "EndFrame": 19,
+    "Speed": 120,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "TwinsVirusPrimary": {
+    "Name": "TwinsVirusPrimary",
+    "FileName": "twins_good_hacker_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "Priority": "ChestBone#3"
+  },
+  "TwinsVirusSecondary": {
+    "Name": "TwinsVirusSecondary",
+    "FileName": "twins_good_hacker_attack.glb",
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 200,
+    "Priority": "ChestBone#3"
+  },
+  "TwinsVirusRecoil": {
+    "Name": "TwinsVirusRecoil",
+    "FileName": "twins_good_hacker_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 12,
+    "TransitionInMs": 10,
+    "TransitionOutMs": 10,
+    "AutoFadeMs": 10,
+    "Priority": "ChestBone#4"
+  },
+  "TwinsVirusReload": {
+    "Name": "TwinsVirusReload",
+    "FileName": "twins_good_hacker_idle.glb",
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 200,
+    "Priority": "ChestBone#2"
+  },
+  "TwinsVirusPushback": {
+    "Name": "TwinsVirusPushback",
+    "FileName": "twins_good_hacker_idle.glb",
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "TwinsVirusWin": {
+    "Name": "TwinsVirusWin",
+    "FileName": "twins_hacker_good_win_120.glb",
+    "EndFrame": 1043
+  },
+  "TwinsVirusWinloop": {
+    "Name": "TwinsVirusWinloop",
+    "FileName": "twins_hacker_good_win_120.glb",
+    "StartFrame": 848,
+    "EndFrame": 1043,
+    "Looping": true
+  },
+  "TwinsVirusLose": {
+    "Name": "TwinsVirusLose",
+    "FileName": "twins_hacker_good_lose.glb",
+    "EndFrame": -1,
+    "Speed": 130,
+    "AutoFadeMs": 38
+  },
+  "TwinsVirusLoseloop": {
+    "Name": "TwinsVirusLoseloop",
+    "FileName": "twins_hacker_good_lose.glb",
+    "StartFrame": 76,
+    "EndFrame": -1,
+    "Speed": 120,
+    "Looping": true
+  },
+  "TwinsVirusWinidleloop": {
+    "Name": "TwinsVirusWinidleloop",
+    "FileName": "twins_hacker_good_win.glb",
+    "StartFrame": 212,
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "TwinsVirusProfile": {
+    "Name": "TwinsVirusProfile",
+    "FileName": "twins_hackers_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1
+  },
+  "TwinsVirusIntro": {
+    "Name": "TwinsVirusIntro",
+    "FileName": "twins_hacker_good_win.glb",
+    "StartFrame": 260,
+    "EndFrame": 260
+  },
+  "TwinsPetVirusIdle": {
+    "Name": "TwinsPetVirusIdle",
+    "FileName": "twins_bad_hacker_idle.glb",
+    "EndFrame": 28,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 350,
+    "Looping": true
+  },
+  "TwinsPetVirusWalk": {
+    "Name": "TwinsPetVirusWalk",
+    "FileName": "twins_bad_hacker_walk.glb",
+    "EndFrame": 19,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "TwinsPetVirusPrimary": {
+    "Name": "TwinsPetVirusPrimary",
+    "FileName": "twins_bad_hacker_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "TwinsPetVirusSecondary": {
+    "Name": "TwinsPetVirusSecondary",
+    "FileName": "twins_bad_hacker_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "TwinsPetVirusReload": {
+    "Name": "TwinsPetVirusReload",
+    "FileName": "twins_bad_hacker_idle.glb",
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 200,
+    "Priority": "ChestBone#2"
+  },
+  "TwinsPetVirusBarkeepPushback": {
+    "Name": "TwinsPetVirusBarkeepPushback",
+    "FileName": "twins_bad_hacker_idle.glb",
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "TwinsPetVirusWin": {
+    "Name": "TwinsPetVirusWin",
+    "FileName": "twins_hacker_bad_win_120.glb",
+    "EndFrame": -1,
+    "TransitionOutMs": 100
+  },
+  "TwinsPetVirusWinloop": {
+    "Name": "TwinsPetVirusWinloop",
+    "FileName": "twins_hacker_bad_win_120.glb",
+    "StartFrame": 848,
+    "EndFrame": 1040,
+    "TransitionInMs": 100,
+    "Looping": true
+  },
+  "TwinsPetVirusLose": {
+    "Name": "TwinsPetVirusLose",
+    "FileName": "twins_hacker_bad_lose.glb",
+    "EndFrame": 125,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200
+  },
+  "TwinsPetVirusLoseloop": {
+    "Name": "TwinsPetVirusLoseloop",
+    "FileName": "twins_hacker_bad_lose.glb",
+    "StartFrame": 73,
+    "EndFrame": 125,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Looping": true
+  },
+  "TwinsPetVirusProfile": {
+    "Name": "TwinsPetVirusProfile",
+    "FileName": "twins_bad_hacker_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 350
+  },
+  "TwinsPetVirusIntro": {
+    "Name": "TwinsPetVirusIntro",
+    "FileName": "twins_hacker_bad_win.glb",
+    "StartFrame": 260,
+    "EndFrame": 260
+  },
+  "KickerDudeVirusIdle": {
+    "Name": "KickerDudeVirusIdle",
+    "FileName": "fang_hacker_idle.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "KickerDudeVirusWalk": {
+    "Name": "KickerDudeVirusWalk",
+    "FileName": "fang_hacker_walk.glb",
+    "EndFrame": 25,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "KickerDudeVirusAttack": {
+    "Name": "KickerDudeVirusAttack",
+    "FileName": "fang_hacker_attack.glb",
+    "EndFrame": 5,
+    "Priority": "3"
+  },
+  "KickerDudeVirusSuper": {
+    "Name": "KickerDudeVirusSuper",
+    "FileName": "fang_hacker_attack.glb",
+    "StartFrame": 10,
+    "EndFrame": 13,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 50,
+    "Looping": true,
+    "Priority": "3"
+  },
+  "KickerDudeVirusRecoil": {
+    "Name": "KickerDudeVirusRecoil",
+    "FileName": "fang_hacker_attack.glb",
+    "EndFrame": 25,
+    "AutoFadeMs": 100,
+    "Priority": "4"
+  },
+  "KickerDudeVirusWin": {
+    "Name": "KickerDudeVirusWin",
+    "FileName": "fang_hacker_win_120.glb",
+    "EndFrame": 1035,
+    "FaceFreezeFrame": -1
+  },
+  "KickerDudeVirusWinloop": {
+    "Name": "KickerDudeVirusWinloop",
+    "FileName": "fang_hacker_win_120.glb",
+    "StartFrame": 848,
+    "EndFrame": 1035,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "KickerDudeVirusLose": {
+    "Name": "KickerDudeVirusLose",
+    "FileName": "fang_hacker_lose.glb",
+    "EndFrame": 63,
+    "FaceFreezeFrame": -1
+  },
+  "KickerDudeVirusLoseloop": {
+    "Name": "KickerDudeVirusLoseloop",
+    "FileName": "fang_hacker_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "KickerDudeVirusPortrait": {
+    "Name": "KickerDudeVirusPortrait",
+    "FileName": "fang_hacker_portraits.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1
+  },
+  "ShamanGodzillaIdle": {
+    "Name": "ShamanGodzillaIdle",
+    "FileName": "nita_mechagodzilla_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 34,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "ShamanGodzillaWalk": {
+    "Name": "ShamanGodzillaWalk",
+    "FileName": "nita_mechagodzilla_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanGodzillaAttack": {
+    "Name": "ShamanGodzillaAttack",
+    "FileName": "nita_mechagodzilla_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanGodzillaSecondary": {
+    "Name": "ShamanGodzillaSecondary",
+    "FileName": "nita_mechagodzilla_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Looping": true,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanGodzillaRecoil": {
+    "Name": "ShamanGodzillaRecoil",
+    "FileName": "nita_mechagodzilla_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 26,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanGodzillaReload": {
+    "Name": "ShamanGodzillaReload",
+    "FileName": "nita_mechagodzilla_idle.glb",
+    "EndFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "ChestBone#2"
+  },
+  "ShamanGodzillaPushback": {
+    "Name": "ShamanGodzillaPushback",
+    "FileName": "nita_mechagodzilla_pushback.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "ShamanGodzillaWin": {
+    "Name": "ShamanGodzillaWin",
+    "FileName": "nita_mechagodzilla_win.glb",
+    "EndFrame": 128,
+    "Priority": "5"
+  },
+  "ShamanGodzillaWinloop": {
+    "Name": "ShamanGodzillaWinloop",
+    "FileName": "nita_mechagodzilla_win.glb",
+    "StartFrame": 100,
+    "EndFrame": 128,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanGodzillaLose": {
+    "Name": "ShamanGodzillaLose",
+    "FileName": "nita_mechagodzilla_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 83,
+    "Priority": "5"
+  },
+  "ShamanGodzillaLoseloop": {
+    "Name": "ShamanGodzillaLoseloop",
+    "FileName": "nita_mechagodzilla_lose.glb",
+    "StartFrame": 57,
+    "EndFrame": 83,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanGodzillaProfile": {
+    "Name": "ShamanGodzillaProfile",
+    "FileName": "nita_mechagodzilla_portrait.glb",
+    "Looping": true,
+    "Priority": "5"
+  },
+  "ShamanPetGodzillaIdle": {
+    "Name": "ShamanPetGodzillaIdle",
+    "FileName": "nita_mechagodzilla_bear_idle.glb",
+    "EndFrame": 35,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "ShamanPetGodzillaBearWalk": {
+    "Name": "ShamanPetGodzillaBearWalk",
+    "FileName": "nita_mechagodzilla_bear_walk.glb",
+    "EndFrame": 49,
+    "Speed": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShamanPetGodzillaBearAttack": {
+    "Name": "ShamanPetGodzillaBearAttack",
+    "FileName": "nita_mechagodzilla_bear_attack.glb",
+    "EndFrame": 18,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 150,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanPetGodzillaBearRecoil": {
+    "Name": "ShamanPetGodzillaBearRecoil",
+    "FileName": "nita_mechagodzilla_bear_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 1,
+    "AutoFadeMs": 50,
+    "Priority": "spine_lower_s#4"
+  },
+  "ShamanPetGodzillaBearPushback": {
+    "Name": "ShamanPetGodzillaBearPushback",
+    "FileName": "nita_mechagodzilla_bear_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 300,
+    "AutoFadeMs": 500,
+    "Priority": "5"
+  },
+  "RopeDudeGodzillaIdle": {
+    "Name": "RopeDudeGodzillaIdle",
+    "FileName": "buzz_godzilla_idle.glb",
+    "EndFrame": 28,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "RopeDudeGodzillaWalk": {
+    "Name": "RopeDudeGodzillaWalk",
+    "FileName": "buzz_godzilla_walk.glb",
+    "EndFrame": 27,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "RopeDudeGodzillaAttack": {
+    "Name": "RopeDudeGodzillaAttack",
+    "FileName": "buzz_godzilla_attack.glb",
+    "EndFrame": 28,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RopeDudeGodzillaSuperThrow": {
+    "Name": "RopeDudeGodzillaSuperThrow",
+    "FileName": "buzz_godzilla_super_throw.glb",
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Priority": "3"
+  },
+  "RopeDudeGodzillaSuperThrowRecoil": {
+    "Name": "RopeDudeGodzillaSuperThrowRecoil",
+    "FileName": "buzz_godzilla_super_throw.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "FaceFreezeFrame": -1,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 50,
+    "Priority": "4"
+  },
+  "RopeDudeGodzillaSuperJump": {
+    "Name": "RopeDudeGodzillaSuperJump",
+    "FileName": "buzz_godzilla_super_jump.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "AutoFadeMs": 50,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RopeDudeGodzillaWin": {
+    "Name": "RopeDudeGodzillaWin",
+    "FileName": "buzz_godzilla_win.glb",
+    "EndFrame": 280,
+    "FaceFreezeFrame": -1
+  },
+  "RopeDudeGodzillaWinloop": {
+    "Name": "RopeDudeGodzillaWinloop",
+    "FileName": "buzz_godzilla_win.glb",
+    "StartFrame": 241,
+    "EndFrame": 280,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "RopeDudeGodzillaLose": {
+    "Name": "RopeDudeGodzillaLose",
+    "FileName": "buzz_godzilla_lose.glb",
+    "EndFrame": 143,
+    "FaceFreezeFrame": -1
+  },
+  "RopeDudeGodzillaLoseloop": {
+    "Name": "RopeDudeGodzillaLoseloop",
+    "FileName": "buzz_godzilla_lose.glb",
+    "StartFrame": 111,
+    "EndFrame": 143,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "RopeDudeGodzillaPortrait": {
+    "Name": "RopeDudeGodzillaPortrait",
+    "FileName": "buzz_godzilla_portrait.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1
+  },
+  "FleaGodzillaIdle": {
+    "Name": "FleaGodzillaIdle",
+    "FileName": "eve_mothra_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 400,
+    "TransitionOutMs": 400,
+    "Looping": true
+  },
+  "FleaGodzillaWalk": {
+    "Name": "FleaGodzillaWalk",
+    "FileName": "eve_mothra_walk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 400,
+    "TransitionOutMs": 400,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "FleaGodzillaAttack": {
+    "Name": "FleaGodzillaAttack",
+    "FileName": "eve_mothra_attack.glb",
+    "EndFrame": 4,
+    "FaceFreezeFrame": -1,
+    "Priority": "3"
+  },
+  "FleaGodzillaSuper": {
+    "Name": "FleaGodzillaSuper",
+    "FileName": "eve_mothra_super.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Looping": true,
+    "Priority": "3"
+  },
+  "FleaGodzillaAttackRecoil": {
+    "Name": "FleaGodzillaAttackRecoil",
+    "FileName": "eve_mothra_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 300,
+    "Priority": "4"
+  },
+  "FleaGodzillaSuperRecoil": {
+    "Name": "FleaGodzillaSuperRecoil",
+    "FileName": "eve_mothra_super.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "4"
+  },
+  "FleaGodzillaPushback": {
+    "Name": "FleaGodzillaPushback",
+    "FileName": "eve_mothra_pushback.glb",
+    "EndFrame": 25,
+    "FaceFreezeFrame": -1,
+    "TransitionOutMs": 400,
+    "AutoFadeMs": 500,
+    "Priority": "5"
+  },
+  "FleaGodzillaHappy": {
+    "Name": "FleaGodzillaHappy",
+    "FileName": "eve_mothra_win.glb",
+    "EndFrame": 136,
+    "FaceFreezeFrame": -1
+  },
+  "FleaGodzillaHappyLoop": {
+    "Name": "FleaGodzillaHappyLoop",
+    "FileName": "eve_mothra_win.glb",
+    "StartFrame": 98,
+    "EndFrame": 136,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "FleaGodzillaSad": {
+    "Name": "FleaGodzillaSad",
+    "FileName": "eve_mothra_lose.glb",
+    "EndFrame": 167,
+    "FaceFreezeFrame": -1
+  },
+  "FleaGodzillaSadLoop": {
+    "Name": "FleaGodzillaSadLoop",
+    "FileName": "eve_mothra_lose.glb",
+    "StartFrame": 136,
+    "EndFrame": 167,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "FleaGodzillaSadEnter": {
+    "Name": "FleaGodzillaSadEnter",
+    "FileName": "eve_mothra_lose.glb",
+    "FaceFreezeFrame": -1
+  },
+  "FleaGodzillaProfile": {
+    "Name": "FleaGodzillaProfile",
+    "FileName": "eve_mothra_portrait.glb",
+    "StartFrame": 101,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1
+  },
+  "BeeSniperVirusIdle": {
+    "Name": "BeeSniperVirusIdle",
+    "FileName": "bea_hacker_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "BeeSniperVirusWalk": {
+    "Name": "BeeSniperVirusWalk",
+    "FileName": "bea_hacker_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 26,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BeeSniperVirusAttack": {
+    "Name": "BeeSniperVirusAttack",
+    "FileName": "bea_hacker_attack.glb",
+    "EndFrame": 4,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BeeSniperVirusRecoil": {
+    "Name": "BeeSniperVirusRecoil",
+    "FileName": "bea_hacker_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": 20,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BeeSniperVirusReload": {
+    "Name": "BeeSniperVirusReload",
+    "FileName": "bea_hacker_reload.glb",
+    "EndFrame": 20,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "spine_lower_s#0+L_clavicle_s#2+R_clavicle_s#2"
+  },
+  "BeeSniperVirusPushback": {
+    "Name": "BeeSniperVirusPushback",
+    "FileName": "bea_hacker_pushback.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 25,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "BeeSniperVirusWin": {
+    "Name": "BeeSniperVirusWin",
+    "FileName": "bea_hacker_win.glb",
+    "EndFrame": 235,
+    "Priority": "5"
+  },
+  "BeeSniperVirusWinloop": {
+    "Name": "BeeSniperVirusWinloop",
+    "FileName": "bea_hacker_win.glb",
+    "StartFrame": 173,
+    "EndFrame": 235,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BeeSniperVirusLose": {
+    "Name": "BeeSniperVirusLose",
+    "FileName": "bea_hacker_lose.glb",
+    "EndFrame": 258
+  },
+  "BeeSniperVirusLoseloop": {
+    "Name": "BeeSniperVirusLoseloop",
+    "FileName": "bea_hacker_lose.glb",
+    "StartFrame": 220,
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "BeeSniperVirusPortrait": {
+    "Name": "BeeSniperVirusPortrait",
+    "FileName": "bea_hacker_portrait.glb"
+  },
+  "BeeSniperVirusIntro": {
+    "Name": "BeeSniperVirusIntro",
+    "FileName": "bea_intro_pose.scw"
+  },
+  "SandstormMakeIdle": {
+    "Name": "SandstormMakeIdle",
+    "FileName": "sandy_nightmare_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 128,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 500,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "SandstormMakeWalk": {
+    "Name": "SandstormMakeWalk",
+    "FileName": "sandy_nightmare_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 500,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "SandstormMakeAttack": {
+    "Name": "SandstormMakeAttack",
+    "FileName": "sandy_nightmare_attack.glb",
+    "EndFrame": 5,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SandstormMakeRecoil": {
+    "Name": "SandstormMakeRecoil",
+    "FileName": "sandy_nightmare_attack.glb",
+    "EndFrame": 20,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SandstormMakeReload": {
+    "Name": "SandstormMakeReload",
+    "FileName": "sandy_nightmare_idle.glb",
+    "EndFrame": 10,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SandstormMakePushBack": {
+    "Name": "SandstormMakePushBack",
+    "FileName": "sandy_nightmare_pushback.glb",
+    "EndFrame": 10,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100
+  },
+  "SandstormMakeWin": {
+    "Name": "SandstormMakeWin",
+    "FileName": "sandy_nightmare_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 360
+  },
+  "SandstormMakeWinloop": {
+    "Name": "SandstormMakeWinloop",
+    "FileName": "sandy_nightmare_win.glb",
+    "StartFrame": 262,
+    "EndFrame": 359,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "SandstormMakeLose": {
+    "Name": "SandstormMakeLose",
+    "FileName": "sandy_nightmare_lose.glb",
+    "EndFrame": 198
+  },
+  "SandstormMakeProfile": {
+    "Name": "SandstormMakeProfile",
+    "FileName": "sandy_nightmare_portrait.glb",
+    "StartFrame": 220,
+    "EndFrame": 220,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HookDudeMakeIdle": {
+    "Name": "HookDudeMakeIdle",
+    "FileName": "gene_samurai_idle.glb",
+    "EndFrame": 79,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "HookDudeMakeWalk": {
+    "Name": "HookDudeMakeWalk",
+    "FileName": "gene_samurai_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 120,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HookDudeMakeAttack": {
+    "Name": "HookDudeMakeAttack",
+    "FileName": "gene_samurai_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "HookDudeMakeSecondary": {
+    "Name": "HookDudeMakeSecondary",
+    "FileName": "gene_samurai_super.glb",
+    "StartFrame": 1,
+    "EndFrame": 30,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "HookDudeMakeAttackRecoil": {
+    "Name": "HookDudeMakeAttackRecoil",
+    "FileName": "gene_samurai_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": 20,
+    "TransitionInMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "HookDudeMakeSecondaryRecoil": {
+    "Name": "HookDudeMakeSecondaryRecoil",
+    "FileName": "gene_samurai_super.glb",
+    "StartFrame": 1,
+    "EndFrame": 30,
+    "TransitionInMs": 100,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "HookDudeMakeReload": {
+    "Name": "HookDudeMakeReload",
+    "FileName": "gene_samurai_reload.glb",
+    "StartFrame": 1,
+    "EndFrame": 25,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 200,
+    "Priority": "spine_lower_s#2"
+  },
+  "HookDudeMakePushback": {
+    "Name": "HookDudeMakePushback",
+    "FileName": "gene_samurai_idle.glb",
+    "EndFrame": 20,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 300,
+    "AutoFadeMs": 500,
+    "Priority": "5"
+  },
+  "HookDudeMakeWin": {
+    "Name": "HookDudeMakeWin",
+    "FileName": "gene_samurai_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 153
+  },
+  "HookDudeMakeWinloop": {
+    "Name": "HookDudeMakeWinloop",
+    "FileName": "gene_samurai_win.glb",
+    "StartFrame": 137,
+    "EndFrame": 153,
+    "Looping": true
+  },
+  "HookDudeMakeLose": {
+    "Name": "HookDudeMakeLose",
+    "FileName": "gene_samurai_lose.glb",
+    "EndFrame": 88,
+    "TransitionInMs": 100
+  },
+  "HookDudeMakeLoseloop": {
+    "Name": "HookDudeMakeLoseloop",
+    "FileName": "gene_samurai_lose.glb",
+    "StartFrame": 50,
+    "EndFrame": 88,
+    "Looping": true
+  },
+  "HookDudeMakeProfile": {
+    "Name": "HookDudeMakeProfile",
+    "FileName": "gene_samurai_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Looping": true
+  },
+  "BaseballGamer_remakeIdle": {
+    "Name": "BaseballGamer_remakeIdle",
+    "FileName": "bibi_heroine_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "BaseballGamer_remakeWalk": {
+    "Name": "BaseballGamer_remakeWalk",
+    "FileName": "bibi_heroine_run.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "TransitionInMs": 120,
+    "TransitionOutMs": 200,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BaseballGamer_remakePrimary": {
+    "Name": "BaseballGamer_remakePrimary",
+    "FileName": "bibi_heroine_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 51,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "R_gunbone_01_s#4+hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BaseballGamer_remakeSecondary": {
+    "Name": "BaseballGamer_remakeSecondary",
+    "FileName": "bibi_heroine_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 51,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "R_gunbone_01_s#4+hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BaseballGamer_remakeRecoil": {
+    "Name": "BaseballGamer_remakeRecoil",
+    "FileName": "bibi_heroine_attack.glb",
+    "StartFrame": 22,
+    "EndFrame": 51,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "R_gunbone_01_s#5+hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BaseballGamer_remakeRecoil2": {
+    "Name": "BaseballGamer_remakeRecoil2",
+    "FileName": "bibi_heroine_attack.glb",
+    "StartFrame": 17,
+    "EndFrame": 51,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "R_gunbone_01_s#5+hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BaseballGamer_remakePushback": {
+    "Name": "BaseballGamer_remakePushback",
+    "FileName": "bibi_heroine_pushback.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "BaseballGamer_remakeWin": {
+    "Name": "BaseballGamer_remakeWin",
+    "FileName": "bibi_heroine_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 161,
+    "TransitionInMs": 100,
+    "Priority": "5"
+  },
+  "BaseballGamer_remakeWinloop": {
+    "Name": "BaseballGamer_remakeWinloop",
+    "FileName": "bibi_heroine_win.glb",
+    "StartFrame": 120,
+    "EndFrame": 160,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BaseballGamer_remakeLose": {
+    "Name": "BaseballGamer_remakeLose",
+    "FileName": "bibi_heroine_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 184,
+    "Priority": "5"
+  },
+  "BaseballGamer_remakeLoseloop": {
+    "Name": "BaseballGamer_remakeLoseloop",
+    "FileName": "bibi_heroine_lose.glb",
+    "StartFrame": 123,
+    "EndFrame": 183,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BaseballGamer_remakeProfile": {
+    "Name": "BaseballGamer_remakeProfile",
+    "FileName": "bibi_heroine_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 10,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "BlackHoleStreetNinja_remakeIdle": {
+    "Name": "BlackHoleStreetNinja_remakeIdle",
+    "FileName": "tara_streetninja_remake_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 28,
+    "TransitionInMs": 200,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "BlackHoleStreetNinja_remakeWalk": {
+    "Name": "BlackHoleStreetNinja_remakeWalk",
+    "FileName": "tara_streetninja_remake_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "Speed": 80,
+    "TransitionInMs": 200,
+    "AutoFadeMs": 200,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BlackHoleStreetNinja_remakePrimary": {
+    "Name": "BlackHoleStreetNinja_remakePrimary",
+    "FileName": "tara_streetninja_remake_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 23,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BlackHoleStreetNinja_remakeSecondary": {
+    "Name": "BlackHoleStreetNinja_remakeSecondary",
+    "FileName": "tara_streetninja_remake_ult.glb",
+    "StartFrame": 1,
+    "EndFrame": 23,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BlackHoleStreetNinja_remakeRecoil": {
+    "Name": "BlackHoleStreetNinja_remakeRecoil",
+    "FileName": "tara_streetninja_remake_attack.glb",
+    "StartFrame": 4,
+    "EndFrame": 20,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BlackHoleStreetNinja_remakeSecondaryRecoil": {
+    "Name": "BlackHoleStreetNinja_remakeSecondaryRecoil",
+    "FileName": "tara_streetninja_remake_ult.glb",
+    "StartFrame": 4,
+    "EndFrame": 22,
+    "AutoFadeMs": 200,
+    "Priority": "hips_s#5+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "BlackHoleStreetNinja_remakeReload": {
+    "Name": "BlackHoleStreetNinja_remakeReload",
+    "FileName": "tara_streetninja_remake_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 12,
+    "AutoFadeMs": 50
+  },
+  "BlackHoleStreetNinja_remakeWin": {
+    "Name": "BlackHoleStreetNinja_remakeWin",
+    "FileName": "tara_streetninja_remake_win_120.glb",
+    "StartFrame": 1,
+    "EndFrame": 923,
+    "Priority": "5"
+  },
+  "BlackHoleStreetNinja_remakeWinloop": {
+    "Name": "BlackHoleStreetNinja_remakeWinloop",
+    "FileName": "tara_streetninja_remake_win_120.glb",
+    "StartFrame": 544,
+    "EndFrame": 923,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "BlackHoleStreetNinja_remakeLose": {
+    "Name": "BlackHoleStreetNinja_remakeLose",
+    "FileName": "tara_streetninja_remake_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 128
+  },
+  "BlackHoleStreetNinja_remakeLoseloop": {
+    "Name": "BlackHoleStreetNinja_remakeLoseloop",
+    "FileName": "tara_streetninja_remake_lose.glb",
+    "StartFrame": 69,
+    "EndFrame": 128,
+    "Looping": true
+  },
+  "BlackHoleStreetNinja_remakeProfile": {
+    "Name": "BlackHoleStreetNinja_remakeProfile",
+    "FileName": "tara_streetninja_remake_portrait.glb",
+    "StartFrame": 10,
+    "EndFrame": 10,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redIdle": {
+    "Name": "RocketGirlRanger_redIdle",
+    "FileName": "brock_sentai_idle.glb",
+    "EndFrame": -1,
+    "Speed": 135,
+    "TransitionInMs": 74,
+    "TransitionOutMs": 74,
+    "Looping": true
+  },
+  "RocketGirlRanger_redWalk": {
+    "Name": "RocketGirlRanger_redWalk",
+    "FileName": "brock_sentai_run.glb",
+    "EndFrame": -1,
+    "Speed": 150,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "RocketGirlRanger_redPrimary": {
+    "Name": "RocketGirlRanger_redPrimary",
+    "FileName": "brock_sentai_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 300,
+    "AutoFadeMs": 300,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlRanger_redSecondary": {
+    "Name": "RocketGirlRanger_redSecondary",
+    "FileName": "brock_sentai_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlRanger_redRecoil": {
+    "Name": "RocketGirlRanger_redRecoil",
+    "FileName": "brock_sentai_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlRanger_redRecoil2": {
+    "Name": "RocketGirlRanger_redRecoil2",
+    "FileName": "brock_sentai_attack.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RocketGirlRanger_redPushback": {
+    "Name": "RocketGirlRanger_redPushback",
+    "FileName": "brock_pushback1.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redRangerWin": {
+    "Name": "RocketGirlRanger_redRangerWin",
+    "FileName": "brock_sentai_win_120.glb",
+    "EndFrame": 555,
+    "TransitionOutMs": 500,
+    "AutoFadeMs": 500,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redWinloop": {
+    "Name": "RocketGirlRanger_redWinloop",
+    "FileName": "brock_sentai_win_120.glb",
+    "StartFrame": 445,
+    "EndFrame": 550,
+    "TransitionInMs": 150,
+    "AutoFadeMs": 500,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redLose": {
+    "Name": "RocketGirlRanger_redLose",
+    "FileName": "brock_sentai_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 85,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redLoseloop": {
+    "Name": "RocketGirlRanger_redLoseloop",
+    "FileName": "brock_sentai_lose.glb",
+    "StartFrame": 56,
+    "EndFrame": 85,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "RocketGirlRanger_redRangerProfile": {
+    "Name": "RocketGirlRanger_redRangerProfile",
+    "FileName": "brock_sentai_portrait.glb",
+    "StartFrame": 50,
+    "EndFrame": -1
+  },
+  "RocketGirlRanger_redProfile": {
+    "Name": "RocketGirlRanger_redProfile",
+    "FileName": "brock_sentai_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Priority": "5"
+  },
+  "ClusterBombDudeGodzillaIdle": {
+    "Name": "ClusterBombDudeGodzillaIdle",
+    "FileName": "tick_ghidorah_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 47,
+    "Looping": true
+  },
+  "ClusterBombDudeGodzillaWalk": {
+    "Name": "ClusterBombDudeGodzillaWalk",
+    "FileName": "tick_ghidorah_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 21,
+    "Speed": 125,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ClusterBombDudeGodzillaPrimary": {
+    "Name": "ClusterBombDudeGodzillaPrimary",
+    "FileName": "tick_ghidorah_attackb.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "AutoFadeMs": 25,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ClusterBombDudeGodzillaSecondary": {
+    "Name": "ClusterBombDudeGodzillaSecondary",
+    "FileName": "tick_ghidorah_ult.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "AutoFadeMs": 25,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ClusterBombDudeGodzillaRecoil": {
+    "Name": "ClusterBombDudeGodzillaRecoil",
+    "FileName": "tick_ghidorah_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ClusterBombDudeGodzillaUltRecoil": {
+    "Name": "ClusterBombDudeGodzillaUltRecoil",
+    "FileName": "tick_ghidorah_ult.glb",
+    "StartFrame": 1,
+    "EndFrame": 20,
+    "AutoFadeMs": 300,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ClusterBombDudeGodzillaWin": {
+    "Name": "ClusterBombDudeGodzillaWin",
+    "FileName": "tick_ghidorah_win_120.glb",
+    "StartFrame": 1,
+    "EndFrame": 779
+  },
+  "ClusterBombDudeGodzillaWinloop": {
+    "Name": "ClusterBombDudeGodzillaWinloop",
+    "FileName": "tick_ghidorah_win_120.glb",
+    "StartFrame": 599,
+    "EndFrame": 778,
+    "Looping": true
+  },
+  "ClusterBombDudeGodzillaLose": {
+    "Name": "ClusterBombDudeGodzillaLose",
+    "FileName": "tick_ghidorah_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 38
+  },
+  "ClusterBombDudeGodzillaLoseloop": {
+    "Name": "ClusterBombDudeGodzillaLoseloop",
+    "FileName": "tick_ghidorah_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "ClusterBombDudeGodzillaProfile": {
+    "Name": "ClusterBombDudeGodzillaProfile",
+    "FileName": "tick_ghidorah_portraits.glb",
+    "StartFrame": 16,
+    "EndFrame": 16
+  },
+  "ShotgunGirlSquadIdle": {
+    "Name": "ShotgunGirlSquadIdle",
+    "FileName": "shelly_squadbuster_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "ShotgunGirlSquadWalk": {
+    "Name": "ShotgunGirlSquadWalk",
+    "FileName": "shelly_squadbuster_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 30,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlSquadPrimary": {
+    "Name": "ShotgunGirlSquadPrimary",
+    "FileName": "shelly_squadbuster_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlSquadSecondary": {
+    "Name": "ShotgunGirlSquadSecondary",
+    "FileName": "shelly_squadbuster_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlSquadCarlSecondary": {
+    "Name": "ShotgunGirlSquadCarlSecondary",
+    "FileName": "carl_super.scw",
+    "StartFrame": 1,
+    "EndFrame": 59,
+    "TransitionInMs": 200,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 200,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "ShotgunGirlSquadRecoil": {
+    "Name": "ShotgunGirlSquadRecoil",
+    "FileName": "shelly_squadbuster_attack.glb",
+    "StartFrame": 6,
+    "EndFrame": 20,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "ShotgunGirlSquadReload": {
+    "Name": "ShotgunGirlSquadReload",
+    "FileName": "shelly_squadbuster_reload.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#0+L_upperLeg_s#0+R_upperLeg_s#0+R_clavicle_s#4+R_shoulder_s#4+R_elbow_s#4+R_forearm_twist_s#4+R_wrist_s#4+L_clavicle_s#4+L_shoulder_s#4+L_elbow_s#4+L_forearm_twist_s#4+L_wrist_s#4"
+  },
+  "ShotgunGirlSquadPushback": {
+    "Name": "ShotgunGirlSquadPushback",
+    "FileName": "shelly_squadbuster_idle.glb",
+    "EndFrame": 10,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "ShotgunGirlSquadWin": {
+    "Name": "ShotgunGirlSquadWin",
+    "FileName": "shelly_squadbuster_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 221,
+    "Priority": "5"
+  },
+  "ShotgunGirlSquadWinloop": {
+    "Name": "ShotgunGirlSquadWinloop",
+    "FileName": "shelly_squadbuster_win.glb",
+    "StartFrame": 175,
+    "EndFrame": 221,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlSquadLose": {
+    "Name": "ShotgunGirlSquadLose",
+    "FileName": "shelly_squadbuster_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 159,
+    "Priority": "5"
+  },
+  "ShotgunGirlSquadLoseloop": {
+    "Name": "ShotgunGirlSquadLoseloop",
+    "FileName": "shelly_squadbuster_lose.glb",
+    "StartFrame": 112,
+    "EndFrame": 159,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "ShotgunGirlSquadProfile": {
+    "Name": "ShotgunGirlSquadProfile",
+    "FileName": "shelly_squadbuster_portrait.glb",
+    "StartFrame": 80,
+    "EndFrame": 80,
+    "Looping": true
+  },
+  "ShotgunGirlSquadIntro": {
+    "Name": "ShotgunGirlSquadIntro",
+    "FileName": "shelly_squadbuster_win.glb",
+    "StartFrame": 221,
+    "EndFrame": 221
+  },
+  "SnakeOilTropicalIdle": {
+    "Name": "SnakeOilTropicalIdle",
+    "FileName": "byron_idle.scw",
+    "StartFrame": 1,
+    "EndFrame": 59,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 120,
+    "TransitionOutMs": 120,
+    "Looping": true
+  },
+  "SnakeOilTropicalWalk": {
+    "Name": "SnakeOilTropicalWalk",
+    "FileName": "byron_walk.scw",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "SnakeOilTropicalAttack": {
+    "Name": "SnakeOilTropicalAttack",
+    "FileName": "byron_attack.scw",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilTropicalSuper": {
+    "Name": "SnakeOilTropicalSuper",
+    "FileName": "byron_super.scw",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilTropicalRecoil": {
+    "Name": "SnakeOilTropicalRecoil",
+    "FileName": "byron_attack.scw",
+    "StartFrame": 5,
+    "EndFrame": 30,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 120,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilTropicalSuperRecoil": {
+    "Name": "SnakeOilTropicalSuperRecoil",
+    "FileName": "byron_super.scw",
+    "StartFrame": 5,
+    "EndFrame": 30,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 120,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "SnakeOilTropicalPushback": {
+    "Name": "SnakeOilTropicalPushback",
+    "FileName": "byron_pushback.scw",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Priority": "5"
+  },
+  "SnakeOilTropicalWin": {
+    "Name": "SnakeOilTropicalWin",
+    "FileName": "byron_tropical_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 92
+  },
+  "SnakeOilTropicalWinloop": {
+    "Name": "SnakeOilTropicalWinloop",
+    "FileName": "byron_tropical_win.glb",
+    "StartFrame": 93,
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "SnakeOilTropicalLose": {
+    "Name": "SnakeOilTropicalLose",
+    "FileName": "byron_lose.scw",
+    "StartFrame": 1,
+    "EndFrame": 98
+  },
+  "SnakeOilTropicalLoseloop": {
+    "Name": "SnakeOilTropicalLoseloop",
+    "FileName": "byron_lose.scw",
+    "StartFrame": 99,
+    "EndFrame": 198,
+    "Looping": true
+  },
+  "SnakeOilTropicalProfile": {
+    "Name": "SnakeOilTropicalProfile",
+    "FileName": "byron_win.scw",
+    "StartFrame": 192,
+    "EndFrame": 192,
+    "FaceFreezeFrame": -1
+  },
+  "HammerDudeVacationIdle": {
+    "Name": "HammerDudeVacationIdle",
+    "FileName": "frank_idle.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 500,
+    "Looping": true
+  },
+  "HammerDudeVacationWalk": {
+    "Name": "HammerDudeVacationWalk",
+    "FileName": "frank_walk.scw",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 120,
+    "TransitionInMs": 300,
+    "TransitionOutMs": 300,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "HammerDudeVacationPrimary": {
+    "Name": "HammerDudeVacationPrimary",
+    "FileName": "frank_attack.scw",
+    "StartFrame": 1,
+    "EndFrame": 45,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "HammerDudeVacationSecondary": {
+    "Name": "HammerDudeVacationSecondary",
+    "FileName": "frank_ulti.scw",
+    "StartFrame": 1,
+    "EndFrame": 50,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "HammerDudeVacationRecoil": {
+    "Name": "HammerDudeVacationRecoil",
+    "FileName": "frank_attack.scw",
+    "StartFrame": 22,
+    "EndFrame": 35,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "HammerDudeVacationRecoil2": {
+    "Name": "HammerDudeVacationRecoil2",
+    "FileName": "frank_ulti.scw",
+    "StartFrame": 36,
+    "EndFrame": 50,
+    "TransitionInMs": 1,
+    "TransitionOutMs": 1,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "HammerDudeVacationReloading": {
+    "Name": "HammerDudeVacationReloading",
+    "FileName": "frank_idle.scw",
+    "EndFrame": 6,
+    "AutoFadeMs": 50
+  },
+  "HammerDudeVacationPushback": {
+    "Name": "HammerDudeVacationPushback",
+    "FileName": "frank_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 120,
+    "TransitionOutMs": 120,
+    "AutoFadeMs": 400,
+    "Priority": "5"
+  },
+  "HammerDudeVacationWin": {
+    "Name": "HammerDudeVacationWin",
+    "FileName": "frank_vacation_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 51,
+    "Priority": "5"
+  },
+  "HammerDudeVacationWinloop": {
+    "Name": "HammerDudeVacationWinloop",
+    "FileName": "frank_vacation_win.glb",
+    "StartFrame": 23,
+    "EndFrame": 50,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HammerDudeVacationLose": {
+    "Name": "HammerDudeVacationLose",
+    "FileName": "frank_lose.scw",
+    "StartFrame": 1,
+    "EndFrame": 120,
+    "Priority": "5"
+  },
+  "HammerDudeVacationLoseloop": {
+    "Name": "HammerDudeVacationLoseloop",
+    "FileName": "frank_lose.scw",
+    "StartFrame": 75,
+    "EndFrame": 119,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "HammerDudeVacationProfile": {
+    "Name": "HammerDudeVacationProfile",
+    "FileName": "frank_idle.scw",
+    "StartFrame": 44,
+    "EndFrame": 44,
+    "Looping": true
+  },
+  "HammerDudeVacationIntro": {
+    "Name": "HammerDudeVacationIntro",
+    "FileName": "frank_intro_pose.scw"
+  },
+  "GodzillaIdle": {
+    "Name": "GodzillaIdle",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "GodzillaWalk": {
+    "Name": "GodzillaWalk",
+    "FileName": "boss_godzilla_walk.glb",
+    "EndFrame": 39,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaPrimary": {
+    "Name": "GodzillaPrimary",
+    "FileName": "boss_godzilla_attack2_bite.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "GodzillaSecondary": {
+    "Name": "GodzillaSecondary",
+    "FileName": "boss_godzilla_super_flamethrower.glb",
+    "EndFrame": 73,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "GodzillaPrimary_transform": {
+    "Name": "GodzillaPrimary_transform",
+    "FileName": "boss_godzilla_attack1_claws.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "GodzillaReload": {
+    "Name": "GodzillaReload",
+    "FileName": "boss_godzilla_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#0+L_upperLeg_s#0+R_upperLeg_s#0+R_clavicle_s#4+R_shoulder_s#4+R_elbow_s#4+R_forearm_twist_s#4+R_wrist_s#4+L_clavicle_s#4+L_shoulder_s#4+L_elbow_s#4+L_forearm_twist_s#4+L_wrist_s#4"
+  },
+  "GodzillaPushback": {
+    "Name": "GodzillaPushback",
+    "FileName": "shelly_pushback.scw",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "GodzillaWin": {
+    "Name": "GodzillaWin",
+    "FileName": "boss_godzilla_idle_lobby.glb",
+    "EndFrame": 35,
+    "Priority": "5"
+  },
+  "GodzillaWinloop": {
+    "Name": "GodzillaWinloop",
+    "FileName": "boss_godzilla_idle_lobby.glb",
+    "EndFrame": 35,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaLose": {
+    "Name": "GodzillaLose",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "Priority": "5"
+  },
+  "GodzillaLoseloop": {
+    "Name": "GodzillaLoseloop",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaProfile": {
+    "Name": "GodzillaProfile",
+    "FileName": "boss_godzilla_idle.glb",
+    "StartFrame": 80,
+    "EndFrame": 80,
+    "Looping": true,
+    "Priority": "boss_godzilla_attack2_bite.glb"
+  },
+  "GodzillaIntro": {
+    "Name": "GodzillaIntro",
+    "FileName": "boss_godzilla_idle.glb"
+  },
+  "SilencerGoldAddonStarfishIdle": {
+    "Name": "SilencerGoldAddonStarfishIdle",
+    "FileName": "starfish_addon_idle.glb",
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "SilencerSilverAddonStarfishIdle": {
+    "Name": "SilencerSilverAddonStarfishIdle",
+    "FileName": "starfish_addon_idle.glb",
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "SilencerWorldfinalsAddonStarfishIdle": {
+    "Name": "SilencerWorldfinalsAddonStarfishIdle",
+    "FileName": "starfish_addon_idle.glb",
+    "EndFrame": -1,
+    "Looping": true
+  },
+  "SilencerGoldAddonStarfishSpawn": {
+    "Name": "SilencerGoldAddonStarfishSpawn",
+    "FileName": "starfish_addon_spawn.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "SilencerSilverAddonStarfishSpawn": {
+    "Name": "SilencerSilverAddonStarfishSpawn",
+    "FileName": "starfish_addon_spawn.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "SilencerWorldfinalsAddonStarfishSpawn": {
+    "Name": "SilencerWorldfinalsAddonStarfishSpawn",
+    "FileName": "starfish_addon_spawn.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "AutoFadeMs": 200,
+    "Priority": "5"
+  },
+  "BeeVirusHeroScreen": {
+    "Name": "BeeVirusHeroScreen",
+    "FileName": "bee_hacker_heroscreen.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "Looping": true
+  },
+  "GodzillaWalkUI": {
+    "Name": "GodzillaWalkUI",
+    "FileName": "boss_godzilla_extra_slowmowalk.glb",
+    "StartFrame": 1,
+    "EndFrame": 405,
+    "Looping": true
+  },
+  "DragonRiderDefaultIdle": {
+    "Name": "DragonRiderDefaultIdle",
+    "FileName": "draco_idle.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "DragonRiderDefaultWalk": {
+    "Name": "DragonRiderDefaultWalk",
+    "FileName": "draco_walk.glb",
+    "EndFrame": 27,
+    "Speed": 144,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "DragonRiderDefaultSecondary": {
+    "Name": "DragonRiderDefaultSecondary",
+    "FileName": "draco_super.glb",
+    "EndFrame": 38,
+    "AutoFadeMs": 250,
+    "Priority": "4"
+  },
+  "DragonRiderDefaultAttackRecoil": {
+    "Name": "DragonRiderDefaultAttackRecoil",
+    "FileName": "draco_attack.glb",
+    "StartFrame": 2,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DragonRiderDefaultReload": {
+    "Name": "DragonRiderDefaultReload",
+    "FileName": "draco_idle.glb",
+    "EndFrame": 20,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#0+chest_s#5+L_clavicle_s#1+head_s#0+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DragonRiderDefaultPushback": {
+    "Name": "DragonRiderDefaultPushback",
+    "FileName": "draco_idle.glb",
+    "EndFrame": 10,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "DragonRiderDefaultWin": {
+    "Name": "DragonRiderDefaultWin",
+    "FileName": "draco_win.glb",
+    "EndFrame": 184
+  },
+  "DragonRiderDefaultWinloop": {
+    "Name": "DragonRiderDefaultWinloop",
+    "FileName": "draco_win.glb",
+    "StartFrame": 157,
+    "EndFrame": 184,
+    "Looping": true
+  },
+  "DragonRiderDefaultLose": {
+    "Name": "DragonRiderDefaultLose",
+    "FileName": "draco_lose.glb",
+    "EndFrame": 76
+  },
+  "DragonRiderDefaultLoseloop": {
+    "Name": "DragonRiderDefaultLoseloop",
+    "FileName": "draco_lose.glb",
+    "StartFrame": 53,
+    "EndFrame": 76,
+    "Looping": true
+  },
+  "DragonRiderDefaultProfile": {
+    "Name": "DragonRiderDefaultProfile",
+    "FileName": "draco_portrait.glb",
+    "EndFrame": -1
+  },
+  "DragonRiderDefaultIdle_transform": {
+    "Name": "DragonRiderDefaultIdle_transform",
+    "FileName": "draco_idle_transform.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "DragonRiderDefaultWalk_transform": {
+    "Name": "DragonRiderDefaultWalk_transform",
+    "FileName": "draco_walk_transform.glb",
+    "EndFrame": -1,
+    "Speed": 144,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "DragonRiderDefaultSecondary_transform": {
+    "Name": "DragonRiderDefaultSecondary_transform",
+    "FileName": "draco_super_transform.glb",
+    "EndFrame": 31,
+    "AutoFadeMs": 250,
+    "Priority": "4"
+  },
+  "DragonRiderDefaultAttackRecoil_transform": {
+    "Name": "DragonRiderDefaultAttackRecoil_transform",
+    "FileName": "draco_attack_transform.glb",
+    "StartFrame": 2,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "DragonRiderDefaultReload_transform": {
+    "Name": "DragonRiderDefaultReload_transform",
+    "FileName": "draco_idle_transform.glb",
+    "EndFrame": 1,
+    "TransitionInMs": 500,
+    "TransitionOutMs": 500,
+    "AutoFadeMs": 500
+  },
+  "DragonRiderDefaultPushback_transform": {
+    "Name": "DragonRiderDefaultPushback_transform",
+    "FileName": "draco_idle_transform.glb",
+    "EndFrame": 1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "AmbusherDefaultIdle": {
+    "Name": "AmbusherDefaultIdle",
+    "FileName": "lily_idle.glb",
+    "EndFrame": 23,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "AmbusherDefaultWalk": {
+    "Name": "AmbusherDefaultWalk",
+    "FileName": "lily_run.glb",
+    "EndFrame": 23,
+    "Speed": 170,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "AmbusherDefaultAttack": {
+    "Name": "AmbusherDefaultAttack",
+    "FileName": "lily_attack.glb",
+    "StartFrame": 4,
+    "EndFrame": 14,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "AmbusherDefaultSecondary": {
+    "Name": "AmbusherDefaultSecondary",
+    "FileName": "lily_attack.glb",
+    "StartFrame": 4,
+    "EndFrame": 14,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "AmbusherDefaultRecoil": {
+    "Name": "AmbusherDefaultRecoil",
+    "FileName": "lily_attack.glb",
+    "StartFrame": 15,
+    "EndFrame": 26,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "AmbusherDefaultRecoil2": {
+    "Name": "AmbusherDefaultRecoil2",
+    "FileName": "lily_attack.glb",
+    "StartFrame": 15,
+    "EndFrame": 26,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 10,
+    "Priority": "spine_lower_s#4"
+  },
+  "AmbusherDefaultReload": {
+    "Name": "AmbusherDefaultReload",
+    "FileName": "lily_idle.glb",
+    "EndFrame": -1,
+    "AutoFadeMs": 100,
+    "Priority": "ChestBone#2"
+  },
+  "AmbusherDefaultPushback": {
+    "Name": "AmbusherDefaultPushback",
+    "FileName": "lily_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 34,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "AmbusherDefaultWin": {
+    "Name": "AmbusherDefaultWin",
+    "FileName": "lily_win.glb",
+    "EndFrame": 148,
+    "TransitionOutMs": 10,
+    "AutoFadeMs": 100,
+    "Priority": "5"
+  },
+  "AmbusherDefaultWinloop": {
+    "Name": "AmbusherDefaultWinloop",
+    "FileName": "lily_win.glb",
+    "StartFrame": 109,
+    "EndFrame": 148,
+    "TransitionInMs": 10,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "AmbusherDefaultLose": {
+    "Name": "AmbusherDefaultLose",
+    "FileName": "lily_lose.glb",
+    "EndFrame": 100,
+    "Priority": "5"
+  },
+  "AmbusherDefaultLoseloop": {
+    "Name": "AmbusherDefaultLoseloop",
+    "FileName": "lily_lose.glb",
+    "StartFrame": 45,
+    "EndFrame": 95,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "AmbusherDefaultProfile": {
+    "Name": "AmbusherDefaultProfile",
+    "FileName": "lily_portrait.glb",
+    "StartFrame": 1,
+    "EndFrame": 10,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "AmbusherDefaultIntro": {
+    "Name": "AmbusherDefaultIntro",
+    "FileName": "lily_portrait.glb"
+  },
+  "RopeDudeGodzillaIdleEgg": {
+    "Name": "RopeDudeGodzillaIdleEgg",
+    "FileName": "buzz_godzilla_egg_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "Looping": true
+  },
+  "RopeDudeGodzillaInteractEgg": {
+    "Name": "RopeDudeGodzillaInteractEgg",
+    "FileName": "buzz_godzilla_egg_interaction.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50
+  },
+  "RopeDudeGodzillaSurpriseEgg": {
+    "Name": "RopeDudeGodzillaSurpriseEgg",
+    "FileName": "buzz_godzilla_egg_easteregg4.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50
+  },
+  "RopeDudeGodzillaAwakeEgg": {
+    "Name": "RopeDudeGodzillaAwakeEgg",
+    "FileName": "buzz_godzilla_egg_walkingup.glb",
+    "StartFrame": 1,
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50
+  },
+  "GodzillaDefaultLobbyLoop": {
+    "Name": "GodzillaDefaultLobbyLoop",
+    "FileName": "boss_godzilla_extra_slowmowalk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "RopeDudeGodzillaIdle_transform": {
+    "Name": "RopeDudeGodzillaIdle_transform",
+    "FileName": "buzz_godzilla_idle_transform.glb",
+    "EndFrame": 28,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "RopeDudeGodzillaWalk_transform": {
+    "Name": "RopeDudeGodzillaWalk_transform",
+    "FileName": "buzz_godzilla_walk_transform.glb",
+    "EndFrame": 40,
+    "FaceFreezeFrame": -1,
+    "Speed": 150,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "RopeDudeGodzillaAttack_transform": {
+    "Name": "RopeDudeGodzillaAttack_transform",
+    "FileName": "buzz_godzilla_attack_transform.glb",
+    "EndFrame": 28,
+    "FaceFreezeFrame": -1,
+    "AutoFadeMs": 50,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "RopeDudeGodzillaSuperThrow_transform": {
+    "Name": "RopeDudeGodzillaSuperThrow_transform",
+    "FileName": "buzz_godzilla_super_throw_transform.glb",
+    "EndFrame": 5,
+    "FaceFreezeFrame": -1,
+    "Priority": "3"
+  },
+  "RopeDudeGodzillaSuperThrowRecoil_transform": {
+    "Name": "RopeDudeGodzillaSuperThrowRecoil_transform",
+    "FileName": "buzz_godzilla_super_throw_transform.glb",
+    "StartFrame": 3,
+    "EndFrame": 20,
+    "FaceFreezeFrame": -1,
+    "TransitionOutMs": 200,
+    "AutoFadeMs": 50,
+    "Priority": "4"
+  },
+  "RopeDudeGodzillaSuperJump_transform": {
+    "Name": "RopeDudeGodzillaSuperJump_transform",
+    "FileName": "buzz_godzilla_super_jump_transform.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "AutoFadeMs": 50,
+    "Looping": true,
+    "Priority": "5"
+  },
+  "CocoonerPetVirusIdle": {
+    "Name": "CocoonerPetVirusIdle",
+    "FileName": "charlie_virus_spider_idle.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerPetVirusWalk": {
+    "Name": "CocoonerPetVirusWalk",
+    "FileName": "charlie_virus_spider_run.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "CocoonerPetVirusAttack": {
+    "Name": "CocoonerPetVirusAttack",
+    "FileName": "charlie_virus_spider_attack.glb",
+    "StartFrame": 15,
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100
+  },
+  "CocoonerCocoonVirusIdle": {
+    "Name": "CocoonerCocoonVirusIdle",
+    "FileName": "charlie_virus_cocoon_idle.glb",
+    "EndFrame": 13,
+    "FaceFreezeFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "GodzillaMechaIdle": {
+    "Name": "GodzillaMechaIdle",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true
+  },
+  "GodzillaMechaWalk": {
+    "Name": "GodzillaMechaWalk",
+    "FileName": "boss_godzilla_walk.glb",
+    "EndFrame": 39,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 100,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaMechaPrimary": {
+    "Name": "GodzillaMechaPrimary",
+    "FileName": "boss_godzilla_attack2_bite.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "GodzillaMechaSecondary": {
+    "Name": "GodzillaMechaSecondary",
+    "FileName": "boss_godzilla_super_flamethrower.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 100,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 0,
+    "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+  },
+  "GodzillaMechaReload": {
+    "Name": "GodzillaMechaReload",
+    "FileName": "boss_godzilla_idle.glb",
+    "StartFrame": 1,
+    "EndFrame": 1,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#0+L_upperLeg_s#0+R_upperLeg_s#0+R_clavicle_s#4+R_shoulder_s#4+R_elbow_s#4+R_forearm_twist_s#4+R_wrist_s#4+L_clavicle_s#4+L_shoulder_s#4+L_elbow_s#4+L_forearm_twist_s#4+L_wrist_s#4"
+  },
+  "GodzillaMechaWin": {
+    "Name": "GodzillaMechaWin",
+    "FileName": "boss_godzilla_idle_lobby.glb",
+    "EndFrame": 35,
+    "Priority": "5"
+  },
+  "GodzillaMechaWinloop": {
+    "Name": "GodzillaMechaWinloop",
+    "FileName": "boss_godzilla_idle_lobby.glb",
+    "EndFrame": 35,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaMechaLose": {
+    "Name": "GodzillaMechaLose",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "Priority": "5"
+  },
+  "GodzillaMechaLoseloop": {
+    "Name": "GodzillaMechaLoseloop",
+    "FileName": "boss_godzilla_idle.glb",
+    "EndFrame": 35,
+    "Looping": true,
+    "Priority": "1"
+  },
+  "GodzillaMechaDefaultLobbyLoop": {
+    "Name": "GodzillaMechaDefaultLobbyLoop",
+    "FileName": "boss_godzilla_extra_slowmowalk.glb",
+    "EndFrame": -1,
+    "FaceFreezeFrame": -1,
+    "Looping": true
+  },
+  "GodzillaMechaProfile": {
+    "Name": "GodzillaMechaProfile",
+    "FileName": "boss_godzilla_idle.glb",
+    "StartFrame": 80,
+    "EndFrame": 80,
+    "Looping": true
+  },
+  "GodzillaMechaIntro": {
+    "Name": "GodzillaMechaIntro",
+    "FileName": "boss_godzilla_idle.glb"
+  },
+  "GodzillaMechaPrimary_transform": {
+    "Name": "GodzillaMechaPrimary_transform",
+    "FileName": "boss_godzilla_attack1_claws.glb",
+    "EndFrame": -1,
+    "TransitionInMs": 50,
+    "TransitionOutMs": 50,
+    "AutoFadeMs": 100,
+    "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
   }
 }

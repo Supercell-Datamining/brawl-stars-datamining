@@ -352,5 +352,170 @@
     "TypeName": "Bling",
     "AmountMin": 1000,
     "AmountMax": 1000
+  },
+  "CollabMutation S": {
+    "Name": "CollabMutation S",
+    "TicketsInCollabRareDraw": 50,
+    "TypeName": "CollabMutation",
+    "FallbackTypeName": "Credits",
+    "FallbackAmount": 20
+  },
+  "CollabSkin 1-29 Gem": {
+    "Name": "CollabSkin 1-29 Gem",
+    "TicketsInCollabMythicDraw": 78,
+    "TypeName": "CollabSkin",
+    "TypePriceMin": 1,
+    "TypePriceMax": 29,
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 200
+  },
+  "CollabSkin 30-79 Gem": {
+    "Name": "CollabSkin 30-79 Gem",
+    "TicketsInCollabMythicDraw": 22,
+    "TypeName": "CollabSkin",
+    "TypePriceMin": 30,
+    "TypePriceMax": 79,
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 500
+  },
+  "CollabSkin 80-149 Gem": {
+    "Name": "CollabSkin 80-149 Gem",
+    "TicketsInCollabLegendaryDraw": 80,
+    "TypeName": "CollabSkin",
+    "TypePriceMin": 80,
+    "TypePriceMax": 149,
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 1000
+  },
+  "CollabSkin 150-299 Gem": {
+    "Name": "CollabSkin 150-299 Gem",
+    "TicketsInCollabLegendaryDraw": 8,
+    "TypeName": "CollabSkin",
+    "TypePriceMin": 150,
+    "TypePriceMax": 299,
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 1000
+  },
+  "CollabSkin 300-799 Gem": {
+    "Name": "CollabSkin 300-799 Gem",
+    "TicketsInCollabLegendaryDraw": 12,
+    "TypeName": "CollabSkin",
+    "TypePriceMin": 300,
+    "TypePriceMax": 999,
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 1000
+  },
+  "CollabSpray": {
+    "Name": "CollabSpray",
+    "TicketsInCollabEpicDraw": 18,
+    "TypeName": "CollabSpray",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
+  },
+  "CollabProfilePic": {
+    "Name": "CollabProfilePic",
+    "TicketsInCollabEpicDraw": 18,
+    "TypeName": "CollabProfilePic",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
+  },
+  "Coins S Collab": {
+    "Name": "Coins S Collab",
+    "TicketsInCollabRareDraw": 20,
+    "TypeName": "Coins",
+    "AmountMin": 100,
+    "AmountMax": 100
+  },
+  "Coins M Collab": {
+    "Name": "Coins M Collab",
+    "TicketsInCollabSuperRareDraw": 20,
+    "TypeName": "Coins",
+    "AmountMin": 200,
+    "AmountMax": 200
+  },
+  "Coins L Collab": {
+    "Name": "Coins L Collab",
+    "TypeName": "Coins",
+    "AmountMin": 500,
+    "AmountMax": 500
+  },
+  "Coins XL Collab": {
+    "Name": "Coins XL Collab",
+    "TypeName": "Coins",
+    "AmountMin": 1000,
+    "AmountMax": 1000
+  },
+  "Power Points S Collab": {
+    "Name": "Power Points S Collab",
+    "TicketsInCollabRareDraw": 15,
+    "TypeName": "PowerPoints",
+    "AmountMin": 50,
+    "AmountMax": 50
+  },
+  "Power Points M Collab": {
+    "Name": "Power Points M Collab",
+    "TicketsInCollabSuperRareDraw": 15,
+    "TypeName": "PowerPoints",
+    "AmountMin": 100,
+    "AmountMax": 100
+  },
+  "Power Points L Collab": {
+    "Name": "Power Points L Collab",
+    "TypeName": "PowerPoints",
+    "AmountMin": 250,
+    "AmountMax": 250
+  },
+  "Power Points XL Collab": {
+    "Name": "Power Points XL Collab",
+    "TypeName": "PowerPoints",
+    "AmountMin": 500,
+    "AmountMax": 500
+  },
+  "Bling S Collab": {
+    "Name": "Bling S Collab",
+    "TicketsInCollabRareDraw": 15,
+    "TypeName": "Bling",
+    "AmountMin": 50,
+    "AmountMax": 50
+  },
+  "Bling M Collab": {
+    "Name": "Bling M Collab",
+    "TicketsInCollabSuperRareDraw": 15,
+    "TypeName": "Bling",
+    "AmountMin": 100,
+    "AmountMax": 100
+  },
+  "Bling L Collab": {
+    "Name": "Bling L Collab",
+    "TypeName": "Bling",
+    "AmountMin": 250,
+    "AmountMax": 250
+  },
+  "Bling XL Collab": {
+    "Name": "Bling XL Collab",
+    "TypeName": "Bling",
+    "AmountMin": 500,
+    "AmountMax": 500
+  },
+  "CollabPin": {
+    "Name": "CollabPin",
+    "TicketsInCollabEpicDraw": 14,
+    "TypeName": "CollabPin",
+    "FallbackTypeName": "Bling",
+    "FallbackAmount": 100
+  },
+  "CollabMutation M": {
+    "Name": "CollabMutation M",
+    "TicketsInCollabSuperRareDraw": 50,
+    "TypeName": "CollabMutation",
+    "FallbackTypeName": "Credits",
+    "FallbackAmount": 50
+  },
+  "CollabMutation L": {
+    "Name": "CollabMutation L",
+    "TicketsInCollabEpicDraw": 50,
+    "TypeName": "CollabMutation",
+    "FallbackTypeName": "Credits",
+    "FallbackAmount": 100
   }
 }

@@ -1433,15 +1433,12 @@
     "CustomValue2": 1,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   },
-  "Splitter_PetDamageSignal": {
-    "Name": "Splitter_PetDamageSignal",
-    "Type": "damage_line_to_pet",
+  "Splitter_ChargeUlti": {
+    "Name": "Splitter_ChargeUlti",
+    "Type": "charge_ulti",
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "StopMovement": true,
-    "InterruptsAction": true,
-    "CustomObject": "SplitterLegSignalProjectile",
-    "CustomValue1": 50
+    "CustomValue1": 100
   },
   "Splitter_TriggerTags": {
     "Name": "Splitter_TriggerTags",
@@ -1567,7 +1564,7 @@
     "UseEffect": "gadget_activate",
     "LoopingEffect": "gadget_on_loop",
     "ActiveTicks": 100000,
-    "CustomValue1": 200,
+    "CustomValue1": 150,
     "CustomValue2": 3,
     "CustomValue3": 2,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
@@ -1662,7 +1659,7 @@
     "Cooldown": 100,
     "UseEffect": "kit_def_gadget",
     "LoopingEffect": "kit_def_gadget_loop",
-    "ActiveTicks": 100,
+    "ActiveTicks": 60,
     "AnimationIndex": 1,
     "CustomValue1": 100,
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
@@ -1692,7 +1689,7 @@
     "ActiveTicks": 8,
     "CustomValue1": 800,
     "CustomValue2": 3000,
-    "CustomValue3": 33,
+    "CustomValue3": 25,
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_MISSING_TWIN"
   },
   "AxeJuggler_ProjectileSpeed": {
@@ -1713,7 +1710,7 @@
     "SubType": 1,
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomValue1": 15,
+    "CustomValue1": 10,
     "CustomValue2": 140,
     "MissingTargetText": "TID_AXE_JUGGLER_ACCESSORY_BLOCKED_MISSING_NOTES",
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_SHIELD_ALREADY_ACTIVE"
@@ -1738,6 +1735,47 @@
     "ActiveTicks": 100000,
     "CustomValue1": 1,
     "CustomValue2": 1,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "DragonRider_KnockUp": {
+    "Name": "DragonRider_KnockUp",
+    "Type": "next_attack_change",
+    "SubType": 27,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_on_loop",
+    "ActiveTicks": 100000,
+    "Range": 7,
+    "CustomValue1": 20,
+    "CustomValue2": 50,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "DragonRider_LastStand": {
+    "Name": "DragonRider_LastStand",
+    "Type": "give_buff_to_self",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "CustomValue1": 21,
+    "CustomValue2": 40
+  },
+  "Ambusher_ShadowRealm": {
+    "Name": "Ambusher_ShadowRealm",
+    "Type": "shadowrealm_transfer_self",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 5,
+    "InterruptsAction": true,
+    "CustomValue1": 60
+  },
+  "Ambusher_TeleportGrenade": {
+    "Name": "Ambusher_TeleportGrenade",
+    "Type": "ulti_change",
+    "SubType": 8,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 100000,
+    "CustomObject": "AmbusherUlti2",
+    "MissingTargetText": "TID_ACCESSORY_BLOCKED_SUPER_REQUIRED",
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
   }
 }

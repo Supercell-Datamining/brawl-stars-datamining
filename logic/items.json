@@ -361,6 +361,23 @@
     "RandomStartFrame": 2,
     "Layer": "Above"
   },
+  "Tick006Mine": {
+    "Name": "Tick006Mine",
+    "ParentItemForSkin": "ClusterMine",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "tick_006_atk2_projectile",
+    "ExportNameEnemy": "tick_006_atk2_projectile_red",
+    "ShadowExportName": "shadow_normal_circle",
+    "LoopingEffect": "gen_no_hit",
+    "Value": 800,
+    "Value2": 2000,
+    "TriggerRangeSubTiles": 200,
+    "TriggerAreaEffect": "Tick006Explosion2",
+    "CanBePickedUp": true,
+    "ShowAlways": true,
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
   "MineMecha": {
     "Name": "MineMecha",
     "ParentItemForSkin": "Mine",
@@ -1332,6 +1349,36 @@
     "SCW": "sc3d/item_hypercharge.glb",
     "SCWEnemy": "sc3d/item_hypercharge.glb",
     "UseGeneratedShadow": true,
+    "Layer": "Above"
+  },
+  "ClusterOverchargedMine": {
+    "Name": "ClusterOverchargedMine",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "tick_def_oc_mine",
+    "ExportNameEnemy": "tick_def_oc_mine_red",
+    "ShadowExportName": "shadow_normal_circle",
+    "Value": 800,
+    "Value2": 2000,
+    "TriggerRangeSubTiles": 200,
+    "TriggerAreaEffect": "ClusterBombOverchargedExplosion2",
+    "CanBePickedUp": true,
+    "ShowAlways": true,
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
+  "GodzillaTransform": {
+    "Name": "GodzillaTransform",
+    "FileName": "sc/effects.sc",
+    "ShadowExportName": "projectile_shadow",
+    "GroundGlowExportName": "pickup_glow_green",
+    "LoopingEffect": "powerup_fx_blue",
+    "Value": 10,
+    "Value2": 400,
+    "TriggerRangeSubTiles": 4,
+    "CanBePickedUp": true,
+    "SpawnEffect": "Spawn_plasmoid",
+    "SCW": "sc3d/item_monster.glb",
+    "SCWEnemy": "sc3d/item_bolt.scw",
     "Layer": "Above"
   }
 }

@@ -11,7 +11,8 @@
     "Texture": "spray_allfine.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_angrycloud": {
     "Name": "spray_angrycloud",
@@ -24,7 +25,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_angrycloud.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "OLYMPUS"
   },
   "spray_badgem": {
     "Name": "spray_badgem",
@@ -38,7 +40,8 @@
     "Texture": "spray_badgem.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "ROYALS"
   },
   "spray_banana": {
     "Name": "spray_banana",
@@ -51,7 +54,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_banana.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "JUNGLE"
   },
   "spray_check": {
     "Name": "spray_check",
@@ -87,7 +91,8 @@
     "Texture": "spray_crymask.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_drop": {
     "Name": "spray_drop",
@@ -100,7 +105,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_drop.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_footstep": {
     "Name": "spray_footstep",
@@ -113,7 +119,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_footstep.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_heartarrow": {
     "Name": "spray_heartarrow",
@@ -126,7 +133,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_heartarrow.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BRAWLENTINES"
   },
   "spray_hole": {
     "Name": "spray_hole",
@@ -139,7 +147,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_hole.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "WASTELAND"
   },
   "spray_salt": {
     "Name": "spray_salt",
@@ -152,7 +161,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_salt.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MEAL"
   },
   "spray_skullchamp": {
     "Name": "spray_skullchamp",
@@ -165,7 +175,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_skullchamp.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_skullsign": {
     "Name": "spray_skullsign",
@@ -178,7 +189,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_skullsign.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "WASTELAND"
   },
   "spray_skullwings": {
     "Name": "spray_skullwings",
@@ -191,7 +203,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_skullwings.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_starrpark": {
     "Name": "spray_starrpark",
@@ -215,7 +228,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_thumbsup.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_8bit_1": {
     "Name": "spray_8bit_1",
@@ -426,7 +440,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_crashdummy.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "WASTELAND"
   },
   "spray_stuntshow_chevrons": {
     "Name": "spray_stuntshow_chevrons",
@@ -692,7 +707,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_coc.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "CLASHIP"
   },
   "spray_badrandoms": {
     "Name": "spray_badrandoms",
@@ -705,7 +721,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_badrandoms.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "PUNK"
   },
   "spray_deepsea_1": {
     "Name": "spray_deepsea_1",
@@ -873,7 +890,8 @@
     "Texture": "spray_bsc.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "WF_2020"
   },
   "spray_mortis_mecha": {
     "Name": "spray_mortis_mecha",
@@ -1233,7 +1251,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_ghost_wagon1.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "GHOST_TRAIN"
   },
   "spray_ghost_wagon2": {
     "Name": "spray_ghost_wagon2",
@@ -1246,7 +1265,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_ghost_wagon2.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "GHOST_TRAIN"
   },
   "spray_ghost_wagon3": {
     "Name": "spray_ghost_wagon3",
@@ -1259,7 +1279,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_ghost_wagon3.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "GHOST_TRAIN"
   },
   "spray_paper": {
     "Name": "spray_paper",
@@ -1272,7 +1293,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_paper.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_scissors": {
     "Name": "spray_scissors",
@@ -1285,7 +1307,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_scissors.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_rock": {
     "Name": "spray_rock",
@@ -1298,7 +1321,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_rock.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_denied": {
     "Name": "spray_denied",
@@ -1311,7 +1335,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_denied.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_singlesday": {
     "Name": "spray_singlesday",
@@ -1325,7 +1350,8 @@
     "Texture": "spray_singlesday.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_lastbox": {
     "Name": "spray_lastbox",
@@ -1482,7 +1508,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_brawlidays_hat.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BRAWLIDAYS"
   },
   "spray_brawlidays_horns": {
     "Name": "spray_brawlidays_horns",
@@ -1495,7 +1522,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_brawlidays_horns.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BRAWLIDAYS"
   },
   "spray_brawlentines_heart1": {
     "Name": "spray_brawlentines_heart1",
@@ -1508,7 +1536,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_brawlentines_heart1.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BRAWLENTINES"
   },
   "spray_brawlentines_heart2": {
     "Name": "spray_brawlentines_heart2",
@@ -1521,7 +1550,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_brawlentines_heart2.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BRAWLENTINES"
   },
   "spray_candyland1": {
     "Name": "spray_candyland1",
@@ -1556,7 +1586,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_lny2022.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "LNY"
   },
   "spray_esports2022_punch": {
     "Name": "spray_esports2022_punch",
@@ -1570,7 +1601,8 @@
     "Texture": "spray_esports2022_punch.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "WF_2020"
   },
   "spray_gray_1": {
     "Name": "spray_gray_1",
@@ -1697,7 +1729,8 @@
     "Texture": "spray_janet_popstar.png",
     "PriceBling": 750,
     "PriceGems": 19,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MUSIC"
   },
   "spray_nani_easter": {
     "Name": "spray_nani_easter",
@@ -1967,7 +2000,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_easter2023.png",
     "PriceBling": 1000,
-    "PriceGems": 29
+    "PriceGems": 29,
+    "ExtraCatalogCampaign": "BUNNY_BRIGADE"
   },
   "spray_challenge_basketball": {
     "Name": "spray_challenge_basketball",
@@ -2034,7 +2068,8 @@
     "Texture": "spray_amazon_frog.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "JUNGLE"
   },
   "spray_jungle": {
     "Name": "spray_jungle",
@@ -2209,7 +2244,8 @@
     "Texture": "spray_bling.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_gw": {
     "Name": "spray_gw",
@@ -2223,7 +2259,8 @@
     "Texture": "spray_gw.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "GOLDENWEEK"
   },
   "spray_mushroom": {
     "Name": "spray_mushroom",
@@ -2532,7 +2569,8 @@
     "Texture": "spray_floaty_donut.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "SUMMER"
   },
   "spray_doug": {
     "Name": "spray_doug",
@@ -2560,7 +2598,8 @@
     "Texture": "spray_floaty_hotdog.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "SUMMER"
   },
   "spray_floaty_palmtree": {
     "Name": "spray_floaty_palmtree",
@@ -2574,7 +2613,8 @@
     "Texture": "spray_floaty_palmtree.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "SUMMER"
   },
   "spray_floaty_flamingo": {
     "Name": "spray_floaty_flamingo",
@@ -2588,7 +2628,8 @@
     "Texture": "spray_floaty_flamingo.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "SUMMER"
   },
   "spray_cordelius": {
     "Name": "spray_cordelius",
@@ -2655,7 +2696,8 @@
     "FlipSprayForEnemies": true,
     "Texture": "spray_willow_wasteland.png",
     "PriceBling": 750,
-    "PriceGems": 19
+    "PriceGems": 19,
+    "ExtraCatalogCampaign": "WASTELAND"
   },
   "spray_mandy_harvest": {
     "Name": "spray_mandy_harvest",
@@ -2796,7 +2838,8 @@
     "Texture": "spray_university_equal.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_university_minus": {
     "Name": "spray_university_minus",
@@ -2810,7 +2853,8 @@
     "Texture": "spray_university_minus.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_university_plus": {
     "Name": "spray_university_plus",
@@ -2824,7 +2868,8 @@
     "Texture": "spray_university_plus.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "UNIVERSITY"
   },
   "spray_overcharge_bull": {
     "Name": "spray_overcharge_bull",
@@ -2926,7 +2971,8 @@
     "EffectColorB": 255,
     "FlipSprayForEnemies": true,
     "Texture": "spray_sad_clown.png",
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "CIRCUS"
   },
   "spray_lola_circus": {
     "Name": "spray_lola_circus",
@@ -3182,7 +3228,8 @@
     "Texture": "spray_saw_robot_01.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "CIRCUS"
   },
   "spray_saw_robot_02": {
     "Name": "spray_saw_robot_02",
@@ -3196,7 +3243,8 @@
     "Texture": "spray_saw_robot_02.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "CIRCUS"
   },
   "spray_saw_robot_03": {
     "Name": "spray_saw_robot_03",
@@ -3210,7 +3258,8 @@
     "Texture": "spray_saw_robot_03.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "CIRCUS"
   },
   "spray_cartoon_cloud": {
     "Name": "spray_cartoon_cloud",
@@ -3404,7 +3453,8 @@
     "Texture": "spray_carnaval.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "CARNAVAL"
   },
   "spray_xmas_candy": {
     "Name": "spray_xmas_candy",
@@ -3418,7 +3468,8 @@
     "Texture": "spray_xmas_candy.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "BRAWLIDAYS"
   },
   "spray_xmas_kiss": {
     "Name": "spray_xmas_kiss",
@@ -3432,7 +3483,8 @@
     "Texture": "spray_xmas_kiss.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "BRAWLIDAYS"
   },
   "spray_primo_superbowl": {
     "Name": "spray_primo_superbowl",
@@ -3596,7 +3648,8 @@
     "Texture": "spray_easter_2024.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "BUNNY_BRIGADE"
   },
   "spray_ranked_sandsoftime": {
     "Name": "spray_ranked_sandsoftime",
@@ -3719,7 +3772,8 @@
     "Texture": "spray_womenday.png",
     "PriceBling": 1000,
     "PriceGems": 29,
-    "UseShineVFX": true
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "MISC"
   },
   "spray_bibi_ragnarok": {
     "Name": "spray_bibi_ragnarok",
@@ -3860,5 +3914,340 @@
     "Texture": "spray_melody.png",
     "PriceBling": 750,
     "PriceGems": 19
+  },
+  "spray_bp_godzilla": {
+    "Name": "spray_bp_godzilla",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_bp_godzilla",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 205,
+    "EffectColorG": 103,
+    "EffectColorB": 85,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_bp_godzilla.png",
+    "UseShineVFX": true
+  },
+  "spray_bp_hackers": {
+    "Name": "spray_bp_hackers",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_bp_hackers",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 6,
+    "EffectColorG": 89,
+    "EffectColorB": 69,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_bp_hackers.png",
+    "UseShineVFX": true
+  },
+  "spray_godzilla_egg": {
+    "Name": "spray_godzilla_egg",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_godzilla_egg",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 123,
+    "EffectColorG": 255,
+    "EffectColorB": 17,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_godzilla_egg.png",
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "GODZILLA"
+  },
+  "spray_godzilla_team": {
+    "Name": "spray_godzilla_team",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_godzilla_team",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 2,
+    "EffectColorG": 168,
+    "EffectColorB": 140,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_godzilla_team.png",
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "GODZILLA"
+  },
+  "spray_godzilla_team_mecha": {
+    "Name": "spray_godzilla_team_mecha",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_godzilla_team_mecha",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 255,
+    "EffectColorG": 201,
+    "EffectColorB": 51,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_godzilla_team_mecha.png",
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "GODZILLA"
+  },
+  "spray_mutation_sign": {
+    "Name": "spray_mutation_sign",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_mutation_sign",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 252,
+    "EffectColorG": 205,
+    "EffectColorB": 16,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_mutation_sign.png",
+    "UseShineVFX": true,
+    "ExtraCatalogCampaign": "GODZILLA"
+  },
+  "spray_ranked_godzilla": {
+    "Name": "spray_ranked_godzilla",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_ranked_godzilla",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 232,
+    "EffectColorG": 243,
+    "EffectColorB": 252,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_ranked_godzilla.png",
+    "UseShineVFX": true
+  },
+  "spray_ranked_hackers": {
+    "Name": "spray_ranked_hackers",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_ranked_hackers",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 245,
+    "EffectColorG": 108,
+    "EffectColorB": 0,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_ranked_hackers.png",
+    "UseShineVFX": true
+  },
+  "spray_lili": {
+    "Name": "spray_lili",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_lili",
+    "Character": "Ambusher",
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 123,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_lili.png",
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "spray_draco": {
+    "Name": "spray_draco",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_draco",
+    "Character": "DragonRider",
+    "Rarity": "COMMON",
+    "EffectColorR": 179,
+    "EffectColorG": 229,
+    "EffectColorB": 0,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_draco.png",
+    "PriceBling": 750,
+    "PriceGems": 19
+  },
+  "spray_shelly_squad": {
+    "Name": "spray_shelly_squad",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_shelly_squad",
+    "Character": "ShotgunGirl",
+    "Skin": "ShotgunGirlSquad",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 56,
+    "EffectColorB": 182,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_shelly_squad.png"
+  },
+  "spray_nita_godzilla": {
+    "Name": "spray_nita_godzilla",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_nita_godzilla",
+    "Character": "Shaman",
+    "Skin": "ShamanGodzilla",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 0,
+    "EffectColorG": 137,
+    "EffectColorB": 218,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_nita_godzilla.png"
+  },
+  "spray_fang_virus": {
+    "Name": "spray_fang_virus",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_fang_virus",
+    "Character": "KickerDude",
+    "Skin": "KickerDudeVirus",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 0,
+    "EffectColorG": 254,
+    "EffectColorB": 175,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_fang_virus.png"
+  },
+  "spray_charlie_virus": {
+    "Name": "spray_charlie_virus",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_charlie_virus",
+    "Character": "Cocooner",
+    "Skin": "CocoonerVirus",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 77,
+    "EffectColorG": 241,
+    "EffectColorB": 80,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_charlie_virus.png"
+  },
+  "spray_buzz_godzilla": {
+    "Name": "spray_buzz_godzilla",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_buzz_godzilla",
+    "Character": "RopeDude",
+    "Skin": "RopeDudeGodzilla",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 3,
+    "EffectColorG": 190,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_buzz_godzilla.png"
+  },
+  "spray_bo_mecha": {
+    "Name": "spray_bo_mecha",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_bo_mecha",
+    "Character": "BowDude",
+    "Skin": "BoMecha",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 119,
+    "EffectColorB": 1,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_bo_mecha.png"
+  },
+  "spray_bibi_virus": {
+    "Name": "spray_bibi_virus",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_bibi_virus",
+    "Character": "Baseball",
+    "Skin": "BaseballGamer_remake",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 255,
+    "EffectColorG": 114,
+    "EffectColorB": 216,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_bibi_virus.png"
+  },
+  "spray_amber_ice": {
+    "Name": "spray_amber_ice",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_amber_ice",
+    "Character": "FireDude",
+    "Skin": "FireDudeFrost",
+    "GiveOnSkinUnlock": true,
+    "Rarity": "COMMON",
+    "EffectColorR": 51,
+    "EffectColorG": 217,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_amber_ice.png"
+  },
+  "spray_overcharge_tick": {
+    "Name": "spray_overcharge_tick",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_tick",
+    "Character": "ClusterBombDude",
+    "Skin": "ClusterBombDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_tick.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_sandy": {
+    "Name": "spray_overcharge_sandy",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_sandy",
+    "Character": "Sandstorm",
+    "Skin": "SandstormDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_sandy.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_nita": {
+    "Name": "spray_overcharge_nita",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_nita",
+    "Character": "Shaman",
+    "Skin": "ShamanDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_nita.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_max": {
+    "Name": "spray_overcharge_max",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_max",
+    "Character": "Speedy",
+    "Skin": "SpeedyDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_max.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_gene": {
+    "Name": "spray_overcharge_gene",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_gene",
+    "Character": "HookDude",
+    "Skin": "HookDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_gene.png",
+    "UseShineVFX": true
+  },
+  "spray_overcharge_brock": {
+    "Name": "spray_overcharge_brock",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_overcharge_brock",
+    "Character": "RocketGirl",
+    "Skin": "RocketGirlDefault",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 233,
+    "EffectColorG": 80,
+    "EffectColorB": 255,
+    "FlipSprayForEnemies": true,
+    "Texture": "spray_overcharge_brock.png",
+    "UseShineVFX": true
+  },
+  "spray_creators": {
+    "Name": "spray_creators",
+    "FileName": "sc/ui.sc",
+    "ExportName": "spray_creators",
+    "Rarity": "COLLECTORS",
+    "EffectColorR": 69,
+    "EffectColorG": 217,
+    "EffectColorB": 161,
+    "FlipSprayForEnemies": true,
+    "UseShineVFX": true
   }
 }

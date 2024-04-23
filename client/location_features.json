@@ -481,5 +481,12 @@
     "LocationTheme": "LoveSwamp",
     "MeshNames": "willow_stuff",
     "Character": "Puppeteer"
+  },
+  "MadevilDraco": {
+    "Name": "MadevilDraco",
+    "Mode": "HideIfCharacter",
+    "LocationTheme": "MadEvilManor",
+    "MeshNames": "draco_stuff",
+    "Character": "DragonRider"
   }
 }

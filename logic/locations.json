@@ -75,17 +75,15 @@
   },
   "Gemgrab3": {
     "Name": "Gemgrab3",
-    "Disabled": true,
     "TID": "TID_WANTED_4",
-    "LocationTheme": "Default",
+    "LocationTheme": "EnchantedForest",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_3"
   },
   "Gemgrab4": {
     "Name": "Gemgrab4",
-    "Disabled": true,
     "TID": "TID_WANTED_3B",
-    "LocationTheme": "Default",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "GemGrab",
     "Map": "Wanted_3",
     "TrainingGroundsEnabled": true
@@ -110,13 +108,14 @@
   "Survival1": {
     "Name": "Survival1",
     "TID": "TID_BATTLE_ROYALE_1",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_1",
     "TrainingGroundsEnabled": true
   },
   "Survival2": {
     "Name": "Survival2",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_2",
     "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "Showdown",
@@ -126,16 +125,15 @@
   },
   "Survival3": {
     "Name": "Survival3",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_3",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_3"
   },
   "Survival4": {
     "Name": "Survival4",
     "TID": "TID_BATTLE_ROYALE_4",
-    "LocationTheme": "ArcadeShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_4",
     "TrainingGroundsEnabled": true
@@ -150,9 +148,8 @@
   },
   "Heist2": {
     "Name": "Heist2",
-    "Disabled": true,
     "TID": "TID_BANKHEIST_2",
-    "LocationTheme": "Default",
+    "LocationTheme": "Godzilla",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_2",
     "TrainingGroundsEnabled": true
@@ -160,7 +157,7 @@
   "Heist3": {
     "Name": "Heist3",
     "TID": "TID_BANKHEIST_3",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "EnchantedForest",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_3",
     "TrainingGroundsEnabled": true
@@ -185,7 +182,7 @@
   "Wanted8": {
     "Name": "Wanted8",
     "TID": "TID_WANTED_8",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "EnchantedForest",
     "GameModeVariation": "Bounty",
     "Map": "Wanted_8",
     "TrainingGroundsEnabled": true
@@ -193,13 +190,12 @@
   "Heist4": {
     "Name": "Heist4",
     "TID": "TID_BANKHEIST_4",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_4"
   },
   "Ball1": {
     "Name": "Ball1",
-    "Disabled": true,
     "TID": "TID_BALL_1",
     "LocationTheme": "Grassfield",
     "GameModeVariation": "BrawlBall",
@@ -234,7 +230,7 @@
   "SurvivalTeam7": {
     "Name": "SurvivalTeam7",
     "TID": "TID_BATTLE_ROYALE_7",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_7",
     "TrainingGroundsEnabled": true
@@ -276,9 +272,8 @@
   },
   "Survival6": {
     "Name": "Survival6",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_6",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_6",
     "TrainingGroundsEnabled": true
@@ -286,13 +281,14 @@
   "SurvivalTeam1": {
     "Name": "SurvivalTeam1",
     "TID": "TID_BATTLE_ROYALE_1",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_1",
     "TrainingGroundsEnabled": true
   },
   "SurvivalTeam2": {
     "Name": "SurvivalTeam2",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_2",
     "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "DuoShowdown",
@@ -302,16 +298,15 @@
   },
   "SurvivalTeam3": {
     "Name": "SurvivalTeam3",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_3",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_3"
   },
   "SurvivalTeam4": {
     "Name": "SurvivalTeam4",
     "TID": "TID_BATTLE_ROYALE_4",
-    "LocationTheme": "ArcadeShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_4",
     "TrainingGroundsEnabled": true
@@ -364,32 +359,33 @@
   "Survival7": {
     "Name": "Survival7",
     "TID": "TID_BATTLE_ROYALE_7",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_7",
     "TrainingGroundsEnabled": true
   },
   "SurvivalTeam6": {
     "Name": "SurvivalTeam6",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_6",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_6",
     "TrainingGroundsEnabled": true
   },
   "Survival8": {
     "Name": "Survival8",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_8",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_8",
     "CommunityCredit": "Rushalisk"
   },
   "SurvivalTeam8": {
     "Name": "SurvivalTeam8",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_8",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_8",
     "CommunityCredit": "Rushalisk"
@@ -405,8 +401,9 @@
   },
   "Gemgrab11": {
     "Name": "Gemgrab11",
+    "Disabled": true,
     "TID": "TID_GOLDRUSH_11",
-    "LocationTheme": "LoveSwamp",
+    "LocationTheme": "Default",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_11",
     "CommunityCredit": "FatBubblyDragon"
@@ -422,7 +419,6 @@
   },
   "Ball4": {
     "Name": "Ball4",
-    "Disabled": true,
     "TID": "TID_BALL_4",
     "LocationTheme": "Grassfield",
     "GameModeVariation": "BrawlBall",
@@ -432,7 +428,6 @@
   },
   "Ball6": {
     "Name": "Ball6",
-    "Disabled": true,
     "TID": "TID_BALL_6",
     "LocationTheme": "GrassfieldBeachBall",
     "GameModeVariation": "BrawlBall",
@@ -451,9 +446,8 @@
   },
   "Heist8": {
     "Name": "Heist8",
-    "Disabled": true,
     "TID": "TID_BANKHEIST_18",
-    "LocationTheme": "Default",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_8",
     "CommunityCredit": "AlexEsteAdevarat",
@@ -461,9 +455,8 @@
   },
   "Wanted9": {
     "Name": "Wanted9",
-    "Disabled": true,
     "TID": "TID_WANTED_9",
-    "LocationTheme": "Default",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "Bounty",
     "Map": "Wanted_9",
     "CommunityCredit": "thelucas2000",
@@ -612,8 +605,9 @@
   },
   "Heist12": {
     "Name": "Heist12",
+    "Disabled": true,
     "TID": "TID_BANKHEIST_12",
-    "LocationTheme": "LoveSwamp",
+    "LocationTheme": "Default",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_12",
     "CommunityCredit": "Zagibulenka",
@@ -687,16 +681,18 @@
   },
   "Wanted12": {
     "Name": "Wanted12",
+    "Disabled": true,
     "TID": "TID_WANTED_12",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "Default",
     "GameModeVariation": "Bounty",
     "Map": "Wanted_12",
     "TrainingGroundsEnabled": true
   },
   "Wanted13": {
     "Name": "Wanted13",
+    "Disabled": true,
     "TID": "TID_WANTED_13",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "Bounty",
     "Map": "Wanted_13",
     "CommunityCredit": "OwenReds",
@@ -805,14 +801,14 @@
   "Survival13": {
     "Name": "Survival13",
     "TID": "TID_BATTLE_ROYALE_D2",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_13"
   },
   "SurvivalTeam13": {
     "Name": "SurvivalTeam13",
     "TID": "TID_BATTLE_ROYALE_D2",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_13"
   },
@@ -851,9 +847,8 @@
   },
   "Survival14": {
     "Name": "Survival14",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_17",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_14",
     "CommunityCredit": "Maxymus",
@@ -861,9 +856,8 @@
   },
   "SurvivalTeam14": {
     "Name": "SurvivalTeam14",
-    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_17",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_14",
     "CommunityCredit": "Maxymus",
@@ -979,8 +973,9 @@
   },
   "Gemgrab16": {
     "Name": "Gemgrab16",
+    "Disabled": true,
     "TID": "TID_GOLDRUSH_25",
-    "LocationTheme": "LoveSwamp",
+    "LocationTheme": "Default",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_16",
     "CommunityCredit": "benci",
@@ -1006,6 +1001,7 @@
   },
   "Ball9": {
     "Name": "Ball9",
+    "Disabled": true,
     "TID": "TID_BALL_15",
     "LocationTheme": "Grassfield",
     "GameModeVariation": "BrawlBall",
@@ -1042,6 +1038,7 @@
   },
   "Gemgrab19": {
     "Name": "Gemgrab19",
+    "Disabled": true,
     "TID": "TID_GOLDRUSH_31",
     "LocationTheme": "MineTrainTracks",
     "GameModeVariation": "GemGrab",
@@ -1175,8 +1172,9 @@
   },
   "Heist14": {
     "Name": "Heist14",
+    "Disabled": true,
     "TID": "TID_BANKHEIST_14B",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "Heist",
     "Map": "Bankheist_14",
     "CommunityCredit": "Lex",
@@ -1237,7 +1235,6 @@
   },
   "Ball13": {
     "Name": "Ball13",
-    "Disabled": true,
     "TID": "TID_BALL_23",
     "LocationTheme": "Grassfield",
     "GameModeVariation": "BrawlBall",
@@ -1266,7 +1263,7 @@
   "Gemgrab22": {
     "Name": "Gemgrab22",
     "TID": "TID_GOLDRUSH_22",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_22",
     "CommunityCredit": "Milan R."
@@ -1999,16 +1996,18 @@
   },
   "Survival30": {
     "Name": "Survival30",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_34",
-    "LocationTheme": "ArcadeShowdown",
+    "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_30",
     "CommunityCredit": "Cloudy"
   },
   "SurvivalTeam30": {
     "Name": "SurvivalTeam30",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_34",
-    "LocationTheme": "ArcadeShowdown",
+    "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_30",
     "CommunityCredit": "Cloudy"
@@ -2204,6 +2203,7 @@
   },
   "Ball26": {
     "Name": "Ball26",
+    "Disabled": true,
     "TID": "TID_BALL_30",
     "LocationTheme": "BBArena",
     "GameModeVariation": "BrawlBall",
@@ -2560,18 +2560,16 @@
   },
   "KingOfHill12": {
     "Name": "KingOfHill12",
-    "Disabled": true,
     "TID": "TID_KING_OF_HILL_22",
-    "LocationTheme": "Default",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_12",
     "CommunityCredit": "Mordeus"
   },
   "KingOfHill13": {
     "Name": "KingOfHill13",
-    "Disabled": true,
     "TID": "TID_KING_OF_HILL_23",
-    "LocationTheme": "Mine",
+    "LocationTheme": "Godzilla",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_13",
     "CommunityCredit": "Mordeus",
@@ -2579,8 +2577,9 @@
   },
   "KingOfHill14": {
     "Name": "KingOfHill14",
+    "Disabled": true,
     "TID": "TID_KING_OF_HILL_20",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "Default",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_14",
     "CommunityCredit": "Mordeus",
@@ -2630,7 +2629,7 @@
   "KingOfHill16": {
     "Name": "KingOfHill16",
     "TID": "TID_KING_OF_HILL_16F",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_16F",
     "TrainingGroundsEnabled": true
@@ -2678,7 +2677,7 @@
   "KingOfHill20": {
     "Name": "KingOfHill20",
     "TID": "TID_KING_OF_HILL_20F",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "EnchantedForest",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_20F",
     "TrainingGroundsEnabled": true
@@ -2947,6 +2946,7 @@
   },
   "Ball31": {
     "Name": "Ball31",
+    "Disabled": true,
     "TID": "TID_JAN2021MAPS_5",
     "LocationTheme": "Grassfield",
     "GameModeVariation": "BrawlBall",
@@ -3001,7 +3001,7 @@
   "Gemgrab36": {
     "Name": "Gemgrab36",
     "TID": "TID_JAN2021MAPS_4",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_36",
     "CommunityCredit": "TR | Miqu3"
@@ -3010,7 +3010,7 @@
     "Name": "Gemgrab37",
     "Disabled": true,
     "TID": "TID_JAN2021MAPS_3",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_37",
     "CommunityCredit": "BK|PoneySwagg"
@@ -3204,7 +3204,7 @@
   "Knockout8": {
     "Name": "Knockout8",
     "TID": "TID_MAR2021MAPS_14",
-    "LocationTheme": "Default",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_8",
     "TrainingGroundsEnabled": true
@@ -3212,7 +3212,7 @@
   "Knockout9": {
     "Name": "Knockout9",
     "TID": "TID_MAR2021MAPS_10",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "EnchantedForest",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_9",
     "TrainingGroundsEnabled": true
@@ -3814,7 +3814,7 @@
   "Knockout15": {
     "Name": "Knockout15",
     "TID": "TID_KNOCKOUT_15",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_15",
     "CommunityCredit": "JavQuek",
@@ -4026,9 +4026,8 @@
   },
   "TagTeam7": {
     "Name": "TagTeam7",
-    "Disabled": true,
     "TID": "TID_TAGTEAM_7",
-    "LocationTheme": "Default",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "TagTeam",
     "Map": "TagTeam_7"
   },
@@ -4050,9 +4049,8 @@
   },
   "TagTeam10": {
     "Name": "TagTeam10",
-    "Disabled": true,
     "TID": "TID_TAGTEAM_10",
-    "LocationTheme": "Default",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "TagTeam",
     "Map": "TagTeam_10"
   },
@@ -4075,7 +4073,7 @@
   "Deathmatch1": {
     "Name": "Deathmatch1",
     "TID": "TID_DEATHMATCH_1",
-    "LocationTheme": "Arcade",
+    "LocationTheme": "MadEvilManor",
     "GameModeVariation": "Deathmatch",
     "Map": "Deathmatch_1",
     "CommunityCredit": "Mordeus"
@@ -4142,7 +4140,7 @@
   "Deathmatch5": {
     "Name": "Deathmatch5",
     "TID": "TID_DEATHMATCH_5",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Godzilla",
     "GameModeVariation": "Deathmatch",
     "Map": "Deathmatch_5",
     "CommunityCredit": "Mordeus"
@@ -4158,9 +4156,8 @@
   },
   "Deathmatch7": {
     "Name": "Deathmatch7",
-    "Disabled": true,
     "TID": "TID_DEATHMATCH_7",
-    "LocationTheme": "Default",
+    "LocationTheme": "WaterPark",
     "GameModeVariation": "Deathmatch",
     "Map": "Deathmatch_7",
     "CommunityCredit": "Mordeus"
@@ -4316,13 +4313,14 @@
   "Gemgrab49": {
     "Name": "Gemgrab49",
     "TID": "TID_GEMGRAB_49",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "LoveSwamp",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_49",
     "CommunityCredit": "Mordeus"
   },
   "Ball47": {
     "Name": "Ball47",
+    "Disabled": true,
     "TID": "TID_BRAWLBALL_47",
     "LocationTheme": "BBArena",
     "GameModeVariation": "BrawlBall",
@@ -4341,8 +4339,9 @@
   },
   "Knockout17": {
     "Name": "Knockout17",
+    "Disabled": true,
     "TID": "TID_KNOCKOUT_17",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "Default",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_17"
   },
@@ -4562,8 +4561,9 @@
   },
   "KingOfHill33": {
     "Name": "KingOfHill33",
+    "Disabled": true,
     "TID": "TID_HOTZONE_33",
-    "LocationTheme": "LoveSwamp",
+    "LocationTheme": "Default",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_33",
     "TrainingGroundsEnabled": true
@@ -4572,7 +4572,7 @@
     "Name": "Knockout18",
     "Disabled": true,
     "TID": "TID_KNOCKOUT_18",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_18",
     "CommunityCredit": "Oski_01",
@@ -4746,7 +4746,7 @@
   "Knockout442": {
     "Name": "Knockout442",
     "TID": "TID_KNOCKOUT_442",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "Godzilla",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_442",
     "CommunityCredit": "Ascend",
@@ -4970,9 +4970,8 @@
   },
   "TagTeam475": {
     "Name": "TagTeam475",
-    "Disabled": true,
     "TID": "TID_TAGTEAM_475",
-    "LocationTheme": "Default",
+    "LocationTheme": "LoveSwamp",
     "GameModeVariation": "TagTeam",
     "Map": "TagTeam_475",
     "CommunityCredit": "Mordeus"
@@ -5041,8 +5040,9 @@
   },
   "Knockout481": {
     "Name": "Knockout481",
+    "Disabled": true,
     "TID": "TID_KNOCKOUT_481",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "Knockout",
     "Map": "Knockout_481",
     "CommunityCredit": "Oski 01"
@@ -5180,6 +5180,7 @@
   },
   "BasketBrawl481": {
     "Name": "BasketBrawl481",
+    "Disabled": true,
     "TID": "TID_BASKET_481",
     "LocationTheme": "Rooftop",
     "GameModeVariation": "BasketBrawl",
@@ -5187,6 +5188,7 @@
   },
   "BasketBrawl482": {
     "Name": "BasketBrawl482",
+    "Disabled": true,
     "TID": "TID_BASKET_482",
     "LocationTheme": "Rooftop",
     "GameModeVariation": "BasketBrawl",
@@ -5194,6 +5196,7 @@
   },
   "BasketBrawl483": {
     "Name": "BasketBrawl483",
+    "Disabled": true,
     "TID": "TID_BASKET_483",
     "LocationTheme": "Rooftop",
     "GameModeVariation": "BasketBrawl",
@@ -5201,6 +5204,7 @@
   },
   "BasketBrawl484": {
     "Name": "BasketBrawl484",
+    "Disabled": true,
     "TID": "TID_BASKET_484",
     "LocationTheme": "Rooftop",
     "GameModeVariation": "BasketBrawl",
@@ -5408,6 +5412,7 @@
   },
   "Deathmatch505": {
     "Name": "Deathmatch505",
+    "Disabled": true,
     "TID": "TID_WANTED_7",
     "LocationTheme": "LoveSwamp",
     "GameModeVariation": "Deathmatch",
@@ -5416,8 +5421,9 @@
   },
   "Deathmatch506": {
     "Name": "Deathmatch506",
+    "Disabled": true,
     "TID": "TID_WANTED_6",
-    "LocationTheme": "Bazaar",
+    "LocationTheme": "Default",
     "GameModeVariation": "Deathmatch",
     "Map": "Wanted_6",
     "TrainingGroundsEnabled": true
@@ -5522,9 +5528,8 @@
   },
   "Gemgrab511": {
     "Name": "Gemgrab511",
-    "Disabled": true,
     "TID": "TID_GEMGRAB_511",
-    "LocationTheme": "SnowtelXmas",
+    "LocationTheme": "Godzilla",
     "GameModeVariation": "GemGrab",
     "Map": "Gemgrab_511",
     "CommunityCredit": "STB"
@@ -5892,7 +5897,7 @@
     "Name": "KingOfHill531",
     "Disabled": true,
     "TID": "TID_HOTZONE_531",
-    "LocationTheme": "StarrToonsStudio",
+    "LocationTheme": "Default",
     "GameModeVariation": "KingOfHill",
     "Map": "KingOfHill_531",
     "CommunityCredit": "OwenReds"
@@ -5908,9 +5913,8 @@
   },
   "Deathmatch531": {
     "Name": "Deathmatch531",
-    "Disabled": true,
     "TID": "TID_DEATHMATCH_531",
-    "LocationTheme": "RobotFactory",
+    "LocationTheme": "LoveSwamp",
     "GameModeVariation": "Deathmatch",
     "Map": "Deathmatch_531",
     "CommunityCredit": "OwenReds"
@@ -6040,34 +6044,34 @@
   "Extraction1": {
     "Name": "Extraction1",
     "TID": "TID_EXTRACTION_1",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "MadEvilIslandShowdown",
     "GameModeVariation": "Extraction",
     "Map": "SoloExtraction_1"
   },
   "Extraction2": {
     "Name": "Extraction2",
     "TID": "TID_EXTRACTION_2",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "MadEvilIslandShowdown",
     "GameModeVariation": "Extraction",
     "Map": "SoloExtraction_2"
   },
   "Extraction3": {
     "Name": "Extraction3",
     "TID": "TID_EXTRACTION_3",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "MadEvilIslandShowdown",
     "GameModeVariation": "Extraction",
     "Map": "SoloExtraction_3"
   },
   "Knockout5v1": {
     "Name": "Knockout5v1",
-    "Disabled": true,
     "TID": "TID_KNOCKOUT_5V5_1",
-    "LocationTheme": "IceIslandShowdown",
+    "LocationTheme": "MadEvilIslandShowdown",
     "GameModeVariation": "Knockout5v5",
-    "Map": "Wipeout5v5_2_noIce"
+    "Map": "Knockout5v5_1"
   },
   "Survival541": {
     "Name": "Survival541",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_541",
     "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "Showdown",
@@ -6075,6 +6079,7 @@
   },
   "SurvivalTeam541": {
     "Name": "SurvivalTeam541",
+    "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_541",
     "LocationTheme": "DefaultShowdown",
     "GameModeVariation": "DuoShowdown",
@@ -6218,7 +6223,7 @@
     "Name": "Deathmatch5v4",
     "Disabled": true,
     "TID": "TID_WANTED_5V5_4",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "IslandShowdown",
     "GameModeVariation": "Deathmatch5v5",
     "Map": "Wipeout5v5_4"
   },
@@ -6226,7 +6231,7 @@
     "Name": "Gemgrab5v5",
     "Disabled": true,
     "TID": "TID_GEMGRAB_5V5_5",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "IslandShowdown",
     "GameModeVariation": "GemGrab5v5",
     "Map": "GemGrab5v5_2m_3"
   },
@@ -6234,7 +6239,7 @@
     "Name": "Survival543",
     "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_4",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_543"
   },
@@ -6242,7 +6247,7 @@
     "Name": "SurvivalTeam543",
     "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_4",
-    "LocationTheme": "DefaultShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_543"
   },
@@ -6250,7 +6255,7 @@
     "Name": "Survival544",
     "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_8",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "Showdown",
     "Map": "Survival_544"
   },
@@ -6258,8 +6263,178 @@
     "Name": "SurvivalTeam544",
     "Disabled": true,
     "TID": "TID_BATTLE_ROYALE_8",
-    "LocationTheme": "BazaarIslandShowdown",
+    "LocationTheme": "MadEvilManorShowdown",
     "GameModeVariation": "DuoShowdown",
     "Map": "Survival_544"
+  },
+  "Godzillla1": {
+    "Name": "Godzillla1",
+    "TID": "TID_GODZILLA_RAMPAGE_1",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Godzilla_TownCrush",
+    "Map": "Godzilla_1"
+  },
+  "Extraction4": {
+    "Name": "Extraction4",
+    "TID": "TID_EXTRACTION_4",
+    "LocationTheme": "MadEvilIslandShowdown",
+    "GameModeVariation": "Extraction",
+    "Map": "SoloExtraction_4"
+  },
+  "Knockout5v2": {
+    "Name": "Knockout5v2",
+    "TID": "TID_KNOCKOUT_5V5_2",
+    "LocationTheme": "MadEvilIslandShowdown",
+    "GameModeVariation": "Knockout5v5",
+    "Map": "Knockout5v5_2"
+  },
+  "Godzillla2": {
+    "Name": "Godzillla2",
+    "TID": "TID_GODZILLA_RAMPAGE_2",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Godzilla_TownCrush",
+    "Map": "Godzilla_2"
+  },
+  "Godzillla3": {
+    "Name": "Godzillla3",
+    "TID": "TID_GODZILLA_RAMPAGE_3",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Godzilla_TownCrush",
+    "Map": "Godzilla_3"
+  },
+  "Survival551": {
+    "Name": "Survival551",
+    "TID": "TID_SURVIVAL_551",
+    "LocationTheme": "MadEvilManorShowdown",
+    "GameModeVariation": "Showdown",
+    "Map": "Survival_551",
+    "CommunityCredit": "joop"
+  },
+  "SurvivalTeam551": {
+    "Name": "SurvivalTeam551",
+    "TID": "TID_SURVIVAL_551",
+    "LocationTheme": "MadEvilManorShowdown",
+    "GameModeVariation": "DuoShowdown",
+    "Map": "Survival_551",
+    "CommunityCredit": "joop"
+  },
+  "Knockout551": {
+    "Name": "Knockout551",
+    "TID": "TID_KNOCKOUT_551",
+    "LocationTheme": "MadEvilManor",
+    "GameModeVariation": "Knockout",
+    "Map": "Knockout_551",
+    "CommunityCredit": "Comicad"
+  },
+  "Knockout552": {
+    "Name": "Knockout552",
+    "TID": "TID_KNOCKOUT_552",
+    "LocationTheme": "EnchantedForest",
+    "GameModeVariation": "Knockout",
+    "Map": "Knockout_552",
+    "CommunityCredit": "Wizcrasher"
+  },
+  "TagTeam551": {
+    "Name": "TagTeam551",
+    "TID": "TID_TAGTEAM_551",
+    "LocationTheme": "EnchantedForest",
+    "GameModeVariation": "TagTeam",
+    "Map": "TagTeam_551",
+    "CommunityCredit": "IamNumberFour"
+  },
+  "Wanted551": {
+    "Name": "Wanted551",
+    "TID": "TID_WANTED_551",
+    "LocationTheme": "WaterPark",
+    "GameModeVariation": "Bounty",
+    "Map": "Wipeout_511",
+    "CommunityCredit": "asey man"
+  },
+  "Godzillla4": {
+    "Name": "Godzillla4",
+    "TID": "TID_GODZILLA_RAMPAGE_4",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Godzilla_TownCrush",
+    "Map": "Godzilla_4"
+  },
+  "Knockout553": {
+    "Name": "Knockout553",
+    "Disabled": true,
+    "TID": "TID_KNOCKOUT_541",
+    "LocationTheme": "CoinFactory",
+    "GameModeVariation": "Knockout",
+    "Map": "Knockout_541"
+  },
+  "Ball551": {
+    "Name": "Ball551",
+    "Disabled": true,
+    "TID": "TID_BALL_541",
+    "LocationTheme": "CoinFactoryBB",
+    "GameModeVariation": "BrawlBall",
+    "Map": "Laserball_541"
+  },
+  "Knockout554": {
+    "Name": "Knockout554",
+    "Disabled": true,
+    "TID": "TID_KNOCKOUT_551",
+    "LocationTheme": "CoinFactory",
+    "GameModeVariation": "Knockout",
+    "Map": "Knockout_551",
+    "CommunityCredit": "Comicad"
+  },
+  "Knockout555": {
+    "Name": "Knockout555",
+    "Disabled": true,
+    "TID": "TID_KNOCKOUT_552",
+    "LocationTheme": "CoinFactory",
+    "GameModeVariation": "Knockout",
+    "Map": "Knockout_552",
+    "CommunityCredit": "Wizcrasher"
+  },
+  "Wanted552": {
+    "Name": "Wanted552",
+    "Disabled": true,
+    "TID": "TID_WANTED_551",
+    "LocationTheme": "CoinFactory",
+    "GameModeVariation": "Bounty",
+    "Map": "Wipeout_511",
+    "CommunityCredit": "asey man"
+  },
+  "Knockout5v3": {
+    "Name": "Knockout5v3",
+    "TID": "TID_KNOCKOUT_5V5_3",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Knockout5v5",
+    "Map": "Knockout5v5_3"
+  },
+  "Deathmatch5vk1": {
+    "Name": "Deathmatch5vk1",
+    "TID": "TID_KNOCKOUT_5V5_1",
+    "LocationTheme": "MadEvilIslandShowdown",
+    "GameModeVariation": "Deathmatch5v5",
+    "Map": "Knockout5v5_1"
+  },
+  "Deathmatch5vk2": {
+    "Name": "Deathmatch5vk2",
+    "TID": "TID_KNOCKOUT_5V5_2",
+    "LocationTheme": "MadEvilIslandShowdown",
+    "GameModeVariation": "Deathmatch5v5",
+    "Map": "Knockout5v5_2"
+  },
+  "Deathmatch5vk3": {
+    "Name": "Deathmatch5vk3",
+    "TID": "TID_KNOCKOUT_5V5_3",
+    "LocationTheme": "GodzillaIslandShowdown",
+    "GameModeVariation": "Deathmatch5v5",
+    "Map": "Knockout5v5_3"
+  },
+  "Knockout5vw4": {
+    "Name": "Knockout5vw4",
+    "Disabled": true,
+    "TID": "TID_WANTED_5V5_4",
+    "LocationTheme": "IslandShowdown",
+    "GameModeVariation": "Knockout5v5",
+    "Map": "Wipeout5v5_4",
+    "RecommendedBrawler2": "wd"
   }
 }

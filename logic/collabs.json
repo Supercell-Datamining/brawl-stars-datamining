@@ -1,0 +1,103 @@
+{
+  "Gozilla": {
+    "Name": "Gozilla",
+    "TID": "TID_COLLAB_1",
+    "CollabId": 1,
+    "EventPanelExportName": "collab_event_panel_screen_hud_left",
+    "EventPanelFutureExportName": "collab_event_teaser",
+    "SkillRewardSlotCount": 6,
+    "GemOfferTypeForWinSlot": 50,
+    "GemOfferTypeForLossSlot": 49,
+    "GemOfferExtraForLossSlot": 1,
+    "UICharacter": "Godzilla",
+    "SkinsInReward": [
+      "EnragerVigilante",
+      "SplitterPolice",
+      "CocoonerRare",
+      "BaseballVigilante",
+      "JetpackGirlTopgun",
+      "RopeDudeKaiju",
+      "StickyBombVeteran",
+      "SpeedyTracksuit",
+      "ClusterBombMonster",
+      "BeeSniperMonster",
+      "DrillerMonster",
+      "Cactusmecha",
+      "RocketGirlRanger_red",
+      "RocketGirlRanger_blue",
+      "RocketGirlRanger_yellow",
+      "RocketGirlRanger_pink",
+      "RocketGirlRanger_black",
+      "PowerLevelerKnight_red",
+      "TntDudeMecha",
+      "RopeDudeGodzilla",
+      "RopeDudeGodzillaRed",
+      "RopeDudeGodzillaBlack"
+    ],
+    "TicketsInSkinDraw": [
+      13,
+      13,
+      13,
+      13,
+      13,
+      13,
+      8,
+      7,
+      7,
+      4,
+      4,
+      4,
+      9,
+      9,
+      9,
+      9,
+      9,
+      23,
+      8,
+      5,
+      5,
+      2
+    ],
+    "SpraysInReward": [
+      "spray_godzilla_team",
+      "spray_godzilla_team_mecha",
+      "spray_mutation_sign",
+      "spray_godzilla_egg"
+    ],
+    "TicketsInSprayDraw": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "ProfilePicsInReward": [
+      "player_icon_godzilla_event1",
+      "player_icon_godzilla_event2",
+      "player_icon_mutation",
+      "player_icon_mutated_logo"
+    ],
+    "TicketsInProfilePicDraw": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "PinsInReward": [
+      "emoji_godzilla_robot",
+      "emoji_godzilla_brawlball",
+      "emoji_mutation_heart"
+    ],
+    "TicketsInPinDraw": [
+      33,
+      33,
+      34
+    ],
+    "ClubCollabSkin": "RopeDudeGodzilla",
+    "MutantMenuVFX": "MutantionMenuEffect",
+    "MutantVFX": "MutantBrawler",
+    "MutationSCW": "sc3d/mutationrandom_anim.glb",
+    "LeaderboardTabTID": "TID_COLLAB_1_LEADERBOARD_TAB",
+    "LeaderboardTitleTID": "TID_COLLAB_1_LEADERBOARD_TITLE",
+    "LeaderboardScoreTID": "TID_COLLAB_1_LEADERBOARD_SCORE"
+  }
+}

@@ -408,5 +408,25 @@
     "Name": "TitleBP25",
     "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON25",
     "Gradient": "Plus"
+  },
+  "TitleBP26": {
+    "Name": "TitleBP26",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON26",
+    "Gradient": "Plus"
+  },
+  "TitleBP27": {
+    "Name": "TitleBP27",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON27",
+    "Gradient": "Plus"
+  },
+  "TitleMasteryLily": {
+    "Name": "TitleMasteryLily",
+    "TitleTID": "TID_TILE_MASTERY_LILY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryDraco": {
+    "Name": "TitleMasteryDraco",
+    "TitleTID": "TID_TILE_MASTERY_DRACO",
+    "Gradient": "PlayerTitleGold"
   }
 }

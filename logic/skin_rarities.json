@@ -28,5 +28,11 @@
     "Price": 299,
     "Rarity": "LEGENDARY",
     "ChromaPrice": 49
+  },
+  "Hypercharge": {
+    "Name": "Hypercharge",
+    "Price": 799,
+    "Rarity": "HYPERCHARGE",
+    "ChromaPrice": 200
   }
 }

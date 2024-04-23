@@ -74,7 +74,8 @@
     "PrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "OlderPrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/en/account/index.html",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "CN": {
     "Name": "CN",
@@ -150,7 +151,8 @@
     "PrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "OlderPrivacyPolicyUrl_Yoozoo": "https://m.youzu.com/about/privacy.html?noheader=100&cid=m_bs_privacy",
     "DeviceMigrationSelfHelpUrl": "https://ingame.help.supercellsupport.cn/brawl-stars/zh_cn/account/index.html",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/zh_cn/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/zh_cn/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/zh_cn/articles/monster-egg-drop-rates.html"
   },
   "AR": {
     "Name": "AR",
@@ -202,7 +204,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ar/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ar/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ar/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/ar/articles/monster-egg-drop-rates.html"
   },
   "FR": {
     "Name": "FR",
@@ -255,7 +258,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/fr/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fr/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fr/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/fr/articles/monster-egg-drop-rates.html"
   },
   "DOUBLE": {
     "Name": "DOUBLE",
@@ -306,7 +310,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "EMPTY": {
     "Name": "EMPTY",
@@ -357,7 +362,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "DOUBLEDOUBLE": {
     "Name": "DOUBLEDOUBLE",
@@ -408,7 +414,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "TEXT": {
     "Name": "TEXT",
@@ -468,7 +475,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "WORD": {
     "Name": "WORD",
@@ -528,7 +536,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "DE": {
     "Name": "DE",
@@ -580,7 +589,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/de/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/de/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/de/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/de/articles/monster-egg-drop-rates.html"
   },
   "ES": {
     "Name": "ES",
@@ -631,7 +641,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/es/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/es/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/es/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/es/articles/monster-egg-drop-rates.html"
   },
   "IT": {
     "Name": "IT",
@@ -682,7 +693,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/it/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/it/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/it/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/it/articles/monster-egg-drop-rates.html"
   },
   "JP": {
     "Name": "JP",
@@ -734,7 +746,8 @@
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ja/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/jp/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/jp/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/jp/articles/monster-egg-drop-rates.html"
   },
   "CNT": {
     "Name": "CNT",
@@ -784,7 +797,8 @@
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/zh/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/cnt/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/cnt/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/cnt/articles/monster-egg-drop-rates.html"
   },
   "KR": {
     "Name": "KR",
@@ -835,7 +849,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ko/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ko/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ko/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/ko/articles/monster-egg-drop-rates.html"
   },
   "NL": {
     "Name": "NL",
@@ -886,7 +901,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/nl/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/nl/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/nl/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/nl/articles/monster-egg-drop-rates.html"
   },
   "PT": {
     "Name": "PT",
@@ -937,7 +953,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/pt/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/pt/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/pt/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/pt/articles/monster-egg-drop-rates.html"
   },
   "RU": {
     "Name": "RU",
@@ -989,7 +1006,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ru/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ru/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ru/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/ru/articles/monster-egg-drop-rates.html"
   },
   "TR": {
     "Name": "TR",
@@ -1040,7 +1058,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/tr/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/tr/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/tr/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/tr/articles/monster-egg-drop-rates.html"
   },
   "ID": {
     "Name": "ID",
@@ -1091,7 +1110,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/id/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/id/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/id/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/id/articles/monster-egg-drop-rates.html"
   },
   "MS": {
     "Name": "MS",
@@ -1142,7 +1162,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/ms/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ms/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/ms/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/ms/articles/monster-egg-drop-rates.html"
   },
   "VI": {
     "Name": "VI",
@@ -1193,7 +1214,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "TH": {
     "Name": "TH",
@@ -1245,7 +1267,8 @@
     "UsesWhiteSpacesBetweenWords": "FALSE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "FI": {
     "Name": "FI",
@@ -1297,7 +1320,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/fi/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fi/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/fi/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/fi/articles/monster-egg-drop-rates.html"
   },
   "TEXT_ASIA": {
     "Name": "TEXT_ASIA",
@@ -1363,7 +1387,8 @@
     "UsesWhiteSpacesBetweenWords": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "WORD_ASIA": {
     "Name": "WORD_ASIA",
@@ -1430,7 +1455,8 @@
     "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/esport/manifest.json",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "PL": {
     "Name": "PL",
@@ -1479,7 +1505,8 @@
     "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/pl/esport/manifest.json",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   },
   "HE": {
     "Name": "HE",
@@ -1529,6 +1556,59 @@
     "IsRTL": "TRUE",
     "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
     "FallbackToHelpshiftCN": "TRUE",
-    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html"
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
+  },
+  "TID": {
+    "Name": "TID",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "flag_gb",
+    "LocalizedName": "Raw TID",
+    "SortOrder": 108,
+    "Enabled": "false",
+    "EnabledCN": "false",
+    "FileName": "localization/texts.csv",
+    "TestLanguage": "TRUE",
+    "HelpshiftSDKLanguage": "en",
+    "ChampionshipRegisterUrl": "http://www.supr.cl/bsc",
+    "ChampionshipRegisterUrl_cn": "https://www.bsesports.cn/bscrule.html",
+    "TermsAndServiceUrl": "http://supercell.com/en/terms-of-service/",
+    "ParentsGuideUrl": "http://www.supercell.com/en/parents/",
+    "PrivacyPolicyUrl": "http://www.supercell.com/en/privacy-policy/",
+    "LaserboxUrl": "https://inbox.brawlstars.com/",
+    "LaserboxStagingUrl": "https://staging.inbox.brawlstars.com/",
+    "LaserboxCommunityUrl": "https://inbox.brawlstars.com/community/",
+    "LaserboxCommunityStagingUrl": "https://staging.inbox.brawlstars.com/community/",
+    "LaserboxEsportsUrl": "https://inbox.brawlstars.com/esport/",
+    "LaserboxEsportsStagingUrl": "https://staging.inbox.brawlstars.com/esport/",
+    "LaserboxEsportsHubUrl": "https://brawlstars.scescdn.com/en",
+    "LaserboxEsportsHubStagingUrl": "https://brawlstars-dev.scescdn.com/en",
+    "FaqUrl_ios": "https://supercell.helpshift.com/a/brawl-stars/?p=ios&l=en",
+    "FaqUrl_ios_cn": "https://supercellcn.hsftcn.cn/a/brawl-stars-china/?p=ios&l=zh",
+    "FaqUrl_android": "https://supercell.helpshift.com/a/brawl-stars/?p=android&l=en",
+    "FaqUrl_android_cn": "https://supercellcn.hsftcn.cn/a/brawl-stars-china/?p=android&l=zh",
+    "ContactUsUrl_ios": "https://help.supercellsupport.com/brawl-stars/en/articles/contact-form.html?contact=1",
+    "ContactUsUrl_ios_cn": "https://help.supercellsupport.cn/brawl-stars/zh_cn/articles/contact-form.html?contact=1",
+    "ContactUsUrl_android": "https://help.supercellsupport.com/brawl-stars/en/articles/contact-form.html?contact=1",
+    "ContactUsUrl_android_cn": "https://help.supercellsupport.cn/brawl-stars/zh_cn/articles/contact-form.html?contact=1",
+    "SinglePageAppLaserboxEnabled": "TRUE",
+    "SinglePageAppLaserboxUrl": "https://brawlstars.inbox.supercell.com/index.html#/en/news",
+    "SinglePageAppManifestUrl": "https://brawlstars.inbox.supercell.com/data/en/news/manifest.json",
+    "SinglePageAppLaserboxStagingUrl": "https://brawlstars.inbox-staging.supercell.com/index.html#/en/news",
+    "SinglePageAppManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/news/manifest.json",
+    "SinglePageAppCommunityLaserboxUrl": "https://brawlstars.inbox.supercell.com/index.html#/en/community",
+    "SinglePageAppCommunityManifestUrl": "https://brawlstars.inbox.supercell.com/data/en/community/manifest.json",
+    "SinglePageAppCommunityLaserboxStagingUrl": "https://brawlstars.inbox-staging.supercell.com/index.html#/en/community",
+    "SinglePageAppCommunityManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/community/manifest.json",
+    "SinglePageAppEsportLaserboxUrl": "https://brawlstars.inbox.supercell.com/index.html#/en/esport",
+    "SinglePageAppEsportManifestUrl": "https://brawlstars.inbox.supercell.com/data/en/esport/manifest.json",
+    "SinglePageAppEsportLaserboxStagingUrl": "https://brawlstars.inbox-staging.supercell.com/index.html#/en/esport",
+    "SinglePageAppEsportManifestStagingUrl": "https://brawlstars.inbox-staging.supercell.com/data/en/esport/manifest.json",
+    "UseWhiteSpaceToReplaceLineBreak": "TRUE",
+    "UsesWhiteSpacesBetweenWords": "TRUE",
+    "SelfHelpUrl": "https://ingame.help.supercellsupport.com/brawl-stars/en/index.html",
+    "FallbackToHelpshiftCN": "TRUE",
+    "DropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/starr-drops-3.html",
+    "CollabDropRatesUrl": "https://support.supercell.com/brawl-stars/en/articles/monster-egg-drop-rates.html"
   }
 }
