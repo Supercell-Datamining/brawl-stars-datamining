@@ -1,33 +1,80 @@
 {
-  "DebugDefault": {
-    "Name": "DebugDefault",
-    "DurationTicks": 100,
+  "WhirlwindTrailFire": {
+    "Name": "WhirlwindTrailFire",
+    "DurationTicks": 80,
     "TriggerRate": 20,
     "TriggerOnFirstTick": false,
     "Stacking": false,
     "Refreshable": true,
-    "Damage": 100,
+    "Damage": 370,
+    "ScaleWithUpgrades": true,
+    "ScaleWithBuffs": false,
     "ServerOnly": false,
     "UseColorMod": true,
-    "RedAdd": 0,
-    "GreenAdd": 100,
+    "RedAdd": 150,
+    "GreenAdd": 150,
     "BlueAdd": 0,
-    "LoopedEffect": "poisoned_001"
+    "LoopedEffect": "poisoned_002"
   },
-  "Debug": {
-    "Name": "Debug",
-    "DurationTicks": 100,
+  "PetrolFire": {
+    "Name": "PetrolFire",
+    "DurationTicks": 80,
     "TriggerRate": 20,
-    "TriggerOnFirstTick": true,
+    "TriggerOnFirstTick": false,
     "Stacking": false,
-    "Refreshable": false,
-    "Damage": 100,
+    "Refreshable": true,
+    "Damage": 480,
+    "ScaleWithUpgrades": true,
+    "ScaleWithBuffs": true,
     "ServerOnly": false,
     "UseColorMod": true,
-    "RedAdd": 0,
-    "GreenAdd": 100,
+    "RedAdd": 150,
+    "GreenAdd": 150,
     "BlueAdd": 0,
-    "LoopedEffect": "poisoned_001",
-    "TriggerEffect": "brock_def_explosion_blue"
+    "LoopedEffect": "poisoned_002"
+  },
+  "PetrolFireIce": {
+    "Name": "PetrolFireIce",
+    "ParentStatusEffectForSkin": "PetrolFire",
+    "UseColorMod": true,
+    "RedAdd": 150,
+    "GreenAdd": 150,
+    "BlueAdd": 150,
+    "LoopedEffect": "poisoned_008"
+  },
+  "PetrolFireBubbles": {
+    "Name": "PetrolFireBubbles",
+    "ParentStatusEffectForSkin": "PetrolFire",
+    "UseColorMod": true,
+    "RedAdd": 150,
+    "GreenAdd": 150,
+    "BlueAdd": 150,
+    "LoopedEffect": "poisoned_011"
+  },
+  "RollerFire": {
+    "Name": "RollerFire",
+    "DurationTicks": 80,
+    "TriggerRate": 20,
+    "TriggerOnFirstTick": false,
+    "Stacking": false,
+    "Refreshable": true,
+    "Damage": 200,
+    "ScaleWithUpgrades": true,
+    "ScaleWithBuffs": true,
+    "ServerOnly": false,
+    "UseColorMod": true,
+    "RedAdd": 150,
+    "GreenAdd": 150,
+    "BlueAdd": 0,
+    "LoopedEffect": "poisoned_002"
+  },
+  "RollerFireIce": {
+    "Name": "RollerFireIce",
+    "ParentStatusEffectForSkin": "RollerFire",
+    "UseColorMod": true,
+    "RedAdd": 150,
+    "GreenAdd": 150,
+    "BlueAdd": 150,
+    "LoopedEffect": "poisoned_008"
   }
 }

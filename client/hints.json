@@ -407,5 +407,11 @@
     "MinXPLevel": 1,
     "MaxXPLevel": 999,
     "ReferringSCID": true
+  },
+  "68": {
+    "Name": "68",
+    "TID": "TID_HINT_67",
+    "MinXPLevel": 3,
+    "MaxXPLevel": 999
   }
 }

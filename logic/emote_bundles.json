@@ -9,9 +9,10 @@
   "WorldFinals": {
     "Name": "WorldFinals",
     "IconSWF": "sc/ui.sc",
-    "IconExportName": "pin_pack_wf",
+    "IconExportName": "pin_pack_champie",
     "TID": "TID_EMOTE_BUNDLE_WF",
-    "CanBeBought": true
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_champie"
   },
   "Rosalloween": {
     "Name": "Rosalloween",
@@ -326,5 +327,21 @@
     "TID": "TID_EMOTE_BUNDLE_SKULL_HACKER",
     "CanBeBought": true,
     "RepresentingHighlightEmote": "emoji_hacker"
+  },
+  "BSC2021": {
+    "Name": "BSC2021",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_champie",
+    "TID": "TID_EMOTE_BUNDLE_WF_2021",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_champie_thuglife"
+  },
+  "BSC2020": {
+    "Name": "BSC2020",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "pin_pack_champie",
+    "TID": "TID_EMOTE_BUNDLE_WF_2020",
+    "CanBeBought": true,
+    "RepresentingHighlightEmote": "emoji_champie_gg"
   }
 }

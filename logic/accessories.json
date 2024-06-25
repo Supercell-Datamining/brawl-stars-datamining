@@ -1755,8 +1755,8 @@
     "Type": "give_buff_to_self",
     "Cooldown": 100,
     "UseEffect": "gadget_activate",
-    "CustomValue1": 21,
-    "CustomValue2": 40
+    "ActiveTicks": 40,
+    "CustomValue1": 21
   },
   "Ambusher_ShadowRealm": {
     "Name": "Ambusher_ShadowRealm",
@@ -1777,5 +1777,52 @@
     "CustomObject": "AmbusherUlti2",
     "MissingTargetText": "TID_ACCESSORY_BLOCKED_SUPER_REQUIRED",
     "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "Painter_Push": {
+    "Name": "Painter_Push",
+    "Type": "spin_shoot",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 8,
+    "AnimationIndex": 1,
+    "AimGuideType": 1,
+    "AreaEffect": "PainterAccessoryArea",
+    "InterruptsAction": true,
+    "CustomValue1": 100
+  },
+  "Painter_AreaDuration": {
+    "Name": "Painter_AreaDuration",
+    "Type": "next_attack_change",
+    "SubType": 28,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_on_loop",
+    "ActiveTicks": 100000,
+    "CustomValue1": 100,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_ACTIVE"
+  },
+  "Crab_DoubleTokens": {
+    "Name": "Crab_DoubleTokens",
+    "Type": "give_buff_to_self",
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "ActiveTicks": 100,
+    "CustomValue1": 22,
+    "CustomValue2": 2,
+    "TargetAlreadyActiveText": "TID_ACCESSORY_BLOCKED_ALREADY_MAX_LEVEL"
+  },
+  "Crab_Dash": {
+    "Name": "Crab_Dash",
+    "Type": "dash",
+    "SubType": 3,
+    "Cooldown": 100,
+    "UseEffect": "gadget_activate",
+    "LoopingEffect": "gadget_max_dash",
+    "ActiveTicks": 8,
+    "AreaEffect": "ClancyDashArea",
+    "InterruptsAction": true,
+    "CustomValue1": 1000,
+    "CustomValue2": 3000,
+    "CustomValue3": 100
   }
 }

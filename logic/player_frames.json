@@ -109,5 +109,13 @@
     "Tier": 6,
     "IsFame": true,
     "DelayMilliseconds": 900
+  },
+  "alienFrame": {
+    "Name": "alienFrame",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "battle_card_frame_fame_alien_bg",
+    "Tier": 7,
+    "IsFame": true,
+    "DelayMilliseconds": 900
   }
 }

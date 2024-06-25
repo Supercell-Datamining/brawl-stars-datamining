@@ -43,7 +43,7 @@
     "Name": "PSG",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_6_NOT_AVAILABLE",
     "BgItemName": "bg_campaign_6",
-    "BgOfferPopup": "offer_bgr_blue",
+    "BgOfferPopup": "offer_bgr_football2024",
     "CampaignIconExportName": "icon_skins_psg"
   },
   "SC_MAKE": {
@@ -52,7 +52,8 @@
     "InfoTID": "TID_SKIN_INFO_CAMPAIGN_7_NOT_AVAILABLE",
     "BgItemName": "bg_campaign_7",
     "BgOfferPopup": "offer_bgr_make",
-    "CampaignIconExportName": "icon_skins_make"
+    "CampaignIconExportName": "icon_skins_make",
+    "UseSecondCampaing": true
   },
   "ARCHIVING": {
     "Name": "ARCHIVING",
@@ -81,7 +82,8 @@
     "BgItemName": "bg_campaign_11",
     "BgOfferPopup": "offer_bgr_blue",
     "CampaignIconExportName": "icon_skins_brawl_pass",
-    "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLPASS"
+    "CatalogDescriptionTID": "TID_CATALOG_DESC_BRAWLPASS",
+    "UseSecondCampaing": true
   },
   "CHINA": {
     "Name": "CHINA",
@@ -134,7 +136,7 @@
     "Name": "ANNIVERSARY2020",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2020",
     "BgItemName": "bg_campaign_16",
-    "BgOfferPopup": "offer_bgr_blue",
+    "BgOfferPopup": "offer_bgr_outlaw",
     "CampaignIconExportName": "icon_skins_anniversary",
     "BundledUnderCatalogCategory": "ANNIVERSARY2019"
   },
@@ -152,13 +154,14 @@
     "BgItemName": "bg_campaign_ranked",
     "BgOfferPopup": "offer_bgr_rarity_mythic",
     "SkinBuyRequiresExclusiveOption": true,
-    "CampaignIconExportName": "icon_skins_ranked"
+    "CampaignIconExportName": "icon_skins_ranked",
+    "UseSecondCampaing": true
   },
   "LAML": {
     "Name": "LAML",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_LAML",
     "BgItemName": "bg_campaign_laml",
-    "BgOfferPopup": "offer_bgr_rarity_epic",
+    "BgOfferPopup": "offer_bgr_football2024",
     "CampaignIconExportName": "icon_skins_laml"
   },
   "PUNK": {
@@ -179,7 +182,7 @@
     "Name": "C1A",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_C1A",
     "BgItemName": "bg_campaign_c1a",
-    "BgOfferPopup": "offer_bgr_lny24",
+    "BgOfferPopup": "offer_bgr_blue",
     "CampaignIconExportName": "icon_skins_mega"
   },
   "RETRO": {
@@ -259,7 +262,7 @@
     "Name": "ANNIVERSARY2021",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2021",
     "BgItemName": "bg_campaign_16",
-    "BgOfferPopup": "offer_bgr_blue",
+    "BgOfferPopup": "offer_bgr_outlaw",
     "CampaignIconExportName": "icon_skins_anniversary",
     "BundledUnderCatalogCategory": "ANNIVERSARY2019"
   },
@@ -308,7 +311,8 @@
     "BgItemName": "bg_campaign_deepsea",
     "BgOfferPopup": "offer_bgr_deepsea",
     "EmoteBundleName": "Deepsea",
-    "CampaignIconExportName": "icon_skins_deepsea"
+    "CampaignIconExportName": "icon_skins_deepsea",
+    "CatalogSortingOrder": -30
   },
   "BT21": {
     "Name": "BT21",
@@ -387,7 +391,8 @@
     "NameTID": "TID_SKIN_INFO_CANDYLAND",
     "BgItemName": "bg_campaign_candyland",
     "BgOfferPopup": "offer_bgr_candyland",
-    "CampaignIconExportName": "icon_skins_candyland"
+    "CampaignIconExportName": "icon_skins_candyland",
+    "CatalogSortingOrder": -25
   },
   "LNY_2023": {
     "Name": "LNY_2023",
@@ -409,7 +414,7 @@
     "Name": "ANNIVERSARY2022",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_ANNIVERSARY_2022",
     "BgItemName": "bg_campaign_16",
-    "BgOfferPopup": "offer_bgr_blue",
+    "BgOfferPopup": "offer_bgr_outlaw",
     "CampaignIconExportName": "icon_skins_anniversary",
     "BundledUnderCatalogCategory": "ANNIVERSARY2019"
   },
@@ -433,7 +438,8 @@
     "BgItemName": "bg_campaign_ranked",
     "BgOfferPopup": "offer_bgr_blue",
     "CampaignIconExportName": "icon_skins_ranked",
-    "BundledUnderCatalogCategory": "RANKED"
+    "BundledUnderCatalogCategory": "RANKED",
+    "UseSecondCampaing": true
   },
   "BUNNY_BRIGADE": {
     "Name": "BUNNY_BRIGADE",
@@ -454,7 +460,8 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_GREEK",
     "BgItemName": "bg_campaign_olympus",
     "BgOfferPopup": "offer_bgr_olympus",
-    "CampaignIconExportName": "icon_skins_olympus"
+    "CampaignIconExportName": "icon_skins_olympus",
+    "CatalogSortingOrder": -30
   },
   "CLASHIP": {
     "Name": "CLASHIP",
@@ -489,7 +496,8 @@
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_OUTLAWS",
     "BgItemName": "bg_campaign_outlaws",
     "BgOfferPopup": "offer_bgr_outlaw",
-    "CampaignIconExportName": "icon_skins_outlaws"
+    "CampaignIconExportName": "icon_skins_outlaws",
+    "CatalogSortingOrder": -20
   },
   "ROBOTSMONSTERS": {
     "Name": "ROBOTSMONSTERS",
@@ -523,7 +531,7 @@
     "Name": "GOLDENBALL",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_GOLDENBALL",
     "BgItemName": "bg_campaign_goldball",
-    "BgOfferPopup": "offer_bgr_football2023",
+    "BgOfferPopup": "offer_bgr_football2024",
     "CampaignIconExportName": "icon_skins_goldball"
   },
   "PHOENIX": {
@@ -551,7 +559,7 @@
     "Name": "HARVESTFESTIVAL",
     "NameTID": "TID_SKIN_INFO_CAMPAIGN_HARVESTFESTIVAL",
     "BgItemName": "bg_campaign_harvestfestival",
-    "BgOfferPopup": "offer_bgr_blue",
+    "BgOfferPopup": "offer_bgr_gw22",
     "CampaignIconExportName": "icon_skins_harvestfestival"
   },
   "HINDU": {
@@ -631,8 +639,7 @@
     "NameTID": "TID_SKIN_INFO_NORSEGODS",
     "BgItemName": "bg_campaign_ragnarok",
     "BgOfferPopup": "offer_bgr_ragnarok",
-    "CampaignIconExportName": "icon_skins_ragnarok",
-    "CatalogSortingOrder": -10
+    "CampaignIconExportName": "icon_skins_ragnarok"
   },
   "BABYSHARK": {
     "Name": "BABYSHARK",
@@ -646,8 +653,7 @@
     "NameTID": "TID_SKIN_INFO_APRILFOOLS",
     "BgItemName": "bg_campaign_aprilfools",
     "BgOfferPopup": "offer_bgr_blue",
-    "CampaignIconExportName": "icon_skins_aprilfools",
-    "CatalogSortingOrder": -5
+    "CampaignIconExportName": "icon_skins_aprilfools"
   },
   "GODZILLA": {
     "Name": "GODZILLA",
@@ -655,31 +661,28 @@
     "BgItemName": "bg_campaign_godzilla",
     "BgOfferPopup": "offer_bgr_godzilla",
     "CampaignIconExportName": "icon_skins_godzilla",
-    "CatalogSortingOrder": -30
+    "CatalogSortingOrder": -5
   },
   "HACKER": {
     "Name": "HACKER",
     "NameTID": "TID_SKIN_INFO_HACKER",
     "BgItemName": "bg_campaign_hacker",
     "BgOfferPopup": "offer_bgr_hackers",
-    "CampaignIconExportName": "icon_skins_hacker",
-    "CatalogSortingOrder": -25
+    "CampaignIconExportName": "icon_skins_hacker"
   },
   "SQUAD": {
     "Name": "SQUAD",
     "NameTID": "TID_SKIN_INFO_SQUAD",
     "BgItemName": "bg_campaign_squad",
     "BgOfferPopup": "offer_bgr_squad",
-    "CampaignIconExportName": "icon_skins_squad",
-    "CatalogSortingOrder": -15
+    "CampaignIconExportName": "icon_skins_squad"
   },
   "MAXFORCE": {
     "Name": "MAXFORCE",
     "NameTID": "TID_SKIN_INFO_MAXFORCE",
     "BgItemName": "bg_campaign_maxforce",
     "BgOfferPopup": "offer_bgr_maxforce",
-    "CampaignIconExportName": "icon_skins_maxforce",
-    "CatalogSortingOrder": -20
+    "CampaignIconExportName": "icon_skins_maxforce"
   },
   "CITY": {
     "Name": "CITY",
@@ -707,7 +710,8 @@
     "NameTID": "TID_SKIN_INFO_ROYALS",
     "BgItemName": "bg_campaign_royals",
     "BgOfferPopup": "offer_bgr_onceupon",
-    "CampaignIconExportName": "icon_skins_royals"
+    "CampaignIconExportName": "icon_skins_royals",
+    "CatalogSortingOrder": -10
   },
   "GAMING": {
     "Name": "GAMING",
@@ -722,5 +726,13 @@
     "BgItemName": "bg_campaign_animals",
     "BgOfferPopup": "offer_bgr_jungle",
     "CampaignIconExportName": "icon_skins_animals"
+  },
+  "CAVE": {
+    "Name": "CAVE",
+    "NameTID": "TID_SKIN_INFO_CAVE",
+    "BgItemName": "bg_campaign_cave",
+    "BgOfferPopup": "offer_bgr_cave",
+    "CampaignIconExportName": "icon_skins_cave",
+    "CatalogSortingOrder": -15
   }
 }

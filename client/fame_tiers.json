@@ -208,5 +208,40 @@
     "IconStarsExportName": "fame_stars_tier_6_3",
     "Reward": "emoji_fame_meteor",
     "RewardType": 19
+  },
+  "Alien1": {
+    "Name": "Alien1",
+    "FameToNext": 50000,
+    "Group": 7,
+    "TID": "TID_FAME_TIER_ALIEN1",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_7_1",
+    "IconBigExportName": "fame_big_tier_7",
+    "IconStarsExportName": "fame_stars_tier_7_1",
+    "Reward": "alienFrame"
+  },
+  "Alien2": {
+    "Name": "Alien2",
+    "FameToNext": 50000,
+    "Group": 7,
+    "TID": "TID_FAME_TIER_ALIEN2",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_7_2",
+    "IconBigExportName": "fame_big_tier_7",
+    "IconStarsExportName": "fame_stars_tier_7_2",
+    "Reward": "player_icon_fame_alien",
+    "RewardType": 25
+  },
+  "Alien3": {
+    "Name": "Alien3",
+    "FameToNext": 50000,
+    "Group": 7,
+    "TID": "TID_FAME_TIER_ALIEN3",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "icon_fame_tier_7_3",
+    "IconBigExportName": "fame_big_tier_7",
+    "IconStarsExportName": "fame_stars_tier_7_3",
+    "Reward": "emoji_fame_alien",
+    "RewardType": 19
   }
 }

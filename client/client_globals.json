@@ -587,10 +587,6 @@
       70
     ]
   },
-  "LFG_XP_LIMIT": {
-    "Name": "LFG_XP_LIMIT",
-    "NumberValue": 10
-  },
   "BATTLE_EMOTE_VISIBLE_TIME_SECS": {
     "Name": "BATTLE_EMOTE_VISIBLE_TIME_SECS",
     "NumberValue": 4
@@ -855,6 +851,10 @@
     "Name": "HIDE_SC_WEB_NOTIFICATION_ON_ENTER_BATTLE",
     "BooleanValue": true
   },
+  "COLLAB_DROP_INFO_OPEN_EXTERNAL_URL": {
+    "Name": "COLLAB_DROP_INFO_OPEN_EXTERNAL_URL",
+    "BooleanValue": true
+  },
   "CCTV_URL": {
     "Name": "CCTV_URL",
     "TextValue": "https://cctv.starrpark.biz/"
@@ -866,5 +866,9 @@
   "CCTV_USE_PRELOAD": {
     "Name": "CCTV_USE_PRELOAD",
     "BooleanValue": true
+  },
+  "FRIEND_REQUEST_TIME": {
+    "Name": "FRIEND_REQUEST_TIME",
+    "NumberValue": 10
   }
 }

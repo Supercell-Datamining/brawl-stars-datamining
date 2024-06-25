@@ -4,175 +4,184 @@
     "TID": "TID_QUICK_MESSAGE_CHOOSE_BRAWLER",
     "MessageType": 1,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item"
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg2": {
     "Name": "msg2",
     "TID": "TID_QUICK_MESSAGE_CHOOSE_MODE",
     "MessageType": 2,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item"
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg3": {
     "Name": "msg3",
     "TID": "TID_QUICK_MESSAGE_CHANGE_BRAWLERS",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 0
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg4": {
     "Name": "msg4",
     "TID": "TID_QUICK_MESSAGE_GOOD_GAME",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 23
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg5": {
     "Name": "msg5",
     "TID": "TID_QUICK_MESSAGE_PLAY_AGAIN",
-    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 2
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 13
   },
   "msg6": {
     "Name": "msg6",
     "TID": "TID_QUICK_MESSAGE_WELL_PLAYED",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 3
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 9
   },
   "msg7": {
     "Name": "msg7",
     "TID": "TID_QUICK_MESSAGE_WOW",
+    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 4
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg8": {
     "Name": "msg8",
     "TID": "TID_QUICK_MESSAGE_OK",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 5
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg9": {
     "Name": "msg9",
     "TID": "TID_QUICK_MESSAGE_GOTTA_GO",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 6
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 3
   },
   "msg10": {
     "Name": "msg10",
     "TID": "TID_QUICK_MESSAGE_CHANGE_MODE",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 7
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg11": {
     "Name": "msg11",
     "TID": "TID_QUICK_MESSAGE_BYE",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 8
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg12": {
     "Name": "msg12",
     "TID": "TID_QUICK_MESSAGE_CLOSE_MATCH",
+    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 9
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg13": {
     "Name": "msg13",
     "TID": "TID_QUICK_MESSAGE_READY",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 10
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg14": {
     "Name": "msg14",
     "TID": "TID_QUICK_MESSAGE_READY_GO",
-    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 11
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 5
   },
   "msg15": {
     "Name": "msg15",
     "TID": "TID_QUICK_MESSAGE_HI",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 12
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 1
   },
   "msg16": {
     "Name": "msg16",
     "TID": "TID_QUICK_MESSAGE_NEED_BREAK",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 13
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg17": {
     "Name": "msg17",
     "TID": "TID_QUICK_MESSAGE_NEED_TO_GO",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 14
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg18": {
     "Name": "msg18",
     "TID": "TID_QUICK_MESSAGE_THANKS",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 15
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 12
   },
   "msg19": {
     "Name": "msg19",
     "TID": "TID_QUICK_MESSAGE_SORRY",
-    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 16
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 10
   },
   "msg20": {
     "Name": "msg20",
     "TID": "TID_QUICK_MESSAGE_OOPS",
+    "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 17
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg21": {
     "Name": "msg21",
     "TID": "TID_QUICK_MESSAGE_SUGGEST_BRAWLER",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 18
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg22": {
     "Name": "msg22",
     "TID": "TID_QUICK_MESSAGE_SUGGEST_STARPOWER",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 19
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg23": {
     "Name": "msg23",
     "TID": "TID_QUICK_MESSAGE_SUGGEST_MODE",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 20
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg24": {
     "Name": "msg24",
@@ -180,8 +189,9 @@
     "BubbleOverrideTID": "TID_QUICK_MESSAGE_ASK_BRAWLER_SPLIT",
     "MessageType": 5,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 21
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 4
   },
   "msg25": {
     "Name": "msg25",
@@ -189,14 +199,15 @@
     "BubbleOverrideTID": "TID_QUICK_MESSAGE_ASK_MODE_SPLIT",
     "MessageType": 6,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 22
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 15
   },
   "msg26": {
     "Name": "msg26",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_thumbsup",
+    "DefaultExportName": "emoji_thumbsup",
     "QuickEmojiType": 1,
     "SortPriority": 30,
     "AvailableInClub": "TRUE"
@@ -205,7 +216,7 @@
     "Name": "msg27",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_thumbsdown",
+    "DefaultExportName": "emoji_thumbsdown",
     "QuickEmojiType": 2,
     "SortPriority": 30,
     "AvailableInClub": "TRUE"
@@ -214,7 +225,7 @@
     "Name": "msg28",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_smile",
+    "DefaultExportName": "emoji_smile",
     "QuickEmojiType": 3,
     "SortPriority": 0,
     "AvailableInClub": "TRUE"
@@ -223,7 +234,7 @@
     "Name": "msg29",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_sad",
+    "DefaultExportName": "emoji_sad",
     "QuickEmojiType": 4,
     "SortPriority": 11,
     "AvailableInClub": "TRUE"
@@ -232,7 +243,7 @@
     "Name": "msg30",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_laugh",
+    "DefaultExportName": "emoji_laugh",
     "SortPriority": 0,
     "AvailableInClub": "TRUE"
   },
@@ -240,7 +251,7 @@
     "Name": "msg31",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_angry",
+    "DefaultExportName": "emoji_angry",
     "QuickEmojiType": 5,
     "SortPriority": 22,
     "AvailableInClub": "TRUE"
@@ -249,7 +260,7 @@
     "Name": "msg32",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_annoyed",
+    "DefaultExportName": "emoji_annoyed",
     "SortPriority": 21,
     "AvailableInClub": "TRUE"
   },
@@ -257,7 +268,7 @@
     "Name": "msg33",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_blank",
+    "DefaultExportName": "emoji_blank",
     "SortPriority": 10,
     "AvailableInClub": "TRUE"
   },
@@ -265,7 +276,7 @@
     "Name": "msg34",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_grin",
+    "DefaultExportName": "emoji_grin",
     "SortPriority": 1,
     "AvailableInClub": "TRUE"
   },
@@ -273,7 +284,7 @@
     "Name": "msg35",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_rage",
+    "DefaultExportName": "emoji_rage",
     "SortPriority": 22,
     "AvailableInClub": "TRUE"
   },
@@ -281,7 +292,7 @@
     "Name": "msg36",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_shocked",
+    "DefaultExportName": "emoji_shocked",
     "SortPriority": 12,
     "AvailableInClub": "TRUE"
   },
@@ -290,13 +301,14 @@
     "TID": "TID_QUICK_MESSAGE_CHOOSE_FRIENDLY_LOCATION",
     "MessageType": 4,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item"
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg38": {
     "Name": "msg38",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_happy",
+    "DefaultExportName": "emoji_happy",
     "SortPriority": 0,
     "AvailableInClub": "TRUE"
   },
@@ -304,7 +316,7 @@
     "Name": "msg39",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_stunned",
+    "DefaultExportName": "emoji_stunned",
     "SortPriority": 11,
     "AvailableInClub": "TRUE"
   },
@@ -312,7 +324,7 @@
     "Name": "msg40",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_bothered",
+    "DefaultExportName": "emoji_bothered",
     "SortPriority": 20,
     "AvailableInClub": "TRUE"
   },
@@ -320,7 +332,7 @@
     "Name": "msg41",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_ecstatic",
+    "DefaultExportName": "emoji_ecstatic",
     "SortPriority": 1,
     "AvailableInClub": "TRUE"
   },
@@ -328,7 +340,7 @@
     "Name": "msg42",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_speechless",
+    "DefaultExportName": "emoji_speechless",
     "SortPriority": 10,
     "AvailableInClub": "TRUE"
   },
@@ -336,7 +348,7 @@
     "Name": "msg43",
     "MessageType": 3,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_frenzied",
+    "DefaultExportName": "emoji_frenzied",
     "SortPriority": 22,
     "AvailableInClub": "TRUE"
   },
@@ -344,32 +356,89 @@
     "Name": "msg44",
     "TID": "TID_QUICK_MESSAGE_ONE_MOMENT",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 24
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 6
   },
   "msg45": {
     "Name": "msg45",
     "TID": "TID_QUICK_MESSAGE_ASK_STAR_TOKEN_HELP",
     "Disabled": "TRUE",
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 25
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item"
   },
   "msg55": {
     "Name": "msg55",
     "TID": "TID_QUICK_MESSAGE_LETS_CHAT",
     "MessageType": 7,
     "FileName": "sc/ui.sc",
-    "ExportName": "button_chat_item",
-    "SortPriority": 26,
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
     "AgeGated": "TRUE"
   },
   "msg56": {
     "Name": "msg56",
     "MessageType": 8,
     "FileName": "sc/ui.sc",
-    "ExportName": "emoji_happy",
+    "DefaultExportName": "emoji_happy",
     "SortPriority": 0,
     "AvailableInClub": "TRUE"
+  },
+  "msg57": {
+    "Name": "msg57",
+    "TID": "TID_QUICK_MESSAGE_YO",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 2
+  },
+  "msg58": {
+    "Name": "msg58",
+    "TID": "TID_QUICK_MESSAGE_LAG",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 11
+  },
+  "msg59": {
+    "Name": "msg59",
+    "TID": "TID_QUICK_MESSAGE_GG",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 7
+  },
+  "msg60": {
+    "Name": "msg60",
+    "TID": "TID_QUICK_MESSAGE_LOL",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 8
+  },
+  "msg61": {
+    "Name": "msg61",
+    "TID": "TID_QUICK_MESSAGE_BRB",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 14
+  },
+  "msg62": {
+    "Name": "msg62",
+    "TID": "TID_QUICK_MESSAGE_QUESTS",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 16
+  },
+  "msg63": {
+    "Name": "msg63",
+    "TID": "TID_QUICK_MESSAGE_TROPHIES",
+    "FileName": "sc/ui.sc",
+    "DefaultExportName": "button_chat_item",
+    "PopoverExportNameOverride": "quick_chat_button_chat_item",
+    "SortPriority": 17
   }
 }

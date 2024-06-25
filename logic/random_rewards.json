@@ -129,6 +129,7 @@
     "Name": "Brawler Epic",
     "TicketsInMythicDraw": 10,
     "TicketsInLegendaryDraw": 10,
+    "TicketsInMegaBoxDraw": 5,
     "TypeName": "Brawler",
     "TypeValue": 3,
     "FallbackTypeName": "Credits",
@@ -138,6 +139,7 @@
     "Name": "Brawler Mythic",
     "TicketsInMythicDraw": 3,
     "TicketsInLegendaryDraw": 5,
+    "TicketsInMegaBoxDraw": 2,
     "TypeName": "Brawler",
     "TypeValue": 4,
     "FallbackTypeName": "Credits",
@@ -146,6 +148,7 @@
   "Brawler Legendary": {
     "Name": "Brawler Legendary",
     "TicketsInLegendaryDraw": 2,
+    "TicketsInMegaBoxDraw": 1,
     "TypeName": "Brawler",
     "TypeValue": 5,
     "FallbackTypeName": "Credits",
@@ -363,6 +366,7 @@
   "CollabSkin 1-29 Gem": {
     "Name": "CollabSkin 1-29 Gem",
     "TicketsInCollabMythicDraw": 78,
+    "TicketsInMegaBoxDraw": 20,
     "TypeName": "CollabSkin",
     "TypePriceMin": 1,
     "TypePriceMax": 29,
@@ -372,6 +376,7 @@
   "CollabSkin 30-79 Gem": {
     "Name": "CollabSkin 30-79 Gem",
     "TicketsInCollabMythicDraw": 22,
+    "TicketsInMegaBoxDraw": 20,
     "TypeName": "CollabSkin",
     "TypePriceMin": 30,
     "TypePriceMax": 79,
@@ -381,6 +386,7 @@
   "CollabSkin 80-149 Gem": {
     "Name": "CollabSkin 80-149 Gem",
     "TicketsInCollabLegendaryDraw": 80,
+    "TicketsInMegaBoxDraw": 5,
     "TypeName": "CollabSkin",
     "TypePriceMin": 80,
     "TypePriceMax": 149,
@@ -399,6 +405,7 @@
   "CollabSkin 300-799 Gem": {
     "Name": "CollabSkin 300-799 Gem",
     "TicketsInCollabLegendaryDraw": 12,
+    "TicketsInMegaBoxDraw": 3,
     "TypeName": "CollabSkin",
     "TypePriceMin": 300,
     "TypePriceMax": 999,
@@ -415,6 +422,7 @@
   "CollabProfilePic": {
     "Name": "CollabProfilePic",
     "TicketsInCollabEpicDraw": 18,
+    "TicketsInMegaBoxDraw": 50,
     "TypeName": "CollabProfilePic",
     "FallbackTypeName": "Bling",
     "FallbackAmount": 100
@@ -500,6 +508,7 @@
   "CollabPin": {
     "Name": "CollabPin",
     "TicketsInCollabEpicDraw": 14,
+    "TicketsInMegaBoxDraw": 50,
     "TypeName": "CollabPin",
     "FallbackTypeName": "Bling",
     "FallbackAmount": 100
@@ -517,5 +526,75 @@
     "TypeName": "CollabMutation",
     "FallbackTypeName": "Credits",
     "FallbackAmount": 100
+  },
+  "Coins VS": {
+    "Name": "Coins VS",
+    "TicketsInMegaBoxDraw": 200,
+    "TypeName": "Coins",
+    "AmountMin": 20,
+    "AmountMax": 60
+  },
+  "Coins Jackpot": {
+    "Name": "Coins Jackpot",
+    "TicketsInMegaBoxDraw": 4,
+    "TypeName": "Coins",
+    "AmountMin": 1000,
+    "AmountMax": 1000
+  },
+  "Power Points VS": {
+    "Name": "Power Points VS",
+    "TicketsInMegaBoxDraw": 200,
+    "TypeName": "PowerPoints",
+    "AmountMin": 10,
+    "AmountMax": 20
+  },
+  "Power Points Jackpot": {
+    "Name": "Power Points Jackpot",
+    "TicketsInMegaBoxDraw": 2,
+    "TypeName": "PowerPoints",
+    "AmountMin": 1000,
+    "AmountMax": 1000
+  },
+  "Bling VS": {
+    "Name": "Bling VS",
+    "TicketsInMegaBoxDraw": 200,
+    "TypeName": "Bling",
+    "AmountMin": 10,
+    "AmountMax": 30
+  },
+  "Bling Jackpot": {
+    "Name": "Bling Jackpot",
+    "TicketsInMegaBoxDraw": 1,
+    "TypeName": "Bling",
+    "AmountMin": 1000,
+    "AmountMax": 1000
+  },
+  "Gems VS": {
+    "Name": "Gems VS",
+    "TicketsInMegaBoxDraw": 100,
+    "TypeName": "Gems",
+    "AmountMin": 1,
+    "AmountMax": 5
+  },
+  "Gems Jackpot": {
+    "Name": "Gems Jackpot",
+    "TicketsInMegaBoxDraw": 1,
+    "TypeName": "Gems",
+    "AmountMin": 100,
+    "AmountMax": 100
+  },
+  "XP Doubler VS": {
+    "Name": "XP Doubler VS",
+    "TicketsInMegaBoxDraw": 200,
+    "TypeName": "TokenDoubler",
+    "AmountMin": 50,
+    "AmountMax": 50
+  },
+  "XP Doubler JACKPOT": {
+    "Name": "XP Doubler JACKPOT",
+    "TicketsInMegaBoxDraw": 4,
+    "TypeName": "TokenDoubler",
+    "AmountMin": 2000,
+    "AmountMax": 2000
   }
 }

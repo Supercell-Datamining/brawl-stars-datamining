@@ -1,0 +1,191 @@
+{
+  "CoinsS": {
+    "Name": "CoinsS",
+    "TypeName": "Coins",
+    "Amount": 100,
+    "ValueInCash": 200,
+    "TicketsForBunddle1": 0,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 100
+  },
+  "CoinsM": {
+    "Name": "CoinsM",
+    "TypeName": "Coins",
+    "Amount": 500,
+    "ValueInCash": 1000,
+    "TicketsForBunddle1": 50,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 50
+  },
+  "CoinsL": {
+    "Name": "CoinsL",
+    "TypeName": "Coins",
+    "Amount": 1000,
+    "ValueInCash": 2000,
+    "TicketsForBunddle1": 100,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 0
+  },
+  "PowerPointsS": {
+    "Name": "PowerPointsS",
+    "TypeName": "PowerPoints",
+    "Amount": 100,
+    "ValueInCash": 150,
+    "TicketsForBunddle1": 0,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 100
+  },
+  "PowerPointsM": {
+    "Name": "PowerPointsM",
+    "TypeName": "PowerPoints",
+    "Amount": 500,
+    "ValueInCash": 750,
+    "TicketsForBunddle1": 50,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 50
+  },
+  "PowerPointsL": {
+    "Name": "PowerPointsL",
+    "TypeName": "PowerPoints",
+    "Amount": 1000,
+    "ValueInCash": 1500,
+    "TicketsForBunddle1": 100,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 0
+  },
+  "BlingS": {
+    "Name": "BlingS",
+    "TypeName": "Bling",
+    "Amount": 100,
+    "ValueInCash": 30,
+    "TicketsForBunddle1": 0,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 100
+  },
+  "BlingM": {
+    "Name": "BlingM",
+    "TypeName": "Bling",
+    "Amount": 500,
+    "ValueInCash": 150,
+    "TicketsForBunddle1": 50,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 50
+  },
+  "BlingL": {
+    "Name": "BlingL",
+    "TypeName": "Bling",
+    "Amount": 1000,
+    "ValueInCash": 300,
+    "TicketsForBunddle1": 100,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 0
+  },
+  "StardropsS": {
+    "Name": "StardropsS",
+    "TypeName": "Stardrop",
+    "Amount": 1,
+    "ValueInCash": 240,
+    "TicketsForBunddle1": 0,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 100
+  },
+  "StardropsM": {
+    "Name": "StardropsM",
+    "TypeName": "Stardrop",
+    "Amount": 5,
+    "ValueInCash": 1200,
+    "TicketsForBunddle1": 50,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 50
+  },
+  "StardropsL": {
+    "Name": "StardropsL",
+    "TypeName": "Stardrop",
+    "Amount": 10,
+    "ValueInCash": 2400,
+    "TicketsForBunddle1": 100,
+    "TicketsForBunddle2": 50,
+    "TicketsForBunddle3": 0
+  },
+  "HCStardrop": {
+    "Name": "HCStardrop",
+    "TypeName": "HCStardrop",
+    "Amount": 1,
+    "ValueInCash": 3500,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "Icon": {
+    "Name": "Icon",
+    "TypeName": "ProfilePic",
+    "Amount": 1,
+    "ValueInCash": 500,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "Spray": {
+    "Name": "Spray",
+    "TypeName": "Spray",
+    "Amount": 1,
+    "ValueInCash": 300,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "Skin": {
+    "Name": "Skin",
+    "TypeName": "Skin",
+    "Amount": 1,
+    "ValueInCash": 2500,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "Toy": {
+    "Name": "Toy",
+    "TypeName": "Toy",
+    "Amount": 1,
+    "ValueInCash": 750,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "Emote": {
+    "Name": "Emote",
+    "TypeName": "Emote",
+    "Amount": 1,
+    "ValueInCash": 300,
+    "TicketsForBunddle1": 1,
+    "TicketsForBunddle2": 1,
+    "TicketsForBunddle3": 1
+  },
+  "BrawlpassXPS": {
+    "Name": "BrawlpassXPS",
+    "TypeName": "BrawlpassXP",
+    "Amount": 500,
+    "ValueInCash": 100,
+    "TicketsForBunddle1": 20,
+    "TicketsForBunddle2": 10,
+    "TicketsForBunddle3": 5
+  },
+  "BrawlpassXPM": {
+    "Name": "BrawlpassXPM",
+    "TypeName": "BrawlpassXP",
+    "Amount": 2000,
+    "ValueInCash": 400,
+    "TicketsForBunddle1": 10,
+    "TicketsForBunddle2": 10,
+    "TicketsForBunddle3": 10
+  },
+  "BrawlpassXPL": {
+    "Name": "BrawlpassXPL",
+    "TypeName": "BrawlpassXP",
+    "Amount": 5000,
+    "ValueInCash": 1100,
+    "TicketsForBunddle1": 5,
+    "TicketsForBunddle2": 10,
+    "TicketsForBunddle3": 20
+  }
+}

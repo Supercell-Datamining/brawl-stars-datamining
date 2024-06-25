@@ -460,5 +460,23 @@
     "SoloOfferDefaultBgFrameName": "offer_rarity_legendary",
     "SoloOfferDefaultTitleTID": "TID_SHOP_STARR_DROP_LEGENDARY",
     "RarityFrameLabel": "legendary"
+  },
+  "MegaBox": {
+    "Name": "MegaBox",
+    "CollabId": 2,
+    "MultiDropCount": 10,
+    "CombineCurrencies": true,
+    "SCW": "sc3d/rng_reward.glb",
+    "BackgroundFrameLabel": "no_rarity",
+    "SoundMiss": "UI_Meta_Star_Tap_No_Upgrade",
+    "SoundUpgrade": "UI_Meta_Star_Tap_Upgrade",
+    "SoundReadyToOpen2": "Reveal_epic",
+    "SoundOpen": "UI_Meta_Star_Tap_Explode",
+    "FaceFileName": "characters.sc",
+    "FaceIdleExportName": "starr_01_idle",
+    "FaceUpgradeExportName": "starr_01_change",
+    "FaceOpenExportName": "starr_01_final",
+    "SoloOfferDefaultBgFrameName": "offer_rarity_mythic",
+    "RarityFrameLabel": "no_rarity"
   }
 }

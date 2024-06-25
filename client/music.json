@@ -243,6 +243,7 @@
   },
   "Brawlcade_Ingame": {
     "Name": "Brawlcade_Ingame",
+    "Disabled": true,
     "FileName": [
       "music/brawlcade_ingame_01.ogg",
       "music/background/brawlcade_ingame_02.ogg"
@@ -303,7 +304,6 @@
   },
   "Pirate_Brawl_Ingame": {
     "Name": "Pirate_Brawl_Ingame",
-    "Disabled": true,
     "FileName": "music/pirate_brawl_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
@@ -493,6 +493,7 @@
   },
   "Summer_Brawl_Menu_Muzak": {
     "Name": "Summer_Brawl_Menu_Muzak",
+    "Disabled": true,
     "FileName": "music/brawl_dinobeach_menu_01.ogg",
     "Volume": 60,
     "Loop": true
@@ -614,14 +615,12 @@
   },
   "Deepsea_Beastieboys_Menu": {
     "Name": "Deepsea_Beastieboys_Menu",
-    "Disabled": true,
     "FileName": "music/deepsea_beastieboys_brawl_menu_01.ogg",
     "Volume": 60,
     "Loop": true
   },
   "Underwater_Braw_Ingame": {
     "Name": "Underwater_Braw_Ingame",
-    "Disabled": true,
     "FileName": "music/underwater_brawl_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
@@ -663,7 +662,6 @@
   },
   "Candyland_Ingame": {
     "Name": "Candyland_Ingame",
-    "Disabled": true,
     "FileName": "music/brawl_candy_level_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
@@ -684,7 +682,6 @@
   },
   "Mandy_Candy_Menu": {
     "Name": "Mandy_Candy_Menu",
-    "Disabled": true,
     "FileName": "music/mandy_candy_meny_muzak_01.ogg",
     "Volume": 60,
     "Loop": true
@@ -712,7 +709,6 @@
   },
   "Brawlympus_Menu": {
     "Name": "Brawlympus_Menu",
-    "Disabled": true,
     "FileName": "music/brawlympus_menu_music_01.ogg",
     "Volume": 60,
     "Loop": true
@@ -740,19 +736,20 @@
   },
   "Brawl_Enchanted_Forest_Menu": {
     "Name": "Brawl_Enchanted_Forest_Menu",
+    "Disabled": true,
     "FileName": "music/brawl_enchanted_forest_menu_01.ogg",
     "Volume": 60,
     "Loop": true
   },
   "Brawl_Enchanted_Forest_Ingame": {
     "Name": "Brawl_Enchanted_Forest_Ingame",
+    "Disabled": true,
     "FileName": "music/brawl_enchanted_forest_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
   },
   "Brawl_Cursed_Pirates_Menu": {
     "Name": "Brawl_Cursed_Pirates_Menu",
-    "Disabled": true,
     "FileName": "music/brawl_cursed_pirate_menu_01.ogg",
     "Volume": 60,
     "Loop": true
@@ -821,13 +818,17 @@
   },
   "Loveswamp_Ingame": {
     "Name": "Loveswamp_Ingame",
+    "Disabled": true,
     "FileName": "music/love_swamp_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
   },
   "Loveswamp_Menu": {
     "Name": "Loveswamp_Menu",
-    "Disabled": true,
+    "Disabled": [
+      true,
+      true
+    ],
     "FileName": [
       "music/love_swamp_menu_01.ogg",
       "music/love_swamp_menu_02.ogg"
@@ -870,6 +871,7 @@
   },
   "Draco_Madevil_Menu": {
     "Name": "Draco_Madevil_Menu",
+    "Disabled": true,
     "FileName": "music/brawlstars_metal_menu_master_v1.ogg",
     "Volume": 60,
     "Loop": true
@@ -882,6 +884,10 @@
   },
   "Brawl_Haxx0r_M3nu": {
     "Name": "Brawl_Haxx0r_M3nu",
+    "Disabled": [
+      true,
+      true
+    ],
     "FileName": [
       "music/brawl_hackers_menu_01.ogg",
       "music/brawl_hackers_menu_02.ogg"
@@ -897,12 +903,14 @@
   },
   "Godzilla_Ingame": {
     "Name": "Godzilla_Ingame",
+    "Disabled": true,
     "FileName": "music/godzilla_ingame_01.ogg",
     "Volume": 70,
     "Loop": true
   },
   "Godzilla_Menu": {
     "Name": "Godzilla_Menu",
+    "Disabled": true,
     "FileName": "music/godzilla_menu_01.ogg",
     "Volume": 60,
     "Loop": true

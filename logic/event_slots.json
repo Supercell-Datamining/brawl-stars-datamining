@@ -1,0 +1,26 @@
+{
+  "Ranked": {
+    "Name": "Ranked",
+    "Slot": 14,
+    "BgColorOverride": "0xFFE33A4E",
+    "EventIconOverride": "event_icon_ranked"
+  },
+  "Random": {
+    "Name": "Random",
+    "Slot": 18,
+    "BgColorOverride": "0xFFFCAB90",
+    "EventIconOverride": "event_icon_random"
+  },
+  "Mayhem": {
+    "Name": "Mayhem",
+    "Slot": 34,
+    "BgColorOverride": "0xFF9304C9",
+    "EventIconOverride": "event_icon_overcharge"
+  },
+  "ClubPiggy": {
+    "Name": "ClubPiggy",
+    "Slot": 35,
+    "BgColorOverride": "0xFFB504B0",
+    "EventIconOverride": "event_icon_clubpiggybank"
+  }
+}

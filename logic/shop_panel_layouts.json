@@ -94,34 +94,39 @@
     "LayoutType": "CHAIN_OFFER",
     "AssetFileName": "sc/ui.sc",
     "PanelAsset": "panel_offer",
-    "Asset": "chain_offer_shop_panel_group"
+    "Asset": "chain_offer_shop_panel_group",
+    "AssetWithoutHighlightSkin": "chain_offer_shop_panel_narrow_group"
   },
   "CHAIN_B": {
     "Name": "CHAIN_B",
     "LayoutType": "CHAIN_OFFER",
     "AssetFileName": "sc/ui.sc",
     "PanelAsset": "panel_offer",
-    "Asset": "chain_offer_shop_panel_group"
+    "Asset": "chain_offer_shop_panel_group",
+    "AssetWithoutHighlightSkin": "chain_offer_shop_panel_narrow_group"
   },
   "CHAIN_C": {
     "Name": "CHAIN_C",
     "LayoutType": "CHAIN_OFFER",
     "AssetFileName": "sc/ui.sc",
     "PanelAsset": "panel_offer",
-    "Asset": "chain_offer_shop_panel_group"
+    "Asset": "chain_offer_shop_panel_group",
+    "AssetWithoutHighlightSkin": "chain_offer_shop_panel_narrow_group"
   },
   "CHAIN_D": {
     "Name": "CHAIN_D",
     "LayoutType": "CHAIN_OFFER",
     "AssetFileName": "sc/ui.sc",
     "PanelAsset": "panel_offer",
-    "Asset": "chain_offer_shop_panel_group"
+    "Asset": "chain_offer_shop_panel_group",
+    "AssetWithoutHighlightSkin": "chain_offer_shop_panel_narrow_group"
   },
   "CHAIN_E": {
     "Name": "CHAIN_E",
     "LayoutType": "CHAIN_OFFER",
     "AssetFileName": "sc/ui.sc",
     "PanelAsset": "panel_offer",
-    "Asset": "chain_offer_shop_panel_group"
+    "Asset": "chain_offer_shop_panel_group",
+    "AssetWithoutHighlightSkin": "chain_offer_shop_panel_narrow_group"
   }
 }

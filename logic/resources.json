@@ -131,8 +131,6 @@
     "Name": "Bling",
     "TID": "TID_BLING",
     "IconSWF": "sc/ui.sc",
-    "IconExportName": "icon_resource_cosmetic_coins",
-    "Cap": 7000,
-    "AllowedToOverflowCapOnce": "TRUE"
+    "IconExportName": "icon_resource_cosmetic_coins"
   }
 }

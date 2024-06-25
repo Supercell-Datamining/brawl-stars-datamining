@@ -493,6 +493,22 @@
     "Effect": "barley_007_ulti",
     "Scale": 55
   },
+  "Barley_008_atk": {
+    "Name": "Barley_008_atk",
+    "ParentAreaEffectForSkin": "Barley_def_atk",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "barley_008_atk",
+    "Scale": 55
+  },
+  "Barley_008_ulti": {
+    "Name": "Barley_008_ulti",
+    "ParentAreaEffectForSkin": "Barley_def_ulti",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "barley_008_ulti",
+    "Scale": 55
+  },
   "Bo_def_ulti1_area": {
     "Name": "Bo_def_ulti1_area",
     "FileName": "sc/effects.sc",
@@ -761,6 +777,20 @@
     "DestroysEnvironment": true,
     "PushbackStrength": 70
   },
+  "Piper_008_ulti": {
+    "Name": "Piper_008_ulti",
+    "ParentAreaEffectForSkin": "Bo_def_ulti2_area",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "piper_008_ulti2_explosion",
+    "Scale": 133,
+    "TimeMs": 700,
+    "Radius": 600,
+    "Damage": 99,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 70
+  },
   "BarkeepExplosion": {
     "Name": "BarkeepExplosion",
     "FileName": "sc/effects.sc",
@@ -910,6 +940,18 @@
     "Radius": 450,
     "Type": "Damage",
     "PushbackStrength": 150
+  },
+  "Mrp_005_atk_explosion": {
+    "Name": "Mrp_005_atk_explosion",
+    "ParentAreaEffectForSkin": "SpawnerDudeExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "mrp_005_atk_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 450,
+    "Type": "Damage",
+    "ExpandOnDistance": 150
   },
   "Mike_005_ulti_explosion": {
     "Name": "Mike_005_ulti_explosion",
@@ -1652,6 +1694,17 @@
     "Radius": 2000,
     "Type": "SmokeScreen"
   },
+  "Sandy_006_ulti": {
+    "Name": "Sandy_006_ulti",
+    "ParentAreaEffectForSkin": "Sandy_def_ulti",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "sandy_006_ulti_loop",
+    "Scale": 1000,
+    "TimeMs": 9000,
+    "Radius": 2000,
+    "Type": "SmokeScreen"
+  },
   "EventHealing": {
     "Name": "EventHealing",
     "FileName": "sc/effects.sc",
@@ -1933,6 +1986,23 @@
     "SlowStrength": 350,
     "FreezeTicks": 21
   },
+  "Emz_005_Ulti": {
+    "Name": "Emz_005_Ulti",
+    "ParentAreaEffectForSkin": "MummyUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "emz_005_ulti_area",
+    "BlueExportName": "emz_005_ulti_area",
+    "RedExportName": "emz_005_ulti_area_red",
+    "Layer": "GroundHigh",
+    "Effect": "emz_005_ulti",
+    "Scale": 350,
+    "TimeMs": 5000,
+    "Radius": 1700,
+    "Damage": 240,
+    "Type": "Dot",
+    "StunTicks": 350,
+    "SlowStrength": 21
+  },
   "SpeedyUltiArea": {
     "Name": "SpeedyUltiArea",
     "FileName": "sc/effects_brawler.sc",
@@ -2096,6 +2166,31 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "driller_005_ulti",
+    "Scale": 290,
+    "TimeMs": 1000,
+    "Radius": 1500,
+    "Type": "Pushback",
+    "PushbackStrength": -150,
+    "PushbackDeadzone": 400
+  },
+  "Driller_006_atk": {
+    "Name": "Driller_006_atk",
+    "ParentAreaEffectForSkin": "DrillerDamageArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "driller_006_atk",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 1000,
+    "Damage": 1280,
+    "Type": "Damage"
+  },
+  "Driller_006_ulti": {
+    "Name": "Driller_006_ulti",
+    "ParentAreaEffectForSkin": "DrillerUltiArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "driller_006_ulti",
     "Scale": 290,
     "TimeMs": 1000,
     "Radius": 1500,
@@ -2426,6 +2521,43 @@
     "Type": "Damage",
     "PushbackStrengthSelf": 150
   },
+  "Sprout_005_atk": {
+    "Name": "Sprout_005_atk",
+    "ParentAreaEffectForSkin": "WallyExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "sprout_005_atk2_explosion",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 600,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150
+  },
+  "Sprout_005_ulti": {
+    "Name": "Sprout_005_ulti",
+    "ParentAreaEffectForSkin": "WallyUltiArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "sprout_005_ulti_explosion",
+    "Scale": 170,
+    "TimeMs": 500,
+    "Radius": 400,
+    "Damage": 800,
+    "Type": "WallSpawn",
+    "SkinnedCustomValue": 16
+  },
+  "Sprout_005_sp": {
+    "Name": "Sprout_005_sp",
+    "ParentAreaEffectForSkin": "WallyExplosionBig",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "sprout_005_sp_explosion",
+    "Scale": 200,
+    "TimeMs": 700,
+    "Radius": 750,
+    "Type": "Damage",
+    "PushbackStrengthSelf": 150
+  },
   "BushGrowArea": {
     "Name": "BushGrowArea",
     "FileName": "sc/effects.sc",
@@ -2458,7 +2590,7 @@
     "Scale": 100,
     "TimeMs": 700,
     "Radius": 600,
-    "Damage": 160,
+    "Damage": 140,
     "DamageScaleType": 1,
     "CustomValue": 8,
     "Type": "BulletExplosion",
@@ -2575,9 +2707,9 @@
     "Scale": 28,
     "TimeMs": 3900,
     "Radius": 300,
-    "Damage": 200,
-    "DamageScaleType": 1,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "WhirlwindTrailFire",
+    "StatusEffectTickInterval": 10
   },
   "MummyAccessoryPushback": {
     "Name": "MummyAccessoryPushback",
@@ -2833,6 +2965,17 @@
     "Radius": 800,
     "Type": "PetrolDistribution"
   },
+  "PetrolDistributionArea004": {
+    "Name": "PetrolDistributionArea004",
+    "ParentAreaEffectForSkin": "PetrolDistributionArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "amber_004_ulti_hit",
+    "Scale": 150,
+    "TimeMs": 500,
+    "Radius": 800,
+    "Type": "PetrolDistribution"
+  },
   "PetrolDistributionTrail": {
     "Name": "PetrolDistributionTrail",
     "FileName": "sc/effects.sc",
@@ -2850,8 +2993,9 @@
     "Scale": 70,
     "TimeMs": 500,
     "Radius": 300,
-    "Damage": 1920,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "PetrolFire",
+    "StatusEffectTickInterval": 10
   },
   "PetrolFire002": {
     "Name": "PetrolFire002",
@@ -2862,8 +3006,9 @@
     "Scale": 70,
     "TimeMs": 500,
     "Radius": 300,
-    "Damage": 1920,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "PetrolFire",
+    "StatusEffectTickInterval": 10
   },
   "PetrolFire003": {
     "Name": "PetrolFire003",
@@ -2873,8 +3018,21 @@
     "Scale": 70,
     "TimeMs": 500,
     "Radius": 300,
-    "Damage": 1920,
-    "Type": "SetOnFireIce"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "PetrolFireIce",
+    "StatusEffectTickInterval": 10
+  },
+  "PetrolFire004": {
+    "Name": "PetrolFire004",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "amber_004_ulti_oil_burning",
+    "Scale": 70,
+    "TimeMs": 500,
+    "Radius": 300,
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "PetrolFireBubbles",
+    "StatusEffectTickInterval": 10
   },
   "DamageBoostPlugIn": {
     "Name": "DamageBoostPlugIn",
@@ -3288,6 +3446,39 @@
     "ShouldShowEvenIfOutsideScreen": true,
     "ChainAreaEffect": "Ruffs004SupplyExplosion"
   },
+  "Ruffs005SupplySpawn": {
+    "Name": "Ruffs005SupplySpawn",
+    "ParentAreaEffectForSkin": "RuffsSupplySpawn",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "ruffs_005_ulti_target",
+    "BlueExportName": "ruffs_005_ulti_target",
+    "RedExportName": "ruffs_005_ulti_target_red",
+    "Layer": "GroundHigh",
+    "ExportNameTop": "ruffs_005_ulti_crate",
+    "ExportNameTopRed": "ruffs_005_ulti_crate_red",
+    "Effect": "ruffs_005_ulti_beacon",
+    "LoopingEffect": "ruffs_005_ulti_map",
+    "Scale": 90,
+    "TimeMs": 800,
+    "Radius": 600,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "Ruffs005SupplyExplosion"
+  },
+  "Ruffs005SupplyExplosion": {
+    "Name": "Ruffs005SupplyExplosion",
+    "ParentAreaEffectForSkin": "RuffsSupplyExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "ruffs_005_ulti_explosion",
+    "Scale": 118,
+    "TimeMs": 100,
+    "Radius": 700,
+    "Type": "Damage",
+    "PushbackStrength": 150,
+    "PushbackStrengthSelf": 250,
+    "SpawnItem": "RuffsBuff"
+  },
   "PocoCleanseArea": {
     "Name": "PocoCleanseArea",
     "FileName": "sc/effects.sc",
@@ -3388,7 +3579,9 @@
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "RollerFire",
+    "StatusEffectTickInterval": 10
   },
   "Roller002Fire": {
     "Name": "Roller002Fire",
@@ -3399,7 +3592,9 @@
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "RollerFire",
+    "StatusEffectTickInterval": 10
   },
   "Roller003Fire": {
     "Name": "Roller003Fire",
@@ -3410,7 +3605,9 @@
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
-    "Type": "SetOnFire"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "RollerFire",
+    "StatusEffectTickInterval": 10
   },
   "Roller004Fire": {
     "Name": "Roller004Fire",
@@ -3420,7 +3617,9 @@
     "Scale": 100,
     "TimeMs": 3000,
     "Radius": 300,
-    "Type": "SetOnFireIce"
+    "Type": "StatusEffect",
+    "StatusEffectEnemy": "RollerFireIce",
+    "StatusEffectTickInterval": 10
   },
   "StickyBombClusterExplosion": {
     "Name": "StickyBombClusterExplosion",
@@ -3969,7 +4168,7 @@
     "Name": "MechaDudeDestroyExplosion",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
-    "Effect": "explosion_generic_big",
+    "Effect": "explosion_generic_big_area",
     "Scale": 165,
     "TimeMs": 700,
     "Radius": 800,
@@ -4221,6 +4420,29 @@
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
     "Effect": "bonnie_002_ulti_explosion",
+    "Scale": 165,
+    "TimeMs": 700,
+    "Radius": 800,
+    "Damage": 1200,
+    "Type": "Damage"
+  },
+  "Bonnie003SmallExplosion": {
+    "Name": "Bonnie003SmallExplosion",
+    "ParentAreaEffectForSkin": "CannonGirlSmallExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "bonnie_003_atk_small_hit",
+    "Scale": 70,
+    "TimeMs": 350,
+    "Radius": 200,
+    "Type": "Damage"
+  },
+  "Bonnie003GirlExplosion": {
+    "Name": "Bonnie003GirlExplosion",
+    "ParentAreaEffectForSkin": "CannonGirlExplosion",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "bonnie_003_ulti_explosion",
     "Scale": 165,
     "TimeMs": 700,
     "Radius": 800,
@@ -4599,6 +4821,19 @@
     "CustomValue": 200,
     "Type": "DamageAndTag"
   },
+  "Splitter004LegsDamageArea": {
+    "Name": "Splitter004LegsDamageArea",
+    "ParentAreaEffectForSkin": "SplitterLegsDamageArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "rt_004_ulti",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 1000,
+    "Damage": 1240,
+    "CustomValue": 200,
+    "Type": "DamageAndTag"
+  },
   "PuppeteerPoison": {
     "Name": "PuppeteerPoison",
     "FileName": "sc/effects.sc",
@@ -4763,6 +4998,20 @@
     "Type": "HealAndDamage",
     "DamageScaleDistanceNear": 100,
     "DamageScaleDistanceFar": 100
+  },
+  "Reviver002DamageArea": {
+    "Name": "Reviver002DamageArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "doug_002_atk_area",
+    "Scale": 100,
+    "TimeMs": 300,
+    "Radius": 1000,
+    "Damage": 1200,
+    "CustomValue": 50,
+    "Type": "HealAndDamage",
+    "ChainAreaEffect2": "100",
+    "ChainAreaEffect3": "100"
   },
   "ReviverDamageAreaDoubleHeal": {
     "Name": "ReviverDamageAreaDoubleHeal",
@@ -5038,6 +5287,7 @@
     "FileName": "sc/effects.sc",
     "Layer": "GroundHigh",
     "Effect": "mico_def_atk",
+    "RotationType": 1,
     "Scale": 100,
     "TimeMs": 300,
     "Radius": 450,
@@ -5335,7 +5585,6 @@
     "Name": "InsectManUltiSwitchSkillArea",
     "FileName": "sc/effects_brawler.sc",
     "Layer": "GroundHigh",
-    "Effect": "angelo_def_ulti",
     "Scale": 350,
     "TimeMs": 8000,
     "Radius": 700,
@@ -5354,6 +5603,29 @@
     "CustomValue": 15,
     "Type": "DamageDrain",
     "PushbackStrengthSelf": 150
+  },
+  "Angelo002UltiDamageArea": {
+    "Name": "Angelo002UltiDamageArea",
+    "ParentAreaEffectForSkin": "InsectManUltiDamageArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "angelo_002_ulti",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Damage": 500,
+    "Type": "Dot"
+  },
+  "Angelo002UltiSwitchSkillArea": {
+    "Name": "Angelo002UltiSwitchSkillArea",
+    "ParentAreaEffectForSkin": "InsectManUltiSwitchSkillArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Type": "SwitchSkill",
+    "IsPersonal": true
   },
   "SandStormOverchargedUltiAreaSpeedBuff": {
     "Name": "SandStormOverchargedUltiAreaSpeedBuff",
@@ -5612,5 +5884,367 @@
     "Radius": 450,
     "Type": "Damage",
     "RequireLineOfSight": true
+  },
+  "BarleyOverchargedUlti": {
+    "Name": "BarleyOverchargedUlti",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "barley_def_oc",
+    "Scale": 250,
+    "TimeMs": 3900,
+    "Radius": 1100,
+    "Type": "Dot",
+    "DestroysOnlyBushes": true,
+    "SameAreaEffectCanNotDamageMs": 1000
+  },
+  "InsectManOverchargedUltiDamageArea": {
+    "Name": "InsectManOverchargedUltiDamageArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Effect": "angelo_overcharged_ulti",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Damage": 500,
+    "Type": "Dot"
+  },
+  "InsectManOverchargedUltiSwitchSkillArea": {
+    "Name": "InsectManOverchargedUltiSwitchSkillArea",
+    "FileName": "sc/effects_brawler.sc",
+    "Layer": "GroundHigh",
+    "Scale": 350,
+    "TimeMs": 8000,
+    "Radius": 700,
+    "Type": "SwitchSkill",
+    "IsPersonal": true
+  },
+  "SniperOverchargedBombExplosion": {
+    "Name": "SniperOverchargedBombExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "piper_def_oc_exp",
+    "Scale": 133,
+    "TimeMs": 700,
+    "Radius": 600,
+    "Damage": 99,
+    "Type": "Damage",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 70
+  },
+  "SniperOverchargedLanding": {
+    "Name": "SniperOverchargedLanding",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "piper_def_oc_landing",
+    "Scale": 133,
+    "TimeMs": 500,
+    "Radius": 900,
+    "Damage": 0,
+    "Type": "Pushback",
+    "DestroysEnvironment": true,
+    "PushbackStrength": 200,
+    "PushbackStrengthSelf": 100
+  },
+  "MummyOverchargedUltiArea": {
+    "Name": "MummyOverchargedUltiArea",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "emz_def_oc_area",
+    "BlueExportName": "emz_def_oc_area",
+    "RedExportName": "emz_def_oc_area_red",
+    "Layer": "GroundHigh",
+    "Effect": "emz_def_oc_area_use",
+    "Scale": 350,
+    "TimeMs": 5000,
+    "Radius": 1700,
+    "Damage": 240,
+    "Type": "Dot",
+    "SlowStrength": 350,
+    "FreezeTicks": 21
+  },
+  "MummyOverchargedUltiAreaPushBack": {
+    "Name": "MummyOverchargedUltiAreaPushBack",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "emz_def_oc_area",
+    "BlueExportName": "emz_def_oc_area",
+    "RedExportName": "emz_def_oc_area_red",
+    "Layer": "GroundHigh",
+    "Scale": 350,
+    "TimeMs": 100,
+    "Radius": 1200,
+    "Damage": 1,
+    "Type": "Dot",
+    "PushbackStrength": 100,
+    "ChainAreaEffect": "MummyOverchargedUltiBulletExplosion"
+  },
+  "MummyOverchargedUltiBulletExplosion": {
+    "Name": "MummyOverchargedUltiBulletExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 100,
+    "Radius": 1500,
+    "Damage": 1240,
+    "CustomValue": 18,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "MummyOverchargedProjectile",
+    "BulletExplosionBulletDistance": 15
+  },
+  "PainterAreaExplosion": {
+    "Name": "PainterAreaExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "berry_def_atk_hit",
+    "Scale": 100,
+    "TimeMs": 0,
+    "Radius": 500,
+    "CustomValue": 50,
+    "CustomValue2": 50,
+    "Type": "HealAndDamage",
+    "ChainAreaEffect": "PainterAreaEffect"
+  },
+  "PainterAreaEffect": {
+    "Name": "PainterAreaEffect",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "berry_def_atk_ground",
+    "BlueExportName": "berry_def_atk_ground",
+    "RedExportName": "berry_def_atk_ground_red",
+    "Layer": "GroundHigh",
+    "Effect": "berry_def_ulti_hit",
+    "RotationType": 2,
+    "Scale": 60,
+    "TimeMs": 5999,
+    "Radius": 500,
+    "Damage": 100,
+    "DamageScaleType": 4,
+    "CustomValue": 50,
+    "Type": "HotAndDot",
+    "DelayFirstTick": true,
+    "IgnoreFadeout": true,
+    "SameAreaEffectCanNotDamageMs": 1000,
+    "ChainAreaEffect": "PainterAreaEffectEnd"
+  },
+  "PainterAreaEffectEnd": {
+    "Name": "PainterAreaEffectEnd",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "berry_def_atk_ground_end",
+    "Scale": 100,
+    "TimeMs": 0,
+    "Radius": 500,
+    "Type": "Effect"
+  },
+  "PainterAccessoryArea": {
+    "Name": "PainterAccessoryArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "berry_def_gadget_pushheal",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 800,
+    "Damage": -20,
+    "DamageScaleType": 2,
+    "Type": "Heal",
+    "PushbackStrength": 100
+  },
+  "PaintBallSplash": {
+    "Name": "PaintBallSplash",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "paint_ball_explode",
+    "Scale": 50,
+    "TimeMs": 100,
+    "Radius": 800,
+    "Type": "Effect"
+  },
+  "PaintBallSplash_big": {
+    "Name": "PaintBallSplash_big",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "paint_ball_explode_big",
+    "Scale": 50,
+    "TimeMs": 100,
+    "Radius": 800,
+    "Type": "Effect"
+  },
+  "SupportArchetypeHeal": {
+    "Name": "SupportArchetypeHeal",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "pam_def_ulti_area_active",
+    "LoopingEffect": "pam_def_ulti_area_loop",
+    "Scale": 125,
+    "TimeMs": 600000,
+    "Radius": 1000,
+    "Damage": -1,
+    "DamageScaleType": 2,
+    "Type": "Hot"
+  },
+  "SupportArchetypeSpawn": {
+    "Name": "SupportArchetypeSpawn",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "ruffs_def_ulti_target",
+    "BlueExportName": "ruffs_def_ulti_target",
+    "RedExportName": "ruffs_def_ulti_target_red",
+    "Layer": "GroundHigh",
+    "ExportNameTop": "ruffs_def_ulti_crate",
+    "ExportNameTopRed": "ruffs_def_ulti_crate_red",
+    "Effect": "ruffs_def_ulti_beacon",
+    "Scale": 90,
+    "TimeMs": 800,
+    "Radius": 600,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "SpawnItem": "BattleRoyaleBuff"
+  },
+  "ArtilleryArchetypeCollabSpawnLvl1": {
+    "Name": "ArtilleryArchetypeCollabSpawnLvl1",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "gadget_primo_meteor_target",
+    "BlueExportName": "gadget_primo_meteor_target",
+    "RedExportName": "gadget_primo_meteor_target_red",
+    "Layer": "GroundHigh",
+    "ExportNameTop": "gadget_ruffs_airstrike",
+    "ExportNameTopRed": "gadget_ruffs_airstrike_red",
+    "Effect": "meteor_warning",
+    "Scale": 60,
+    "TimeMs": 2500,
+    "Radius": 800,
+    "Damage": 600,
+    "DamageScaleType": 5,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "ArtilleryArchetypeCollabExplosion"
+  },
+  "ArtilleryArchetypeCollabSpawnLvl2": {
+    "Name": "ArtilleryArchetypeCollabSpawnLvl2",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "gadget_primo_meteor_target",
+    "BlueExportName": "gadget_primo_meteor_target",
+    "RedExportName": "gadget_primo_meteor_target_red",
+    "Layer": "GroundHigh",
+    "ExportNameTop": "gadget_ruffs_airstrike",
+    "ExportNameTopRed": "gadget_ruffs_airstrike_red",
+    "Effect": "meteor_warning",
+    "Scale": 60,
+    "TimeMs": 2500,
+    "Radius": 800,
+    "Damage": 600,
+    "DamageScaleType": 5,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "ArtilleryArchetypeCollabExplosion",
+    "ChainAreaEffect2": "ArtilleryArchetypeCollabBurn"
+  },
+  "ArtilleryArchetypeCollabSpawnLvl3": {
+    "Name": "ArtilleryArchetypeCollabSpawnLvl3",
+    "FileName": "sc/effects_brawler.sc",
+    "OwnExportName": "gadget_primo_meteor_target",
+    "BlueExportName": "gadget_primo_meteor_target",
+    "RedExportName": "gadget_primo_meteor_target_red",
+    "Layer": "GroundHigh",
+    "ExportNameTop": "gadget_ruffs_airstrike",
+    "ExportNameTopRed": "gadget_ruffs_airstrike_red",
+    "Effect": "meteor_warning",
+    "Scale": 60,
+    "TimeMs": 2500,
+    "Radius": 800,
+    "Damage": 600,
+    "DamageScaleType": 5,
+    "Type": "Effect",
+    "ShouldShowEvenIfOutsideScreen": true,
+    "ChainAreaEffect": "ArtilleryArchetypeCollabExplosion",
+    "ChainAreaEffect2": "ArtilleryArchetypeCollabBurn",
+    "ChainAreaEffect3": "ArtilleryArchetypeCollabCluster"
+  },
+  "ArtilleryArchetypeCollabExplosion": {
+    "Name": "ArtilleryArchetypeCollabExplosion",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "gadget_ruffs_airstrike_explosion",
+    "Scale": 85,
+    "TimeMs": 700,
+    "Radius": 500,
+    "Type": "Damage"
+  },
+  "ArtilleryArchetypeCollabBurn": {
+    "Name": "ArtilleryArchetypeCollabBurn",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "brock_def_starPower",
+    "Scale": 28,
+    "TimeMs": 2900,
+    "Radius": 300,
+    "Damage": 20,
+    "DamageScaleType": 4,
+    "Type": "Dot",
+    "DelayFirstTick": true
+  },
+  "ArtilleryArchetypeCollabCluster": {
+    "Name": "ArtilleryArchetypeCollabCluster",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 300,
+    "Damage": 50,
+    "DamageScaleType": 4,
+    "CustomValue": 6,
+    "Type": "BulletExplosion",
+    "BulletExplosionBullet": "ArtilleryArchetypeCollabClusterProjectile",
+    "BulletExplosionBulletDistance": 13
+  },
+  "MarksmanArchetypeSlowArea": {
+    "Name": "MarksmanArchetypeSlowArea",
+    "FileName": "sc/effects.sc",
+    "OwnExportName": "toxic_area_effect_blue",
+    "BlueExportName": "toxic_area_effect_blue",
+    "RedExportName": "toxic_area_effect_red",
+    "Layer": "GroundHigh",
+    "Scale": 100,
+    "TimeMs": 400,
+    "Radius": 600,
+    "Type": "Slow",
+    "SlowStrength": 150,
+    "FreezeTicks": 15
+  },
+  "ControllerArchetypeTrail": {
+    "Name": "ControllerArchetypeTrail",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "tick_def_atk1_explode",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 400,
+    "CustomValue": 1,
+    "Type": "BulletExplosion",
+    "BulletExplosionBulletDistance": 0,
+    "BulletExplosionItem": "ControllerArchetypeMine",
+    "ExpandOnDistance": 90
+  },
+  "ControllerArchetypeEnd": {
+    "Name": "ControllerArchetypeEnd",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "tick_def_atk1_explode",
+    "Scale": 100,
+    "TimeMs": 700,
+    "Radius": 400,
+    "CustomValue": 5,
+    "Type": "BulletExplosion",
+    "BulletExplosionBulletDistance": 6,
+    "BulletExplosionItem": "ControllerArchetypeMine",
+    "ExpandOnDistance": 90,
+    "BulletAngleOffset": 0
+  },
+  "ClancyDashArea": {
+    "Name": "ClancyDashArea",
+    "FileName": "sc/effects.sc",
+    "Layer": "GroundHigh",
+    "Effect": "clancy_def_gadget",
+    "Scale": 70,
+    "TimeMs": 300,
+    "Radius": 700,
+    "CustomValue": 10,
+    "Type": "Stun"
   }
 }

@@ -428,5 +428,25 @@
     "Name": "TitleMasteryDraco",
     "TitleTID": "TID_TILE_MASTERY_DRACO",
     "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryBerry": {
+    "Name": "TitleMasteryBerry",
+    "TitleTID": "TID_TILE_MASTERY_BERRY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleMasteryClancy": {
+    "Name": "TitleMasteryClancy",
+    "TitleTID": "TID_TILE_MASTERY_CLANCY",
+    "Gradient": "PlayerTitleGold"
+  },
+  "TitleBP28": {
+    "Name": "TitleBP28",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON28",
+    "Gradient": "Plus"
+  },
+  "TitleBP29": {
+    "Name": "TitleBP29",
+    "TitleTID": "TID_TILE_BATTLEPASSPLUS_SEASON29",
+    "Gradient": "Plus"
   }
 }

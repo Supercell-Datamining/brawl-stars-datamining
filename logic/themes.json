@@ -762,6 +762,7 @@
   },
   "Enchanted2024": {
     "Name": "Enchanted2024",
+    "Disabled": true,
     "FileName": "sc/background_enchantedforest.sc",
     "ExportName": "bgr_enchanted",
     "ThemeMusic": "Brawl_Enchanted_Forest_Menu",
@@ -769,6 +770,7 @@
   },
   "Godzilla": {
     "Name": "Godzilla",
+    "Disabled": true,
     "FileName": "sc/background_godzilla.sc",
     "ExportName": "bgr_godzilla",
     "ThemeMusic": "Godzilla_Menu",
@@ -777,6 +779,7 @@
   },
   "Hackers": {
     "Name": "Hackers",
+    "Disabled": true,
     "FileName": "sc/background_hackers.sc",
     "ExportName": "bgr_hackers",
     "ThemeMusic": "Brawl_Haxx0r_M3nu",
@@ -785,6 +788,7 @@
   },
   "Madevil": {
     "Name": "Madevil",
+    "Disabled": true,
     "FileName": "sc/background_madevil.sc",
     "ExportName": "bgr_madevil",
     "ParticleFileName": "sc/ui.sc",
@@ -797,10 +801,55 @@
   },
   "Velocirapids2024": {
     "Name": "Velocirapids2024",
+    "Disabled": true,
     "FileName": "sc/background_velocirapids2023.sc",
     "ExportName": "bgr_velocirapids2023",
     "ThemeMusic": "Summer_Brawl_Menu_Muzak",
     "LoadingJingle": "sfx/brawl_jungle_loading_01.ogg",
     "LoadingScreen": "sc/loading_velocirapids.sc"
+  },
+  "Berry": {
+    "Name": "Berry",
+    "FileName": "sc/background_candyland.sc",
+    "ExportName": "bgr_candyland",
+    "ThemeMusic": "Mandy_Candy_Menu",
+    "LoadingJingle": "sfx/candy_land_load_01.ogg"
+  },
+  "Greek": {
+    "Name": "Greek",
+    "FileName": "sc/background_olympus.sc",
+    "ExportName": "bgr_olympus",
+    "ThemeMusic": "Brawlympus_Menu",
+    "LoadingJingle": "sfx/brawlympus_loading_01.ogg",
+    "LoadingScreen": "sc/loading_greek.sc"
+  },
+  "Classic": {
+    "Name": "Classic",
+    "ThemeMusic": "MenuMusic",
+    "LoadingScreen": "sc/loading_classic.sc"
+  },
+  "Clancy": {
+    "Name": "Clancy",
+    "FileName": "sc/background_deepsea.sc",
+    "ExportName": "bgr_deepsea",
+    "ThemeMusic": "Deepsea_Beastieboys_Menu",
+    "LoadingJingle": "sfx/brawl_underwater_load_01.ogg",
+    "LoadingScreen": "sc/loading_clancy.sc"
+  },
+  "Deepsea2024": {
+    "Name": "Deepsea2024",
+    "FileName": "sc/background_deepsea.sc",
+    "ExportName": "bgr_deepsea",
+    "ThemeMusic": "Deepsea_Beastieboys_Menu",
+    "LoadingJingle": "sfx/brawl_underwater_load_01.ogg",
+    "LoadingScreen": "sc/loading_deepsea.sc"
+  },
+  "Pirates2024": {
+    "Name": "Pirates2024",
+    "FileName": "sc/background_cursedship.sc",
+    "ExportName": "bgr_cursedpirates",
+    "ThemeMusic": "Brawl_Cursed_Pirates_Menu",
+    "LoadingJingle": "sfx/cursed_pirates_loading_01.ogg",
+    "LoadingScreen": "sc/loading_cursedship.sc"
   }
 }

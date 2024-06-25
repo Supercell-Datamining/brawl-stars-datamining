@@ -221,5 +221,43 @@
     "AnimChromas": "HAPPY",
     "Multiplier": 18,
     "PlusMultiplier": 20
+  },
+  "season28": {
+    "Name": "season28",
+    "Season": 27,
+    "HeroArea1": "MummyGreek",
+    "HeroArea2": "MummyGreekRed",
+    "HeroArea3": "MummyGreekBlue",
+    "FrameName": "28",
+    "Skin": "MummyGreek",
+    "SkinChroma": "MummyGreekRed",
+    "Pin": "emoji_bp_greek",
+    "Icon": "player_icon_bp_olympic",
+    "Spray": "spray_bp_olympic",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Jingle": "sfx/brawlympus_loading_01.ogg",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
+  },
+  "season29": {
+    "Name": "season29",
+    "Season": 28,
+    "HeroArea1": "SandstormDeepsea",
+    "HeroArea2": "SandstormDeepseaPurple",
+    "HeroArea3": "SandstormDeepseaYellow",
+    "FrameName": "29",
+    "Skin": "SandstormDeepsea",
+    "SkinChroma": "SandstormDeepseaPurple",
+    "Pin": "emoji_bp_deep",
+    "Icon": "player_icon_bp_deepsea",
+    "Spray": "spray_bp_deepsea",
+    "AnimCover": "SIGNATURE",
+    "AnimSkin": "HAPPY",
+    "AnimChromas": "HAPPY",
+    "Jingle": "sfx/brawl_underwater_load_01.ogg",
+    "Multiplier": 18,
+    "PlusMultiplier": 20
   }
 }

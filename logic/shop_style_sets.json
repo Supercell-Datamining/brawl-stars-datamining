@@ -20,5 +20,28 @@
       "shop_1_starter_pack_popup_offer",
       "shop_1_starter_pack_popup_offer_items_only"
     ]
+  },
+  "DeepSea": {
+    "Name": "DeepSea",
+    "StarterPackLike": true,
+    "Variant": [
+      "HERO_HIGHLIGHT",
+      "OVERCHARGE_HIGHLIGHT",
+      "OTHER"
+    ],
+    "PanelAssetOverride": [
+      "panel_starter_pack",
+      "panel_starter_pack"
+    ],
+    "OfferCardAssetOverride": [
+      "offer_1_item_starter_pack",
+      "offer_1_item_starter_pack"
+    ],
+    "PopupAssetOverride": [
+      "shop_1_starter_pack_popup_offer",
+      "shop_1_starter_pack_popup_offer",
+      "shop_1_starter_pack_popup_offer_items_only"
+    ],
+    "OverrideBg": "offer_bgr_deepsea"
   }
 }

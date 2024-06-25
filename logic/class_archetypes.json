@@ -1,0 +1,37 @@
+{
+  "tank": {
+    "Name": "tank",
+    "TID": "TID_CLASS_ARCHETYPE_TANK",
+    "FrameLabel": "tank"
+  },
+  "assassin": {
+    "Name": "assassin",
+    "TID": "TID_CLASS_ARCHETYPE_ASSASSIN",
+    "FrameLabel": "skirmisher"
+  },
+  "support": {
+    "Name": "support",
+    "TID": "TID_CLASS_ARCHETYPE_SUPPORT",
+    "FrameLabel": "support"
+  },
+  "controller": {
+    "Name": "controller",
+    "TID": "TID_CLASS_ARCHETYPE_CONTROLLER",
+    "FrameLabel": "controller"
+  },
+  "damage_dealer": {
+    "Name": "damage_dealer",
+    "TID": "TID_CLASS_ARCHETYPE_DAMAGE_DEALER",
+    "FrameLabel": "damage"
+  },
+  "marksman": {
+    "Name": "marksman",
+    "TID": "TID_CLASS_ARCHETYPE_MARKSMAN",
+    "FrameLabel": "sniper"
+  },
+  "artillery": {
+    "Name": "artillery",
+    "TID": "TID_CLASS_ARCHETYPE_ARTILLERY",
+    "FrameLabel": "thrower"
+  }
+}

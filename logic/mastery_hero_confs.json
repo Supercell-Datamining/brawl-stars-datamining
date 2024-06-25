@@ -638,5 +638,21 @@
     "RewardTitles": "TitleMasteryLily",
     "MasteryIconFile": "sc/ui.sc",
     "MasteryIconExportName": "mastery_brawler_icon_lili"
+  },
+  "MasteryPainter": {
+    "Name": "MasteryPainter",
+    "RewardEmotes": "emoji_berry_facepalm",
+    "RewardPlayerIcons": "player_icon_berry1",
+    "RewardTitles": "TitleMasteryBerry",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_berry"
+  },
+  "MasteryCrab": {
+    "Name": "MasteryCrab",
+    "RewardEmotes": "emoji_clancy_facepalm",
+    "RewardPlayerIcons": "player_icon_clancy1",
+    "RewardTitles": "TitleMasteryClancy",
+    "MasteryIconFile": "sc/ui.sc",
+    "MasteryIconExportName": "mastery_brawler_icon_clancy"
   }
 }

@@ -10,6 +10,7 @@
     "Bouncing": true,
     "MinScale": 495,
     "MaxScale": 495,
+    "ZOffset": 140,
     "AllowOwnTeamPickup": true,
     "MinHeightForGrab": -1
   },
@@ -65,5 +66,20 @@
     "MaxScale": 700,
     "AllowOwnTeamPickup": true,
     "MinHeightForGrab": 300
+  },
+  "PaintBall": {
+    "Name": "PaintBall",
+    "ThrowOverWalls": false,
+    "ThrowFromGroundLevel": false,
+    "MaxZ": 500,
+    "ThrowSkill": "DummySkillForLaserBall",
+    "ThrowSkillUlti": "DummyUltiSkillForLaserBall",
+    "ShouldRoll": true,
+    "Bouncing": true,
+    "MinScale": 50,
+    "MaxScale": 50,
+    "ZOffset": 140,
+    "AllowOwnTeamPickup": true,
+    "MinHeightForGrab": -1
   }
 }

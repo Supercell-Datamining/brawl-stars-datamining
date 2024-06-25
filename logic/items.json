@@ -68,8 +68,8 @@
   "OrbSpawner": {
     "Name": "OrbSpawner",
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/mine_gem_spawn.scw",
-    "SCWEnemy": "sc3d/mine_gem_spawn.scw",
+    "SCW": "sc3d/default_gem_spawn_geo.glb",
+    "SCWEnemy": "sc3d/default_gem_spawn_geo.glb",
     "UseGeneratedShadow": true,
     "Layer": "GroundLow"
   },
@@ -469,6 +469,18 @@
     "SpawnEffect": "bo_def_ulti2_spawn",
     "Layer": "Above"
   },
+  "Piper008Bomb": {
+    "Name": "Piper008Bomb",
+    "ParentItemForSkin": "Bomb",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "piper_008_ulti_projectile",
+    "ExportNameEnemy": "piper_008_ulti_projectile_red",
+    "ShadowExportName": "shadow_normal_circle_big",
+    "TriggerAreaEffect": "Piper_008_ulti",
+    "SpawnEffect": "bo_def_ulti2_spawn",
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
   "MineHorus": {
     "Name": "MineHorus",
     "ParentItemForSkin": "Mine",
@@ -648,8 +660,8 @@
     "Value": 1,
     "TriggerRangeSubTiles": 3,
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/teleport_tile.scw",
-    "SCWEnemy": "sc3d/teleport_tile.scw",
+    "SCW": "sc3d/teleport_tile_geo.glb",
+    "SCWEnemy": "sc3d/teleport_tile_geo.glb",
     "SCWTopLayer": "sc3d/teleport_effect.scw",
     "UseGeneratedShadow": true,
     "Layer": "GroundTop"
@@ -659,8 +671,8 @@
     "Value": 2,
     "TriggerRangeSubTiles": 3,
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/teleport_tile_2.scw",
-    "SCWEnemy": "sc3d/teleport_tile_2.scw",
+    "SCW": "sc3d/teleport_tile_2_geo.glb",
+    "SCWEnemy": "sc3d/teleport_tile_2_geo.glb",
     "SCWTopLayer": "sc3d/teleport_effect_2.scw",
     "UseGeneratedShadow": true,
     "Layer": "GroundTop"
@@ -670,8 +682,8 @@
     "Value": 3,
     "TriggerRangeSubTiles": 3,
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/teleport_tile_3.scw",
-    "SCWEnemy": "sc3d/teleport_tile_3.scw",
+    "SCW": "sc3d/teleport_tile_3_geo.glb",
+    "SCWEnemy": "sc3d/teleport_tile_3_geo.glb",
     "SCWTopLayer": "sc3d/teleport_effect_3.scw",
     "UseGeneratedShadow": true,
     "Layer": "GroundTop"
@@ -681,8 +693,8 @@
     "Value": 4,
     "TriggerRangeSubTiles": 3,
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/teleport_tile_4.scw",
-    "SCWEnemy": "sc3d/teleport_tile_4.scw",
+    "SCW": "sc3d/teleport_tile_4_geo.glb",
+    "SCWEnemy": "sc3d/teleport_tile_4_geo.glb",
     "SCWTopLayer": "sc3d/teleport_effect_4.scw",
     "UseGeneratedShadow": true,
     "Layer": "GroundTop"
@@ -1247,8 +1259,8 @@
     "TriggerRangeSubTiles": 4,
     "CanBePickedUp": true,
     "SpawnEffect": "Spawn_plasmoid",
-    "SCW": "sc3d/item_frog.glb",
-    "SCWEnemy": "sc3d/item_frog.glb",
+    "SCW": "sc3d/item_health_boost.glb",
+    "SCWEnemy": "sc3d/item_health_boost.glb",
     "UseGeneratedShadow": true,
     "Layer": "Above"
   },
@@ -1379,6 +1391,75 @@
     "SpawnEffect": "Spawn_plasmoid",
     "SCW": "sc3d/item_monster.glb",
     "SCWEnemy": "sc3d/item_bolt.scw",
+    "Layer": "Above"
+  },
+  "OverchargedBoxOfBombs": {
+    "Name": "OverchargedBoxOfBombs",
+    "FileName": "sc/effects.sc",
+    "GroundGlowExportName": "pickup_glow_green",
+    "Value": 6,
+    "Value2": 8,
+    "SpawnEffect": "Spawn_plasmoid",
+    "Layer": "Above"
+  },
+  "OverchargedBomb": {
+    "Name": "OverchargedBomb",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "piper_def_oc_ulti_projectile",
+    "ExportNameEnemy": "piper_def_oc_ulti_projectile_red",
+    "ShadowExportName": "shadow_normal_circle_big",
+    "Value": 800,
+    "Value2": 300,
+    "TriggerRangeSubTiles": 200,
+    "TriggerAreaEffect": "SniperOverchargedBombExplosion",
+    "CanBePickedUp": true,
+    "SpawnEffect": "Spawn_sniper_bomb",
+    "RandomStartFrame": 2,
+    "Layer": "Above"
+  },
+  "DogTag": {
+    "Name": "DogTag",
+    "FileName": "sc/effects.sc",
+    "ShadowExportName": "projectile_shadow",
+    "GroundGlowExportName": "pickup_glow_green",
+    "LoopingEffect": "powerup_fx_blue",
+    "Lifetime": 200,
+    "DisappearingTime": 60,
+    "TriggerRangeSubTiles": 4,
+    "CanBePickedUp": true,
+    "SpawnEffect": "Spawn_plasmoid",
+    "SCW": "sc3d/item_monster.glb",
+    "SCWEnemy": "sc3d/item_bolt.scw",
+    "Layer": "Above"
+  },
+  "ControllerArchetypeMine": {
+    "Name": "ControllerArchetypeMine",
+    "FileName": "sc/effects_brawler.sc",
+    "ExportName": "tick_def_atk2",
+    "ExportNameEnemy": "tick_def_atk2_red",
+    "ShadowExportName": "shadow_normal_circle",
+    "Value": 800,
+    "Value2": 20,
+    "Lifetime": 60,
+    "TriggerRangeSubTiles": 3,
+    "TriggerAreaEffect": "ClusterBombExplosion2",
+    "CanBePickedUp": true,
+    "ShowAlways": true,
+    "Layer": "Above"
+  },
+  "Cash": {
+    "Name": "Cash",
+    "FileName": "sc/effects.sc",
+    "ShadowExportName": "projectile_shadow_mid",
+    "GroundGlowExportName": "pickup_glow",
+    "LoopingEffect": "item_extraction_trophy",
+    "Value": 1,
+    "TriggerRangeSubTiles": 4,
+    "CanBePickedUp": true,
+    "SpawnEffect": "Spawn_plasmoid",
+    "SCW": "sc3d/item_extraction_trophy.glb",
+    "SCWEnemy": "sc3d/item_extraction_trophy.glb",
+    "UseGeneratedShadow": true,
     "Layer": "Above"
   }
 }

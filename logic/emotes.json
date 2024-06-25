@@ -4126,7 +4126,7 @@
     "BattleCategory": "HAPPY",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "EmoteBundles": "WorldFinals"
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_angry": {
     "Name": "emoji_champie_angry",
@@ -4135,7 +4135,7 @@
     "BattleCategory": "ANGRY",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "EmoteBundles": "WorldFinals"
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_gg": {
     "Name": "emoji_champie_gg",
@@ -4143,7 +4143,8 @@
     "IconExportName": "emoji_champie_gg",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_happy": {
     "Name": "emoji_champie_happy",
@@ -4152,7 +4153,7 @@
     "BattleCategory": "HAPPY",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "EmoteBundles": "WorldFinals"
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_phew": {
     "Name": "emoji_champie_phew",
@@ -4161,7 +4162,7 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "EmoteBundles": "WorldFinals"
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_sad": {
     "Name": "emoji_champie_sad",
@@ -4170,7 +4171,7 @@
     "BattleCategory": "SAD",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "EmoteBundles": "WorldFinals"
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_special": {
     "Name": "emoji_champie_special",
@@ -4186,7 +4187,8 @@
     "IconExportName": "emoji_champie_thanks",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2020"
   },
   "emoji_rosa_halloween": {
     "Name": "emoji_rosa_halloween",
@@ -4199,8 +4201,7 @@
     "Rarity": "COLLECTORS",
     "EmoteType": "DEFAULT",
     "SoundEffect": "Rosa_start",
-    "SfxIndex": 1,
-    "EmoteBundles": "Brawloween"
+    "SfxIndex": 1
   },
   "emoji_rosa_halloween_angry": {
     "Name": "emoji_rosa_halloween_angry",
@@ -5701,7 +5702,8 @@
     "IconExportName": "emoji_champie_confetti",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_lighter": {
     "Name": "emoji_champie_lighter",
@@ -5709,7 +5711,8 @@
     "IconExportName": "emoji_champie_lighter",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2020"
   },
   "emoji_champie_whistle": {
     "Name": "emoji_champie_whistle",
@@ -5717,7 +5720,8 @@
     "IconExportName": "emoji_champie_whistle",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_8bit_clap": {
     "Name": "emoji_8bit_clap",
@@ -6705,8 +6709,7 @@
     "Rarity": "COLLECTORS",
     "EmoteType": "ANGRY",
     "SoundEffect": "Ash_Hurt_VO",
-    "SfxIndex": 1,
-    "EmoteBundles": "WorldFinals"
+    "SfxIndex": 1
   },
   "emoji_ash_ninja_gg": {
     "Name": "emoji_ash_ninja_gg",
@@ -6798,7 +6801,8 @@
     "IconExportName": "emoji_champie_whiteflag",
     "BattleCategory": "SAD",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_bluefinger": {
     "Name": "emoji_champie_bluefinger",
@@ -6806,7 +6810,8 @@
     "IconExportName": "emoji_champie_bluefinger",
     "BattleCategory": "HAPPY",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_redfinger": {
     "Name": "emoji_champie_redfinger",
@@ -6814,7 +6819,8 @@
     "IconExportName": "emoji_champie_redfinger",
     "BattleCategory": "HAPPY",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_thuglife": {
     "Name": "emoji_champie_thuglife",
@@ -6822,7 +6828,8 @@
     "IconExportName": "emoji_champie_thuglife",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_thumbsdown": {
     "Name": "emoji_champie_thumbsdown",
@@ -6830,7 +6837,8 @@
     "IconExportName": "emoji_champie_thumbsdown",
     "BattleCategory": "ANGRY",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_holdthetrophy": {
     "Name": "emoji_champie_holdthetrophy",
@@ -6838,7 +6846,8 @@
     "IconExportName": "emoji_champie_holdthetrophy",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_sprout_prince_red": {
     "Name": "emoji_sprout_prince_red",
@@ -7432,7 +7441,8 @@
     "IconExportName": "emoji_champie_singlesday",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_grom": {
     "Name": "emoji_grom",
@@ -10402,7 +10412,6 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
-    "PriceGems": 29,
     "ExtraCatalogCampaign": "WF_2020",
     "HideFromCatalogRarityCategory": true
   },
@@ -10756,7 +10765,8 @@
     "IconExportName": "emoji_champie_park",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "SPECIAL"
+    "EmoteType": "SPECIAL",
+    "EmoteBundles": "BSC2021"
   },
   "emoji_champie_WC2019": {
     "Name": "emoji_champie_WC2019",
@@ -20736,6 +20746,9 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39,
     "ExtraCatalogCampaign": "GODZILLA"
   },
   "emoji_godzilla_robot": {
@@ -20745,6 +20758,9 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39,
     "ExtraCatalogCampaign": "GODZILLA"
   },
   "emoji_godzilla_starrpark": {
@@ -20754,6 +20770,9 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39,
     "ExtraCatalogCampaign": "GODZILLA"
   },
   "emoji_godzilla_egg": {
@@ -20972,6 +20991,9 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39,
     "ExtraCatalogCampaign": "GODZILLA"
   },
   "emoji_draco": {
@@ -21285,8 +21307,8 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "EPIC",
     "EmoteType": "THANKS",
-    "PriceBling": 375,
-    "PriceGems": 9
+    "PriceBling": 1500,
+    "PriceGems": 39
   },
   "emoji_lili_special": {
     "Name": "emoji_lili_special",
@@ -21296,8 +21318,8 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "EPIC",
     "EmoteType": "SPECIAL",
-    "PriceBling": 375,
-    "PriceGems": 9
+    "PriceBling": 1500,
+    "PriceGems": 39
   },
   "emoji_lili_sad": {
     "Name": "emoji_lili_sad",
@@ -21307,8 +21329,8 @@
     "BattleCategory": "SAD",
     "Rarity": "COMMON",
     "EmoteType": "SAD",
-    "PriceBling": 750,
-    "PriceGems": 19
+    "PriceBling": 375,
+    "PriceGems": 9
   },
   "emoji_lili_phew": {
     "Name": "emoji_lili_phew",
@@ -21340,8 +21362,8 @@
     "BattleCategory": "SPECIAL",
     "Rarity": "RARE",
     "EmoteType": "GG",
-    "PriceBling": 1500,
-    "PriceGems": 39
+    "PriceBling": 750,
+    "PriceGems": 19
   },
   "emoji_lili_facepalm": {
     "Name": "emoji_lili_facepalm",
@@ -21350,9 +21372,7 @@
     "Character": "Ambusher",
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
-    "EmoteType": "FACEPALM",
-    "PriceBling": 1500,
-    "PriceGems": 39
+    "EmoteType": "FACEPALM"
   },
   "emoji_lili_clap": {
     "Name": "emoji_lili_clap",
@@ -21374,7 +21394,9 @@
     "Character": "Ambusher",
     "BattleCategory": "ANGRY",
     "Rarity": "COMMON",
-    "EmoteType": "ANGRY"
+    "EmoteType": "ANGRY",
+    "PriceBling": 375,
+    "PriceGems": 9
   },
   "emoji_quiet": {
     "Name": "emoji_quiet",
@@ -21507,8 +21529,8 @@
     "Name": "emoji_sandy_make",
     "IconSWF": "sc/ui.sc",
     "IconExportName": "emoji_sandy_make",
-    "Character": "HookDude",
-    "Skin": "HookDudeMake",
+    "Character": "Sandstorm",
+    "Skin": "SandstormMake",
     "GiveOnSkinUnlock": true,
     "BattleCategory": "SPECIAL",
     "Rarity": "COLLECTORS",
@@ -21518,10 +21540,1170 @@
     "Name": "emoji_gene_make",
     "IconSWF": "sc/ui.sc",
     "IconExportName": "emoji_gene_make",
-    "Character": "Sandstorm",
-    "Skin": "SandstormMake",
+    "Character": "HookDude",
+    "Skin": "HookDudeMake",
     "GiveOnSkinUnlock": true,
     "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bp_greek": {
+    "Name": "emoji_bp_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek",
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "DEFAULT"
+  },
+  "emoji_bp_greek_angry": {
+    "Name": "emoji_bp_greek_angry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_angry",
+    "BattleCategory": "ANGRY",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "ANGRY"
+  },
+  "emoji_bp_greek_clap": {
+    "Name": "emoji_bp_greek_clap",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_clap",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "CLAP"
+  },
+  "emoji_bp_greek_happy": {
+    "Name": "emoji_bp_greek_happy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_happy",
+    "BattleCategory": "HAPPY",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "HAPPY"
+  },
+  "emoji_bp_greek_gg": {
+    "Name": "emoji_bp_greek_gg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_gg",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "GG"
+  },
+  "emoji_bp_greek_phew": {
+    "Name": "emoji_bp_greek_phew",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_phew",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "PHEW"
+  },
+  "emoji_bp_greek_sad": {
+    "Name": "emoji_bp_greek_sad",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_sad",
+    "BattleCategory": "SAD",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SAD"
+  },
+  "emoji_bp_greek_thanks": {
+    "Name": "emoji_bp_greek_thanks",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_thanks",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "THANKS"
+  },
+  "emoji_bp_greek_special": {
+    "Name": "emoji_bp_greek_special",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_greek_special",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bp_deep": {
+    "Name": "emoji_bp_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep",
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "DEFAULT"
+  },
+  "emoji_bp_deep_angry": {
+    "Name": "emoji_bp_deep_angry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_angry",
+    "BattleCategory": "ANGRY",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "ANGRY"
+  },
+  "emoji_bp_deep_clap": {
+    "Name": "emoji_bp_deep_clap",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_clap",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "CLAP"
+  },
+  "emoji_bp_deep_happy": {
+    "Name": "emoji_bp_deep_happy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_happy",
+    "BattleCategory": "HAPPY",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "HAPPY"
+  },
+  "emoji_bp_deep_gg": {
+    "Name": "emoji_bp_deep_gg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_gg",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "GG"
+  },
+  "emoji_bp_deep_phew": {
+    "Name": "emoji_bp_deep_phew",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_phew",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "PHEW"
+  },
+  "emoji_bp_deep_sad": {
+    "Name": "emoji_bp_deep_sad",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_sad",
+    "BattleCategory": "SAD",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SAD"
+  },
+  "emoji_bp_deep_thanks": {
+    "Name": "emoji_bp_deep_thanks",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_thanks",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "THANKS"
+  },
+  "emoji_bp_deep_special": {
+    "Name": "emoji_bp_deep_special",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bp_deep_special",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_angelo_overcharge": {
+    "Name": "emoji_angelo_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_angelo_overcharge",
+    "Character": "InsectMan",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_piper_overcharge": {
+    "Name": "emoji_piper_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_piper_overcharge",
+    "Character": "Sniper",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_emz_overcharge": {
+    "Name": "emoji_emz_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_emz_overcharge",
+    "Character": "Mummy",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_barley_overcharge": {
+    "Name": "emoji_barley_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_barley_overcharge",
+    "Character": "Barkeep",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_frank_overcharge": {
+    "Name": "emoji_frank_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_frank_overcharge",
+    "Character": "HammerDude",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_gale_overcharge": {
+    "Name": "emoji_gale_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_gale_overcharge",
+    "Character": "Blower",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_overcharge": {
+    "Name": "emoji_rico_overcharge",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_overcharge",
+    "Character": "TrickshotDude",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_classic_icon": {
+    "Name": "emoji_classic_icon",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_icon",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_classic_counter": {
+    "Name": "emoji_classic_counter",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_counter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_classic_box_small": {
+    "Name": "emoji_classic_box_small",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_box_small",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_classic_box_mega": {
+    "Name": "emoji_classic_box_mega",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_box_mega",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_classic_box_last": {
+    "Name": "emoji_classic_box_last",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_box_last",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_classic_box_big": {
+    "Name": "emoji_classic_box_big",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_classic_box_big",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_sprout_deep": {
+    "Name": "emoji_sprout_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_sprout_deep",
+    "Character": "Wally",
+    "Skin": "WallyDeepsea",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_sandy_deep": {
+    "Name": "emoji_sandy_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_sandy_deep",
+    "Character": "Sandstorm",
+    "Skin": "SandstormDeepsea",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_ruffs_pirate": {
+    "Name": "emoji_ruffs_pirate",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_ruffs_pirate",
+    "Character": "Ruffs",
+    "Skin": "RuffsPirate",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rt_greek": {
+    "Name": "emoji_rt_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rt_greek",
+    "Character": "Splitter",
+    "Skin": "SplitterGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_piper_greek": {
+    "Name": "emoji_piper_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_piper_greek",
+    "Character": "Sniper",
+    "Skin": "SniperGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_melody_greek": {
+    "Name": "emoji_melody_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_melody_greek",
+    "Character": "AxeJuggler",
+    "Skin": "AxeJugglerGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_jacky_deep": {
+    "Name": "emoji_jacky_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_jacky_deep",
+    "Character": "Driller",
+    "Skin": "DrillerDeepsea",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_gale_deep": {
+    "Name": "emoji_gale_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_gale_deep",
+    "Character": "Blower",
+    "Skin": "BlowerDeepsea",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_frank_cave_chroma": {
+    "Name": "emoji_frank_cave_chroma",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_frank_cave_chroma",
+    "Character": "HammerDude",
+    "Skin": "FrankCavemanRed",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_frank_cave": {
+    "Name": "emoji_frank_cave",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_frank_cave",
+    "Character": "HammerDude",
+    "Skin": "FrankCaveman",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_emz_greek": {
+    "Name": "emoji_emz_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_emz_greek",
+    "Character": "Mummy",
+    "Skin": "MummyGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_doug_pirate": {
+    "Name": "emoji_doug_pirate",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_doug_pirate",
+    "Character": "Reviver",
+    "Skin": "ReviverPirate",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bull_viking_chroma": {
+    "Name": "emoji_bull_viking_chroma",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bull_viking_chroma",
+    "Character": "BullDude",
+    "Skin": "BullDudeViking_remake_orange",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bull_viking": {
+    "Name": "emoji_bull_viking",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bull_viking",
+    "Character": "BullDude",
+    "Skin": "BullGuyHair",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bull_greek": {
+    "Name": "emoji_bull_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bull_greek",
+    "Character": "BullDude",
+    "Skin": "BullDudeGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_bonnie_deep": {
+    "Name": "emoji_bonnie_deep",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_bonnie_deep",
+    "Character": "CannonGirl",
+    "Skin": "CannonGirlDeepsea",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_barley_pirate": {
+    "Name": "emoji_barley_pirate",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_barley_pirate",
+    "Character": "Barkeep",
+    "Skin": "BarkeepPirate",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_angelo_greek": {
+    "Name": "emoji_angelo_greek",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_angelo_greek",
+    "Character": "InsectMan",
+    "Skin": "InsectManGreek",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_loaded": {
+    "Name": "emoji_rico_loaded",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "DEFAULT",
+    "SoundEffect": "Rico_Loaded_Start_VO",
+    "SfxIndex": 2
+  },
+  "emoji_rico_loaded_angry": {
+    "Name": "emoji_rico_loaded_angry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_angry",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "ANGRY",
+    "SoundEffect": "Rico_Loaded_Hurt_VO",
+    "SfxIndex": 4
+  },
+  "emoji_rico_loaded_clap": {
+    "Name": "emoji_rico_loaded_clap",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_clap",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "CLAP",
+    "SoundEffect": "Colt_Pin_Clap",
+    "SfxIndex": 0
+  },
+  "emoji_rico_loaded_gg": {
+    "Name": "emoji_rico_loaded_gg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_gg",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "GG",
+    "SoundEffect": "Rico_Loaded_Kill_VO",
+    "SfxIndex": 5
+  },
+  "emoji_rico_loaded_happy": {
+    "Name": "emoji_rico_loaded_happy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_happy",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "HAPPY",
+    "SoundEffect": "Rico_Loaded_Lead_VO",
+    "SfxIndex": 0
+  },
+  "emoji_rico_loaded_phew": {
+    "Name": "emoji_rico_loaded_phew",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_phew",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "PHEW",
+    "SoundEffect": "Rico_Loaded_Hurt_VO",
+    "SfxIndex": 3
+  },
+  "emoji_rico_loaded_thanks": {
+    "Name": "emoji_rico_loaded_thanks",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_thanks",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "THANKS",
+    "SoundEffect": "Rico_Loaded_Start_VO",
+    "SfxIndex": 4
+  },
+  "emoji_rico_loaded_sad": {
+    "Name": "emoji_rico_loaded_sad",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_sad",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SAD",
+    "SoundEffect": "Rico_Loaded_Die_VO",
+    "SfxIndex": 0
+  },
+  "emoji_rico_loaded_special": {
+    "Name": "emoji_rico_loaded_special",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_special",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remake",
+    "GiveOnSkinUnlock": true,
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "SoundEffect": "Rico_Loaded_Kill_VO",
+    "SfxIndex": 0
+  },
+  "emoji_berry": {
+    "Name": "emoji_berry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry",
+    "Character": "Painter",
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "DEFAULT",
+    "EmoteType": "DEFAULT",
+    "SoundEffect": "Berry_Start_VO",
+    "SfxIndex": 6
+  },
+  "emoji_berry_angry": {
+    "Name": "emoji_berry_angry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_angry",
+    "Character": "Painter",
+    "BattleCategory": "ANGRY",
+    "Rarity": "COMMON",
+    "EmoteType": "ANGRY",
+    "SoundEffect": "Berry_Die_VO",
+    "SfxIndex": 6,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_berry_happy": {
+    "Name": "emoji_berry_happy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_happy",
+    "Character": "Painter",
+    "BattleCategory": "HAPPY",
+    "Rarity": "COMMON",
+    "EmoteType": "HAPPY",
+    "SoundEffect": "Berry_Kill_VO",
+    "SfxIndex": 7,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_berry_gg": {
+    "Name": "emoji_berry_gg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_gg",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "RARE",
+    "EmoteType": "GG",
+    "SoundEffect": "Berry_Kill_VO",
+    "SfxIndex": 0,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_berry_phew": {
+    "Name": "emoji_berry_phew",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_phew",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "PHEW",
+    "SoundEffect": "Berry_Hurt_VO",
+    "SfxIndex": 2,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_berry_sad": {
+    "Name": "emoji_berry_sad",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_sad",
+    "Character": "Painter",
+    "BattleCategory": "SAD",
+    "Rarity": "COMMON",
+    "EmoteType": "SAD",
+    "SoundEffect": "Berry_Hurt_VO",
+    "SfxIndex": 3,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_berry_special": {
+    "Name": "emoji_berry_special",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_special",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "SPECIAL",
+    "SoundEffect": "Berry_Lead_VO",
+    "SfxIndex": 2,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_berry_thanks": {
+    "Name": "emoji_berry_thanks",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_thanks",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "THANKS",
+    "SoundEffect": "Berry_Lead_VO",
+    "SfxIndex": 5,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_berry_clap": {
+    "Name": "emoji_berry_clap",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_clap",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "RARE",
+    "EmoteType": "CLAP",
+    "SoundEffect": "Colt_Pin_Clap",
+    "SfxIndex": 0,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_berry_facepalm": {
+    "Name": "emoji_berry_facepalm",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_berry_facepalm",
+    "Character": "Painter",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "FACEPALM"
+  },
+  "emoji_clancy": {
+    "Name": "emoji_clancy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy",
+    "Character": "Crab",
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "DEFAULT",
+    "EmoteType": "DEFAULT",
+    "SoundEffect": "Clancy_Start_VO",
+    "SfxIndex": 0
+  },
+  "emoji_clancy_angry": {
+    "Name": "emoji_clancy_angry",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_angry",
+    "Character": "Crab",
+    "BattleCategory": "ANGRY",
+    "Rarity": "COMMON",
+    "EmoteType": "ANGRY",
+    "SoundEffect": "Clancy_Hurt_VO",
+    "SfxIndex": 5,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_clancy_happy": {
+    "Name": "emoji_clancy_happy",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_happy",
+    "Character": "Crab",
+    "BattleCategory": "HAPPY",
+    "Rarity": "COMMON",
+    "EmoteType": "HAPPY",
+    "SoundEffect": "Clancy_Kill_VO",
+    "SfxIndex": 1,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_clancy_gg": {
+    "Name": "emoji_clancy_gg",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_gg",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "RARE",
+    "EmoteType": "GG",
+    "SoundEffect": "Clancy_Lead_VO",
+    "SfxIndex": 1,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_clancy_phew": {
+    "Name": "emoji_clancy_phew",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_phew",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "PHEW",
+    "SoundEffect": "Clancy_Hurt_VO",
+    "SfxIndex": 6,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_clancy_sad": {
+    "Name": "emoji_clancy_sad",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_sad",
+    "Character": "Crab",
+    "BattleCategory": "SAD",
+    "Rarity": "COMMON",
+    "EmoteType": "SAD",
+    "SoundEffect": "Clancy_Die_VO",
+    "SfxIndex": 5,
+    "PriceBling": 375,
+    "PriceGems": 9
+  },
+  "emoji_clancy_special": {
+    "Name": "emoji_clancy_special",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_special",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "SPECIAL",
+    "SoundEffect": "Clancy_Lead_VO",
+    "SfxIndex": 5,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_clancy_thanks": {
+    "Name": "emoji_clancy_thanks",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_thanks",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "EPIC",
+    "EmoteType": "THANKS",
+    "SoundEffect": "Clancy_Lead_VO",
+    "SfxIndex": 8,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_clancy_clap": {
+    "Name": "emoji_clancy_clap",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_clap",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "RARE",
+    "EmoteType": "CLAP",
+    "SoundEffect": "Colt_Pin_Clap",
+    "SfxIndex": 0,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_clancy_facepalm": {
+    "Name": "emoji_clancy_facepalm",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_clancy_facepalm",
+    "Character": "Crab",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "FACEPALM"
+  },
+  "emoji_dynamike_classic_old": {
+    "Name": "emoji_dynamike_classic_old",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_dynamike_classic_old",
+    "Character": "TntDude",
+    "Skin": "TntDudeRetro",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_dynamike_classic_remake": {
+    "Name": "emoji_dynamike_classic_remake",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_dynamike_classic_remake",
+    "Character": "TntDude",
+    "Skin": "TntDudeClassic_yellow",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_max_line": {
+    "Name": "emoji_max_line",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_max_line",
+    "Character": "Speedy",
+    "Skin": "SpeedyLine",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_nani_line": {
+    "Name": "emoji_nani_line",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_nani_line",
+    "Character": "Controller",
+    "Skin": "ControllerLine",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_champie_classic": {
+    "Name": "emoji_champie_classic",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_champie_classic",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_emz_greek_blue": {
+    "Name": "emoji_emz_greek_blue",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_emz_greek_blue",
+    "Character": "Mummy",
+    "Skin": "MummyGreekBlue",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_emz_greek_red": {
+    "Name": "emoji_emz_greek_red",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_emz_greek_red",
+    "Character": "Mummy",
+    "Skin": "MummyGreekRed",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_got_this": {
+    "Name": "emoji_got_this",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_got_this",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_sandy_deep_dark": {
+    "Name": "emoji_sandy_deep_dark",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_sandy_deep_dark",
+    "Character": "Sandstorm",
+    "Skin": "SandstormDeepseaPurple",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_sandy_deep_pink": {
+    "Name": "emoji_sandy_deep_pink",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_sandy_deep_pink",
+    "Character": "Sandstorm",
+    "Skin": "SandstormDeepseaYellow",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_shelly_classic_old": {
+    "Name": "emoji_shelly_classic_old",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_shelly_classic_old",
+    "Character": "ShotgunGirl",
+    "Skin": "ShotgunGirloldschool",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_shelly_classic_remake": {
+    "Name": "emoji_shelly_classic_remake",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_shelly_classic_remake",
+    "Character": "ShotgunGirl",
+    "Skin": "ShotgunGirlClassic_white",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_shelly_star_remake": {
+    "Name": "emoji_shelly_star_remake",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_shelly_star_remake",
+    "Character": "ShotgunGirl",
+    "Skin": "BanditGirlStar_remake",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_classic_old": {
+    "Name": "emoji_rico_classic_old",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_classic_old",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeTotal",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_classic_remake": {
+    "Name": "emoji_rico_classic_remake",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_classic_remake",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeClassic_red",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_loaded_bling": {
+    "Name": "emoji_rico_loaded_bling",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_bling",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remakeBling",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_loaded_gem": {
+    "Name": "emoji_rico_loaded_gem",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_gem",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeKing_remakePurple",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_rico_loaded_old": {
+    "Name": "emoji_rico_loaded_old",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_loaded_old",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotGold",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_france_cock": {
+    "Name": "emoji_france_cock",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_france_cock",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "LockedForChronos": true,
+    "PriceBling": 1500,
+    "PriceGems": 39
+  },
+  "emoji_fame_alien": {
+    "Name": "emoji_fame_alien",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_fame_alien",
+    "BattleCategory": "SPECIAL",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL",
+    "UnlockedByFame": "Alien3"
+  },
+  "emoji_rico_chicken": {
+    "Name": "emoji_rico_chicken",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_rico_chicken",
+    "Character": "TrickshotDude",
+    "Skin": "TrickshotDudeChicken",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_mortis_sands": {
+    "Name": "emoji_mortis_sands",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_mortis_sands",
+    "Character": "Undertaker",
+    "Skin": "UndertakerBazaar",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_tara_misfortune": {
+    "Name": "emoji_tara_misfortune",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_tara_misfortune",
+    "Character": "BlackHole",
+    "Skin": "BlackHoleMisfortune",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_dynamike_coach_red": {
+    "Name": "emoji_dynamike_coach_red",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_dynamike_coach_red",
+    "Character": "TntDude",
+    "Skin": "TntDudeFootball",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_dynamike_coach_blue": {
+    "Name": "emoji_dynamike_coach_blue",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_dynamike_coach_blue",
+    "Character": "TntDude",
+    "Skin": "TntDudeLduQuito",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
+    "Rarity": "COLLECTORS",
+    "EmoteType": "SPECIAL"
+  },
+  "emoji_gale_buster": {
+    "Name": "emoji_gale_buster",
+    "IconSWF": "sc/ui.sc",
+    "IconExportName": "emoji_gale_buster",
+    "Character": "Blower",
+    "Skin": "BlowerBusters",
+    "GiveOnSkinUnlock": true,
+    "IsPicto": true,
+    "BattleCategory": "DEFAULT",
     "Rarity": "COLLECTORS",
     "EmoteType": "SPECIAL"
   }
